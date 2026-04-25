@@ -349,8 +349,8 @@
                 return `
                 <div class="outline-item ${selectedSectionId === s.section_id ? 'active' : ''}" onclick="selectSection('${s.section_id}')">
                     <div class="flex items-center gap-2 mb-2">
-                        <div class="text-[10px] font-mono font-black ${selectedSectionId === s.section_id ? 'bg-blue-600 text-white' : 'bg-blue-50 text-blue-600'} px-2 py-0.5 rounded">SEC ${s.section_id}</div>
-                        ${qRange ? `<div class="text-[9px] font-mono font-bold text-gray-400 uppercase tracking-widest">${qRange}</div>` : ''}
+                        <div class="text-[10px] font-mono font-black ${selectedSectionId === s.section_id ? 'bg-blue-600 text-white' : 'bg-slate-900 text-white'} px-2 py-0.5 rounded">SEC ${s.section_id}</div>
+                        ${qRange ? `<div class="text-[10px] font-mono font-black text-slate-900 uppercase tracking-tight">${qRange}</div>` : ''}
                     </div>
                     <div class="font-bold text-[15px] serif leading-tight">${s.title}</div>
                 </div>
@@ -506,9 +506,10 @@
                     else content = `<div class="ja-text">${val}</div>`;
 
                     if ((k === 'ja' || k === 'answer' || k === 'solution') && obj.type === 'question') {
-                        return `<div class="masked-container" onclick="this.classList.add('revealed'); lucide.createIcons();">
+                        return `<div class="masked-container" onclick="this.classList.toggle('revealed'); lucide.createIcons();">
                             <div class="masked-content">${content}</div>
                             <div class="mask-btn"><i data-lucide="eye" class="w-3 h-3 mr-2"></i> ${k==='ja'?'和訳':k==='answer'?'正解':'解説'}を表示</div>
+                            <div class="hidden revealed:flex items-center justify-center bg-gray-100 text-gray-400 text-[10px] font-bold p-1 rounded-md mt-1 italic">タップして隠す</div>
                         </div>`;
                     }
                     return `<div class="flex items-start my-1">${tagHtml}${content}</div>`;

@@ -456,7 +456,7 @@
 
         // Auto-load if default file exists
         window.addEventListener('DOMContentLoaded', () => {
-            fetch('/textbooks/vin_1-31.json')
+            fetch('textbooks/vin_1-31.json')
                 .then(response => {
                     if (response.ok) return response.json();
                     throw new Error('Not found');
@@ -504,8 +504,8 @@
                 <div class="sidebar-item px-6 py-4 flex flex-col gap-1 ${selectedSectionId === s.section_id ? 'active' : ''}" 
                      onclick="selectSection('${s.section_id}')">
                     <div class="flex items-center gap-2 mb-1">
-                        <div class="text-[10px] font-mono font-black ${selectedSectionId === s.section_id ? 'bg-blue-600 text-white' : 'bg-blue-50 text-blue-600'} px-2 py-0.5 rounded">SEC ${s.section_id}</div>
-                        ${qRange ? `<div class="text-[9px] font-mono font-bold text-gray-400 uppercase tracking-tighter">${qRange}</div>` : ''}
+                        <div class="text-[10px] font-mono font-black ${selectedSectionId === s.section_id ? 'bg-blue-600 text-white' : 'bg-slate-900 text-white'} px-2 py-0.5 rounded">SEC ${s.section_id}</div>
+                        ${qRange ? `<div class="text-[10px] font-mono font-black text-slate-900 uppercase tracking-tight">${qRange}</div>` : ''}
                     </div>
                     <div class="font-bold text-[14px] leading-tight serif">${s.title}</div>
                 </div>
