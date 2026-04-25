@@ -349,8 +349,8 @@
                 return `
                 <div class="outline-item ${selectedSectionId === s.section_id ? 'active' : ''}" onclick="selectSection('${s.section_id}')">
                     <div class="flex items-center gap-2 mb-2">
-                        <div class="text-[10px] font-mono font-black ${selectedSectionId === s.section_id ? 'bg-blue-600 text-white' : 'bg-slate-900 text-white'} px-2 py-0.5 rounded">SEC ${s.section_id}</div>
-                        ${qRange ? `<div class="text-[10px] font-mono font-black text-slate-900 uppercase tracking-tight">${qRange}</div>` : ''}
+                        <div class="text-[11px] font-mono font-black ${selectedSectionId === s.section_id ? 'bg-blue-600 text-white' : 'bg-slate-900 text-white'} px-2 py-0.5 rounded">SEC ${s.section_id}</div>
+                        ${qRange ? `<div class="text-[11px] font-mono font-black text-slate-900 uppercase tracking-tight">${qRange}</div>` : ''}
                     </div>
                     <div class="font-bold text-[15px] serif leading-tight">${s.title}</div>
                 </div>
