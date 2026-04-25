@@ -471,6 +471,10 @@
 
         // アプリの初期化
         function initApp() {
+            // 自動読み込みや手動読み込み共通で、ドロップゾーンを隠す
+            document.getElementById('drop-zone').style.opacity = '0';
+            setTimeout(() => document.getElementById('drop-zone').style.display = 'none', 500);
+
             lucide.createIcons();
             const meta = rawData.metadata || {};
             document.getElementById('metadata-title').innerText = `${meta.chapter_id || 'CH'} ${meta.chapter_title || 'Vin Dataset'}`;
