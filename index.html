@@ -273,7 +273,7 @@
 
         // Auto-load if default file exists
         window.addEventListener('DOMContentLoaded', () => {
-            fetch('/textbooks/vin_1-31.json')
+            fetch('textbooks/vin_1-31.json')
                 .then(response => {
                     if (response.ok) return response.json();
                     throw new Error('Not found');
