@@ -1,0 +1,1250 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vin Editor v2 - Textbook Style</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@700;900&family=Noto+Sans+JP:wght@400;500;700;900&family=JetBrains+Mono:wght@500&display=swap');
+
+        :root {
+            --paper-bg: #FFFFFF;
+            --sidebar-bg: #F8FAFC;
+            --text-main: #334155;
+            --accent-blue: #2563EB;
+            --accent-green: #059669;
+            --accent-orange: #EA580C;
+            --border: #E2E8F0;
+        }
+
+        body {
+            font-family: 'Noto Sans JP', sans-serif;
+            background-color: #F1F5F9;
+            color: var(--text-main);
+            overflow: hidden;
+        }
+
+        .serif { font-family: 'Noto Serif JP', serif; }
+        .mono { font-family: 'JetBrains Mono', monospace; }
+
+        /* Left Sidebar Items */
+        .sidebar-item {
+            cursor: pointer;
+            transition: all 0.15s ease;
+            border-bottom: 1px solid #F1F5F9;
+            position: relative;
+        }
+        .sidebar-item:hover { background-color: #F1F5F9; }
+        .sidebar-item.active {
+            background-color: white;
+            color: var(--accent-blue);
+        }
+        .sidebar-item.active::before {
+            content: '';
+            position: absolute;
+            left: 0; top: 0; bottom: 0;
+            width: 4px;
+            background-color: var(--accent-blue);
+        }
+
+        /* Paper-like Content Viewport */
+        #content-viewport {
+            background-color: #F1F5F9;
+        }
+        .paper-page {
+            max-width: 850px;
+            margin: 0 auto;
+            background: white;
+            min-height: 100%;
+            padding: 1.5rem 2.5rem;
+            border-left: 1px solid var(--border);
+            border-right: 1px solid var(--border);
+        }
+
+        /* Textbook Elements - Flattened */
+        .question-block {
+            padding: 0.25rem 0.75rem;
+            margin-bottom: 0.15rem;
+            border-radius: 6px;
+            border-left: 3px solid transparent;
+            transition: all 0.2s;
+            cursor: pointer;
+        }
+        .question-block:hover { background-color: #F8FAFC; }
+        .question-block.editing {
+            background-color: #EFF6FF;
+            border-left-color: var(--accent-blue);
+        }
+
+        .q-number {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 3rem;
+            height: 1.15rem;
+            border: 1.5px solid var(--accent-blue);
+            color: var(--accent-blue);
+            font-family: 'JetBrains Mono', monospace;
+            font-weight: 800;
+            font-size: 0.75rem;
+            border-radius: 4px;
+            flex-shrink: 0;
+        }
+
+        .explanation-pop {
+            background: #F0FDF4;
+            border: 1px solid #DCFCE7;
+            padding: 0.25rem 0.75rem;
+            margin: 0.15rem 0 2.5rem 0;
+            border-radius: 4px;
+            font-size: 0.85rem;
+        }
+
+        .summary-box {
+            background: #F8FAFC;
+            border: 1px solid #E2E8F0;
+            padding: 1rem;
+            margin: 1.5rem 0;
+            border-radius: 8px;
+        }
+
+        .deep-dive {
+            background: #F0FDFA;
+            border: 1px solid #CCFBF1;
+            padding: 1rem;
+            margin: 1.5rem 0;
+            border-radius: 8px;
+        }
+
+        .check-box {
+            background: #FDF2F8;
+            border: 1px solid #FCE7F3;
+            padding: 1rem;
+            margin: 1.5rem 0;
+            border-radius: 8px;
+        }
+
+        .term-box {
+            background: #FFF7ED;
+            border: 1px solid #FFEDD5;
+            padding: 0.75rem 1rem;
+            margin: 1rem 0;
+            border-radius: 6px;
+        }
+
+        /* Compact Text Sizes closer to Type A */
+        .eng-text { font-family: 'Times New Roman', serif; font-size: 1.1rem; font-weight: 500; color: #1E293B; }
+        .ja-text { font-size: 0.85rem; color: #64748B; line-height: 1.5; }
+
+        /* Shared font for text/note/label (Based on original "text" style) */
+        .supp-text { font-size: 13px; font-weight: 700; color: #475569; }
+
+        /* Tag Style Consistency */
+        .tb-tag {
+            font-family: 'Noto Sans JP', sans-serif;
+            font-size: 13px;
+            font-weight: 900;
+            letter-spacing: -0.025em;
+            opacity: 0.7;
+            line-height: 1;
+        }
+
+        .revealed .mask-btn {
+            display: none;
+        }
+
+        .masked-container {
+            position: relative;
+            min-height: 1.5rem;
+            margin: 0.25rem 0;
+        }
+
+        .masked-content {
+            display: none;
+        }
+
+        .revealed .masked-content {
+            display: block;
+        }
+
+        .mask-btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #F8FAFC;
+            border: 1px dashed #E2E8F0;
+            padding: 0.4rem;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 10px;
+            font-weight: 700;
+            color: #94A3B8;
+            transition: all 0.2s;
+        }
+
+        .mask-btn:hover {
+            background: #F1F5F9;
+            border-style: solid;
+            color: var(--accent-blue);
+        }
+
+        .jump-btn {
+            display: flex;
+            align-items: center;
+            gap: 1.5;
+            padding: 0.35rem 0.6rem;
+            border-radius: 6px;
+            font-size: 10px;
+            font-weight: 900;
+            text-transform: uppercase;
+            transition: all 0.2s;
+            box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+        }
+
+        .jump-btn.to-expl {
+            background: #ECFDF5;
+            color: #059669;
+            border: 1px solid #D1FAE5;
+        }
+        
+        .jump-btn.to-q {
+            background: #F0F9FF;
+            color: #0284C7;
+            border: 1px solid #E0F2FE;
+            margin-top: 4px;
+        }
+
+        .jump-btn:active {
+            transform: scale(0.95);
+        }
+
+        /* Custom Scrollbar */
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-thumb { background: #CBD5E1; border-radius: 3px; }
+
+        input:focus, textarea:focus {
+            border-color: var(--accent-blue) !important;
+            box-shadow: 0 0 0 4px rgba(37, 99, 235, 0.1);
+        }
+
+        /* Drop Zone */
+        #drop-zone { background: rgba(255, 255, 255, 0.95); z-index: 100; }
+    </style>
+</head>
+<body class="h-screen flex flex-col">
+
+    <!-- UPLOAD OVERLAY -->
+    <div id="drop-zone" class="fixed inset-0 flex flex-col items-center justify-center p-8 transition-all duration-500">
+        <div class="max-w-xl w-full text-center space-y-10 group" onclick="document.getElementById('file-input').click()">
+            <div class="relative cursor-pointer">
+                <div class="absolute -inset-10 bg-blue-100 rounded-full blur-3xl opacity-20 group-hover:opacity-40 transition-opacity animate-pulse"></div>
+                <div class="relative bg-white border-2 border-gray-100 p-16 rounded-[40px] shadow-2xl flex flex-col items-center gap-6 border-dashed border-gray-200 hover:border-blue-500 transition-all active:scale-95">
+                    <div class="w-24 h-24 bg-blue-50 text-blue-600 rounded-3xl flex items-center justify-center shadow-inner">
+                        <i data-lucide="file-up" class="w-12 h-12"></i>
+                    </div>
+                    <div>
+                        <h2 class="text-3xl font-black serif text-gray-900 tracking-tight">Vin Editor v2</h2>
+                        <p class="text-sm text-gray-400 mt-3 font-medium">JSONファイルをここへドラッグ、またはクリック</p>
+                    </div>
+                </div>
+            </div>
+            <p class="text-[10px] font-bold text-gray-400 uppercase tracking-[0.4em]">Structured Textbook Engine</p>
+            <input type="file" id="file-input" class="hidden" accept=".json">
+        </div>
+    </div>
+
+    <!-- HEADER -->
+    <header class="h-14 bg-white border-b border-gray-200 flex items-center justify-between px-6 z-20">
+        <div class="flex items-center gap-6">
+            <div class="flex items-center gap-2">
+                <div class="w-7 h-7 bg-blue-900 text-white rounded flex items-center justify-center">
+                    <i data-lucide="book-open" class="w-4 h-4"></i>
+                </div>
+                <h1 class="font-black text-sm uppercase tracking-tighter">Vin <span class="text-blue-700">v2</span></h1>
+            </div>
+            <div id="metadata-title" class="text-[11px] font-bold text-gray-400 uppercase tracking-widest bg-gray-50 px-3 py-1 rounded">
+                Chapter --
+            </div>
+        </div>
+        <div class="flex items-center gap-3">
+            <button id="save-btn" class="flex items-center gap-2 px-4 py-1.5 bg-blue-900 text-white rounded-lg text-[11px] font-black uppercase shadow-lg shadow-blue-200 hover:translate-y-[-1px] transition-all">
+                <i data-lucide="download" class="w-3.5 h-3.5"></i>
+                Save Dataset
+            </button>
+            <button onclick="window.location.reload()" class="p-2 hover:bg-gray-100 rounded-lg transition-colors">
+                <i data-lucide="refresh-cw" class="w-4 h-4 text-gray-400"></i>
+            </button>
+        </div>
+    </header>
+
+    <!-- CONTENT BODY -->
+    <div class="flex-1 flex overflow-hidden">
+        
+        <!-- LEFT: NAVIGATION -->
+        <aside class="w-64 bg-sidebar-bg border-r border-gray-200 flex flex-col shrink-0">
+            <div class="p-5 border-b border-gray-200 flex items-center justify-between">
+                <span class="text-[10px] font-black text-gray-400 uppercase tracking-widest">Outline</span>
+                <i data-lucide="command" class="w-3.5 h-3.5 text-gray-300"></i>
+            </div>
+            <div id="section-list" class="flex-1 overflow-y-auto">
+                <!-- Sections Injected Here -->
+                <div class="p-8 text-center text-gray-300 italic text-xs">
+                    No data loaded
+                </div>
+            </div>
+        </aside>
+
+        <!-- CENTER: DOCUMENT VIEW -->
+        <main class="flex-1 flex flex-col overflow-hidden bg-gray-50">
+            <!-- Filter / Tab Bar -->
+            <div class="h-12 bg-white border-b border-gray-200 flex items-center px-6 gap-6 shrink-0 shadow-sm z-10">
+                <div class="flex gap-4" id="view-tabs">
+                    <button onclick="setView('all')" class="view-tab active text-[10px] font-black uppercase tracking-widest text-blue-700 border-b-2 border-blue-700 pb-3 mt-3 transition-all" data-view="all">Comprehensive</button>
+                    <button onclick="setView('question')" class="view-tab text-[10px] font-black uppercase tracking-widest text-gray-400 pb-3 mt-3 hover:text-gray-600 transition-all" data-view="question">Questions</button>
+                    <button onclick="setView('explanation')" class="view-tab text-[10px] font-black uppercase tracking-widest text-gray-400 pb-3 mt-3 hover:text-gray-600 transition-all" data-view="explanation">Explanations</button>
+                    <button onclick="setView('summary')" class="view-tab text-[10px] font-black uppercase tracking-widest text-gray-400 pb-3 mt-3 hover:text-gray-600 transition-all" data-view="summary">Summaries</button>
+                </div>
+                <div class="flex-1 h-8 bg-gray-50 border border-gray-200 rounded-full px-4 flex items-center gap-3">
+                    <i data-lucide="search" class="w-3.5 h-3.5 text-gray-400"></i>
+                    <input type="text" id="search-input" placeholder="瞬時に検索... (Enterで反映)" class="bg-transparent border-none outline-none text-xs w-full font-medium">
+                </div>
+            </div>
+
+            <!-- Scrollable Paper -->
+            <div id="scroll-container" class="flex-1 overflow-y-auto py-12 px-6">
+                <div id="paper" class="paper-page">
+                    <!-- Vin Contents Injected Here -->
+                    <div class="flex flex-col items-center justify-center h-full text-gray-300 space-y-4">
+                        <i data-lucide="file-text" class="w-16 h-16 opacity-10"></i>
+                        <p class="serif italic text-lg opacity-40">Ready to visualize data</p>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- RIGHT: EDITOR -->
+        <aside id="editor-sidebar" class="w-96 bg-white border-l-2 border-slate-100 flex flex-col shrink-0 shadow-2xl z-20">
+            <div class="h-14 border-b border-gray-100 flex items-center justify-between px-6">
+                <div class="flex items-center gap-2">
+                    <span class="text-[10px] font-black text-blue-900 bg-blue-50 px-2 py-0.5 rounded tracking-widest uppercase">Editor</span>
+                    <span id="editing-id" class="text-[10px] font-mono text-gray-400">#---</span>
+                </div>
+                <button onclick="resetEditor()" class="p-2 hover:bg-gray-100 rounded-full transition-colors text-gray-400">
+                    <i data-lucide="chevron-right" class="w-5 h-5"></i>
+                </button>
+            </div>
+            <div id="editor-container" class="flex-1 overflow-y-auto p-8">
+                <!-- Editor Fields -->
+                <div class="text-center py-20">
+                    <div class="w-12 h-12 bg-gray-50 text-gray-300 rounded-full flex items-center justify-center mx-auto mb-4">
+                        <i data-lucide="mouse-pointer-2" class="w-5 h-5"></i>
+                    </div>
+                    <p class="text-xs font-bold text-gray-400 uppercase tracking-widest leading-loose">
+                        左側の紙面上のアイテムを<br>選択して編集を開始
+                    </p>
+                </div>
+            </div>
+        </aside>
+    </div>
+
+    <!-- FLOATING FORMAT BAR -->
+    <div id="format-bar" class="fixed hidden bg-blue-900 text-white rounded-lg shadow-2xl z-50 flex items-center p-1 gap-1 animate-in zoom-in duration-200">
+        <button onclick="applyFormat('**', '**')" class="w-8 h-8 flex items-center justify-center hover:bg-white/20 rounded font-bold" title="太字">B</button>
+        <button onclick="applyFormat('*', '*')" class="w-8 h-8 flex items-center justify-center hover:bg-white/20 rounded italic font-serif" title="斜体">I</button>
+        <button onclick="applyFormat('__', '__')" class="w-8 h-8 flex items-center justify-center hover:bg-white/20 rounded underline" title="下線">U</button>
+        <div class="w-px h-4 bg-white/20 mx-1"></div>
+        <button onclick="applyFormat('[r]', '[/r]')" class="w-8 h-8 flex items-center justify-center hover:bg-white/20 rounded text-red-300" title="赤">R</button>
+        <button onclick="applyFormat('[b]', '[/b]')" class="w-8 h-8 flex items-center justify-center hover:bg-white/20 rounded text-blue-300" title="青">B</button>
+        <button onclick="applyFormat('[g]', '[/g]')" class="w-8 h-8 flex items-center justify-center hover:bg-white/20 rounded text-emerald-300" title="緑">G</button>
+        <button onclick="applyFormat('[m]', '[/m]')" class="w-8 h-8 flex items-center justify-center hover:bg-white/20 rounded text-yellow-300" title="マーカー">M</button>
+    </div>
+
+    <!-- SCRIPTS -->
+    <script>
+        // --- 状態管理用変数 ---
+        let rawData = null;
+        let items = [];
+        let selectedSectionId = null;
+        let editingItemId = null;
+        let currentView = 'all'; // 表示モード: all, question, explanation, summary
+        let currentEditorTab = 'text'; // 'text' または 'layout'
+        let lastSelectedTextarea = null;
+
+        // --- 書式設定ツールバーの制御 ---
+        document.addEventListener('mouseup', handleTextSelection);
+        document.addEventListener('keyup', handleTextSelection);
+
+        function handleTextSelection(e) {
+            const bar = document.getElementById('format-bar');
+            const selection = window.getSelection();
+            const activeElement = document.activeElement;
+
+            // textarea か input がアクティブで、かつその中で文字が選択されているか確認
+            if ((activeElement.tagName === 'TEXTAREA' || activeElement.tagName === 'INPUT') && 
+                activeElement.selectionStart !== activeElement.selectionEnd) {
+                
+                lastSelectedTextarea = activeElement;
+                const rect = activeElement.getBoundingClientRect();
+                
+                // カーソルの位置を取得（簡易的な座標計算）
+                bar.style.top = `${rect.top - 50 + window.scrollY}px`;
+                bar.style.left = `${rect.left + (rect.width / 2) - 100}px`;
+                bar.classList.remove('hidden');
+            } else {
+                // ツールバー以外をクリックしたなら隠す
+                if (!e.target.closest('#format-bar')) {
+                    bar.classList.add('hidden');
+                }
+            }
+        }
+
+        function applyFormat(startTag, endTag) {
+            if (!lastSelectedTextarea) return;
+
+            const start = lastSelectedTextarea.selectionStart;
+            const end = lastSelectedTextarea.selectionEnd;
+            const text = lastSelectedTextarea.value;
+            const before = text.substring(0, start);
+            const selection = text.substring(start, end);
+            const after = text.substring(end);
+
+            lastSelectedTextarea.value = before + startTag + selection + endTag + after;
+            
+            // 入力イベントを発火させて保存対象にする
+            lastSelectedTextarea.dispatchEvent(new Event('input', { bubbles: true }));
+            
+            // ツールバーを隠してフォーカスを戻す
+            document.getElementById('format-bar').classList.add('hidden');
+            lastSelectedTextarea.focus();
+            lastSelectedTextarea.setSelectionRange(start + startTag.length, end + startTag.length);
+        }
+
+        // ファイル選択時のイベントリスナー
+        document.getElementById('file-input').addEventListener('change', (e) => {
+            const file = e.target.files[0];
+            if (file) handleFile(file);
+        });
+
+        // ドラッグ＆ドロップの処理
+        window.addEventListener('dragover', (e) => e.preventDefault());
+        window.addEventListener('drop', (e) => {
+            e.preventDefault();
+            if (e.dataTransfer.files.length) handleFile(e.dataTransfer.files[0]);
+        });
+
+        // ファイルの読込みとJSONパース
+        function handleFile(file) {
+            const reader = new FileReader();
+            reader.onload = (e) => {
+                try {
+                    rawData = JSON.parse(e.target.result);
+                    // 'entries' キーを優先的に読み込む（ユーザーの要望）
+                    items = rawData.entries || rawData.items || rawData.nodes || [];
+                    
+                    document.getElementById('drop-zone').style.opacity = '0';
+                    setTimeout(() => document.getElementById('drop-zone').style.display = 'none', 500);
+                    
+                    initApp();
+                } catch (err) {
+                    alert('無効なJSONファイルです。');
+                }
+            };
+            reader.readAsText(file);
+        }
+
+        // Auto-load if default file exists
+        window.addEventListener('DOMContentLoaded', () => {
+            fetch('/textbooks/vin_1-31.json')
+                .then(response => {
+                    if (response.ok) return response.json();
+                    throw new Error('Not found');
+                })
+                .then(data => {
+                    rawData = data;
+                    items = rawData.entries || rawData.items || [];
+                    initApp();
+                })
+                .catch(err => console.log('Default data not loaded. Please upload manually.'));
+        });
+
+        // アプリの初期化
+        function initApp() {
+            lucide.createIcons();
+            const meta = rawData.metadata || {};
+            document.getElementById('metadata-title').innerText = `${meta.chapter_id || 'CH'} ${meta.chapter_title || 'Vin Dataset'}`;
+            
+            renderSections();
+            const firstSec = items.find(i => i.type === 'section_header');
+            if (firstSec) selectSection(firstSec.section_id);
+
+            setupKeyboard();
+        }
+
+        // セクションリスト（目次）の描画
+        function renderSections() {
+            const list = document.getElementById('section-list');
+            const sections = items.filter(i => i.type === 'section_header');
+            
+            list.innerHTML = sections.map(s => {
+                // Calculate question range for this section
+                const sectionQuestions = items.filter(i => i.type === 'question' && (i.section_id === s.section_id || i.target_s === s.section_id));
+                let qRange = '';
+                if (sectionQuestions.length > 0) {
+                    const nums = sectionQuestions.map(q => parseInt(q.number)).filter(n => !isNaN(n));
+                    if (nums.length > 0) {
+                        const min = String(Math.min(...nums)).padStart(4, '0');
+                        const max = String(Math.max(...nums)).padStart(4, '0');
+                        qRange = `qest ${min}-${max}`;
+                    }
+                }
+
+                return `
+                <div class="sidebar-item px-6 py-4 flex flex-col gap-1 ${selectedSectionId === s.section_id ? 'active' : ''}" 
+                     onclick="selectSection('${s.section_id}')">
+                    <div class="flex items-center gap-2 mb-1">
+                        <div class="text-[10px] font-mono font-black ${selectedSectionId === s.section_id ? 'bg-blue-600 text-white' : 'bg-blue-50 text-blue-600'} px-2 py-0.5 rounded">SEC ${s.section_id}</div>
+                        ${qRange ? `<div class="text-[9px] font-mono font-bold text-gray-400 uppercase tracking-tighter">${qRange}</div>` : ''}
+                    </div>
+                    <div class="font-bold text-[14px] leading-tight serif">${s.title}</div>
+                </div>
+            `}).join('');
+        }
+
+        // セクションの選択
+        function selectSection(id) {
+            selectedSectionId = id;
+            renderSections();
+            renderContent();
+            document.getElementById('scroll-container').scrollTop = 0;
+        }
+
+        // 表示ビューの切り替え
+        function setView(view) {
+            currentView = view;
+            const tabs = document.querySelectorAll('.view-tab');
+            tabs.forEach(t => {
+                if (t.dataset.view === view) {
+                    t.classList.add('active', 'text-blue-700', 'border-b-2', 'border-blue-700');
+                    t.classList.remove('text-gray-400');
+                } else {
+                    t.classList.remove('active', 'text-blue-700', 'border-b-2', 'border-blue-700');
+                    t.classList.add('text-gray-400');
+                }
+            });
+            renderContent();
+        }
+
+        // コンテンツ（問題・解説など）の描画
+        function renderContent() {
+            const paper = document.getElementById('paper');
+            const search = document.getElementById('search-input').value.toLowerCase();
+            
+            let filtered = items.filter(i => {
+                // セクションフィルタ
+                if (i.type === 'section_header') return i.section_id === selectedSectionId;
+                
+                // セクションに属するアイテムか判定
+                let belongs = (i.section_id === selectedSectionId || i.target_s === selectedSectionId);
+                if (!belongs && i.type === 'explanation') {
+                    const q = items.find(it => it.id === i.target_q);
+                    belongs = q && q.section_id === selectedSectionId;
+                }
+                if (!belongs) return false;
+
+                // モード（タブ）フィルタ
+                if (currentView === 'question' && i.type !== 'question') return false;
+                if (currentView === 'explanation' && i.type !== 'explanation') return false;
+                if (currentView === 'summary' && !['summary_box', 'grammar_term', 'deep_dive'].includes(i.type)) return false;
+
+                // 検索（全文一致）フィルタ
+                if (search) {
+                    const content = JSON.stringify(i).toLowerCase();
+                    if (!content.includes(search)) return false;
+                }
+
+                return true;
+            });
+
+            // グルーピングと並び替え
+            let displayList = [];
+            const header = filtered.find(i => i.type === 'section_header');
+            if (header) displayList.push(header);
+
+            if (currentView === 'all') {
+                const questions = filtered.filter(i => i.type === 'question');
+                questions.forEach(q => {
+                    displayList.push(q);
+                    const expl = filtered.find(e => e.type === 'explanation' && e.target_q === q.id);
+                    if (expl) displayList.push(expl);
+                });
+                const others = filtered.filter(i => ['summary_box', 'grammar_term', 'deep_dive'].includes(i.type));
+                displayList.push(...others);
+            } else {
+                displayList.push(...filtered.filter(i => i.type !== 'section_header'));
+            }
+
+            paper.innerHTML = displayList.map(item => renderTextbookItem(item)).join('');
+            lucide.createIcons();
+        }
+
+        function renderTextbookItem(item) {
+            const itemId = item.id || `${item.type}-${item.order}`;
+            const isEditing = editingItemId === itemId;
+            let html = '';
+
+            switch(item.type) {
+                case 'section_header':
+                    html = `
+                        <div class="mb-4 pb-1 border-b border-gray-100" onclick="openEditor('${itemId}')">
+                            <div class="inline-block bg-slate-900 text-white text-[9px] font-black px-1.5 py-0.5 rounded-sm tracking-[0.1em] mb-1.5">Sec ${item.section_id || ''}</div>
+                            <h2 class="serif text-base font-black text-gray-800 leading-tight">${item.title || ''}</h2>
+                        </div>
+                    `;
+                    break;
+                
+                case 'question':
+                    const qNum = String(item.number || '').padStart(4, '0');
+                    const sidebarTags = [];
+                    
+                    if (item.label) sidebarTags.push(`<div class="tb-tag text-center text-[#475569]">${item.label}</div>`);
+                    if (item.level === 'basic' || item.is_basic) sidebarTags.push(`<div class="tb-tag text-center text-blue-500">基本</div>`);
+                    if (item.is_frequent) sidebarTags.push(`<div class="tb-tag text-center text-red-500">FREQ</div>`);
+                    
+                    const explBtn = `<button onclick="jumpToExplanation('${item.id}', event)" class="jump-btn to-expl shrink-0">
+                        <i data-lucide="help-circle" class="w-3 h-3"></i> 解説
+                    </button>`;
+
+                    html = `
+                        <div class="question-block relative ${isEditing ? 'editing' : ''}" onclick="openEditor('${itemId}')">
+                            <div class="flex items-start gap-4">
+                                <div class="flex flex-col items-center shrink-0 w-12 pt-0.5 gap-0.5">
+                                    <div class="q-number mb-1">${qNum}</div>
+                                    <div class="flex flex-col gap-1 w-full mt-2">
+                                        ${sidebarTags.join('')}
+                                    </div>
+                                </div>
+                                <div class="flex-1">
+                                    <div class="flex justify-between items-start mb-2">
+                                        <div></div>
+                                        ${explBtn}
+                                    </div>
+                                    <div class="eng-text mb-0.5">${formatText(item.en || '')}</div>
+                                    ${renderDynamicFields(item, false, ['en', 'label', 'number', 'is_frequent', 'is_basic', 'level'])}
+                                </div>
+                            </div>
+                        </div>
+                    `;
+                    break;
+                
+                case 'explanation':
+                    const targetQ = items.find(it => it.id === item.target_q);
+                    const targetQNum = targetQ ? String(targetQ.number || '').padStart(4, '0') : '--';
+                    
+                    const qJumpBtn = targetQ ? `<button onclick="jumpToQuestion('${targetQ.id}', event)" class="jump-btn to-q">
+                         <i data-lucide="arrow-left" class="w-3 h-3"></i> 問
+                    </button>` : '';
+
+                    html = `
+                        <div class="flex gap-4">
+                            <div class="shrink-0 w-12 flex flex-col items-center pt-1">
+                                <div class="q-number">${targetQNum}</div>
+                                ${qJumpBtn}
+                            </div>
+                            <div class="flex-1">
+                                <div class="explanation-pop ${isEditing ? 'editing' : ''}" onclick="openEditor('${itemId}')">
+                                    <div class="flex justify-between items-baseline mb-0.5 pb-0.5 border-b border-emerald-100/30">
+                                        <h4 class="font-bold text-gray-700 text-[13px] tracking-tight">${item.title || ''}</h4>
+                                        <span class="tb-tag text-[#475569]">${item.label || ''}</span>
+                                    </div>
+                                    <div class="space-y-0.5">
+                                        ${renderDynamicFields(item, false, ['title', 'label'])}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    `;
+                    break;
+
+                case 'grammar_term':
+                    html = `
+                        <div class="term-box ${isEditing ? 'editing' : ''}" onclick="openEditor('${itemId}')">
+                            <div class="flex gap-3 items-start">
+                                <div class="p-1 bg-orange-100 text-orange-600 rounded shrink-0 self-start mt-0.5"><i data-lucide="book-type" class="w-3.5 h-3.5"></i></div>
+                                <div class="flex-1">
+                                    <div class="font-bold text-orange-900 text-sm mb-1">${item.term || ''}</div>
+                                    <div class="space-y-1">
+                                        ${renderDynamicFields(item, false, ['term'])}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    `;
+                    break;
+
+                case 'deep_dive':
+                case 'summary_box':
+                case 'まずは確認':
+                    const isDive = item.type === 'deep_dive';
+                    const isCheck = item.type === 'まずは確認';
+                    let boxClass = 'summary-box';
+                    let icon = 'layers';
+                    let iconClass = 'bg-slate-700 shadow-slate-100';
+                    
+                    if (isDive) {
+                        boxClass = 'deep-dive';
+                        icon = 'zoom-in';
+                        iconClass = 'bg-teal-700 shadow-teal-100';
+                    } else if (isCheck) {
+                        boxClass = 'check-box';
+                        icon = 'check-square';
+                        iconClass = 'bg-rose-700 shadow-rose-100';
+                    }
+
+                    html = `
+                        <div class="${boxClass} ${isEditing ? 'editing' : ''}" onclick="openEditor('${itemId}')">
+                            <div class="flex items-center gap-3 mb-3">
+                                <div class="w-6 h-6 ${iconClass} text-white rounded flex items-center justify-center">
+                                    <i data-lucide="${icon}" class="w-3.5 h-3.5"></i>
+                                </div>
+                                <h4 class="serif text-base font-black text-slate-800 tracking-tight">${item.title || ''}</h4>
+                            </div>
+                            <div class="space-y-1">
+                                ${renderDynamicFields(item)}
+                            </div>
+                        </div>
+                    `;
+                    break;
+
+                default:
+                    html = `<div class="p-4 border border-gray-100 rounded text-xs text-gray-300 text-center uppercase tracking-widest my-8">Node: ${item.type}</div>`;
+            }
+
+            return `<div id="node-${itemId}" class="node-wrapper relative group">${html}</div>`;
+        }
+
+        // --- 日本語訳等のマスク（隠す）機能の描画ロジック ---
+        function renderDynamicFields(obj, isSmall = false, excludeKeys = []) {
+            if (!obj || typeof obj !== 'object') return '';
+            
+            // レイアウトには表示しない内部キーを除外
+            const skip = ['id', 'type', 'order', 'section_id', 'target_q', 'target_s', 'number', 'source_univ', 'is_frequent', 'is_basic', 'level', 'description', 'arrangement', 'columns', 'cols', ...excludeKeys];
+            if (!isSmall && (obj.type === 'section_header' || obj.type === 'summary_box' || obj.type === 'deep_dive' || obj.type === 'grammar_term')) {
+                skip.push('title'); 
+            }
+
+            const keys = Object.keys(obj);
+            let lastTag = null;
+
+            return keys.map((k, idx) => {
+                if (skip.includes(k)) return '';
+                const val = obj[k];
+                if (val === undefined || val === null || (typeof val === 'string' && val.trim() === '')) return '';
+
+                // 配列（content, items, appendix等）の描画。ここで arrangement (配置) を反映する
+                if (Array.isArray(val)) {
+                    const arrangement = obj.arrangement || '';
+                    const columns = obj.columns || obj.cols || 1;
+                    
+                    let containerClass = 'my-0.5';
+                    if (k === 'options') {
+                        containerClass = 'grid grid-cols-2 gap-x-6 gap-y-0.5 my-0.5';
+                    } else if (arrangement === 'grid' || columns > 1) {
+                        containerClass = `grid grid-cols-1 md:grid-cols-${columns} gap-4 my-2`;
+                    } else if (arrangement === 'horizontal' || arrangement === 'row') {
+                        containerClass = 'flex flex-wrap gap-4 my-2';
+                    }
+
+                    const contentHtml = val.map(v => {
+                        if (typeof v === 'object') {
+                             const isGrouped = ['content', 'items', 'groups'].includes(k) && !isSmall;
+                             const contentBody = renderDynamicFields(v, true);
+                             if (isGrouped) {
+                                 return `<div class="p-4 bg-white border border-slate-100 rounded-xl shadow-sm my-0.5">${contentBody}</div>`;
+                             }
+                             return `<div class="my-0.5">${contentBody}</div>`;
+                        } else {
+                             return `<div class="ja-text my-0.5 cursor-pointer">${v}</div>`;
+                        }
+                    }).join('');
+                    
+                    if (k === 'appendix') {
+                         return `<div class="mt-2 pt-2 border-t border-gray-100 space-y-1">${contentHtml}</div>`;
+                    }
+                    return `<div class="${containerClass}">${contentHtml}</div>`;
+                }
+
+                // Values
+                if (typeof val === 'string') {
+                    // Tag side-by-side logic
+                    if (k === 'tag') {
+                        lastTag = val;
+                        return ''; // Store and wait for next visible field
+                    }
+
+                    const tagHtml = lastTag ? `<span class="bg-blue-100/70 text-blue-700 text-[9px] font-black px-1.5 py-0.5 rounded tracking-tighter shrink-0 mr-1.5 h-fit">${lastTag}</span>` : '';
+                    lastTag = null; // Consume tag
+
+                    const wrapperClass = tagHtml ? 'flex items-start gap-1 my-0.5' : 'my-0.5';
+
+
+                    let displayHtml = '';
+                    if (k === 'en') displayHtml = `<div class="${wrapperClass}"><div class="flex items-start">${tagHtml}<div class="eng-text leading-snug">${formatText(val)}</div></div></div>`;
+                    else if (k === 'ja') displayHtml = `<div class="${wrapperClass} cursor-pointer" onclick="this.closest('.revealed')?.classList.remove('revealed')"><div class="flex items-start">${tagHtml}<div class="ja-text">${val}</div></div></div>`;
+                    else if (k === 'text') displayHtml = `<div class="${wrapperClass}"><div class="flex items-start w-full">${tagHtml}<div class="supp-text flex-1 leading-tight py-0.5">${val}</div></div></div>`;
+                    else if (k === 'note') displayHtml = `<div class="${wrapperClass}"><div class="flex items-start">${tagHtml}<div class="supp-text opacity-70 p-0.5 leading-tight">※ ${val}</div></div></div>`;
+                    else if (k === 'label') displayHtml = `<div class="supp-text tracking-widest my-0.5 opacity-50">${val}</div>`;
+                    else if (k === 'title') displayHtml = `<div class="font-bold text-gray-700 ${isSmall ? 'text-[11px]' : 'text-[13px]'} tracking-tight my-0.5">${val}</div>`;
+                    else if (k === 'term') displayHtml = `<h4 class="serif font-black text-lg text-gray-900 my-1">${val}</h4>`;
+                    else if (k === 'answer') {
+                        const univ = obj.source_univ ? `<div class="text-[10px] text-gray-300 font-bold ml-auto">${obj.source_univ}</div>` : '';
+                        displayHtml = `<div class="flex items-center gap-4 my-0.5 cursor-pointer" onclick="this.closest('.revealed').classList.remove('revealed')">
+                            <div class="text-[10px] font-black text-blue-600 bg-blue-50 px-1.5 py-0.5 rounded border border-blue-100 mono uppercase tracking-tighter">Ans: ${val}</div>
+                            ${univ}
+                        </div>`;
+                    }
+                    else if (k === 'solution') displayHtml = `<div class="ja-text text-gray-600 p-2 bg-gray-50/50 border border-gray-100 rounded my-0.5 leading-tight cursor-pointer" onclick="this.closest('.revealed').classList.remove('revealed')"><span class="bg-emerald-600 text-white text-[9px] font-black px-1.5 py-0.5 rounded-sm mr-2 align-middle">sol</span>${val}</div>`;
+                    else displayHtml = `<div class="${wrapperClass} cursor-pointer" onclick="this.closest('.revealed')?.classList.remove('revealed')"><div class="flex items-start">${tagHtml}<div class="ja-text text-[13px]">${val}</div></div></div>`;
+
+                    // Masking logic for JA, ANSWER and SOLUTION in Question blocks
+                    if ((k === 'ja' || k === 'solution' || k === 'answer') && obj.type === 'question') {
+                        return `<div class="masked-container" onclick="event.stopPropagation()">
+                            <div class="masked-content">${displayHtml}</div>
+                            <div class="mask-btn" onclick="this.parentElement.classList.add('revealed'); lucide.createIcons();">
+                                <i data-lucide="eye" class="w-3.5 h-3.5 mr-2"></i> ${k === 'ja' ? '和訳' : k === 'answer' ? '解答' : '解説'}
+                            </div>
+                        </div>`;
+                    }
+
+                    return displayHtml;
+                }
+                
+                return '';
+            }).join('');
+        }
+
+        // --- テキスト整形ロジック (Markdown風 + 特殊タグ) ---
+        function formatText(text) {
+            if (!text) return '';
+            
+            let formatted = text
+                // 改行 (\n または 実際の改行) を <br> に変換
+                .replace(/\\n/g, '<br>')
+                .replace(/\n/g, '<br>')
+                // 太字: **text** -> <b>
+                .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+                // 斜体: *text* -> <i>
+                .replace(/\*(.*?)\*/g, '<em>$1</em>')
+                // 下線: __text__ -> <u>
+                .replace(/__(.*?)__/g, '<span class="underline decoration-1 underline-offset-4">$1</span>')
+                
+                // カラータグ
+                // [r]赤[/r]
+                .replace(/\[r\](.*?)\[\/r\]/g, '<span class="text-red-600 font-bold">$1</span>')
+                // [b]青[/b]
+                .replace(/\[b\](.*?)\[\/b\]/g, '<span class="text-blue-600 font-bold">$1</span>')
+                // [g]緑[/g]
+                .replace(/\[g\](.*?)\[\/g\]/g, '<span class="text-emerald-700 font-bold">$1</span>')
+                // [m]マーカー[/m]
+                .replace(/\[m\](.*?)\[\/m\]/g, '<mark class="bg-yellow-200 px-1 rounded-sm">$1</mark>')
+                
+                // 自動変換: 空の括弧 ( ) のみ赤字にする
+                // (a) や (1) など中身がある場合は無視
+                .replace(/\(\s+\)/g, '<span class="text-red-600 font-bold">(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)</span>');
+
+            return formatted;
+        }
+
+        // --- エディタの起動とレイアウト設定 ---
+        function openEditor(id) {
+            if (!id) return;
+            editingItemId = id;
+            const item = items.find(i => i.id === id || `${i.type}-${i.order}` === id);
+            
+            const editingIdEl = document.getElementById('editing-id');
+            if (editingIdEl && item) editingIdEl.innerText = '#' + item.order;
+            
+            renderContent(); // ハイライト反映
+            if (item) renderEditorContent(item);
+        }
+
+        // エディタ内部の描画（タブ切り替え対応）
+        function renderEditorContent(item) {
+            const container = document.getElementById('editor-container');
+            
+            container.innerHTML = `
+                <div class="space-y-6 animate-in slide-in-from-right duration-500 pb-10">
+                    <!-- タブ切り替え -->
+                    <div class="flex border-b border-gray-100 mb-6 sticky top-0 bg-white z-20">
+                        <button onclick="switchEditorTab('text')" class="flex-1 py-3 text-[10px] font-black uppercase tracking-widest transition-all ${currentEditorTab === 'text' ? 'text-blue-900 border-b-2 border-blue-900' : 'text-gray-300'}">テキスト内容</button>
+                        <button onclick="switchEditorTab('layout')" class="flex-1 py-3 text-[10px] font-black uppercase tracking-widest transition-all ${currentEditorTab === 'layout' ? 'text-blue-900 border-b-2 border-blue-900' : 'text-gray-300'}">レイアウト</button>
+                    </div>
+
+                    ${currentEditorTab === 'text' ? `
+                        <!-- テキスト編集モード -->
+                        <div id="fields" class="space-y-4">
+                            ${generateFields(item)}
+                        </div>
+                    ` : `
+                        <!-- レイアウト編集モード -->
+                        <div class="space-y-8">
+                            ${renderLayoutControl(item, 'メイン配置', 'main')}
+                            <div class="pt-6 border-t border-gray-100">
+                                <label class="text-[10px] font-black text-gray-400 uppercase tracking-widest mb-4 block">サブ・レイアウト設定</label>
+                                ${renderSubLayoutControls(item)}
+                            </div>
+                        </div>
+                    `}
+
+                    <!-- 操作ボタン -->
+                    <div class="pt-8 border-t border-gray-100 grid grid-cols-2 gap-4">
+                        <button onclick="saveMutation()" class="py-4 bg-blue-900 text-white rounded-xl font-bold text-[11px] uppercase tracking-widest shadow-xl shadow-blue-100 hover:translate-y-[-2px] active:scale-95 transition-all">反映・保存</button>
+                        <button onclick="resetEditor()" class="py-4 bg-gray-50 text-gray-400 rounded-xl font-bold text-[11px] uppercase tracking-widest hover:bg-gray-100 transition-all">閉じる</button>
+                    </div>
+                </div>
+            `;
+            lucide.createIcons();
+        }
+
+        function switchEditorTab(tab) {
+            currentEditorTab = tab;
+            const item = items.find(i => i.id === editingItemId || `${i.type}-${i.order}` === editingItemId);
+            renderEditorContent(item);
+        }
+
+        // サブレイアウト（配列内要素）の制御UI
+        function renderSubLayoutControls(item) {
+            const arrayKeys = Object.keys(item).filter(k => Array.isArray(item[k]) && !['options', 'appendix'].includes(k));
+            if (arrayKeys.length === 0) return `<p class="text-[10px] text-gray-400 italic">設定可能な構成要素はありません。</p>`;
+
+            return arrayKeys.map(k => `
+                <div class="mb-8">
+                    <h5 class="text-[10px] font-black text-blue-600 mb-3 flex items-center gap-2">
+                        <i data-lucide="layers" class="w-3 h-3"></i> ${k.toUpperCase()} 内のレイアウト
+                    </h5>
+                    <div class="space-y-4">
+                        ${item[k].map((sub, idx) => `
+                            ${typeof sub === 'object' ? `
+                                <div class="p-4 bg-gray-50/50 border border-gray-100 rounded-2xl">
+                                    <div class="text-[9px] font-bold text-gray-400 mb-3">#${idx+1} ${sub.label || sub.title || 'アイテム'}</div>
+                                    ${renderLayoutControl(sub, '子要素の配置', `${k}-${idx}`)}
+                                </div>
+                            ` : ''}
+                        `).join('')}
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        // 属性の解除
+        function clearArrangement(pathSuffix) {
+            const item = items.find(i => i.id === editingItemId || `${i.type}-${i.order}` === editingItemId);
+            if (!item) return;
+            
+            if (pathSuffix === 'main') {
+                delete item.arrangement;
+                delete item.columns;
+            } else {
+                const parts = pathSuffix.split('-');
+                if (parts.length === 2) {
+                    const [k, idx] = parts;
+                    if (item[k] && item[k][idx]) {
+                        delete item[k][idx].arrangement;
+                        delete item[k][idx].columns;
+                    }
+                }
+            }
+            renderContent();
+            renderEditorContent(item);
+        }
+
+        // レイアウト編集用UIパーツの生成
+        function renderLayoutControl(target, label, pathSuffix) {
+            const arrangement = target.arrangement || 'vertical';
+            const columns = target.columns || target.cols || 1;
+            
+            return `
+                <div class="space-y-4" data-layout-target="${pathSuffix}">
+                     <div class="flex items-center justify-between">
+                        <label class="text-[10px] font-bold text-blue-900/50 uppercase tracking-widest">${label}</label>
+                     </div>
+                     <div class="grid grid-cols-4 gap-1.5">
+                        <button onclick="updateAttr('${pathSuffix}', 'arrangement', 'vertical')" class="flex flex-col items-center gap-1 p-2.5 rounded-xl border text-[9px] font-black uppercase transition-all ${arrangement === 'vertical' ? 'bg-blue-900 text-white border-blue-900 shadow-md' : 'bg-white text-gray-400 border-gray-100'}">
+                            <i data-lucide="align-justify" class="w-3.5 h-3.5"></i>
+                            縦
+                        </button>
+                        <button onclick="updateAttr('${pathSuffix}', 'arrangement', 'horizontal')" class="flex flex-col items-center gap-1 p-2.5 rounded-xl border text-[9px] font-black uppercase transition-all ${arrangement === 'horizontal' ? 'bg-blue-900 text-white border-blue-900 shadow-md' : 'bg-white text-gray-400 border-gray-100'}">
+                            <i data-lucide="align-right" class="w-3.5 h-3.5 rotate-90"></i>
+                            横
+                        </button>
+                        <button onclick="updateAttr('${pathSuffix}', 'arrangement', 'grid')" class="flex flex-col items-center gap-1 p-2.5 rounded-xl border text-[9px] font-black uppercase transition-all ${arrangement === 'grid' ? 'bg-blue-900 text-white border-blue-900 shadow-md' : 'bg-white text-gray-400 border-gray-100'}">
+                            <i data-lucide="grid" class="w-3.5 h-3.5"></i>
+                            グリッド
+                        </button>
+                        <button onclick="clearArrangement('${pathSuffix}')" class="flex flex-col items-center gap-1 p-2.5 rounded-xl border text-[9px] font-black uppercase transition-all bg-white text-gray-400 border-gray-100 border-dashed hover:bg-red-50 hover:text-red-500 hover:border-red-200">
+                            <i data-lucide="x-circle" class="w-3.5 h-3.5"></i>
+                            解除
+                        </button>
+                     </div>
+                     <div class="flex items-center justify-between p-2.5 bg-gray-50 border border-gray-100 rounded-xl">
+                        <div>
+                            <div class="text-[10px] font-bold text-gray-600">カラム数</div>
+                            <div class="text-[8px] text-gray-400 uppercase tracking-tighter">※グリッド配置時に適用</div>
+                        </div>
+                        <div class="flex items-center gap-2">
+                            <button onclick="stepAttrCols('${pathSuffix}', -1)" class="w-7 h-7 flex items-center justify-center bg-white border border-gray-200 rounded-lg text-gray-600 active:scale-90"><i data-lucide="minus" class="w-3 h-3"></i></button>
+                            <span class="w-6 text-center font-mono font-black text-blue-900 text-sm">${columns}</span>
+                            <button onclick="stepAttrCols('${pathSuffix}', 1)" class="w-7 h-7 flex items-center justify-center bg-white border border-gray-200 rounded-lg text-gray-600 active:scale-90"><i data-lucide="plus" class="w-3 h-3"></i></button>
+                        </div>
+                     </div>
+                </div>
+            `;
+        }
+
+        // 属性の即時更新
+        function updateAttr(pathSuffix, key, val) {
+            const item = items.find(i => i.id === editingItemId || `${i.type}-${i.order}` === editingItemId);
+            
+            if (pathSuffix === 'main') {
+                item[key] = val;
+            } else {
+                const parts = pathSuffix.split('-');
+                if (parts.length === 2) {
+                    const [k, idx] = parts;
+                    if (item[k] && item[k][idx]) item[k][idx][key] = val;
+                }
+            }
+            
+            renderContent();
+            renderEditorContent(item);
+        }
+
+        function stepAttrCols(pathSuffix, delta) {
+            const item = items.find(i => i.id === editingItemId || `${i.type}-${i.order}` === editingItemId);
+            let target = item;
+            
+            if (pathSuffix !== 'main') {
+                const parts = pathSuffix.split('-');
+                const [k, idx] = parts;
+                target = item[k][idx];
+            }
+
+            let current = parseInt(target.columns || target.cols || 1);
+            current = Math.max(1, Math.min(4, current + delta));
+            target.columns = current;
+            
+            renderContent();
+            renderEditorContent(item);
+        }
+
+        // フィールド生成
+        function generateFields(item) {
+            const skip = ['type', 'order', 'id', 'section_id', 'target_q', 'target_s', 'arrangement', 'columns', 'cols'];
+            // 1行表示にしたいコンパクトフィールド
+            const compact = ['number', 'level', 'is_frequent', 'is_basic', 'level', 'source_univ', 'answer', 'label', 'tag', 'target_s', 'target_q'];
+            
+            let html = '';
+
+            // 1. まず通常のプロパティを表示
+            Object.keys(item).forEach(k => {
+                if (skip.includes(k)) return;
+                const v = item[k];
+                
+                if (Array.isArray(v)) return; // 配列は後程
+
+                if (typeof v === 'boolean') {
+                    html += `
+                        <div class="flex items-center justify-between p-3 bg-gray-50 rounded-xl border border-gray-100">
+                            <label class="text-[10px] font-bold text-gray-600 uppercase tracking-wider">${k}</label>
+                            <input type="checkbox" ${v ? 'checked' : ''} class="w-5 h-5 accent-blue-900" data-key="${k}">
+                        </div>`;
+                    return;
+                }
+
+                if (compact.includes(k)) {
+                    html += `
+                        <div class="space-y-1">
+                            <label class="text-[9px] font-black text-gray-400 uppercase tracking-widest px-1">${k}</label>
+                            <input type="text" value="${v || ''}" data-key="${k}" class="w-full bg-white border border-gray-100 rounded-lg p-2.5 text-xs font-bold focus:border-blue-300 focus:outline-none transition-all">
+                        </div>`;
+                } else {
+                    html += `
+                        <div class="space-y-1">
+                            <label class="text-[9px] font-black text-gray-400 uppercase tracking-widest px-1">${k}</label>
+                            <textarea data-key="${k}" class="w-full bg-white border border-gray-100 rounded-xl p-3 text-xs leading-relaxed focus:border-blue-300 focus:outline-none min-h-[80px] transition-all">${v || ''}</textarea>
+                        </div>`;
+                }
+            });
+
+            // 2. 配列 (content, items等) の内部テキストを表示
+            Object.keys(item).forEach(k => {
+                if (skip.includes(k)) return;
+                const v = item[k];
+                if (!Array.isArray(v)) return;
+
+                html += `<div class="pt-4 border-t border-gray-50 mt-4">
+                    <label class="text-[9px] font-black text-blue-400 uppercase tracking-widest block mb-3">${k} (リストアイテム編集)</label>
+                    <div class="space-y-3">
+                        ${v.map((sub, idx) => {
+                            if (typeof sub === 'string') {
+                                return `<textarea data-array-key="${k}" data-index="${idx}" class="w-full bg-gray-50/50 border border-slate-100 rounded-xl p-3 text-xs focus:bg-white focus:border-blue-200 transition-all min-h-[60px]">${sub}</textarea>`;
+                            }
+                            if (typeof sub === 'object') {
+                                return `
+                                    <div class="p-3 bg-slate-50/30 border border-slate-100 rounded-2xl relative">
+                                        <div class="text-[8px] font-black text-slate-300 mb-2 uppercase tracking-tighter">#${idx+1} ${sub.tag || sub.label || ''}</div>
+                                        ${Object.keys(sub).map(subK => {
+                                            if (['arrangement', 'columns', 'cols'].includes(subK)) return '';
+                                            const subV = sub[subK];
+                                            if (typeof subV !== 'string') return '';
+                                            return `
+                                                <div class="mb-2">
+                                                    <label class="text-[8px] font-bold text-slate-400">${subK}</label>
+                                                    <textarea data-array-key="${k}" data-index="${idx}" data-sub-key="${subK}" class="w-full bg-white border border-slate-100 rounded-lg p-2 text-xs focus:border-blue-200 transition-all min-h-[40px]">${subV}</textarea>
+                                                </div>
+                                            `;
+                                        }).join('')}
+                                    </div>
+                                `;
+                            }
+                            return '';
+                        }).join('')}
+                    </div>
+                </div>`;
+            });
+
+            return html;
+        }
+
+        // 全体保存（実際はローカルの items 配列を更新し画面をリフレッシュする）
+        function saveMutation() {
+            const item = items.find(i => i.id === editingItemId || `${i.type}-${i.order}` === editingItemId);
+            if (!item) return;
+
+            // 1. トップレベルプロパティの保存
+            document.querySelectorAll('#fields input[data-key], #fields textarea[data-key]').forEach(el => {
+                const k = el.dataset.key;
+                if (el.type === 'checkbox') {
+                    item[k] = el.checked;
+                } else {
+                    item[k] = el.value;
+                }
+            });
+
+            // 2. 配列内プロパティの保存
+            document.querySelectorAll('#fields [data-array-key]').forEach(el => {
+                const k = el.dataset.arrayKey;
+                const idx = parseInt(el.dataset.index);
+                const subK = el.dataset.subKey;
+                
+                if (subK) {
+                    // オブジェクトの特定プロパティ
+                    if (item[k] && item[k][idx]) {
+                        item[k][idx][subK] = el.value;
+                    }
+                } else {
+                    // 文字列配列
+                    if (item[k]) {
+                        item[k][idx] = el.value;
+                    }
+                }
+            });
+
+            renderContent();
+            
+            const container = document.getElementById('editor-container');
+            container.innerHTML = `
+                <div class="flex flex-col items-center justify-center h-full text-emerald-500 animate-in zoom-in duration-300">
+                    <i data-lucide="check-circle" class="w-12 h-12 mb-4"></i>
+                    <p class="font-black text-xs uppercase tracking-widest text-center">変更内容を適用・保存しました</p>
+                </div>
+            `;
+            lucide.createIcons();
+            
+            setTimeout(() => {
+                renderEditorContent(item);
+            }, 1000);
+        }
+
+        // エディタのリセット
+        function resetEditor() {
+            editingItemId = null;
+            document.getElementById('editing-id').innerText = '#---';
+            document.getElementById('editor-container').innerHTML = `
+                <div class="text-center py-20">
+                    <div class="w-12 h-12 bg-gray-50 text-gray-300 rounded-full flex items-center justify-center mx-auto mb-4">
+                        <i data-lucide="mouse-pointer-2" class="w-5 h-5"></i>
+                    </div>
+                    <p class="text-xs font-bold text-gray-400 uppercase tracking-widest leading-loose">
+                        左側の紙面上のアイテムを<br>選択して編集を開始
+                    </p>
+                </div>
+            `;
+            renderContent();
+            lucide.createIcons();
+        }
+
+        // --- 保存処理 ---
+        document.getElementById('save-btn').addEventListener('click', () => {
+            const blob = new Blob([JSON.stringify(rawData, null, 2)], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `vin_textbook_edited_${Date.now()}.json`;
+            a.click();
+        });
+
+        // --- 解説への自動スクロール ---
+        function jumpToExplanation(qId, event) {
+            if (event) event.stopPropagation();
+            const expl = items.find(e => e.type === 'explanation' && e.target_q === qId);
+            if (!expl) {
+                alert('この問題の解説は見つかりませんでした。');
+                return;
+            }
+
+            setView('explanation');
+            setTimeout(() => {
+                const itemId = expl.id || `explanation-${expl.order}`;
+                const el = document.getElementById(`node-${itemId}`);
+                if (el) {
+                    el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                    el.classList.add('ring-4', 'ring-emerald-400/20', 'rounded-lg');
+                    setTimeout(() => el.classList.remove('ring-4', 'ring-emerald-400/20'), 2000);
+                }
+            }, 100);
+        }
+
+        // --- 問題への自動スクロール ---
+        function jumpToQuestion(qId, event) {
+            if (event) event.stopPropagation();
+            const q = items.find(it => it.id === qId);
+            if (!q) return;
+
+            setView('question');
+            setTimeout(() => {
+                const itemId = q.id || `question-${q.order}`;
+                const el = document.getElementById(`node-${itemId}`);
+                if (el) {
+                    el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                    el.classList.add('ring-4', 'ring-blue-400/20', 'rounded-lg');
+                    setTimeout(() => el.classList.remove('ring-4', 'ring-blue-400/20'), 2000);
+                }
+            }, 100);
+        }
+
+        // --- キーボード操作（検索など）の設定 ---
+        function setupKeyboard() {
+            document.getElementById('search-input').addEventListener('input', () => {
+                renderContent();
+            });
+            window.addEventListener('keydown', (e) => {
+                if (e.key === 'Escape') resetEditor();
+            });
+        }
+
+        lucide.createIcons();
+    </script>
+</body>
+</html>

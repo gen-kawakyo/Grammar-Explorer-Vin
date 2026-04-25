@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Vin Mobile - Textbook Reader</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@700;900&family=Noto+Sans+JP:wght@400;500;700;900&family=JetBrains+Mono:wght@500&display=swap');
+
+        :root {
+            --paper-bg: #FFFFFF;
+            --text-main: #334155;
+            --accent-blue: #2563EB;
+            --accent-green: #059669;
+            --accent-orange: #EA580C;
+            --border: #E2E8F0;
+        }
+
+        body {
+            font-family: 'Noto Sans JP', sans-serif;
+            background-color: #F8FAFC;
+            color: var(--text-main);
+            overscroll-behavior-y: contain;
+        }
+
+        .serif { font-family: 'Noto Serif JP', serif; }
+        .mono { font-family: 'JetBrains Mono', monospace; }
+
+        /* Mobile specific adjustments */
+        .paper-page {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            min-height: 100dvh;
+            padding: 1rem 1.25rem 5rem 1.25rem; /* bottom padding for nav */
+            box-shadow: 0 0 40px rgba(0,0,0,0.03);
+        }
+
+        /* Textbook Elements */
+        .question-block {
+            padding: 0.5rem 0.25rem;
+            margin-bottom: 0.5rem;
+            border-radius: 8px;
+            transition: all 0.2s;
+        }
+
+        .q-number {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 2.8rem;
+            height: 1.1rem;
+            border: 1.5px solid var(--accent-blue);
+            color: var(--accent-blue);
+            font-family: 'JetBrains Mono', monospace;
+            font-weight: 800;
+            font-size: 0.7rem;
+            border-radius: 4px;
+            flex-shrink: 0;
+        }
+
+        .explanation-pop {
+            background: #F0FDF4;
+            border: 1px solid #DCFCE7;
+            padding: 0.5rem 0.75rem;
+            margin: 0.25rem 0 2rem 0;
+            border-radius: 6px;
+            font-size: 0.85rem;
+        }
+
+        .summary-box {
+            background: #F8FAFC;
+            border: 1px solid #E2E8F0;
+            padding: 1rem;
+            margin: 1.5rem 0;
+            border-radius: 8px;
+        }
+
+        .deep-dive {
+            background: #F0FDFA;
+            border: 1px solid #CCFBF1;
+            padding: 1rem;
+            margin: 1.5rem 0;
+            border-radius: 8px;
+        }
+
+        .check-box {
+            background: #FDF2F8;
+            border: 1px solid #FCE7F3;
+            padding: 1rem;
+            margin: 1.5rem 0;
+            border-radius: 8px;
+        }
+
+        .term-box {
+            background: #FFF7ED;
+            border: 1px solid #FFEDD5;
+            padding: 0.75rem 1rem;
+            margin: 1rem 0;
+            border-radius: 6px;
+        }
+
+        .eng-text { font-family: 'Times New Roman', serif; font-size: 1.05rem; font-weight: 500; color: #1E293B; line-height: 1.4; }
+        .ja-text { font-size: 0.85rem; color: #64748B; line-height: 1.6; }
+        .supp-text { font-size: 12px; font-weight: 700; color: #475569; }
+
+        .tb-tag {
+            font-size: 11px;
+            font-weight: 900;
+            opacity: 0.6;
+            line-height: 1;
+        }
+
+        /* Masking */
+        .revealed .mask-btn { display: none; }
+        .masked-container { position: relative; min-height: 1.25rem; margin: 0.4rem 0; }
+        .masked-content { display: none; }
+        .revealed .masked-content { display: block; }
+        .mask-btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #F1F5F9;
+            border: 1px solid #E2E8F0;
+            padding: 0.5rem;
+            border-radius: 8px;
+            font-size: 11px;
+            font-weight: 800;
+            color: #64748B;
+            width: 100%;
+        }
+
+        .jump-btn {
+            display: flex;
+            align-items: center;
+            gap: 0.25rem;
+            padding: 0.3rem 0.5rem;
+            border-radius: 6px;
+            font-size: 10px;
+            font-weight: 900;
+            text-transform: uppercase;
+        }
+        .jump-btn.to-expl { background: #ECFDF5; color: #059669; border: 1px solid #D1FAE5; }
+        .jump-btn.to-q { background: #F0F9FF; color: #0284C7; border: 1px solid #E0F2FE; }
+
+        /* Animation */
+        .page-fade-in { animation: fadeIn 0.3s ease-out; }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* Nav Bar Glass */
+        .nav-glass {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            border-top: 1px solid rgba(0, 0, 0, 0.05);
+        }
+
+        /* Outline Items */
+        .outline-item {
+            padding: 1.25rem;
+            border-bottom: 1px solid #F1F5F9;
+            transition: background 0.2s;
+        }
+        .outline-item:active { background: #F1F5F9; }
+        .outline-item.active { background: #EFF6FF; border-left: 4px solid var(--accent-blue); }
+
+        /* Hide Scrollbar */
+        ::-webkit-scrollbar { display: none; }
+    </style>
+</head>
+<body class="bg-gray-50 flex flex-col h-screen">
+
+    <!-- UPLOAD OVERLAY -->
+    <div id="drop-zone" class="fixed inset-0 bg-white z-[100] flex flex-col items-center justify-center p-6 text-center">
+        <div class="space-y-8 animate-in fade-in zoom-in duration-500" onclick="document.getElementById('file-input').click()">
+            <div class="w-20 h-20 bg-blue-50 text-blue-600 rounded-3xl flex items-center justify-center mx-auto shadow-inner">
+                <i data-lucide="file-up" class="w-10 h-10"></i>
+            </div>
+            <div>
+                <h1 class="text-2xl font-black serif text-gray-900 tracking-tight">Vin Mobile</h1>
+                <p class="text-sm text-gray-400 mt-2">ファイルをタップして読込</p>
+            </div>
+            <input type="file" id="file-input" class="hidden" accept=".json">
+        </div>
+    </div>
+
+    <!-- HEADER -->
+    <header class="h-14 bg-white border-b border-gray-100 flex items-center justify-between px-4 sticky top-0 z-50 shrink-0">
+        <div class="flex items-center gap-2">
+            <div class="w-6 h-6 bg-blue-900 text-white rounded flex items-center justify-center">
+                <i data-lucide="book-open" class="w-3.5 h-3.5"></i>
+            </div>
+            <h1 class="font-black text-xs uppercase tracking-tighter">Vin <span class="text-blue-700">Mobile</span></h1>
+        </div>
+        <div id="chapter-label" class="text-[9px] font-black text-gray-400 bg-gray-50 px-2.5 py-1 rounded-full uppercase tracking-wider truncate max-w-[150px]">
+            No Data
+        </div>
+        <button onclick="location.reload()" class="p-2 text-gray-300">
+            <i data-lucide="refresh-cw" class="w-4 h-4"></i>
+        </button>
+    </header>
+
+    <!-- MAIN VIEWPORT -->
+    <main id="main-scroll" class="flex-1 overflow-y-auto overflow-x-hidden">
+        <div id="content-area" class="paper-page page-fade-in">
+            <!-- Outline or Content Injected Here -->
+            <div class="flex flex-col items-center justify-center py-40 opacity-20">
+                <i data-lucide="layers" class="w-16 h-16 mb-4"></i>
+                <p class="serif italic">Select a Section</p>
+            </div>
+        </div>
+    </main>
+
+    <!-- SEARCH BAR (Floating or Toggle) -->
+    <div id="search-container" class="fixed bottom-20 left-4 right-4 z-40 hidden">
+        <div class="bg-white border border-gray-200 shadow-2xl rounded-2xl p-2 flex items-center gap-2">
+            <i data-lucide="search" class="w-4 h-4 text-gray-400 ml-2"></i>
+            <input type="text" id="search-input" placeholder="検索キーワード..." class="flex-1 bg-transparent border-none outline-none text-sm py-2 font-medium">
+            <button onclick="toggleSearch()" class="p-2 text-gray-400"><i data-lucide="x" class="w-4 h-4"></i></button>
+        </div>
+    </div>
+
+    <!-- BOTTOM NAVIGATION -->
+    <nav class="h-16 nav-glass fixed bottom-0 left-0 right-0 flex items-center justify-around px-2 z-50">
+        <button onclick="setTab('outline')" class="nav-btn flex flex-col items-center gap-1 flex-1 text-gray-400" id="nav-outline">
+            <i data-lucide="list" class="w-5 h-5"></i>
+            <span class="text-[9px] font-bold uppercase tracking-widest">Outline</span>
+        </button>
+        <button onclick="setTab('all')" class="nav-btn flex flex-col items-center gap-1 flex-1 text-gray-400" id="nav-all">
+            <i data-lucide="layout" class="w-5 h-5"></i>
+            <span class="text-[9px] font-bold uppercase tracking-widest">Comp</span>
+        </button>
+        <button onclick="setTab('question')" class="nav-btn flex flex-col items-center gap-1 flex-1 text-gray-400" id="nav-question">
+            <i data-lucide="help-circle" class="w-5 h-5"></i>
+            <span class="text-[9px] font-bold uppercase tracking-widest">Quest</span>
+        </button>
+        <button onclick="setTab('explanation')" class="nav-btn flex flex-col items-center gap-1 flex-1 text-gray-400" id="nav-explanation">
+            <i data-lucide="message-square" class="w-5 h-5"></i>
+            <span class="text-[9px] font-bold uppercase tracking-widest">Expl</span>
+        </button>
+        <button onclick="setTab('summary')" class="nav-btn flex flex-col items-center gap-1 flex-1 text-gray-400" id="nav-summary">
+            <i data-lucide="bookmark" class="w-5 h-5"></i>
+            <span class="text-[9px] font-bold uppercase tracking-widest">Summ</span>
+        </button>
+    </nav>
+
+    <script>
+        let rawData = null;
+        let items = [];
+        let selectedSectionId = null;
+        let currentTab = 'outline'; // outline, all, question, explanation, summary
+        let searchQuery = '';
+
+        // File Handler
+        document.getElementById('file-input').addEventListener('change', (e) => {
+            const file = e.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = (re) => {
+                    try {
+                        rawData = JSON.parse(re.target.result);
+                        items = rawData.entries || rawData.items || [];
+                        initApp();
+                    } catch (err) { alert('Invalid JSON'); }
+                };
+                reader.readAsText(file);
+            }
+        });
+
+        // Auto-load if default file exists
+        window.addEventListener('DOMContentLoaded', () => {
+            fetch('/textbooks/vin_1-31.json')
+                .then(response => {
+                    if (response.ok) return response.json();
+                    throw new Error('Not found');
+                })
+                .then(data => {
+                    rawData = data;
+                    items = rawData.entries || rawData.items || [];
+                    initApp();
+                })
+                .catch(err => console.log('Default data not loaded. Please upload manually.'));
+        });
+
+        function initApp() {
+            document.getElementById('drop-zone').classList.add('hidden');
+            const meta = rawData.metadata || {};
+            document.getElementById('chapter-label').innerText = `${meta.chapter_id || ''} ${meta.chapter_title || 'Dataset'}`;
+            
+            // Auto Select First Section
+            const first = items.find(i => i.type === 'section_header');
+            if (first) selectedSectionId = first.section_id;
+
+            setTab('outline');
+        }
+
+        function setTab(tab) {
+            currentTab = tab;
+            updateNavUI();
+            render();
+            document.getElementById('main-scroll').scrollTop = 0;
+        }
+
+        function updateNavUI() {
+            document.querySelectorAll('.nav-btn').forEach(btn => btn.classList.replace('text-blue-600', 'text-gray-400'));
+            const active = document.getElementById(`nav-${currentTab}`);
+            if (active) active.classList.replace('text-gray-400', 'text-blue-600');
+        }
+
+        function selectSection(id) {
+            selectedSectionId = id;
+            setTab('all');
+        }
+
+        function render() {
+            const area = document.getElementById('content-area');
+            area.innerHTML = '';
+            area.classList.remove('page-fade-in');
+            void area.offsetWidth; // trigger reflow
+            area.classList.add('page-fade-in');
+
+            if (currentTab === 'outline') {
+                renderOutline(area);
+            } else {
+                renderContent(area);
+            }
+            lucide.createIcons();
+        }
+
+        function renderOutline(area) {
+            const sections = items.filter(i => i.type === 'section_header');
+            const html = sections.map(s => {
+                // Calculate question range for this section
+                const sectionQuestions = items.filter(i => i.type === 'question' && (i.section_id === s.section_id || i.target_s === s.section_id));
+                let qRange = '';
+                if (sectionQuestions.length > 0) {
+                    const nums = sectionQuestions.map(q => parseInt(q.number)).filter(n => !isNaN(n));
+                    if (nums.length > 0) {
+                        const min = String(Math.min(...nums)).padStart(4, '0');
+                        const max = String(Math.max(...nums)).padStart(4, '0');
+                        qRange = `qest ${min}-${max}`;
+                    }
+                }
+
+                return `
+                <div class="outline-item ${selectedSectionId === s.section_id ? 'active' : ''}" onclick="selectSection('${s.section_id}')">
+                    <div class="flex items-center gap-2 mb-2">
+                        <div class="text-[10px] font-mono font-black ${selectedSectionId === s.section_id ? 'bg-blue-600 text-white' : 'bg-blue-50 text-blue-600'} px-2 py-0.5 rounded">SEC ${s.section_id}</div>
+                        ${qRange ? `<div class="text-[9px] font-mono font-bold text-gray-400 uppercase tracking-widest">${qRange}</div>` : ''}
+                    </div>
+                    <div class="font-bold text-[15px] serif leading-tight">${s.title}</div>
+                </div>
+            `}).join('');
+            area.innerHTML = `<div class="py-4">${html}</div>`;
+        }
+
+        function renderContent(area) {
+            const search = document.getElementById('search-input').value.toLowerCase();
+            
+            let filtered = items.filter(i => {
+                // Section Filter
+                if (i.type === 'section_header') return i.section_id === selectedSectionId;
+                
+                let belongs = (i.section_id === selectedSectionId || i.target_s === selectedSectionId);
+                if (!belongs && i.type === 'explanation') {
+                    const q = items.find(it => it.id === i.target_q);
+                    belongs = q && q.section_id === selectedSectionId;
+                }
+                if (!belongs) return false;
+
+                // Tab Filter
+                if (currentTab === 'question' && i.type !== 'question') return false;
+                if (currentTab === 'explanation' && i.type !== 'explanation') return false;
+                if (currentTab === 'summary' && !['summary_box', 'grammar_term', 'deep_dive'].includes(i.type)) return false;
+
+                // Search Filter
+                if (search) {
+                    const text = JSON.stringify(i).toLowerCase();
+                    if (!text.includes(search)) return false;
+                }
+
+                return true;
+            });
+
+            let displayList = [];
+            const header = filtered.find(i => i.type === 'section_header');
+            if (header) displayList.push(header);
+
+            if (currentTab === 'all') {
+                const questions = filtered.filter(i => i.type === 'question');
+                questions.forEach(q => {
+                    displayList.push(q);
+                    const expl = filtered.find(e => e.type === 'explanation' && e.target_q === q.id);
+                    if (expl) displayList.push(expl);
+                });
+                const others = filtered.filter(i => ['summary_box', 'grammar_term', 'deep_dive'].includes(i.type));
+                displayList.push(...others);
+            } else {
+                displayList.push(...filtered.filter(i => i.type !== 'section_header'));
+            }
+
+            area.innerHTML = displayList.map(item => renderItem(item)).join('');
+        }
+
+        function renderItem(item) {
+            let html = '';
+            switch(item.type) {
+                case 'section_header':
+                    html = `<div class="mb-6 pt-2 pb-4 border-b border-gray-100">
+                        <div class="inline-block bg-slate-900 text-white text-[9px] font-black px-1.5 py-0.5 rounded-sm tracking-[0.1em] mb-2">Sec ${item.section_id}</div>
+                        <h2 class="serif text-lg font-black text-gray-800 leading-tight">${item.title}</h2>
+                    </div>`;
+                    break;
+                case 'question':
+                    const qNum = String(item.number || '').padStart(4, '0');
+                    html = `<div class="question-block">
+                        <div class="flex items-start gap-3">
+                            <div class="shrink-0 pt-0.5"><div class="q-number">${qNum}</div></div>
+                            <div class="flex-1">
+                                <div class="flex justify-between items-center mb-1">
+                                    <div class="flex gap-1">
+                                        ${item.label ? `<span class="tb-tag">${item.label}</span>` : ''}
+                                        ${item.is_basic ? `<span class="tb-tag text-blue-500">基本</span>` : ''}
+                                    </div>
+                                    <button onclick="jump('explanation', '${item.id}')" class="jump-btn to-expl"><i data-lucide="help-circle" class="w-3 h-3"></i> 解説</button>
+                                </div>
+                                <div class="eng-text mb-1">${formatText(item.en)}</div>
+                                ${renderDetails(item, ['en','label','number','is_frequent','is_basic','level'])}
+                            </div>
+                        </div>
+                    </div>`;
+                    break;
+                case 'explanation':
+                    const targetQ = items.find(it => it.id === item.target_q);
+                    const tNum = targetQ ? String(targetQ.number).padStart(4, '0') : '--';
+                    html = `<div class="flex gap-3">
+                        <div class="shrink-0 w-8 flex flex-col items-center pt-2">
+                             <div class="q-number !w-10">${tNum}</div>
+                             <button onclick="jump('question', '${item.target_q}')" class="mt-2 text-blue-300"><i data-lucide="arrow-left-circle" class="w-5 h-5"></i></button>
+                        </div>
+                        <div class="flex-1">
+                            <div class="explanation-pop">
+                                <div class="flex justify-between items-baseline mb-1 border-b border-emerald-100/30 pb-0.5">
+                                    <h4 class="font-bold text-[13px] text-gray-700">${item.title || ''}</h4>
+                                    <span class="tb-tag">${item.label || ''}</span>
+                                </div>
+                                ${renderDetails(item, ['title','label'])}
+                            </div>
+                        </div>
+                    </div>`;
+                    break;
+                case 'grammar_term':
+                    html = `<div class="term-box">
+                        <div class="font-bold text-orange-900 text-sm mb-1">${item.term}</div>
+                        ${renderDetails(item, ['term'])}
+                    </div>`;
+                    break;
+                case 'deep_dive':
+                case 'summary_box':
+                    html = `<div class="${item.type === 'deep_dive' ? 'deep-dive' : 'summary-box'}">
+                        <div class="flex items-center gap-3 mb-2">
+                            <h4 class="serif font-black text-slate-800 tracking-tight">${item.title || ''}</h4>
+                        </div>
+                        ${renderDetails(item, ['title'])}
+                    </div>`;
+                    break;
+            }
+            return `<div id="node-${item.id || item.order}" class="node">${html}</div>`;
+        }
+
+        function renderDetails(obj, exclude = []) {
+            if (!obj || typeof obj !== 'object') return '';
+            const skip = ['id', 'type', 'order', 'section_id', 'target_q', 'target_s', 'number', 'source_univ', 'is_frequent', 'is_basic', 'level', 'description', 'arrangement', 'columns', 'cols', ...exclude];
+            const keys = Object.keys(obj);
+            let lastTag = null;
+
+            return keys.map(k => {
+                if (skip.includes(k)) return '';
+                const val = obj[k];
+                if (!val) return '';
+
+                if (Array.isArray(val)) {
+                    const cols = obj.columns || obj.cols || 1;
+                    const gridClass = cols > 1 ? `grid grid-cols-${cols} gap-2 my-2` : 'space-y-1 my-1';
+                    return `<div class="${gridClass}">${val.map(v => {
+                        if (typeof v === 'object') return `<div class="p-3 bg-white/50 border border-slate-50 rounded-lg my-1">${renderDetails(v)}</div>`;
+                        return `<div class="ja-text py-0.5">${v}</div>`;
+                    }).join('')}</div>`;
+                }
+
+                if (typeof val === 'string') {
+                    if (k === 'tag') { lastTag = val; return ''; }
+                    const tagHtml = lastTag ? `<span class="bg-blue-100 text-blue-700 text-[8px] font-black px-1.5 py-0.5 rounded mr-1.5 h-fit">${lastTag}</span>` : '';
+                    lastTag = null;
+                    
+                    let content = '';
+                    if (k === 'en') content = `<div class="eng-text !text-[13px]">${formatText(val)}</div>`;
+                    else if (k === 'ja') content = `<div class="ja-text">${val}</div>`;
+                    else if (k === 'text' || k === 'note') content = `<div class="supp-text ${k==='note'?'opacity-60':''} leading-normal">${val}</div>`;
+                    else if (k === 'answer') content = `<div class="text-[10px] font-black text-blue-600 bg-blue-50 px-1.5 py-0.5 rounded border border-blue-100 w-fit">Ans: ${val}</div>`;
+                    else if (k === 'solution') content = `<div class="ja-text p-2 bg-gray-50/50 border border-gray-100 rounded leading-tight"><span class="bg-emerald-600 text-white text-[9px] font-black px-1 py-0.5 rounded-sm mr-1">sol</span>${val}</div>`;
+                    else content = `<div class="ja-text">${val}</div>`;
+
+                    if ((k === 'ja' || k === 'answer' || k === 'solution') && obj.type === 'question') {
+                        return `<div class="masked-container" onclick="this.classList.add('revealed'); lucide.createIcons();">
+                            <div class="masked-content">${content}</div>
+                            <div class="mask-btn"><i data-lucide="eye" class="w-3 h-3 mr-2"></i> ${k==='ja'?'和訳':k==='answer'?'正解':'解説'}を表示</div>
+                        </div>`;
+                    }
+                    return `<div class="flex items-start my-1">${tagHtml}${content}</div>`;
+                }
+                return '';
+            }).join('');
+        }
+
+        function formatText(text) {
+            if (!text) return '';
+            return text.replace(/\\n/g, '<br>')
+                .replace(/\n/g, '<br>')
+                .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+                .replace(/\*(.*?)\*/g, '<em>$1</em>')
+                .replace(/__(.*?)__/g, '<span class="underline">$1</span>')
+                .replace(/\[r\](.*?)\[\/r\]/g, '<span class="text-red-600 font-bold">$1</span>')
+                .replace(/\[b\](.*?)\[\/b\]/g, '<span class="text-blue-600 font-bold">$1</span>')
+                .replace(/\[g\](.*?)\[\/g\]/g, '<span class="text-emerald-700 font-bold">$1</span>')
+                .replace(/\[m\](.*?)\[\/m\]/g, '<mark class="bg-yellow-100">$1</mark>')
+                .replace(/\(\s+\)/g, '<span class="text-red-500 font-bold">(&nbsp;&nbsp;&nbsp;)</span>');
+        }
+
+        function jump(tab, id) {
+            setTab(tab);
+            setTimeout(() => {
+                const el = document.getElementById(`node-${id}`);
+                if (el) {
+                    el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                    el.classList.add('ring-4', 'ring-blue-100', 'rounded-lg');
+                    setTimeout(() => el.classList.remove('ring-4', 'ring-blue-100'), 1500);
+                }
+            }, 100);
+        }
+
+        function toggleSearch() {
+            const sc = document.getElementById('search-container');
+            sc.classList.toggle('hidden');
+            if (!sc.classList.contains('hidden')) document.getElementById('search-input').focus();
+        }
+
+        document.getElementById('search-input').addEventListener('input', () => render());
+
+        lucide.createIcons();
+    </script>
+</body>
+</html>
