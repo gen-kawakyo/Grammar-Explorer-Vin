@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "source": "vin4",
+    "field": "grammar",
+    "chapter_id": "15",
+    "chapter_title": "語順（倒置）・省略・強調"
+  },
+  "items": [
+    {
+      "order": 1237,
+      "type": "section_header",
+      "section_id": "135",
+      "title": "倒置"
+    },
+    {
+      "order": 1238,
+      "id": "15-135-c-043",
+      "type": "confirmation_box",
+      "target_s": "135",
+      "number": "043",
+      "title": "倒置",
+      "content": [
+        { "text": "表現上の効果を上げるために、通常の語順が変更されることを「倒置」と呼ぶ。否定の副詞表現が文頭に来て、そのあとが疑問文と同じ語順になるのが代表的な倒置形である。" }
+      ]
+    },
+    {
+      "order": 1239,
+      "id": "15-135-q-494",
+      "type": "question",
+      "section_id": "135",
+      "number": "494",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Never ( ) I dream of making a fortune by investing in the stock market.",
+      "options": ["① had", "② did", "③ am", "④ have"],
+      "ja": "株式市場に投資して財産を築くなどとは、夢にも思わなかった。",
+      "answer": "②",
+      "source_univ": "城西大"
+    },
+    {
+      "order": 1240,
+      "id": "15-135-e-494",
+      "type": "explanation",
+      "target_q": "15-135-q-494",
+      "title": "文頭の副詞 Never と動詞 dream に注目",
+      "label": "◆倒置―否定の副詞が文頭に来る場合",
+      "content": [
+        { "text": "否定の意味の副詞表現が文頭に来ると、そのあとは倒置形（＝疑問文と同じ語順）になる。" },
+        { "text": "Hardly had S done ... (→ 287), No sooner had S done ... (→ 285) も倒置表現。" }
+      ],
+      "solution": [
+        { "text": "否定の副詞 Never が文頭に来ているので、倒置形の did I dream ... という疑問文と同じ語順にする。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① had や ④ have を用いた完了形の倒置形ならば、 Never have[had] I **dreamed** ... という語順になり、 I の後ろは過去分詞 dreamed となる。" },
+        { "tag": "重要", "text": "dream of doing 「…することを夢見る」" }
+      ]
+    },
+    {
+      "order": 1241,
+      "id": "15-135-q-495",
+      "type": "question",
+      "section_id": "135",
+      "number": "495",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "我々は、彼がその試合に負けるなどとは思ってもみなかった。\n( ) ( ) ( ) ( ) ( ) he would lose the game.",
+      "options": ["think", "did", "that", "little", "we", "no"],      
+      "q_type": "ordering",
+      "ja": "我々は、彼がその試合に負けるなどとは思ってもみなかった。（1語不要）",
+      "answer": "Little did we think that",
+      "source_univ": "成蹊大"
+    },
+    {
+      "order": 1242,
+      "id": "15-135-e-495",
+      "type": "explanation",
+      "target_q": "15-135-q-495",
+      "title": "Little did S think",
+      "label": "◆倒置―否定の副詞が文頭に来る場合",
+      "content": [],
+      "solution": [
+        { "text": "否定の意味の副詞 little を文頭に置き、そのあとに倒置形 did we think that ... を続ける。 〈Little did S think that SV〉 「…するなどとは S は思ってもみなかった」 という一種の慣用表現として覚えよう。" },
+        { "text": "この表現の動詞は think 以外に know, dream, understand, imagine, realize なども用いられる。" },
+        { "text": "この場合の副詞 little は情緒的に「決して…ない」という強い否定の意味を表す。「ほとんど…ない」という準否定の意味ではないことに注意。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1243,
+      "id": "15-135-q-496",
+      "type": "question",
+      "section_id": "135",
+      "number": "496",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "今ほど緊張したことはこれまでになかった。\nAt (been / have / I / more nervous / no / time) than I am now.",
+      "q_type": "ordering",
+      "ja": "今ほど緊張したことはこれまでになかった。",
+      "answer": "no time have I been",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 1244,
+      "id": "15-135-e-496",
+      "type": "explanation",
+      "target_q": "15-135-q-496",
+      "title": "文頭の At no とに注目",
+      "label": "◆倒置―否定の副詞句が文頭に来る場合",
+      "content": [],
+      "solution": [
+        { "text": "本問は否定の意味の副詞句 At no time を文頭に置き、そのあとに倒置形 have I been ... を続ける。" },
+        { "text": "I have been more nervous という語順が、 have I been ... という疑問文と同じ語順に変わる点に注意すること。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1245,
+      "id": "15-135-q-497",
+      "type": "question",
+      "section_id": "135",
+      "number": "497",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "労働者は賃上げを要求するだけでなく、労働時間の削減も望んでいる。\nNot (a pay increase / do / only / the workers / want), but they also want reduced hours.",
+      "q_type": "ordering",
+      "ja": "労働者は賃上げを要求するだけでなく、労働時間の削減も望んでいる。",
+      "answer": "only do the workers want",
+      "source_univ": "東京理科大"
+    },
+    {
+      "order": 1246,
+      "id": "15-135-e-497",
+      "type": "explanation",
+      "target_q": "15-135-q-497",
+      "title": "倒置―not only A but (also) B 「Aだけでなく Bも」 の場合",
+      "label": "◆倒置",
+      "content": [
+        { "text": "not only A but (also) B (→ 267) の表現で、A と B のどちらにも文が来る場合、 not only が文頭に置かれると A に来る文だけは倒置形になる。" }
+      ],
+      "solution": [
+        { "text": "本問は、与えられた日本語から The workers not only want a pay increase, but ... という文を前提に考え、書き出しが Not で指定されているので、 not only を文頭に置いた Not only **do the workers want** ... という倒置形にする。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1247,
+      "id": "15-135-q-498",
+      "type": "question",
+      "section_id": "135",
+      "number": "498",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "最近になってようやく、親の教えの大切さがわかった。\nOnly (have / I / importance / lessons / my / of / parents' / realized / recently / the).",
+      "q_type": "ordering",
+      "ja": "最近になってようやく、親の教えの大切さがわかった。",
+      "answer": "recently have I realized the importance of my parents' lessons",
+      "source_univ": "兵庫県立大"
+    },
+    {
+      "order": 1248,
+      "id": "15-135-e-498",
+      "type": "explanation",
+      "target_q": "15-135-q-498",
+      "title": "〈only + 副詞表現〉 が文頭に来ると、そのあとは倒置形になる。",
+      "label": "◆倒置",
+      "content": [
+        { "en": "Only in this way can I explain the problem.", "ja": "「その問題はこのようにしか説明できない」" }
+      ],
+      "solution": [
+        { "text": "本問は Only recently を文頭に置き、そのあとに倒置形 have I realized ... を続ける。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1249,
+      "id": "15-135-q-499",
+      "type": "question",
+      "section_id": "135",
+      "number": "499",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "そのオペラはイタリア語で公演され、私には一言もわからなかったし、そのストーリーも知らなかった。\nThe opera was performed in Italian, and I did not understand a word of it, (the story / I / did / know / nor).",
+      "q_type": "ordering",
+      "ja": "そのストーリーも知らなかった。",
+      "answer": "nor did I know the story",
+      "source_univ": "駒澤大"
+    },
+    {
+      "order": 1250,
+      "id": "15-135-e-499",
+      "type": "explanation",
+      "target_q": "15-135-q-499",
+      "title": "「…も知らなかった」 と nor に注目",
+      "label": "◆倒置―nor のあとに文が来る場合",
+      "content": [
+        { "text": "等位接続詞 nor (→ 261) のあとに文が来る場合は倒置形になる。" }
+      ],
+      "solution": [
+        { "text": "「そのストーリーも知らなかった」は、接続詞 nor のあとに倒置形 did I know the story を続ける。本問は ..., and I did not know the story, either. と書きかえられる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1251,
+      "type": "section_header",
+      "section_id": "136",
+      "title": "Neither / Nor / So に続く語順"
+    },
+    {
+      "order": 1252,
+      "id": "15-136-q-500",
+      "type": "question",
+      "section_id": "136",
+      "number": "500",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "\"I haven't been here before.\"\n\"Is that so? ( ).\"",
+      "options": ["① I haven't neither", "② Nor I haven't", "③ I neither did", "④ Neither have I"],
+      "ja": "「ここに今までは来たことがない」「そうですか？ 私もありません」",
+      "answer": "④",
+      "source_univ": "明治大"
+    },
+    {
+      "order": 1253,
+      "id": "15-136-e-500",
+      "type": "explanation",
+      "target_q": "15-136-q-500",
+      "title": "〈Neither [Nor] + 助動詞 [be 動詞] + S.〉 「S もまた…ない」",
+      "label": "◆Neither / Nor + V + S",
+      "content": [
+        { "text": "前文の否定の内容を受けて 「S もまた…ない」 という場合は、 〈Neither [Nor] + 助動詞 [be 動詞] + S.〉 を用いる。この表現は 〈否定文, (,) either.〉 (→ 484) と同意。" },
+        { "tag": "△注意", "text": "ここでの 「助動詞」 とは、一般動詞を受ける場合は do / does / did を、完了形を受ける場合は have / has / had を指す。" }
+      ],
+      "solution": [
+        { "text": "④ Neither have I を選ぶと、「私もここに来たことがない」という文章が成立する。本問は I haven't been here before, either. と書きかえられる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1254,
+      "id": "15-136-q-501",
+      "type": "question",
+      "section_id": "136",
+      "number": "501",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "\"I didn't make any mistakes in the math quiz!\"\n\"( ) did I.\"",
+      "options": ["① Also", "② But", "③ Nor", "④ Yet"],
+      "ja": "「数学の小テストで1問もミスをしなかったぞ！」「僕もしなかったよ」",
+      "answer": "③",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 1255,
+      "id": "15-136-e-501",
+      "type": "explanation",
+      "target_q": "15-136-q-501",
+      "title": "空所のあとの語順に注目",
+      "label": "◆〈Nor + 助動詞 [be 動詞] + S.〉 「S もまた…ない」",
+      "content": [],
+      "solution": [
+        { "text": "空所のあとの did I という語順に注目して ③ Nor を選ぶと、 〈Nor + 助動詞 + S.〉 という形になり、「僕もミスをしなかった」という文章が成立する。 Nor did I. は I didn't make any mistakes in the math quiz, either. と書きかえられる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1256,
+      "id": "15-136-q-502",
+      "type": "question",
+      "section_id": "136",
+      "number": "502",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "As fuel prices rose, bus companies raised their fares and ( ).",
+      "options": ["① so did the airlines", "② neither did the airlines", "③ so the airlines have done", "④ neither the airlines did"],
+      "ja": "燃料の価格が上がったので、バス会社は運賃を引き上げ、航空会社も同様にした。",
+      "answer": "①",
+      "source_univ": "清泉女子大"
+    },
+    {
+      "order": 1257,
+      "id": "15-136-e-502",
+      "type": "explanation",
+      "target_q": "15-136-q-502",
+      "title": "〈So + 助動詞 [be 動詞] + S.〉 「S もまた…である」",
+      "label": "◆So + V + S",
+      "content": [
+        { "text": "前文の肯定の内容を受けて 「S もまた…である」 という場合は、 〈So + 助動詞 [be 動詞] + S.〉 という表現を用いる。この表現は 〈肯定文, (,) too.〉 (→ 484) と同意。" }
+      ],
+      "solution": [
+        { "text": "① so did the airlines を選ぶと、「航空会社も運賃を引き上げた」という文章が成立する。本問は ... the airlines raised their fares, too. と同意。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1258,
+      "type": "section_header",
+      "section_id": "137",
+      "title": "so / as / too / how に続く語順"
+    },
+    {
+      "order": 1259,
+      "id": "15-137-q-503",
+      "type": "question",
+      "section_id": "137",
+      "number": "503",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "先週の日曜日はとても天気が良かったので田舎にドライブに出かけた。\nLast Sunday was (beautiful / day / that / we / a / so) took a drive in the country.",
+      "q_type": "ordering",
+      "ja": "先週の日曜日はとても天気が良かったので田舎にドライブに出かけた。",
+      "answer": "so beautiful a day that we",
+      "source_univ": "関東学院大"
+    },
+    {
+      "order": 1260,
+      "id": "15-137-e-503",
+      "type": "explanation",
+      "target_q": "15-137-q-503",
+      "title": "so に続く語順 ― 〈so + 形容詞 + a / an + 名詞〉",
+      "label": "◆so / as / too / how + 形容詞 + a / an + 名詞",
+      "content": [
+        { "text": "副詞 so / as / too / how に 〈a / an + 形容詞 + 名詞〉 が続く場合は、 〈so [as / too / how] + 形容詞 + a / an + 名詞〉 の語順になる。" },
+        { "text": "「結果・程度」を表す 〈so ... that 〜〉 (→ 306) の 「…」 の部分に 〈a / an + 形容詞 + 名詞〉 が来る場合は 〈so + 形容詞 + a / an + 名詞〉 の語順になる。" },
+        { "tag": "△注意", "text": "「結果・程度」を表す 〈such ... that 〜〉 (→ 307) の 「…」 の部分に 〈a / an + 形容詞 + 名詞〉 が来る場合は 〈such + a / an + 形容詞 + 名詞〉 の語順になる。本問は Last Sunday was such a beautiful day that ... と書きかえられる。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1261,
+      "id": "15-137-q-504",
+      "type": "question",
+      "section_id": "137",
+      "number": "504",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Chopin (as / a / good / as / pianist / was) a composer.",
+      "q_type": "ordering",
+      "ja": "ショパンは優れた作曲家であり、同時にすばらしいピアニストでもあった。",
+      "answer": "was as good a pianist as",
+      "source_univ": "岩手医科大"
+    },
+    {
+      "order": 1262,
+      "id": "15-137-e-504",
+      "type": "explanation",
+      "target_q": "15-137-q-504",
+      "title": "as に続く語順 ― 〈as + 形容詞 + a / an + 名詞〉",
+      "label": "◆as + 形容詞 + a / an + 名詞",
+      "content": [],
+      "solution": [
+        { "text": "原級を用いた 〈as ... as〉 (→ Section 106 (p.175)) の 「…」 の部分に 〈a / an + 形容詞 + 名詞〉 が来る場合は 〈as + 形容詞 + a / an + 名詞 + as〉 の語順になる。" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "前置詞 as 「…として」 (→ 343) の場合は 〈as a / an + 形容詞 + 名詞〉 の語順になる。\nHe is famous as a classical pianist. 「彼はクラシックのピアニストとして有名だ」" }
+      ]
+    },
+    {
+      "order": 1263,
+      "id": "15-137-q-505",
+      "type": "question",
+      "section_id": "137",
+      "number": "505",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "It was much ( ) problem, so nobody was able to solve it.",
+      "options": ["① a too difficult", "② too a difficult", "③ too difficult", "④ too difficult a"],
+      "ja": "それはあまりに難解な問題だったので、だれも解くことができなかった。",
+      "answer": "④",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 1264,
+      "id": "15-137-e-505",
+      "type": "explanation",
+      "target_q": "15-137-q-505",
+      "title": "too に続く語順 ― 〈too + 形容詞 + a / an + 名詞〉",
+      "label": "◆too + 形容詞 + a / an + 名詞",
+      "content": [
+        { "text": "副詞 too に 〈a / an + 形容詞 + 名詞〉 を続ける場合は、 〈too + 形容詞 + a / an + 名詞〉 の語順になる。 ④ を選べば、 too difficult a problem 「難しすぎる問題」 となる。" }
+      ],
+      "solution": [
+        { "text": "空所の前の much は副詞で、 〈too + 形容詞［副詞］〉 を強調している (→ 836) 。 〈much too + 形容詞［副詞］〉 という形で用いて、「あまりに…すぎる」という意味になる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1265,
+      "id": "15-137-q-506",
+      "type": "question",
+      "section_id": "137",
+      "number": "506",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I think he is ( ) teacher.",
+      "options": ["① a so patient", "② such a patient", "③ so a patient", "④ a such patient"],
+      "ja": "彼はとても忍耐強い教師だと思います。",
+      "answer": "②",
+      "source_univ": "芝浦工業大"
+    },
+    {
+      "order": 1266,
+      "id": "15-137-e-506",
+      "type": "explanation",
+      "target_q": "15-137-q-506",
+      "title": "such に続く語順 ― 〈such + a / an + 形容詞 + 名詞〉",
+      "label": "◆such + a / an + 形容詞 + 名詞",
+      "content": [
+        { "text": "such に 〈a / an + 形容詞 + 名詞〉 を続ける場合は、 〈such + a / an + 形容詞 + 名詞〉 の語順になる。" }
+      ],
+      "solution": [
+        { "tag": "選択肢", "text": "①, ③ の so は so patient a teacher という語順ならば正解となる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1267,
+      "type": "section_header",
+      "section_id": "138",
+      "title": "その他の注意すべき語順"
+    },
+    {
+      "order": 1268,
+      "id": "15-138-q-507",
+      "type": "question",
+      "section_id": "138",
+      "number": "507",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "My child leaves her toys all over the room and I have to pick ( ).",
+      "options": ["① them up", "② themselves up", "③ up them", "④ up themselves"],
+      "ja": "子どもが部屋中におもちゃを放りっぱなしにするので、私が拾い集めなければいけない。",
+      "answer": "①",
+      "source_univ": "金沢医科大"
+    },
+    {
+      "order": 1269,
+      "id": "15-138-e-507",
+      "type": "explanation",
+      "target_q": "15-138-q-507",
+      "title": "〈他動詞 + 副詞〉 のイディオムでの目的語の位置",
+      "label": "◆〈他動詞 + 副詞〉",
+      "content": [
+        { "text": "左頁の しっかり理解 021 を参照。" }
+      ],
+      "solution": [
+        { "text": "〈他動詞 + 副詞〉 のイディオムである 「Aを拾い上げる」 は pick up A と pick A up の2つの語順を取ることができるが、本問は A が代名詞 them なので ① pick them up だけが正しい。 ③ の (×) pick up them は不可。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1270,
+      "id": "15-138-d-021",
+      "type": "deep_dive",
+      "target_s": "138",
+      "number": "021",
+      "title": "〈他動詞 + 副詞〉 のイディオムでの目的語の位置",
+      "content": [
+        { "tag": "(1)", "label": "目的語が名詞の場合は 〈他動詞 + 副詞 + 名詞〉 と 〈他動詞 + 名詞 + 副詞〉 のどちらの語順も可。", "items": [
+          { "en": "put on my shoes = put my shoes on", "ja": "「靴をはく」" },
+          { "en": "take off a hat = take a hat off", "ja": "「帽子を脱ぐ」" }
+        ]},
+        { "tag": "(2)", "label": "目的語が代名詞の場合は 〈他動詞 + 代名詞 + 副詞〉 の語順のみ可。", "items": [
+          { "tag": "○", "en": "put them on / take it off" },
+          { "tag": "×", "en": "put on them / take off it" }
+        ]}
+      ]
+    },
+    {
+      "order": 1271,
+      "id": "15-138-q-508",
+      "type": "question",
+      "section_id": "138",
+      "number": "508",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Among the audience ( ) the President and her daughter.",
+      "options": ["① being", "② having been", "③ was", "④ were"],
+      "ja": "観客の中には大統領とその娘がいた。",
+      "answer": "④",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 1272,
+      "id": "15-138-e-508",
+      "type": "explanation",
+      "target_q": "15-138-q-508",
+      "title": "〈場所を表す前置詞句 + V + S〉",
+      "label": "◆倒置",
+      "content": [
+        { "text": "場所を表す前置詞句が文頭に来ると、そのあとは VS という倒置形になることがある。" },
+        { "en": "(例) Between the two pine trees stands a cherry tree.", "ja": "「2本の松の間には桜の木が立っている」" },
+        { "text": "〈Between the two pine trees (場所を表す前置詞句) stands (V) a cherry tree (S)〉 という語順。" }
+      ],
+      "solution": [
+        { "text": "場所を表す前置詞句 Among the audience が文頭に来て、そのあとが were (V) the President and her daughter (S) という語順なら構造と文意が成立する。" },
+        { "text": "Among the audience 「その観客の中には」 (旧情報) → were 「存在した」 → the President and her daughter 「大統領と彼女の娘が」 (新情報) という情報展開。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① being と ② having been の形は述語動詞 V に用いることはできないので不可。主語 S は 「大統領と娘」 の2人。よって述語動詞に ③ was を用いることはできない。" }
+      ]
+    },
+    {
+      "order": 1273,
+      "type": "section_header",
+      "section_id": "139",
+      "title": "省略"
+    },
+    {
+      "order": 1274,
+      "id": "15-139-q-509",
+      "type": "question",
+      "section_id": "139",
+      "number": "509",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The lady is very quiet and doesn't speak unless ( ).",
+      "options": ["① spoken to", "② she is not spoken", "③ she speaks", "④ never speaking"],
+      "ja": "その女性はとても物静かで、話しかけられない限り、口をきくことはない。",
+      "answer": "①",
+      "source_univ": "獨協医科大"
+    },
+    {
+      "order": 1275,
+      "id": "15-139-e-509",
+      "type": "explanation",
+      "target_q": "15-139-q-509",
+      "title": "副詞節内の 〈S + be 動詞〉 の省略 ― 〈接続詞 + done〉",
+      "label": "◆省略",
+      "content": [
+        { "note": "→ 整理して覚える 042 (p. 228)" },
+        { "text": "省略しても意味が通じるとき、副詞節内で 〈S + be 動詞〉 が省略されることがある。" }
+      ],
+      "solution": [
+        { "text": "unless **she is** spoken to から、 〈S + be 動詞〉 の she is が省略された ① が正解。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "text": "接続詞が導く副詞節内での 〈S + be 動詞〉 の省略の例。いずれも ( ) 内が省略されていると考えればよい。\nwhen (she was) young 「若かったころ」、when (he is) walking 「散歩中」、when (they are) injured 「けがをしたとき」、when (I was) in Japan 「日本にいたころ」" },
+        { "tag": "重要", "text": "speak to A 「Aに話しかける」 (→ 622) → A is spoken to (受動態)" }
+      ]
+    },
+    {
+      "order": 1276,
+      "id": "15-139-q-510",
+      "type": "question",
+      "section_id": "139",
+      "number": "510",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "There are few mistakes, if ( ), in this long essay.",
+      "options": ["① some", "② any", "③ even", "④ there are"],
+      "ja": "この長い作文には、たとえあるにしても、ほとんど間違いはない。",
+      "answer": "②",
+      "source_univ": "立命館大"
+    },
+    {
+      "order": 1277,
+      "id": "15-139-e-510",
+      "type": "explanation",
+      "target_q": "15-139-q-510",
+      "title": "if any 「たとえあるにしても」",
+      "label": "◆省略",
+      "content": [
+        { "text": "if any は、準否定の数量を表す形容詞 few / little 「…はほとんどない」 と一緒に用いて、「たとえあるにしても、…はほとんど存在しない」という意味になる。 [if there are[is] any + 名詞] から名詞と [is] が省略された、一種の慣用表現として覚えよう。そのほかの if を用いた省略の慣用表現は、次頁の 整理して覚える 042 を参照。" }
+      ],
+      "solution": [
+        { "text": "本問は There are few, if any, mistakes .... という語順になることもある。" },
+        { "tag": "プラス", "text": "if any は 「もしあれば」 という 「条件」 の意味を表すこともある。\nWould you read my letter and correct the mistakes, **if any**?\n「私の手紙を読んで、もしあればミスを訂正してください」" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1278,
+      "id": "15-139-s-042",
+      "type": "summary_box",
+      "target_s": "139",
+      "number": "042",
+      "title": "if を用いた省略の慣用表現",
+      "content": [
+        { "tag": "□ if any", "ja": "「たとえあるにしても／もしあれば」", "note": "→ 510" },
+        { "tag": "□ if anything", "ja": "「どちらかと言えば」" },
+        { "tag": "□ if ever", "ja": "「たとえあるにしても」", "note": "→ 511" },
+        { "tag": "□ A, if not B", "ja": "「B とは言わないまでも A (とは言える)」「A, いや B かもしれない」" },
+        { "tag": "□ if so", "ja": "「そうだとしたら」" },
+        { "tag": "□ if not", "ja": "「そうでないとしたら」" },
+        { "tag": "□ if necessary", "ja": "「必要ならば」" },
+        { "tag": "□ if possible", "ja": "「可能なら／できれば」" }
+      ]
+    },
+    {
+      "order": 1279,
+      "id": "15-139-q-511",
+      "type": "question",
+      "section_id": "139",
+      "number": "511",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Mr. and Mrs. Thatcher seldom, if ( ), go out in the evening.",
+      "options": ["① any", "② few", "③ little", "④ ever"],
+      "ja": "サッチャー夫妻は、たとえあるにしても、めったに夜は外出しない。",
+      "answer": "④",
+      "source_univ": "工学院大"
+    },
+    {
+      "order": 1280,
+      "id": "15-139-e-511",
+      "type": "explanation",
+      "target_q": "15-139-q-511",
+      "title": "if ever 「たとえあるにしても」",
+      "label": "◆省略",
+      "content": [
+        { "text": "if ever は、頻度・回数を表す準否定の副詞 seldom / rarely 「めったに…しない」 と一緒に用いて、「たとえ…することあるにしても、めったに…しない」という意味になる。 if S ever do から S と do が省略された、一種の慣用表現として覚えよう。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1281,
+      "type": "section_header",
+      "section_id": "140",
+      "title": "強調構文"
+    },
+    {
+      "order": 1282,
+      "id": "15-140-q-512",
+      "type": "question",
+      "section_id": "140",
+      "number": "512",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "君に解いてもらいたいのは他でもなくこの問題なんだ。\nIt is this question (solve / I / to / you / want / that).",
+      "q_type": "ordering",
+      "ja": "君に解いてもらいたいのは他でもなくこの問題なんだ。",
+      "answer": "that I want you to solve",
+      "source_univ": "千葉工業大"
+    },
+    {
+      "order": 1283,
+      "id": "15-140-e-512",
+      "type": "explanation",
+      "target_q": "15-140-q-512",
+      "title": "強調構文 ― 名詞（目的語）を強調",
+      "label": "◆強調構文",
+      "content": [
+        { "note": "→ しっかり理解 022 (p. 230)" },
+        { "text": "強調構文の作り方は、次頁の しっかり理解 022 を参照。" }
+      ],
+      "solution": [
+        { "text": "I want you to solve this question. 「君にこの問題を解いてもらいたい」 を前提にして、目的語 this question を It is ... that ではさんで強調する文を完成させる。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "want A to do 「A に … してもらいたい」" }
+      ]
+    },
+    {
+      "order": 1284,
+      "id": "15-140-q-513",
+      "type": "question",
+      "section_id": "140",
+      "number": "513",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "It was because he was ill ( ) we gave up traveling.",
+      "options": ["① as", "② for", "③ so", "④ that"],
+      "ja": "私たちが旅行を辞めたのは、彼が病気だったからでした。",
+      "answer": "④",
+      "source_univ": "東北学院大"
+    },
+    {
+      "order": 1285,
+      "id": "15-140-e-513",
+      "type": "explanation",
+      "target_q": "15-140-q-513",
+      "title": "強調構文 ― 副詞節 (接続詞+文) を強調",
+      "label": "◆強調構文",
+      "content": [],
+      "solution": [
+        { "text": "本問は We gave up traveling because he was ill. 「彼が病気だったから旅行をやめた」 を前提にして、副詞節 because he was ill を It was ... that ではさんで強調した文。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1286,
+      "id": "15-140-q-514",
+      "type": "question",
+      "section_id": "140",
+      "number": "514",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "警察が到着したのは，事故があって2時間も経ってからでした。\nIt was (after / not / that / the accident / the police / two hours / until) arrived.",
+      "q_type": "ordering",
+      "ja": "警察が到着したのは，事故があって2時間も経ってからでした。",
+      "answer": "not until two hours after the accident that the police",
+      "source_univ": "武庫川女子大"
+    },
+    {
+      "order": 1287,
+      "id": "15-140-e-514",
+      "type": "explanation",
+      "target_q": "15-140-q-514",
+      "title": "It is not until ... that 〜 「…して初めて〜する」",
+      "label": "◆It is not until ... that 〜",
+      "content": [
+        { "text": "It is not until ... that 〜 は 「…するまでは〜することはない」 が直訳。そこから 「…して初めて〜する」 という意味になる。強調構文を用いた慣用表現として覚えよう。" }
+      ],
+      "solution": [
+        { "text": "本問は 「事故があって2時間経つまでは警察が到着することはなかった」 が直訳。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "text": "「…して初めて〜する」 は 〈Not until ... + 倒置形 〜〉 という形で表現することもできる。 It is not until ... that 〜 の強調対象 It is と that を外し、否定の副詞節 Not until ... が文頭に来ることになるので、 〜 の部分は倒置形になると理解すればよい。\n**514** = **Not until** two hours after the accident **did the police arrive.**" }
+      ]
+    },
+    {
+      "order": 1288,
+      "id": "15-140-q-515",
+      "type": "question",
+      "section_id": "140",
+      "number": "515",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) you went into the room with?",
+      "options": ["① Who she was", "② What is she", "③ Who it was that", "④ Who was it that"],
+      "ja": "その部屋にあなたと一緒に入った人はいったいだれだったのですか。",
+      "answer": "④",
+      "source_univ": "西南学院大"
+    },
+    {
+      "order": 1289,
+      "id": "15-140-e-515",
+      "type": "explanation",
+      "target_q": "15-140-q-515",
+      "title": "強調構文 ― 疑問詞の強調",
+      "label": "◆強調構文",
+      "content": [
+        { "note": "p. 231 の しっかり理解 023 を参照。" },
+        { "text": "強調構文で疑問詞を強調する場合は 〈疑問詞 + is[was] it that ...?〉 という語順になる。" }
+      ],
+      "solution": [
+        { "text": "It was X that you went into the room with. 「君と一緒に部屋に入ったのは X 氏だった」 を前提にして、 X を疑問代名詞 who に変えて文頭に移動し、 it was を疑問文の語順 was it に変えたと考える。" },
+        { "tag": "512", "text": "→ **What is it that** you want me to solve? 「私に解いてほしいのはいったい何ですか」" },
+        { "tag": "513", "text": "→ **Why was it that** you gave up traveling?\n「あなたたちが旅行をやめたのはいったいなぜだったのですか」" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1290,
+      "id": "15-140-q-516",
+      "type": "question",
+      "section_id": "140",
+      "number": "516",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "子どもたちが育つ世界は大人が創っている。\n(adults / children / create / it / is / the world / their / where / who) will grow up.",
+      "q_type": "ordering",
+      "ja": "子どもたちが育つ世界は大人が創っている。",
+      "answer": "It is adults who create the world where their",
+      "source_univ": "龍谷大"
+    },
+    {
+      "order": 1291,
+      "id": "15-140-e-516",
+      "type": "explanation",
+      "target_q": "15-140-q-516",
+      "title": "強調構文 ― 名詞（主語）を強調",
+      "label": "◆強調構文",
+      "content": [
+        { "text": "強調構文で強調される語句が 「人」 の場合は、 that 以外に who / whom も用いられる。 「人以外」 が強調される場合は which も用いられる。" }
+      ],
+      "solution": [
+        { "text": "Adults create the world where their children will grow up. を完成させてから、主語 adults を It is ... who ではさんで強調する。この who は強調構文の that の代用。" },
+        { "text": "本問は 「子どもたちが育つ世界を創っているのは、大人だ」 が直訳。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1292,
+      "id": "15-140-d-022",
+      "type": "deep_dive",
+      "target_s": "140",
+      "number": "022",
+      "title": "強調構文",
+      "content": [
+        { "text": "文の中で特に強調したい要素を It is[was] と that ではさんで強調する表現を 「強調構文」 と呼ぶ。" },
+        { "tag": "(1)", "text": "強調構文で強調できる要素は名詞（句・節）か副詞（句・節）だけである。" },
+        { "tag": "(2)", "label": "「人」 を強調する場合は that の代わりに who / whom を用いることもある。 → 516", "items": [] },
+        { "tag": "(3)", "label": "「人以外」 を強調する場合は that の代わりに which を用いることもある。", "items": [] },
+        { "label": "Mike found this letter in her room yesterday. 「マイクは昨日、彼女の部屋でこの手紙を見つけた」 の例から①〜④の強調構文を作ることができる。", "items": [
+          { "tag": "例①", "text": "It was **Mike** that[who] found this letter in her room yesterday.", "label": "← 主語 Mike を強調" },
+          { "tag": "例②", "text": "It was **this letter** that[which] Mike found in her room yesterday.", "label": "← 目的語 this letter を強調" },
+          { "tag": "例③", "text": "It was **in her room** that Mike found this letter yesterday.", "label": "← 副詞句 (in her room) を強調" },
+          { "tag": "例④", "text": "It was **yesterday** that Mike found this letter in her room.", "label": "← 副詞 yesterday を強調" }
+        ]}
+      ]
+    },
+    {
+      "order": 1293,
+      "type": "section_header",
+      "section_id": "141",
+      "title": "さまざまな強調表現"
+    },
+    {
+      "order": 1294,
+      "id": "15-141-q-517",
+      "type": "question",
+      "section_id": "141",
+      "number": "517",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "私は，子どものころにピアノが弾けるようになれなかったことを，本当に悔やんでいます。\nI (piano / do / learning / play / to / the / not / regret) when I was a child.",
+      "q_type": "ordering",
+      "ja": "私は，子どものころにピアノが弾けるようになれなかったことを，本当に悔やんでいます。",
+      "answer": "do regret not learning to play the",
+      "source_univ": "関西学院大"
+    },
+    {
+      "order": 1295,
+      "id": "15-141-e-517",
+      "type": "explanation",
+      "target_q": "15-141-q-517",
+      "title": "do による動詞の強調 ― 〈do / does / did + 原形〉",
+      "label": "◆do による強調",
+      "content": [
+        { "text": "助動詞 do / does / did は動詞を肯定的に強調することができる。 do / does / did のあとの動詞は原形となることに注意。" },
+        { "en": "He **does** drink a lot. 「彼は本当によく飲む」" },
+        { "en": "I **did** witness a miracle. 「私は実際に奇跡を目にした」" }
+      ],
+      "solution": [
+        { "text": "助動詞 do を動詞 regret を強調するように regret の前に置く。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "regret doing 「…したことを後悔する」 → 545" },
+        { "tag": "重要", "text": "learn to do 「…できるようになる」" }
+      ]
+    },
+    {
+      "order": 1296,
+      "id": "15-141-q-518",
+      "type": "question",
+      "section_id": "141",
+      "number": "518",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "What ( ) earth are you doing?",
+      "options": ["① by", "② for", "③ from", "④ on"],
+      "ja": "いったいあなたは何をしているのですか。",
+      "answer": "④",
+      "source_univ": "杏林大"
+    },
+    {
+      "order": 1297,
+      "id": "15-141-e-518",
+      "type": "explanation",
+      "target_q": "15-141-q-518",
+      "title": "〈疑問詞 + on earth / 疑問詞 + in the world〉 「いったい…するのか」",
+      "label": "◆疑問詞の強調",
+      "content": [
+        { "text": "疑問詞のあとに on earth / in the world を続けて、驚きの気持ちを込めて疑問を強調することができる。" }
+      ],
+      "solution": [
+        { "text": "本問は What in the world are you doing? と表現することもできる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1298,
+      "id": "15-141-q-519",
+      "type": "question",
+      "section_id": "141",
+      "number": "519",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "これは私が買いたかった，まさにその本です。\nThis (book / the / is / I / wanted / that / buy / very / to).",
+      "q_type": "ordering",
+      "ja": "これは私が買いたかった，まさにその本です。",
+      "answer": "is the very book that I wanted to buy",
+      "source_univ": "立正大"
+    },
+    {
+      "order": 1299,
+      "id": "15-141-e-519",
+      "type": "explanation",
+      "target_q": "15-141-q-519",
+      "title": "〈the very + 名詞〉 「まさに〈名詞〉／ちょうど〈名詞〉」",
+      "label": "◆the very による強調",
+      "content": [
+        { "text": "very は形容詞として用いられ、名詞を強調する用法がある。 the very fact that SV 「…という事実そのもの」 、 before his **very** eyes 「まさに彼の目の前で」 、 at that **very** moment 「ちょうどその時」 、 in this **very** house 「他ならぬこの家の中で」" }
+      ],
+      "solution": [
+        { "text": "「まさにその本」 を the very book と表し、関係代名詞 that を続けて 「私が買いたかった」 を I wanted to buy と表現する。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1300,
+      "id": "15-141-d-023",
+      "type": "deep_dive",
+      "target_s": "141",
+      "number": "023",
+      "title": "強調構文（疑問文）",
+      "content": [
+        { "text": "疑問詞を使った強調構文の疑問文は 〈疑問詞 + is[was] it that ...?〉 となり、強調される疑問詞と普通の疑問文のニュアンスの違いを、以下の例⑤〜⑧で確認すること。" },
+        { "tag": "例⑤", "label": "Who was it that found this letter in her room yesterday? ← (例①) の疑問文", "text": "「昨日、彼女の部屋でこの手紙を見つけたのはいったいだれだ」\ncf. Who found this letter in her room yesterday?\n(だれが昨日、彼女の部屋でこの手紙を見つけたのか)" },
+        { "tag": "例⑥", "label": "What was it that Mike found in her room yesterday? ← (例②) の疑問文", "text": "「昨日、彼女の部屋でマイクが見つけたのはいったい何だ」\ncf. What did Mike find in her room yesterday?\n(昨日、マイクは何を彼女の部屋で見つけたのか)" },
+        { "tag": "例⑦", "label": "Where was it that Mike found this letter yesterday? ← (例③) の疑問文", "text": "「昨日、マイクがこの手紙を見つけたのはいったいどこだ」\ncf. Where did Mike find this letter yesterday?\n(昨日、マイクはどこでこの手紙を見つけたのか)" },
+        { "tag": "例⑧", "label": "When was it that Mike found this letter in her room? ← (例④) の疑問文", "text": "「マイクが彼女の部屋でこの手紙を見つけたのはいったいいつだ」\ncf. When did Mike find this letter in her room?\n(いつマイクは彼女の部屋でこの手紙を見つけたのか)" }
+      ]
+    }
+  ]
+}

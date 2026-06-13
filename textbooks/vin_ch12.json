@@ -1,0 +1,612 @@
+{
+  "metadata": {
+    "source": "vin4",
+    "field": "grammar",
+    "chapter_id": "12",
+    "chapter_title": "主語と述語動詞の一致"
+  },
+  "items": [
+    {
+      "order": 1079,
+      "type": "section_header",
+      "section_id": "118",
+      "title": "相関的な表現の場合"
+    },
+    {
+      "order": 1080,
+      "id": "12-118-q-431",
+      "type": "question",
+      "section_id": "118",
+      "number": "431",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Both he and I ( ) to go to China.",
+      "options": ["① am", "② are", "③ be", "④ is"],
+      "ja": "彼も私も中国に行く予定だ。",
+      "answer": "②",
+      "source_univ": "京都女子大"
+    },
+    {
+      "order": 1081,
+      "id": "12-118-e-431",
+      "type": "explanation",
+      "target_q": "12-118-q-431",
+      "title": "both A and B が主語 ― 複数扱い",
+      "label": "◆both A and B",
+      "content": [],
+      "solution": [
+        { "text": "Both he and I は複数扱い。" },
+        { "text": "正解の are to go は〈be 動詞 + to do〉を用いた表現で、「予定・運命」の意味。", "note": "→ 146" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1082,
+      "id": "12-118-q-432",
+      "type": "question",
+      "section_id": "118",
+      "number": "432",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Not only Larry and David but also Peter ( ) come to the airport to see me off.",
+      "options": ["① has", "② have", "③ is", "④ are"],
+      "ja": "ラリーとデイビッドだけでなく、ピーターも私を見送りに空港に来てくれている。",
+      "answer": "①",
+      "source_univ": "高崎経済大"
+    },
+    {
+      "order": 1083,
+      "id": "12-118-e-432",
+      "type": "explanation",
+      "target_q": "12-118-q-432",
+      "title": "not only A but (also) B が主語 ― 述語動詞は B に一致",
+      "label": "◆not only A but B",
+      "content": [],
+      "solution": [
+        { "text": "主語の not only A but (also) B は B に動詞を一致させる。B に相当するのは三人称単数の Peter なので、述語動詞は ① の現在完了の has come となる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1084,
+      "id": "12-118-q-433",
+      "type": "question",
+      "section_id": "118",
+      "number": "433",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Neither my friend nor her brothers ( ) our wedding.",
+      "options": ["① are attending", "② attends", "③ doesn't attend", "④ is attending"],
+      "ja": "私の友人も彼女の兄弟も私たちの結婚式に出ない予定だ。",
+      "answer": "①",
+      "source_univ": "金城学院大"
+    },
+    {
+      "order": 1085,
+      "id": "12-118-e-433",
+      "type": "explanation",
+      "target_q": "12-118-q-433",
+      "title": "neither A nor B が主語 ― 述語動詞は B に一致",
+      "label": "◆neither A nor B",
+      "content": [],
+      "solution": [
+        { "text": "主語の neither A nor B は B に動詞を一致させる。B に相当するのは her brothers という複数名詞なので、 ① are attending が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1086,
+      "id": "12-118-q-434",
+      "type": "question",
+      "section_id": "118",
+      "number": "434",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Either she or I ( ) to go.",
+      "options": ["① am", "② is", "③ can", "④ may"],
+      "ja": "彼女か私のどちらかが行くことになるだろう。",
+      "answer": "①",
+      "source_univ": "神戸山手大"
+    },
+    {
+      "order": 1087,
+      "id": "12-118-e-434",
+      "type": "explanation",
+      "target_q": "12-118-q-434",
+      "title": "either A or B が主語 ― 述語動詞は B に一致",
+      "label": "◆either A or B",
+      "content": [],
+      "solution": [
+        { "text": "主語の either A or B は B に動詞を一致させる。B に相当するのは一人称単数の I なので、 ① am が正解。" },
+        { "text": "正解の am to go は〈be 動詞 + to do〉を用いた表現で、「予定・運命」の意味。", "note": "→ 146" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1088,
+      "id": "12-118-q-435",
+      "type": "question",
+      "section_id": "118",
+      "number": "435",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "Mr. Tanaka, as well as you, (was / were) transferred to the Sales Promotion Department.",
+      "q_type": "selection",
+      "ja": "あなただけでなく田中さんも販売促進部に異動になった。",
+      "answer": "was",
+      "source_univ": "東京都立大"
+    },
+    {
+      "order": 1089,
+      "id": "12-118-e-435",
+      "type": "explanation",
+      "target_q": "12-118-q-435",
+      "title": "A as well as B が主語 ― 述語動詞は A に一致",
+      "label": "◆A as well as B",
+      "content": [],
+      "solution": [
+        { "text": "主語の A as well as B は A に動詞を一致させる。A に相当するのは三人称単数の Mr. Tanaka なので、述語動詞 ② were を was に訂正する。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "transfer A to B 「A を B に移す」" },
+        { "tag": "→", "text": "A is transferred to B 「A は B に移される／A は B に異動になる」" }
+      ]
+    },
+    {
+      "order": 1090,
+      "id": "12-118-s-033",
+      "type": "summary_box",
+      "target_s": "118",
+      "number": "033",
+      "title": "相関的表現が主語になる場合の、述語動詞との一致",
+      "content": [
+        { "tag": "(1)", "label": "複数扱いする", "text": "□ both A and B 「A と B の両方」", "note": "→ 431" },
+        { "tag": "(2)", "label": "B (述語動詞に近い要素) に動詞を一致させる", "items": [
+          { "text": "□ either A or B 「A か B のどちらか」", "note": "→ 434" },
+          { "text": "□ neither A nor B 「A も B も…ない」", "note": "→ 433", "appendix": [ { "tag": "注", "text": "either A or B と neither A nor B は both A and B と同じように、複数扱いする場合もある。" } ] },
+          { "text": "□ not A but B 「A ではなく B」" },
+          { "text": "□ not only A but (also) B 「A だけでなく B も」", "note": "→ 432" }
+        ]},
+        { "tag": "(3)", "label": "A (述語動詞から遠い要素) に動詞を一致させる", "text": "□ A as well as B 「B だけでなく A も」 (= not only B but (also) A)", "note": "→ 435" }
+      ]
+    },
+    {
+      "order": 1091,
+      "type": "section_header",
+      "section_id": "119",
+      "title": "most of A などが主語の場合"
+    },
+    {
+      "order": 1092,
+      "id": "12-119-q-436",
+      "type": "question",
+      "section_id": "119",
+      "number": "436",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "Most of the students here ( ) with their families.",
+      "options": ["① live", "② living", "③ lives", "④ is living"],
+      "ja": "ここの学生たちのほとんどは家族と一緒に暮らしている。",
+      "answer": "①",
+      "source_univ": "國學院大"
+    },
+    {
+      "order": 1093,
+      "id": "12-119-e-436",
+      "type": "explanation",
+      "target_q": "12-119-q-436",
+      "title": "most of A が主語 ― 述語動詞は A に一致",
+      "label": "◆most of A",
+      "content": [],
+      "solution": [
+        { "text": "主語になっている most of A の A に相当するのは三人称複数の the students なので、述語動詞は ① live を用いるのが正しい。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1094,
+      "id": "12-119-q-437",
+      "type": "question",
+      "section_id": "119",
+      "number": "437",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Three fifths of the work ( ) finished.",
+      "options": ["① had", "② was", "③ were", "④ would"],
+      "ja": "その仕事の5分の3は終わった。",
+      "answer": "②",
+      "source_univ": "東北歯科資料大"
+    },
+    {
+      "order": 1095,
+      "id": "12-119-e-437",
+      "type": "explanation",
+      "target_q": "12-119-q-437",
+      "title": "〈分数 + of A〉 が主語 ― 述語動詞は A に一致",
+      "label": "◆〈分数 + of A〉",
+      "content": [],
+      "solution": [
+        { "text": "主語になっている 〈分数 + of A〉 の A に相当するのは三人称単数の the work。 ② was が正解。 〈分数 + of A〉 の表現の作り方は 380 を参照。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1096,
+      "id": "12-119-q-438",
+      "type": "question",
+      "section_id": "119",
+      "number": "438",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Only 20% of electric cables (is / are) buried beneath the streets in Tokyo, compared with 100% in London and Paris.",
+      "q_type": "selection",
+      "ja": "ロンドンやパリが100%であるのに比べて、東京で地中に埋設されている電線は20%にすぎない。",
+      "answer": "are",
+      "source_univ": "東洋大"
+    },
+    {
+      "order": 1097,
+      "id": "12-119-e-438",
+      "type": "explanation",
+      "target_q": "12-119-q-438",
+      "title": "〈割合／分数 + of A〉 が主語 ― 述語動詞は A に一致",
+      "label": "◆〈割合／分数 + of A〉",
+      "content": [],
+      "solution": [
+        { "text": "主語になっている 〈割合／分数 + of A〉 の A に相当するのは複数名詞の electric cables なので、述語動詞 ② is を are に訂正する。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "bury 「…を埋める」" },
+        { "tag": "重要", "text": "compared with A 「A と比べて」" }
+      ]
+    },
+    {
+      "order": 1098,
+      "id": "12-119-s-034",
+      "type": "summary_box",
+      "target_s": "119",
+      "number": "034",
+      "title": "以下の「〜 of A」は A と述語動詞を一致させる",
+      "content": [
+        { "text": "□ all of A 「A のすべて」", "note": "□ most of A 「A のほとんど」 → 436" },
+        { "text": "□ some of A 「A の一部」", "note": "□ half of A 「A の半分」" },
+        { "text": "□ the rest of A 「A の残り」", "note": "□ none of A 「A のどれひとつ［だれひとり］…ない」" },
+        { "text": "□ 割合／分数 + of A", "note": "→ 437, 438" }
+      ]
+    },
+    {
+      "order": 1099,
+      "type": "section_header",
+      "section_id": "120",
+      "title": "There + be 動詞 + A の場合"
+    },
+    {
+      "order": 1100,
+      "id": "12-120-q-439",
+      "type": "question",
+      "section_id": "120",
+      "number": "439",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Since the beginning of the twentieth century, there ( ) many political and social changes in Africa.",
+      "options": ["① have been", "② are", "③ are being", "④ has been"],
+      "ja": "20世紀初頭から、アフリカでは多くの政治的、社会的な変化があった。",
+      "answer": "①",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 1101,
+      "id": "12-120-e-439",
+      "type": "explanation",
+      "target_q": "12-120-q-439",
+      "title": "〈There + be 動詞 + A〉 ― be 動詞は A に一致",
+      "label": "◆There is ... の一致",
+      "content": [
+        { "text": "There + be 動詞 + A 「A が存在する／ある／いる」 の表現は A が主語。よって be 動詞は A (名詞) に一致させる。" }
+      ],
+      "solution": [
+        { "text": "主語は複数名詞 many political and social changes である。さらに 「…以来」 を用いていることから、現在完了の ① have been が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1102,
+      "id": "12-120-q-440",
+      "type": "question",
+      "section_id": "120",
+      "number": "440",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The larger a market is, the more competition there (is / are) in that market.",
+      "q_type": "selection",
+      "ja": "市場が拡大すれば、それだけその市場における競争が増える。",
+      "answer": "is",
+      "source_univ": "東京理科大"
+    },
+    {
+      "order": 1103,
+      "id": "12-120-e-440",
+      "type": "explanation",
+      "target_q": "12-120-q-440",
+      "title": "〈There + be 動詞 + A〉 ― be 動詞は A に一致",
+      "label": "◆There is ... の一致",
+      "content": [
+        { "text": "本問は 〈the + 比較級 ..., the + 比較級 〜〉 「…すればするほど、ますます〜」 (→ 399, 400) を用いている。 A market is large. と There is much competition in that market. の2つの文を前提にして考えると、2つ目の文の主語 much competition は不可算名詞で単数扱いなので、 ③ are を is に訂正する。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1104,
+      "type": "section_header",
+      "section_id": "121",
+      "title": "the number of A / a number of A の場合"
+    },
+    {
+      "order": 1105,
+      "id": "12-121-q-441",
+      "type": "question",
+      "section_id": "121",
+      "number": "441",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "The number of students who wish to continue their studies after they finish their four-year program at Meiji University ( ) increasing.",
+      "options": ["① is", "② have", "③ has", "④ are"],
+      "ja": "明治大学での4年間の課程を終えたあとも勉強を続けたいと思う学生の数は増えている。",
+      "answer": "①",
+      "source_univ": "明治大"
+    },
+    {
+      "order": 1106,
+      "id": "12-121-e-441",
+      "type": "explanation",
+      "target_q": "12-121-q-441",
+      "title": "the number of A 「A の数」 は単数扱い",
+      "label": "◆the number of A",
+      "content": [
+        { "text": "主語を関係代名詞節が修飾し、主語と述語動詞の距離が離れているのでわかりにくい (→ 447)。関係代名詞節 who wish to ... at Meiji University を取り除いて、\n**The number** of students ... ( ) increasing. の構造を見抜く。" }
+      ],
+      "solution": [
+        { "text": "the number of students が主語なので、単数扱いになる。よって ① is が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1107,
+      "id": "12-121-q-442",
+      "type": "question",
+      "section_id": "121",
+      "number": "442",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "A number of people ( ) invited to the party.",
+      "options": ["① was", "② were", "③ have", "④ had"],
+      "ja": "たくさんの人々がそのパーティーに招待された。",
+      "answer": "②",
+      "source_univ": "西南学院大"
+    },
+    {
+      "order": 1108,
+      "id": "12-121-e-442",
+      "type": "explanation",
+      "target_q": "12-121-q-442",
+      "title": "a number of A 「たくさんの A」 は複数扱い",
+      "label": "◆a number of A",
+      "content": [],
+      "solution": [
+        { "text": "a number of people が主語なので、複数扱いになる。よって ② were が正解。 a number of A の A には複数名詞が来るが、動詞はその A に一致させるので、複数扱いになる。本問では people に一致させていることを確認しよう。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1109,
+      "id": "12-121-s-035",
+      "type": "summary_box",
+      "target_s": "121",
+      "number": "035",
+      "title": "the number of A / a number of A が主語のときの述語動詞との一致",
+      "content": [
+        { "tag": "□", "label": "the number of A (複数名詞) 「A の数」", "text": "主語の場合は単数扱い（単数名詞 the number 「数」に一致）" },
+        { "tag": "□", "label": "a number of A (複数名詞) 「いくつかの A / たくさんの A」", "text": "主語の場合は複数扱い（複数名詞 A に一致）" },
+        { "tag": "*", "text": "a number of は一種の形容詞だと考える。すなわち a number of A = several A / many A と考えれば、述語動詞を A に一致させることが理解できる。" }
+      ]
+    },
+    {
+      "order": 1110,
+      "type": "section_header",
+      "section_id": "122",
+      "title": "形は複数でも単数扱いする表現"
+    },
+    {
+      "order": 1111,
+      "id": "12-122-q-443",
+      "type": "question",
+      "section_id": "122",
+      "number": "443",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The United Nations ( ) established after World War II.",
+      "options": ["① was", "② were", "③ was being", "④ have been"],
+      "ja": "国連は第二次世界大戦後に設立された。",
+      "answer": "①",
+      "source_univ": "淑徳大"
+    },
+    {
+      "order": 1112,
+      "id": "12-122-e-443",
+      "type": "explanation",
+      "target_q": "12-122-q-443",
+      "title": "the United Nations 「国際連合」",
+      "label": "◆the United Nations",
+      "content": [],
+      "solution": [
+        { "text": "the United Nations は多くの国々で構成された1つの団体なので、単数扱いとなる。 ① was が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1113,
+      "id": "12-122-q-444",
+      "type": "question",
+      "section_id": "122",
+      "number": "444",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Fifty minutes ( ) to finish this test.",
+      "options": ["① isn't enough time", "② aren't enough time", "③ isn't enough times", "④ aren't enough times"],
+      "ja": "50分はこのテストを終えるのに十分な時間ではない。",
+      "answer": "①",
+      "source_univ": "関西学院大"
+    },
+    {
+      "order": 1114,
+      "id": "12-122-e-444",
+      "type": "explanation",
+      "target_q": "12-122-q-444",
+      "title": "「時間」を表す語句は単数扱い",
+      "label": "◆「時間」を表す語句",
+      "content": [
+        { "text": "「時間、年齢、距離、金額、重量」などを表す語句は1つのまとまりとみなすので、単数扱いが原則。 Fifty miles is a long distance. 「50マイルは長距離だ」" }
+      ],
+      "solution": [
+        { "text": "主語 Fifty minutes は時間を表す語句で1つのまとまりとみなすので、単数扱いになる。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "「時間」を表す time は不可算名詞なので、 times となっている ③ と ④ は不可。" }
+      ]
+    },
+    {
+      "order": 1115,
+      "id": "12-122-s-036",
+      "type": "summary_box",
+      "target_s": "122",
+      "number": "036",
+      "title": "形は複数でも単数扱いをするおもな表現",
+      "content": [
+        { "tag": "(1)", "label": "「国家、団体、雑誌」などの名称", "items": [
+          { "text": "□ the United States 「アメリカ合衆国」" }, { "text": "□ the Philippines 「フィリピン」" },
+          { "text": "□ the United Nations 「国際連合」" }, { "text": "□ the Times 「タイムズ紙」" }
+        ]},
+        { "tag": "(2)", "label": "「時間、年齢、距離、金額、重量」などを表す語句", "note": "→ 444" },
+        { "tag": "(3)", "label": "「学問、ゲーム、病気」などの名称", "items": [
+          { "text": "□ economics 「経済学」" }, { "text": "□ mathematics 「数学」" },
+          { "text": "□ physics 「物理学」" }, { "text": "□ linguistics 「言語学」" },
+          { "text": "□ statistics 「統計学」" }, { "text": "□ billiards 「ビリヤード」" },
+          { "text": "□ measles 「はしか」" }
+        ]}
+      ]
+    },
+    {
+      "order": 1116,
+      "type": "section_header",
+      "section_id": "123",
+      "title": "注意すべき主語と述語動詞の一致"
+    },
+    {
+      "order": 1117,
+      "id": "12-123-q-445",
+      "type": "question",
+      "section_id": "123",
+      "number": "445",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "Make sure that the poor ( ) properly cared for.",
+      "options": ["① are", "② has", "③ have", "④ is"],
+      "ja": "貧しい人々がきちんと世話を受けられるようにしなさい。",
+      "answer": "①",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 1118,
+      "id": "12-123-e-445",
+      "type": "explanation",
+      "target_q": "12-123-q-445",
+      "title": "the + 形容詞 = 複数扱い",
+      "label": "◆〈the + 形容詞〉 = 〈形容詞 + people〉",
+      "content": [
+        { "text": "〈the + 形容詞〉 は 「…な人々」 (= 〈形容詞 + people〉) という意味で、複数扱いになる。" }
+      ],
+      "solution": [
+        { "text": "the poor = poor people で複数扱いとなるので、 ① are が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1119,
+      "id": "12-123-s-037",
+      "type": "summary_box",
+      "target_s": "123",
+      "number": "037",
+      "title": "〈the + 形容詞〉 「…な人々」 (= 〈形容詞 + people〉) の表現例",
+      "content": [
+        { "text": "□ the poor 「貧しい人々」", "note": "□ the rich[wealthy] 「金持ち」" },
+        { "text": "□ the young 「若者」", "note": "□ the old[elderly] 「老人」" },
+        { "text": "□ the disabled 「障がい者」", "note": "□ the injured[wounded] 「負傷者」" },
+        { "text": "□ the sick 「病人」", "note": "□ the dead 「死者」" },
+        { "text": "□ the living 「生きている人」" },
+        { "tag": "△注意", "text": "主語になる場合は複数扱いとなる。" }
+      ]
+    },
+    {
+      "order": 1120,
+      "id": "12-123-q-446",
+      "type": "question",
+      "section_id": "123",
+      "number": "446",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "The number of people who (was / were) injured (was / were) greater than they had expected.",
+      "q_type": "selection",
+      "ja": "負傷者の数は彼らの予測を上回っていた。",
+      "answer": "were / was",
+      "source_univ": "立命館大"
+    },
+    {
+      "order": 1121,
+      "id": "12-123-e-446",
+      "type": "explanation",
+      "target_q": "12-123-q-446",
+      "title": "主格の関係代名詞に導かれる関係詞節内の動詞は先行詞に一致させる",
+      "label": "◆〈先行詞 + 主格の関係代名詞 + 動詞 ...〉 の場合",
+      "content": [],
+      "solution": [
+        { "text": "people に続く主格の関係代名詞節内では先行詞 people に動詞を一致させる。先行詞 people は複数名詞なので、節内の動詞 ② was を were に訂正する。" },
+        { "text": "文全体は **The number** of people ... **was** greater ... という構造で、 the number of A は単数扱い (→ 441) なので、 ③ was は正しい。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1122,
+      "id": "12-123-q-447",
+      "type": "question",
+      "section_id": "123",
+      "number": "447",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "The decrease in job opportunities in recent years (have / has) been a serious blow to those young people who wish to work upon graduating from high school.",
+      "q_type": "selection",
+      "ja": "近年の雇用機会の減少は、高校卒業と同時に働きたいと願う若者たちにとって、深刻な打撃となっている。",
+      "answer": "has",
+      "source_univ": "京都産業大"
+    },
+    {
+      "order": 1123,
+      "id": "12-123-e-447",
+      "type": "explanation",
+      "target_q": "12-123-q-447",
+      "title": "主語と述語動詞の分離",
+      "label": "◆主語と述語動詞の分離",
+      "content": [
+        { "text": "主語と述語動詞の間に修飾語句が入り込み、主語と述語動詞が分離する場合は、一致のミスを犯しやすい。問題文の構造を正確に見抜くことが大切。 → Section 276 (p.561)" }
+      ],
+      "solution": [
+        { "text": "修飾語句 in job opportunities in recent years を取り除いてみると、\n**The decrease** ... **has been** a serious blow という文構造。\n主語は単数名詞 the decrease なので、 ② have been を has been に訂正する。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "③ は先行詞を明示するために that / those をつけて 〈that / those + 先行詞 + 関係詞 ...〉 とする表現。 ④ on [upon] doing 「…するとすぐに」 → 177" },
+        { "tag": "重要", "text": "the decrease in A 「A の減少」" },
+        { "tag": "重要", "text": "graduate from A 「A を卒業する」 → 590" }
+      ]
+    }
+  ]
+}

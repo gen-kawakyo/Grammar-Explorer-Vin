@@ -1,0 +1,614 @@
+{
+  "metadata": {
+    "source": "vin4",
+    "field": "grammar",
+    "chapter_id": "14",
+    "chapter_title": "否定"
+  },
+  "items": [
+    {
+      "order": 1192,
+      "type": "section_header",
+      "section_id": "131",
+      "title": "全否定と部分否定"
+    },
+    {
+      "order": 1193,
+      "id": "14-131-s-039",
+      "type": "summary_box",
+      "target_s": "131",
+      "number": "039",
+      "title": "代名詞・形容詞を用いた全否定と部分否定の表現",
+      "content": [
+        { "text": "否定には、すべてを否定する「全否定」と、一部を否定する「部分否定」という表現がある。否定するものが 2つ［2人］の場合と 3つ［3人］以上の場合ではそれぞれ表現が異なる。" },
+        { "label": "2つ［2人］の場合" },
+        { "tag": "全否定", "text": "not ... either (+単数名詞) = neither (+単数名詞)\n「どちら（の〈名詞〉）も…ない」" },
+        { "tag": "部分否定", "text": "not ... both (+複数名詞)\n「どちら（の〈名詞〉）も…というわけではない」" },
+        { "label": "3つ［3人］以上の場合" },
+        { "tag": "全否定", "text": "not ... any / not ... any + 名詞 = no + 名詞 / none (of A)\n「すべて［だれも］…ない／どの〈名詞〉も…ない」" },
+        { "tag": "部分否定", "text": "not ... all (+複数名詞) / not ... every + 単数名詞\n「すべて（の〈名詞〉）が…というわけではない」" },
+        { "tag": "△注意", "text": "either, neither, both, any, all は代名詞としても形容詞としても用いられるが、no と every は形容詞としてだけ用いられることに注意。" },
+        { "tag": "△注意", "text": "not A or B は「A も B も…ない／A でも B でもない」という全否定を表す (= neither A nor B)。\n(例) I don't know or care what he said. 「彼が何を言ったかは知らないし、気にもならない」 (= I neither know nor care what he said.)" }
+      ]
+    },
+    {
+      "order": 1194,
+      "id": "14-131-q-475",
+      "type": "question",
+      "section_id": "131",
+      "number": "475",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "(a) They do not allow ( ) pets in the store.\n(b) ( ) pets are allowed in the store.",
+      "q_type": "completion",
+      "ja": "その店ではすべてのペットの持ち込みを禁止している。",
+      "answer": "(a) any (b) No",
+      "source_univ": "中京大"
+    },
+    {
+      "order": 1195,
+      "id": "14-131-e-475",
+      "type": "explanation",
+      "target_q": "14-131-q-475",
+      "title": "全否定 ― 3つ［3人］以上の場合",
+      "label": "◆全否定―3つ以上",
+      "content": [],
+      "solution": [
+        { "text": "「すべてのペットの持ち込みを許可していない」という3つ以上のすべてを否定する全否定なので、 〈not ... any + 名詞〉 と 〈no + 名詞〉 で文意を完成させる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1196,
+      "id": "14-131-q-476",
+      "type": "question",
+      "section_id": "131",
+      "number": "476",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "( ) wants to go to the beach in summer.",
+      "options": ["① Nobody", "② Not anyone", "③ Not all", "④ Not everyone"],
+      "ja": "夏にはだれもが浜辺へ行きたがるわけではない。",
+      "answer": "④",
+      "source_univ": "法政大"
+    },
+    {
+      "order": 1197,
+      "id": "14-131-e-476",
+      "type": "explanation",
+      "target_q": "14-131-q-476",
+      "title": "部分否定 ― 3つ［3人］以上の場合",
+      "label": "◆部分否定―3つ以上",
+      "content": [],
+      "solution": [
+        { "text": "「だれもが…するわけではない」から、部分否定の ③ Not all か ④ Not everyone が正解になる。述語動詞が wants なので三人称単数の ④ Not everyone が正解。" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "every ... 「すべての…」は全体を構成するひとつひとつに注目する表現で、every のあとには単数名詞が続き、さらに 〈every + 単数名詞〉 は単数扱いとなる。everyone, everything も同様に単数扱いとなる。 → 733" },
+        { "tag": "選択肢", "text": "③ Not all は複数扱いになるので、 Not all (people) **want** to go ... となる。" }
+      ]
+    },
+    {
+      "order": 1198,
+      "id": "14-131-q-477",
+      "type": "question",
+      "section_id": "131",
+      "number": "477",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "\"You can get this sofa in two different colors, tomato red or lemon yellow.\"\n\"Well, I don't really like ( ) of the colors. They're too bright.\"",
+      "options": ["① all", "② neither", "③ both", "④ either"],
+      "ja": "「このソファにはトマトレッドとレモンイエローの2色がございます」\n「そうですね、私は両方ともあまり好きではありません。明るすぎます」",
+      "answer": "④",
+      "source_univ": "法政大"
+    },
+    {
+      "order": 1199,
+      "id": "14-131-e-477",
+      "type": "explanation",
+      "target_q": "14-131-q-477",
+      "title": "全否定 ― 2つ［2人］の場合",
+      "label": "◆全否定―2つ",
+      "content": [],
+      "solution": [
+        { "text": "文章は「2色のどちらも好きではない」という両方を否定する全否定。2つの場合の全否定は 〈not ... either (+ 名詞)〉 か 〈neither (+ 名詞)〉 なので、 ④ either が正解。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "③ both を入れると「両方とも好きというわけではない＝どちらか一方は好きだ」という部分否定になり、They're too bright. 「両方とも明るすぎる」につながらないので不可。" }
+      ]
+    },
+    {
+      "order": 1200,
+      "id": "14-131-q-478",
+      "type": "question",
+      "section_id": "131",
+      "number": "478",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "\"Are your parents travelling with you?\" \"No, not ( ) of them. Only my mother.\"",
+      "options": ["① each", "② either", "③ both", "④ one"],
+      "ja": "「ご両親はあなたと一緒に旅行に行かれるのですか」\n「いいえ、2人ともというわけではありません。母だけです」",
+      "answer": "③",
+      "source_univ": "札幌学院大"
+    },
+    {
+      "order": 1201,
+      "id": "14-131-e-478",
+      "type": "explanation",
+      "target_q": "14-131-q-478",
+      "title": "部分否定 ― 2つ［2人］の場合",
+      "label": "◆部分否定―2つ",
+      "content": [],
+      "solution": [
+        { "text": "文意から「2人とも行くわけではない」という部分否定であることがわかる。2人の場合の部分否定は 〈not ... both (+ 複数名詞)〉 なので、 ③ both が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1202,
+      "id": "14-131-q-479",
+      "type": "question",
+      "section_id": "131",
+      "number": "479",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "Watching TV is not ( ) wrong, but it is important for children to form the habit of thinking for themselves.",
+      "options": ["① every", "② anytime", "③ absolute", "④ necessarily"],
+      "ja": "テレビを見ることは必ずしも悪いことではないが、子どもにとっては自分で考える習慣を形成することが重要だ。",
+      "answer": "④",
+      "source_univ": "芝浦工業大"
+    },
+    {
+      "order": 1203,
+      "id": "14-131-e-479",
+      "type": "explanation",
+      "target_q": "14-131-q-479",
+      "title": "副詞を用いた部分否定 ― not necessarily 「必ずしも…とは限らない」",
+      "label": "◆副詞を用いた部分否定",
+      "content": [],
+      "solution": [
+        { "text": "文意から「必ずしも悪いことではない」という意味の部分否定であることがわかる。 ④ の not necessarily だけが部分否定となる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1204,
+      "id": "14-131-s-040",
+      "type": "summary_box",
+      "target_s": "131",
+      "number": "040",
+      "title": "副詞を用いた部分否定",
+      "content": [
+        { "tag": "□", "en": "not always ...", "ja": "「いつも…とは限らない」" },
+        { "tag": "□", "en": "not necessarily [quite] ...", "ja": "「必ずしも…とは限らない」", "note": "→ 479" },
+        { "tag": "□", "en": "not completely [altogether / wholly / entirely / quite] ...", "ja": "「完全に…とは限らない」" }
+      ]
+    },
+    {
+      "order": 1205,
+      "type": "section_header",
+      "section_id": "132",
+      "title": "否定を強調する表現"
+    },
+    {
+      "order": 1206,
+      "id": "14-132-q-480",
+      "type": "question",
+      "section_id": "132",
+      "number": "480",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "They were not in the ( ) anxious about it.",
+      "options": ["① all", "② last", "③ latest", "④ least"],
+      "ja": "彼らはそのことを少しも心配していなかった。",
+      "answer": "④",
+      "source_univ": "関西学院大"
+    },
+    {
+      "order": 1207,
+      "id": "14-132-e-480",
+      "type": "explanation",
+      "target_q": "14-132-q-480",
+      "title": "not ... in the least 「少しも…ない」",
+      "label": "◆not ... in the least",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "be anxious about A 「Aを心配する／不安に思う」" }
+      ]
+    },
+    {
+      "order": 1208,
+      "id": "14-132-q-481",
+      "type": "question",
+      "section_id": "132",
+      "number": "481",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "My brother speaks so fast that sometimes I can't understand him at ( ).",
+      "options": ["① all", "② time", "③ every", "④ any"],
+      "ja": "兄［弟］はとても早口なので、私は彼の言っていることがまったく理解できないときがある。",
+      "answer": "①",
+      "source_univ": "松本歯科大"
+    },
+    {
+      "order": 1209,
+      "id": "14-132-e-481",
+      "type": "explanation",
+      "target_q": "14-132-q-481",
+      "title": "not ... at all 「まったく…ない」",
+      "label": "◆not ... at all",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1210,
+      "id": "14-132-q-482",
+      "type": "question",
+      "section_id": "132",
+      "number": "482",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The data given by Dr. Watson was ( ) no means reliable.",
+      "options": ["① at", "② by", "③ in", "④ with"],
+      "ja": "ワトソン博士から出されるデータは決して信用できなかった。",
+      "answer": "②",
+      "source_univ": "国士舘大"
+    },
+    {
+      "order": 1211,
+      "id": "14-132-e-482",
+      "type": "explanation",
+      "target_q": "14-132-q-482",
+      "title": "by no means 「決して…ない」",
+      "label": "◆by no means",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1212,
+      "id": "14-132-s-041",
+      "type": "summary_box",
+      "target_s": "132",
+      "number": "041",
+      "title": "副詞句を用いた否定を強調する表現",
+      "content": [
+        { "tag": "□", "en": "not ... in the least", "ja": "「少しも…ない」", "note": "→ 480" },
+        { "tag": "□", "en": "not ... at all", "ja": "「まったく…ない」", "note": "→ 481" },
+        { "tag": "□", "en": "not ... by any means = by no means", "ja": "「決して…ない」", "note": "→ 482" },
+        { "tag": "□", "en": "not ... in any way = in no way", "text": "He said that the two events were in no way related.\n「その2つの出来事は、決して関係はないと彼は言った」" },
+        { "tag": "□", "en": "not ... on any account = on no account", "text": "On no account should you approach the dog.\n「あなたは決してその犬に近づいてはならない」\n＊否定の意味の副詞句 On no account が文頭に来ているので、 should you approach という倒置形になっている (→ Section 135 (p.223))。" },
+        { "tag": "□", "en": "not ... under any circumstances = under no circumstances", "text": "Under no circumstances will we agree to the request.\n「私たちは決してその要請に同意しないだろう」\n＊否定の意味の副詞句 Under no circumstances が文頭に来ているので、 will we agree という倒置形になっている (→ Section 135 (p.223))。" }
+      ]
+    },
+    {
+      "order": 1213,
+      "id": "14-132-q-483",
+      "type": "question",
+      "section_id": "132",
+      "number": "483",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "Jim has no ambition ( ). He is quite content to stick to the job he has.",
+      "options": ["① whichever", "② whatever", "③ whoever", "④ whomever"],
+      "ja": "ジムにはまったく野心というものがない。彼は今の仕事をやり続けることに完全に満足している。",
+      "answer": "②",
+      "source_univ": "桜美林大"
+    },
+    {
+      "order": 1214,
+      "id": "14-132-e-483",
+      "type": "explanation",
+      "target_q": "14-132-q-483",
+      "title": "〈no + 名詞 + whatever〉 「まったく〈名詞〉がない」",
+      "label": "◆no + 名詞 + whatever",
+      "content": [
+        { "text": "〈no + 名詞〉 の後ろに whatever や whatsoever を置いた 〈no + 名詞 + whatever〉 は、否定を強調する表現になる。 〈no + 名詞 + at all〉 と同意。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "be content to do 「…することに満足している」" }
+      ]
+    },
+    {
+      "order": 1215,
+      "id": "14-132-q-484",
+      "type": "question",
+      "section_id": "132",
+      "number": "484",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "My sister doesn't like chocolate, and I don't ( ).",
+      "options": ["① either", "② like", "③ prefer", "④ too"],
+      "ja": "私の姉［妹］はチョコレートが好きではないし、私もまた好きではない。",
+      "answer": "①",
+      "source_univ": "学習院大"
+    },
+    {
+      "order": 1216,
+      "id": "14-132-e-484",
+      "type": "explanation",
+      "target_q": "14-132-q-484",
+      "title": "空所の前は否定文",
+      "label": "◆〈否定文, (,) either.〉 「…もまた〜ない」",
+      "content": [
+        { "text": "肯定文の末尾に too を置くと 「…もまた〜である」 、否定文の末尾に either を置くと 「…もまた〜ない」 という意味になる。 (×) 〈否定文, too.〉 とは言えないことに注意。" }
+      ],
+      "solution": [
+        { "text": "空所の前は I don't という否定文なので、 ① either が正解。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "text": "〈肯定文, (,) too.〉 「…もまた〜である」\nMike likes coffee. He likes tea, too. 「マイクはコーヒーが好きだ。紅茶も好きだ」" }
+      ]
+    },
+    {
+      "order": 1217,
+      "type": "section_header",
+      "section_id": "133",
+      "title": "no / not を含まない否定表現"
+    },
+    {
+      "order": 1218,
+      "id": "14-133-q-485",
+      "type": "question",
+      "section_id": "133",
+      "number": "485",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "\"I saw Penny at the lecture this afternoon.\"\n\"Yeah. I was very surprised to see her. She was the ( ) person I expected to see there.\"",
+      "options": ["① last", "② best", "③ least", "④ great"],
+      "ja": "「今日の午後の講義でペニーを見かけたよ」「ああ、彼女を見てすごく驚いたよ。そこで会うとはまったく思っていなかったからね」",
+      "answer": "①",
+      "source_univ": "明治大"
+    },
+    {
+      "order": 1219,
+      "id": "14-133-e-485",
+      "type": "explanation",
+      "target_q": "14-133-q-485",
+      "title": "〈the last + 名詞 + 関係詞節 ...〉 「最も…（しそうに）ない〈名詞〉」",
+      "label": "◆the last ...",
+      "content": [
+        { "text": "〈the last + 名詞 + 関係詞節 ...〉 は 「…する可能性が最後の〈名詞〉」 が直訳。そこから 「最も…（しそうに）ない〈名詞〉／まず…しない〈名詞〉」 という否定を強調する表現になったと考えればよい。 〈the last + 名詞 + to do ...〉 も同意。" },
+        { "en": "She is **the last** person to betray you.", "ja": "「彼女に限って君を裏切ることは絶対にないよ」" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1220,
+      "id": "14-133-q-486",
+      "type": "question",
+      "section_id": "133",
+      "number": "486",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The new film proved to be ( ) but a failure. It was an instant success the world over.",
+      "options": ["① anything", "② everything", "③ nothing", "④ something"],
+      "ja": "その新作映画は決して失敗作ではないことがわかった。それは世界中で瞬く間に成功を収めた。",
+      "answer": "①",
+      "source_univ": "上智大"
+    },
+    {
+      "order": 1221,
+      "id": "14-133-e-486",
+      "type": "explanation",
+      "target_q": "14-133-q-486",
+      "title": "anything but A 「決して A ではない」",
+      "label": "◆anything but",
+      "content": [
+        { "text": "この but は 「…以外」 という意味の前置詞。よって anything but A は 「A 以外なら何でもある＝決して A ではない」 という意味になり、 nothing but A は 「A 以外はない＝A だけはある」 という限定の意味になる。" }
+      ],
+      "solution": [
+        { "text": "**anything but A** 「決して A ではない (= not A at all)」 と、 **nothing but A** 「A だけ／A にすぎない (= only A)」 を混同しないように。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1222,
+      "id": "14-133-q-487",
+      "type": "question",
+      "section_id": "133",
+      "number": "487",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "His writing is far from correct.",
+      "options": ["① anything but", "② all but", "③ nothing but", "④ something but"],
+      "ja": "彼の文章は決して正確ではない。",
+      "answer": "①",
+      "source_univ": "駒澤大"
+    },
+    {
+      "order": 1223,
+      "id": "14-133-e-487",
+      "type": "explanation",
+      "target_q": "14-133-q-487",
+      "title": "far from A 「決して A ではない／A からほど遠い」 (= anything but A)",
+      "label": "◆far from",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1224,
+      "id": "14-133-q-488",
+      "type": "question",
+      "section_id": "133",
+      "number": "488",
+      "level": "advanced",
+      "is_frequent": true,
+      "en": "All right, I believe you're innocent. But they don't trust you. We have yet ( ) a witness who can prove your story is true.",
+      "options": ["① find", "② finding", "③ found", "④ to find"],
+      "ja": "いいでしょう、あなたが無罪だと信じます。でも彼らはあなたを信用していません。私たちは、あなたの話が真実だと証明できる証人をまだ見つけていないのですから。",
+      "answer": "④",
+      "source_univ": "東京理科大"
+    },
+    {
+      "order": 1225,
+      "id": "14-133-e-488",
+      "type": "explanation",
+      "target_q": "14-133-q-488",
+      "title": "have yet to do 「まだ…していない」",
+      "label": "◆have yet to do",
+      "content": [
+        { "text": "have yet to do は、 have to do 「…しなければならない」 に副詞 yet 「まだ（…ない）」 が加わった表現で、 「まだこれから…しなければならない」 が本来の意味。そこから 「まだ…していない」 という否定の意味になる。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1226,
+      "id": "14-133-q-489",
+      "type": "question",
+      "section_id": "133",
+      "number": "489",
+      "level": "advanced",
+      "is_frequent": true,
+      "en": "It is yet ( ) whether our project will succeed or not.",
+      "options": ["① unending", "② impossible", "③ to be seen", "④ unfinished"],
+      "ja": "私たちの計画がうまくいくかどうかは、まだわからない。",
+      "answer": "③",
+      "source_univ": "成城大"
+    },
+    {
+      "order": 1227,
+      "id": "14-133-e-489",
+      "type": "explanation",
+      "target_q": "14-133-q-489",
+      "title": "be yet to do 「まだ…していない」",
+      "label": "◆be yet to do",
+      "content": [
+        { "text": "be yet to do は、予定を表す 〈be 動詞 + to do〉 (→ 146) に副詞 yet 「まだ（…ない）」 が加わった表現で、 「まだこれから…することになっている」 が本来の意味。そこから 「今まはまだ…していない」 という否定の意味になる。" }
+      ],
+      "solution": [
+        { "text": "本問は It が形式主語で whether 節が真主語。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "It is yet to be seen whether[if] SV. 「…かどうかまだわからない」" }
+      ]
+    },
+    {
+      "order": 1228,
+      "id": "14-133-q-490",
+      "type": "question",
+      "section_id": "133",
+      "number": "490",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "It (seen / succeed / remains / be / will / he / to / if).",
+      "q_type": "ordering",
+      "ja": "彼が成功するかどうかこれから先でないとわからない。",
+      "answer": "remains to be seen if he will",
+      "source_univ": "大阪歯科大"
+    },
+    {
+      "order": 1229,
+      "id": "14-133-e-490",
+      "type": "explanation",
+      "target_q": "14-133-q-490",
+      "title": "remain to be done 「まだ…されていない」",
+      "label": "◆remain to be done",
+      "content": [
+        { "text": "remain to be done は 「まだこれから…されるように残っている」 が直訳。そこから 「まだ…されていない」 という否定の意味になる。" }
+      ],
+      "solution": [
+        { "text": "本問は It が形式主語で if 節が真主語。" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "have yet to (→ 488) と be yet to (→ 489) は後ろに to do 「…する」 と to be done 「…される」 の両方が用いられるが、 remain には to be done しか用いられないことに注意。" },
+        { "tag": "重要", "text": "It remains to be seen whether[if] SV. 「…かどうかまだわからない」" }
+      ]
+    },
+    {
+      "order": 1230,
+      "id": "14-133-q-491",
+      "type": "question",
+      "section_id": "133",
+      "number": "491",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The heat (was / room / of / the / than / could / I / more) bear.",
+      "q_type": "ordering",
+      "ja": "その部屋の暑さは耐えられないほどでした。",
+      "answer": "of the room was more than I could",
+      "source_univ": "花園大"
+    },
+    {
+      "order": 1231,
+      "id": "14-133-e-491",
+      "type": "explanation",
+      "target_q": "14-133-q-491",
+      "title": "more (...) than S can do 「〜できないほど…」",
+      "label": "◆more (...) than S can do",
+      "content": [
+        { "text": "この表現は 「S が〜できるよりも（…）」 が直訳。そこから 「S が〜できないほど（…）」 という否定の意味になる。 than 以下は肯定文だが、日本語訳では否定文のように訳されることに注意。" },
+        { "en": "I have **more** money **than I can spend.**", "ja": "「使い切れないほどのお金がある」" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1232,
+      "type": "section_header",
+      "section_id": "134",
+      "title": "二重否定"
+    },
+    {
+      "order": 1233,
+      "id": "14-134-q-492",
+      "type": "question",
+      "section_id": "134",
+      "number": "492",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "私はこの本を読むたびに新しい意味を発見します。（1語不要）\nI (always / book / finding / meaning / never / new / read / this / without / a) in it.",
+      "q_type": "ordering",
+      "ja": "私はこの本を読むたびに新しい意味を発見します。",
+      "answer": "never read this book without finding a new",
+      "source_univ": "東京理科大"
+    },
+    {
+      "order": 1234,
+      "id": "14-134-e-492",
+      "type": "explanation",
+      "target_q": "14-134-q-492",
+      "title": "never do ... without doing 〜 「…すると必ず〜する」",
+      "label": "◆never do ... without doing 〜",
+      "content": [
+        { "text": "否定語や否定表現を1つの文の中に2つ入れることで、肯定の意味を強調する表現がある。これを「二重否定」と呼ぶ。 never do ... without doing 〜 は二重否定で 「〜しないで…することはない」 が直訳。そこから 「…すると必ず〜する」 という肯定の意味になる。 **cannot do ... without doing 〜** も同意。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1235,
+      "id": "14-134-q-493",
+      "type": "question",
+      "section_id": "134",
+      "number": "493",
+      "level": "advanced",
+      "is_frequent": true,
+      "en": "It never rains ( ) it pours.",
+      "q_type": "completion",
+      "ja": "雨が降れば必ず土砂降りになる。",
+      "answer": "but",
+      "source_univ": "西南学院大"
+    },
+    {
+      "order": 1236,
+      "id": "14-134-e-493",
+      "type": "explanation",
+      "target_q": "14-134-q-493",
+      "title": "never do ... but SV 〜 「…すれば必ず〜する」",
+      "label": "◆never do ... but SV 〜",
+      "content": [
+        { "text": "この but は 「〜しないで」 という否定の意味の接続詞。表現全体は二重否定で 「〜しないで…することはない」 が直訳。そこから 「…すれば必ず〜する」 という肯定の意味になる。" },
+        { "text": "本問の英文は 「二度あることは三度ある」 、 「泣きっ面に蜂」 ということわざ。このまま覚えてしまおう。" }
+      ],
+      "solution": [],
+      "appendix": []
+    }
+  ]
+}

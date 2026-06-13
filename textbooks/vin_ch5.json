@@ -1,0 +1,1498 @@
+{
+  "metadata": {
+    "source": "vin4",
+    "field": "grammar",
+    "chapter_id": "05",
+    "chapter_title": "不定詞"
+  },
+  "items": [
+    {
+      "order": 305,
+      "type": "section_header",
+      "section_id": "041",
+      "title": "不定詞の名詞用法"
+    },
+    {
+      "order": 306,
+      "id": "05-041-c-012",
+      "type": "confirmation_box",
+      "target_s": "041",
+      "number": "012",
+      "title": "不定詞の名詞用法",
+      "content": [
+        { "text": "不定詞が名詞の働きをする場合、(1) 主語になる、(2) 補語になる、(3) 他動詞の目的語になる、という3つの用法がある。" },
+        { "tag": "(1)", "label": "主語になる", "en": "To study abroad is troublesome.", "ja": "「留学することは大変だ」" },
+        { "tag": "(2)", "label": "補語になる", "en": "My dream is to study abroad.", "ja": "「私の夢は留学することだ」" },
+        { "tag": "(3)", "label": "他動詞の目的語になる", "en": "He hopes to study abroad.", "ja": "「彼は留学することを望んでいる」" },
+        { "tag": "△注意", "text": "不定詞は前置詞の目的語に用いられない。前置詞の目的語には動名詞（-ing形）を用いる。" }
+      ]
+    },
+    {
+      "order": 307,
+      "id": "05-041-q-114",
+      "type": "question",
+      "section_id": "041",
+      "number": "114",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "My future goal (to / at / high school / English / is / teach).",
+      "q_type": "ordering",
+      "ja": "私の将来の目標は高校で英語を教えることです。",
+      "answer": "is to teach English at high school",
+      "source_univ": "長崎総合科学大"
+    },
+    {
+      "order": 308,
+      "id": "05-041-e-114",
+      "type": "explanation",
+      "target_q": "05-041-q-114",
+      "title": "「〜すること」に注目",
+      "label": "不定詞の名詞用法 — 補語",
+      "content": [],
+      "solution": [
+        { "text": "「英語を教えること」を不定詞で表して、be 動詞の補語にすると文ができる。\nMy future goal is **to teach English at high school.** という文を作る。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 309,
+      "id": "05-041-q-115",
+      "type": "question",
+      "section_id": "041",
+      "number": "115",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "(be / should / start / the project / to / when) discussed more seriously.",
+      "q_type": "ordering",
+      "ja": "その計画をいつ始めるかもっと真剣に議論すべきだ。",
+      "answer": "When to start the project should be",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 310,
+      "id": "05-041-e-115",
+      "type": "explanation",
+      "target_q": "05-041-q-115",
+      "title": "「いつ…するか」という表現に注目",
+      "label": "疑問詞＋不定詞",
+      "content": [
+        { "text": "〈疑問詞＋不定詞〉は名詞句の働きをし、「（疑問詞の意味）＋…すべき（できる）か」という意味になる。" }
+      ],
+      "solution": [{ "text": "when to do 「いつ…すべきか」を主語にして文を作る。"}, {"text":"本問は **When to start the project should be** discussed ... という受動態。" }],
+      "appendix": []
+    },
+    {
+      "order": 311,
+      "id": "05-041-q-116",
+      "type": "question",
+      "section_id": "041",
+      "number": "116",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "It's (a foreign language / easy / learn / not / to) which is very different from your own language.",
+      "q_type": "ordering",
+      "ja": "母語と大きく異なる外国語を学ぶことは容易ではない。",
+      "answer": "not easy to learn a foreign language",
+      "source_univ": "創価大"
+    },
+    {
+      "order": 312,
+      "id": "05-041-e-116",
+      "type": "explanation",
+      "target_q": "05-041-q-116",
+      "title": "「…することは〜ではない」",
+      "label": "It is + 形容詞 [名詞] + to do 「…することは〜である」",
+      "content": [
+        { "text": "不定詞が主語になる場合、形式主語の it (→まずは確認 046 p.304) を文頭に置き、不定詞は後ろに回すことが多い。" },
+        { "en": "To speak English is difficult. = It is difficult to speak English.", "ja": "「英語を話すことは難しい」" }
+      ],
+      "solution": [
+        { "text": "「…することは容易ではない」という内容を、形式主語 it を使った 〈It is not + 形容詞 + to do〉 で表現する。" },
+        { "text": "which 以下は a foreign language を先行詞とする関係代名詞節。 → 206" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 313,
+      "id": "05-041-q-117",
+      "type": "question",
+      "section_id": "041",
+      "number": "117",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "As he approached the end of the race, he (found / hard / his / it / maintain / speed / to).",
+      "q_type": "ordering",
+      "ja": "レースの終盤になって、彼はとてもスピードを保てそうもないことに気づいた。",
+      "answer": "found it hard to maintain his speed",
+      "source_univ": "成城大"
+    },
+    {
+      "order": 314,
+      "id": "05-041-e-117",
+      "type": "explanation",
+      "target_q": "05-041-q-117",
+      "title": "SV it hard to do の形を見抜く",
+      "label": "SV it + 形容詞 [名詞] + to do 「…することは〜であると S は V する」",
+      "content": [
+        { "text": "第5文型（SVOC）で目的語の位置に不定詞が来る場合、形式目的語の it (→まずは確認 046 p.304) を代わりに用いて、不定詞は後ろに回すのが原則。この形をとる動詞は think, believe, consider, find, make (→ 132) など。" },
+        { "en": "I think it fun to speak English.", "ja": "「英語を話すことは楽しいと思う」" }
+      ],
+      "solution": [
+        { "text": "「スピードを保つことは難しいと彼は気づいた」という内容を、形式目的語の it を使って **found it hard to maintain his speed** で表現する。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "find OC 「O は C であると気づく／わかる」" }
+      ]
+    },
+    {
+      "order": 315,
+      "type": "section_header",
+      "section_id": "042",
+      "title": "不定詞の形容詞用法"
+    },
+    {
+      "order": 316,
+      "id": "05-042-c-013",
+      "type": "confirmation_box",
+      "target_s": "042",
+      "number": "013",
+      "title": "不定詞の形容詞用法",
+      "content": [
+        { "text": "〈名詞 + to do〉の形で名詞を後ろから修飾する。不定詞と名詞との関係に注目する。" },
+        { "en": "friends to help me", "ja":"「私を助けてくれる友人」", "text": "→ friends help me 「友人が私を助ける」（修飾される名詞が不定詞の主語にあたる）" },
+        { "en": "homework to do", "ja": "「やるべき宿題」", "text": "→ do homework 「宿題をする」（修飾される名詞が不定詞の目的語にあたる）" }
+      ]
+    },
+    {
+      "order": 317,
+      "id": "05-042-q-118",
+      "type": "question",
+      "section_id": "042",
+      "number": "118",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Every kid (have / with / a pet / to play / should).",
+      "q_type": "ordering",
+      "ja": "子どもはみんな、遊び相手をしてくれるペットが必要だ。",
+      "answer": "should have a pet to play with",
+      "source_univ": "桜美林大"
+    },
+    {
+      "order": 318,
+      "id": "05-042-e-118",
+      "type": "explanation",
+      "target_q": "05-042-q-118",
+      "title": "「遊び相手をしてくれるペット」",
+      "label": "不定詞の形容詞用法 — 名詞が不定詞の目的語の場合",
+      "content": [],
+      "solution": [
+        { "text": "play with a pet 「ペットと一緒に遊ぶ」を前提にして、**a pet to play with** 「一緒に遊ぶペット＝遊び相手をしてくれるペット」を完成させる。名詞 a pet は不定詞に続く前置詞の目的語にあたるので、文末に前置詞 **with** が残ることに注意。","en": "play with a pet", "ja":"「ペットと一緒に遊ぶ」" },
+        { "text": "a pet to play with「一緒に遊ぶペット」\nsomething to write with「筆記用具（←それを使って書く何か）」\nsomeone to talk to [with]「話し相手（←その人に対して話す誰か）」" }
+      ],
+      "appendix": [
+      ]
+    },
+    {
+      "order": 319,
+      "type": "section_header",
+      "section_id": "043",
+      "title": "不定詞の副詞用法"
+    },
+    {
+      "order": 320,
+      "id": "05-043-c-014",
+      "type": "confirmation_box",
+      "target_s": "043",
+      "number": "014",
+      "title": "不定詞の副詞用法",
+      "content": [
+        { "tag": "(1)", "label": "目的", "text": "「…するために〜」", "note": "→ 119" },
+        { "tag": "(2)", "label": "感情の原因", "text": "「…して〜」", "note": "→ 120" },
+        { "tag": "(3)", "label": "判断の根拠", "text": "「…するとは〜」", "note": "→ 121" },
+        { "tag": "(4)", "label": "形容詞の限定", "note": "→ 123, 124" },
+        { "tag": "(5)", "label": "結果", "text": "「〜した結果…」", "note": "→ 125 〜 128" },
+        { "text": "＊仮定の意味を含む不定詞表現。「もし…すれば（条件）」も副詞用法である。", "note": "→ 112" }
+      ]
+    },
+    {
+      "order": 321,
+      "id": "05-043-s-012",
+      "type": "summary_box",
+      "target_s": "043",
+      "number": "012",
+      "title": "人の性質や性格を表すおもな形容詞",
+      "content": [
+        { "en": "brave", "ja": "「勇敢な」" },
+        { "en": "careless", "ja": "「不注意な」", "note": "→ 122" },
+        { "en": "clever [smart]", "ja": "「賢い」" },
+        { "en": "considerate", "ja": "「思いやりのある」" },
+        { "en": "crazy", "ja": "「正気でない」", "note": "→ 121" },
+        { "en": "cruel", "ja": "「残酷な」" },
+        { "en": "foolish", "ja": "「愚かな」" },
+        { "en": "kind", "ja": "「親切な」" },
+        { "en": "polite", "ja": "「礼儀正しい」" },
+        { "en": "rude", "ja": "「無礼な」" },
+        { "en": "stupid", "ja": "「まぬけな」" },
+        { "en": "wise", "ja": "「賢明な」" }
+      ]
+    },
+    {
+      "order": 322,
+      "id": "05-043-s-013",
+      "type": "summary_box",
+      "target_s": "043",
+      "number": "013",
+      "title": "〈A is + 形容詞 + to do〉の形で用いられるおもな形容詞",
+      "content": [
+        { "en": "easy", "ja": "「易しい」", "note": "→ 124" },
+        { "en": "difficult [hard / tough]", "ja": "「難しい」", "note": "→ 123" },
+        { "en": "safe", "ja": "「安全な」" },
+        { "en": "dangerous", "ja": "「危険な」" },
+        { "en": "comfortable", "ja": "「快適な」" },
+        { "en": "impossible", "ja": "「不可能な」" }
+      ]
+    },
+    {
+      "order": 323,
+      "id": "05-043-q-119",
+      "type": "question",
+      "section_id": "043",
+      "number": "119",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "You should go to Tokyo Dome ( ) a baseball game.",
+      "options": ["① to see", "② with seeing", "③ see", "④ to seeing"],
+      "ja": "野球の試合を見るために東京ドームへ行くべきだ。",
+      "answer": "①",
+      "source_univ": "青山学院大"
+    },
+    {
+      "order": 324,
+      "id": "05-043-e-119",
+      "type": "explanation",
+      "target_q": "05-043-q-119",
+      "title": "「〜するために」 〈目的〉",
+      "label": "不定詞の副詞用法 — 目的",
+      "content": [
+        { "text": "東京ドームに行くのは野球の試合を見る「ため」の目的。目的を表す不定詞 ① to see を入れると文意が通る。" },
+        { "text": "副詞用法の不定詞が目的を表す場合、不定詞は文頭に置いてもよい。本問は To see a baseball game, ... と表現することもできる。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "△注意", "text": "〈目的〉の意味で不定詞を使っていることをはっきりさせるために、in order to do (→ 141) や so as to do (→ 141) を用いることがある。" }
+      ]
+    },
+    {
+      "order": 325,
+      "id": "05-043-q-120",
+      "type": "question",
+      "section_id": "043",
+      "number": "120",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "(a) He was very happy when he heard the news.\n(b) He was very happy ( ) ( ) the news.",
+      "q_type": "completion",
+      "ja": "(a) (b) その知らせを聞いたとき、彼はとてもうれしかった。",
+      "answer": "to hear",
+      "source_univ": "大阪教育大"
+    },
+    {
+      "order": 326,
+      "id": "05-043-e-120",
+      "type": "explanation",
+      "target_q": "05-043-q-120",
+      "title": "うれしかったという感情の原因は 「〜を聞いて」",
+      "label": "不定詞の副詞用法 — 感情の原因",
+      "content": [],
+      "solution": [
+        { "text": "He was very happy 「とてもうれしかった」 という感情の原因を不定詞を使って表す。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 327,
+      "id": "05-043-q-121",
+      "type": "question",
+      "section_id": "043",
+      "number": "121",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "We thought (to try / he must / been crazy / dangerous jump / have / such a) but he accomplished it successfully.",
+      "q_type": "ordering",
+      "ja": "そんな危険な跳躍に挑むなんて彼は正気を失っていたにちがいないと、私たちは思ったが、彼は見事にやり遂げた。",
+      "answer": "he must have been crazy to try such a dangerous jump",
+      "source_univ": "順天堂大"
+    },
+    {
+      "order": 328,
+      "id": "05-043-e-121",
+      "type": "explanation",
+      "target_q": "05-043-q-121",
+      "title": "crazy 「正気を失った」 と判断する根拠を … で示す",
+      "label": "不定詞の副詞用法 — 判断の根拠",
+      "content": [],
+      "solution": [
+        { "text": "he must have been crazy 「彼は正気を失っていたにちがいない」 という判断の根拠を、不定詞を使った jump 「そんな危険な跳躍に挑むなんて」 で表現する。" },
+        { "text": "must have been ... 「…であったにちがいない」", "note": "→ 65" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "must have been ... 「…であったにちがいない」" }
+      ]
+    },
+    {
+      "order": 329,
+      "id": "05-043-q-122",
+      "type": "question",
+      "section_id": "043",
+      "number": "122",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "It was careless ( ) her front door unlocked all last night.",
+      "options": ["① for her to leave", "② of her to leave", "③ for her leaving", "④ of her leave"],
+      "ja": "昨晩ずっと玄関の鍵をかけないままにしておくとは、彼女は不注意だった。",
+      "answer": "②",
+      "source_univ": "城西大"
+    },
+    {
+      "order": 330,
+      "id": "05-043-e-122",
+      "type": "explanation",
+      "target_q": "05-043-q-122",
+      "title": "careless は人の性質を表す形容詞",
+      "label": "It is + 形容詞 + of A to do 「…するとは A (人) は〜である」",
+      "content": [
+        { "text": "〈It is + 形容詞 + of A to do〉 で 「…するとは A (人) は〜である」 という意味。人の性格や性格を表す形容詞を用いて、A に対する判断を示す。不定詞がその判断の根拠を表している。左頁の 整理して覚える 012 参照。" }
+      ],
+      "solution": [
+        { "text": "It was careless of her to leave ... で 「彼女は不注意だった」 という判断の根拠を表している。She was careless to leave ... としても同意。" },
+        { "text": "選択肢 ① for her to leave は、〈It is + 形容詞 + for A to do〉 の for A は不定詞の意味上の主語。A の人情や性格の判断とその根拠を示すことではない。" },
+        { "note": "→ 130" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 331,
+      "id": "05-043-q-123",
+      "type": "question",
+      "section_id": "043",
+      "number": "123",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "This question is (answer / difficult / than / to / more) that one.",
+      "q_type": "ordering",
+      "ja": "この問題はあの問題よりも答えるのが難しい。",
+      "answer": "more difficult to answer than",
+      "source_univ": "愛知大"
+    },
+    {
+      "order": 332,
+      "id": "05-043-e-123",
+      "type": "explanation",
+      "target_q": "05-043-q-123",
+      "title": "「答えるのが難しい」 という形を作る",
+      "label": "不定詞の副詞用法 — 形容詞の限定",
+      "content": [
+        { "text": "不定詞が形容詞の意味を限定する場合、〈A is + 形容詞 + to do〉 の形で 「A は…するには〜である」 という意味になる。左頁の 整理して覚える 013 参照。" }
+      ],
+      "solution": [
+        { "text": "「（この問題は）答えるのが難しい」 という文章が英文の骨格となる。形容詞 difficult を不定詞 to answer で限定する形での、difficult to answer となる。比較級 more difficult to answer than となった形を選択する。" },
+        { "text": "〈A is + 形容詞 + to do〉 は、形式主語 it を用いて 〈It is + 形容詞 + to do A〉 と書きかえられる。本問は It is more difficult to answer this question than that one. と書きかえられる。他動詞 answer の目的語が当時、この question になっているという関係に注意。" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "... enough to do と too ... to do の表現では、文全体の主語が to do の目的語にあたる場合、原則として目的語は不要。\nThe book was easy enough for me to read.\n「その本は私が読むのに十分なくらい簡単であった」\nThe book was too difficult for me to read.\n「その本は私が読むには難しすぎた」\n＊to read it とはしない。文全体の主語の the book は read の目的語にあたる（← read the book が前提）。" }
+      ]
+    },
+    {
+      "order": 333,
+      "id": "05-043-q-124",
+      "type": "question",
+      "section_id": "043",
+      "number": "124",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Mary is easy ( ).",
+      "options": ["① to work", "② to work with", "③ to work with her", "④ to work with you"],
+      "ja": "メアリーとは一緒に働きやすい。",
+      "answer": "②",
+      "source_univ": "金城学院大"
+    },
+    {
+      "order": 334,
+      "id": "05-043-e-124",
+      "type": "explanation",
+      "target_q": "05-043-q-124",
+      "title": "「一緒に働くのが簡単である」という形を作る",
+      "label": "不定詞の副詞用法 — 形容詞の限定",
+      "content": [],
+      "solution": [
+        { "text": "「（メアリーは）一緒に働くのが簡単である＝働きやすい」という文章の骨格となる。形容詞 easy を不定詞 to work with で限定する形になる。" },
+        { "text": "〈A is + 形容詞 + to do + 前置詞〉の形。形式主語 it を用いて〈It is + 形容詞 + to do + 前置詞 + A〉と書きかえられる。本問は It is easy to work with Mary. と書きかえられる。前置詞 with が必要である点に注意。" },
+        { "text": "123 で学習した形容詞の限定を修飾する不定詞の用法と同じ。" },
+        { "tag": "←", "en": "work with Mary", "ja": "「メアリーと一緒に働く」" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 335,
+      "id": "05-043-q-125",
+      "type": "question",
+      "section_id": "043",
+      "number": "125",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "He (strange / to / people / by / awoke / surrounded / himself / find).",
+      "q_type": "ordering",
+      "ja": "彼は目を覚ますと，見知らぬ人々に囲まれているのに気づいた。",
+      "answer": "awoke to find himself surrounded by strange",
+      "source_univ": "中央大"
+    },
+    {
+      "order": 336,
+      "id": "05-043-e-125",
+      "type": "explanation",
+      "target_q": "05-043-q-125",
+      "title": "「目を覚ました，その結果，…ということに気づいた」という形を作る",
+      "label": "不定詞の副詞用法 — 結果",
+      "content": [
+        { "text": "左頁 整理して覚える 014 参照。" }
+      ],
+      "solution": [
+        { "text": "結果を表す不定詞の副詞用法。awoke to find ... で「目を覚ましたら，（その結果）…ということに気づいた」という文の骨格を作る。" },
+        { "text": "find (V) + himself (O) + surrounded (C) [O は C されているのを見出す（気づく）] という形を用いた表現。 → まずは確認 020 (p.095)" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 337,
+      "id": "05-043-q-126",
+      "type": "question",
+      "section_id": "043",
+      "number": "126",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The duckling (grown / up / be / has / to) a beautiful swan.",
+      "q_type": "ordering",
+      "ja": "あひるの子は成長して美しい白鳥になった。",
+      "answer": "has grown up to be",
+      "source_univ": "中京大"
+    },
+    {
+      "order": 338,
+      "id": "05-043-e-126",
+      "type": "explanation",
+      "target_q": "05-043-q-126",
+      "title": "「成長した，その結果，…となった」という形を作る",
+      "label": "不定詞の副詞用法 — 結果",
+      "content": [],
+      "solution": [
+        { "text": "本問の不定詞は「完了・結果」の意味。grow up to be ... で「成長して…になる」という意味になる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 339,
+      "id": "05-043-q-127",
+      "type": "question",
+      "section_id": "043",
+      "number": "127",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "His grandfather lived ( ) ninety-two and was the head of the company for many years.",
+      "options": ["① being", "② to be", "③ for being", "④ till he would be"],
+      "ja": "彼の祖父は92歳まで生きて，長年その会社の代表を務めた。",
+      "answer": "②",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 340,
+      "id": "05-043-e-127",
+      "type": "explanation",
+      "target_q": "05-043-q-127",
+      "title": "「生きた，その結果，…歳になった」という形を作る",
+      "label": "不定詞の副詞用法 — 結果",
+      "content": [],
+      "solution": [
+        { "text": "live to be ... で「…歳まで生きる（生きて…歳になる）」という結果を表す。" },
+        { "tag": "≒", "en": "His grandfather lived until [till] he was ninety-two ..." }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 341,
+      "id": "05-043-q-128",
+      "type": "question",
+      "section_id": "043",
+      "number": "128",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Caesar entered the town ( ) that the enemy had already fled.",
+      "options": ["① of finding", "② found", "③ only to find", "④ only to be found"],
+      "ja": "シーザーはその町に入ったが，敵はすでに逃げ出した後だった。",
+      "answer": "③",
+      "source_univ": "関西学院大"
+    },
+    {
+      "order": 342,
+      "id": "05-043-e-128",
+      "type": "explanation",
+      "target_q": "05-043-q-128",
+      "title": "「〜したが，結果，…した」という形を作る",
+      "label": "結果を表す不定詞 — (,), only to do 「〜したが，（結局）…した」",
+      "content": [],
+      "solution": [
+        { "text": "〈(,) only to do〉は「〜したが，結局…した」という残念な結果を表すことが多い。文意が成立するのは ③ only to find だけ。" },
+        { "tag": "≒", "text": "Caesar entered the town but (he) found that the enemy had already fled." }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 343,
+      "id": "05-043-s-014",
+      "type": "summary_box",
+      "target_s": "043",
+      "number": "014",
+      "title": "結果を表す不定詞のおもな表現",
+      "content": [
+        { "tag": "□", "label": "wake (up) [awake] to find ...", "text": "「目が覚めて…と気づく」", "note": "→ 125" },
+        { "tag": "□", "label": "grow up to be ...", "text": "「成長して…になる」", "note": "→ 126" },
+        { "tag": "□", "label": "live to be ... (years old)", "text": "「生きて…歳まで生きる」", "note": "→ 127" },
+        { "tag": "□", "label": "(,) only to do", "text": "「〜したが，（結局）…した（残念な結果）」", "note": "→ 128" }
+      ]
+    },
+    {
+      "order": 344,
+      "type": "section_header",
+      "section_id": "044",
+      "title": "不定詞の否定形"
+    },
+    {
+      "order": 345,
+      "id": "05-044-q-129",
+      "type": "question",
+      "section_id": "044",
+      "number": "129",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "She (to / the / warned / not / children / swim / near) the boats.",
+      "q_type": "ordering",
+      "ja": "彼女は子どもたちにボートの近くで泳がないように注意した。",
+      "answer": "warned the children not to swim near",
+      "source_univ": "摂南大"
+    },
+    {
+      "order": 346,
+      "id": "05-044-e-129",
+      "type": "explanation",
+      "target_q": "05-044-q-129",
+      "title": "「…しないように」を not to do で表す",
+      "label": "不定詞の否定形 — not to do",
+      "content": [
+        { "text": "不定詞の否定形は not を不定詞の直前に置き，not to do とする。not の代わりに never を使う場合もある。" }
+      ],
+      "solution": [
+        { "en": "I told her never to give up.", "ja": "「決してあきらめないように彼女に言った」" },
+        { "text": "warn A not to do 「Aに…しないように注意する」のフレーズを用いて表現する。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "warn A to do 「Aに…するように注意する」" }
+      ]
+    },
+    {
+      "order": 347,
+      "type": "section_header",
+      "section_id": "045",
+      "title": "不定詞の意味上の主語"
+    },
+    {
+      "order": 348,
+      "id": "05-045-q-130",
+      "type": "question",
+      "section_id": "045",
+      "number": "130",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "Her mother objected that it is (stay / to / her / on / home / for / dangerous / Susie) own.",
+      "q_type": "ordering",
+      "ja": "母親は，スージーがひとりで家にいるのは危険だと反対した。",
+      "answer": "dangerous for Susie to stay home on her",
+      "source_univ": "摂南大"
+    },
+    {
+      "order": 349,
+      "id": "05-045-e-130",
+      "type": "explanation",
+      "target_q": "05-045-q-130",
+      "title": "不定詞「ひとりで家にいる」の意味上の主語は「スージー」",
+      "label": "不定詞の意味上の主語 — It is + 形容詞 [+ 名詞] + for A to do",
+      "content": [
+        { "text": "不定詞の意味上の主語は不定詞の直前に for A を置いて示す。" },
+        { "tag": "→", "text": "It is + 形容詞 [名詞] + to do (→ 116) に意味上の主語を足すと，〈It is + 形容詞 [名詞] + for A + to do〉「A が … することは〜である」となる。" }
+      ],
+      "solution": [
+        { "text": "「スージーが … することは危険だ」という内容を，〈It is dangerous for Susie to do ...〉の形で表す。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "object that SV 「…だと反対する」" },
+        { "tag": "重要", "text": "on one's own 「（ひとりで）＝ alone」" }
+      ]
+    },
+    {
+      "order": 350,
+      "id": "05-045-q-131",
+      "type": "question",
+      "section_id": "045",
+      "number": "131",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "It would be better (her temper / for / not / lose / her / to) so often.",
+      "q_type": "ordering",
+      "ja": "彼女はあまりかんしゃくを起こさないほうがいいでしょう。",
+      "answer": "for her not to lose her",
+      "source_univ": "東洋大"
+    },
+    {
+      "order": 351,
+      "id": "05-045-e-131",
+      "type": "explanation",
+      "target_q": "05-045-q-131",
+      "title": "for A not to do — 不定詞の否定形に意味上の主語を置く",
+      "label": "不定詞の否定形に意味上の主語を置く",
+      "content": [
+        { "text": "「彼女が … しないことがよい」という内容を，不定詞の否定形 not to do (→ 116) に意味上の主語を足して，for A not to do 「A が … しないように」の語順で表す。not を不定詞の直前に置くことに注意。" }
+      ],
+      "solution": [
+        { "text": "for her not to lose her temper という語順を作る。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "lose one's temper 「腹を立てる／平常心を失う」", "note": "→ 1065" }
+      ]
+    },
+    {
+      "order": 352,
+      "id": "05-045-q-132",
+      "type": "question",
+      "section_id": "045",
+      "number": "132",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "This guidebook makes (countries / decide / easier / for / it / to / to / us / visit / which).",
+      "q_type": "ordering",
+      "ja": "このガイドブックのおかげで，どの国を訪問したらいいかがより決めやすくなる。",
+      "answer": "it easier for us to decide which",
+      "source_univ": "名古屋市立大"
+    },
+    {
+      "order": 353,
+      "id": "05-045-e-132",
+      "type": "explanation",
+      "target_q": "05-045-q-132",
+      "title": "it, for, to から形を推察する",
+      "label": "不定詞の意味上の主語 — SV it + 形容詞 [名詞] + for A to do",
+      "content": [
+        { "text": "〈SV it + 形容詞 [名詞] + to do〉(→ 117) に意味上の主語を足すと，〈SV it + 形容詞 [名詞] + for A + to do〉「A が … することは〜であると S は V する」となる。" }
+      ],
+      "solution": [
+        { "text": "This guidebook makes (V) it (O) easier (C) for us to decide ... という文の骨格を作る。" },
+        { "text": "decide のあとには，which countries to visit 「どの国を訪問すべきか」という〈疑問詞＋不定詞〉(→ 115) の表現を続ける。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 354,
+      "type": "section_header",
+      "section_id": "046",
+      "title": "完了不定詞"
+    },
+    {
+      "order": 355,
+      "id": "05-046-d-007",
+      "type": "deep_dive",
+      "target_s": "046",
+      "number": "007",
+      "title": "It seems that SV と S seem to do の書きかえ",
+      "content": [
+        {
+          "label": "(1) seem と V が同じ時の場合 → to do を用いる",
+          "items": [
+            { "text": "It seems that he **is** ill. (現在＋現在)", "en": "He seems **to be** ill." },
+            { "text": "It seemed that he **was** ill. (過去＋過去)", "en": "He seemed **to be** ill." }
+          ]
+        },
+        {
+          "label": "(2) seem よりも V が前の時の場合 → to have done を用いる",
+          "items": [
+            { "text": "It seems that he **was** ill. (現在＋過去)", "en": "He seems **to have been** ill." },
+            { "text": "It seems that he **has been** ill. (現在＋現在完了)", "en": "He seems **to have been** ill." },
+            { "text": "It seemed that he **had been** ill. (過去＋過去完了)", "en": "He seemed **to have been** ill." }
+          ]
+        },
+        { "tag": "*", "text": "It seems that SV の V が過去形の場合と現在完了形の場合は，to have done という同じ形になることに注意。どちらの意味になるのかは，文脈から判断しなければならない。" },
+        { "tag": "*", "text": "It is said[believed] that SV と S is said[believed] to do の書きかえも同様に考える。", "note": "→ 134" },
+        { "tag": "△注意", "text": "両者を混同して (×) S seem that SV や，(×) S is said that SV とするミスが多い。" }
+      ]
+    },
+    {
+      "order": 356,
+      "id": "05-046-q-133",
+      "type": "question",
+      "section_id": "046",
+      "number": "133",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "(a) It seems that she went back to her hometown yesterday.\n(b) She seems ( ) ( ) ( ) back to her hometown yesterday.",
+      "q_type": "completion",
+      "ja": "(a) (b) 昨日，彼女は故郷に帰ったようだ。",
+      "answer": "to have gone",
+      "source_univ": "東京理科大"
+    },
+    {
+      "order": 357,
+      "id": "05-046-e-133",
+      "type": "explanation",
+      "target_q": "05-046-q-133",
+      "title": "seems と went の時の差に着目",
+      "label": "完了不定詞 — S seem to have done",
+      "content": [
+        { "text": "述語動詞が表す時よりも前のことを不定詞で表すときは，to have done を用いる。この形を「完了不定詞」と呼ぶ。" }
+      ],
+      "solution": [
+        { "text": "(a) の seems は現在形，that 節内の went は過去形で，時間的に前に起きたことなので，その差を完了不定詞 to have gone で表現する。She seems that she went back ... とは正解。" },
+        { "tag": "≒", "en": "She seems that she went back ...", "ja": "は不正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 358,
+      "id": "05-046-q-134",
+      "type": "question",
+      "section_id": "046",
+      "number": "134",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Nobody is said to have known the truth.",
+      "q_type": "sentence_transformation",
+      "ja": "だれも真実を知らなかったと言われている。",
+      "answer": "It is said that nobody knew the truth",
+      "source_univ": "弘前大"
+    },
+    {
+      "order": 359,
+      "id": "05-046-e-134",
+      "type": "explanation",
+      "target_q": "05-046-q-134",
+      "title": "is said と knew の時の差に着目",
+      "label": "完了不定詞 — S is said to have done",
+      "content": [
+        { "text": "knew 「知っていた」 は述語動詞 is said 「…と言われている」 よりも時間的に前に起きたことなので，完了不定詞 to have known を使って表現する。Nobody is said that they knew the truth. は不正解。" }
+      ],
+      "solution": [
+        { "tag": "≒", "en": "Nobody is said that they knew the truth.", "ja": "は不正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 360,
+      "type": "section_header",
+      "section_id": "047",
+      "title": "代不定詞"
+    },
+    {
+      "order": 361,
+      "id": "05-047-q-135",
+      "type": "question",
+      "section_id": "047",
+      "number": "135",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I'm not sure whether we'll be able to buy the house, but we hope ( ).",
+      "options": ["① do", "② it", "③ that", "④ to"],
+      "ja": "その家を購入できるかどうかはわからないが、私たちは購入したいと思っている。",
+      "answer": "④",
+      "source_univ": "立命館大"
+    },
+    {
+      "order": 362,
+      "id": "05-047-e-135",
+      "type": "explanation",
+      "target_q": "05-047-q-135",
+      "title": "前文の内容を受けて、望んでいる（hope）のは何か",
+      "label": "代不定詞",
+      "content": [
+        { "text": "同じ表現の反復を避けるために、不定詞 to do の do を省略して to だけを残すことがある。この to は「代不定詞」と呼ばれる。" }
+      ],
+      "solution": [
+        { "text": "省略部分を補うと、we hope **to buy the house** 「その家を購入することを望む」となる。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "② it や ③ that の代名詞が指し示すもので文意に合うものはない。" },
+        { "tag": "重要", "text": "be not sure whether SV ... 「…かどうか（ということ）確信がない／確信が持てない」" }
+      ]
+    },
+    {
+      "order": 363,
+      "id": "05-047-q-136",
+      "type": "question",
+      "section_id": "047",
+      "number": "136",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "The boy turned on his father's computer, though he had been told ( ).",
+      "options": ["① not do it", "② not to", "③ to do not", "④ to not"],
+      "ja": "そうしないように言われていたのだが、その少年は父親のコンピューターの電源を入れた。",
+      "answer": "②",
+      "source_univ": "青山学院大"
+    },
+    {
+      "order": 364,
+      "id": "05-047-e-136",
+      "type": "explanation",
+      "target_q": "05-047-q-136",
+      "title": "though 「けれども」 に注目 — 前文とは反対の内容",
+      "label": "代不定詞の否定形 — not to",
+      "content": [
+        { "text": "不定詞の否定形 not to do (→ 129) の代不定詞は not to となる。" }
+      ],
+      "solution": [
+        { "text": "省略部分を補うと、though he had been told **not to turn on his father's computer** 「父親のコンピューターの電源を入れないように言われていたにもかかわらず」 となる。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "tell A to do 「A に … するように言う」 → 618" },
+        { "tag": "重要", "text": "tell A not to do 「A に … しないように言う」" }
+      ]
+    },
+    {
+      "order": 365,
+      "type": "section_header",
+      "section_id": "048",
+      "title": "程度を表す不定詞の慣用表現"
+    },
+    {
+      "order": 366,
+      "id": "05-048-q-137",
+      "type": "question",
+      "section_id": "048",
+      "number": "137",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "This problem (complex / for / is / me / to / too) know where to start.",
+      "q_type": "ordering",
+      "ja": "この問題は複雑で、私はどこから手をつければよいかわからない。",
+      "answer": "is too complex for me to",
+      "source_univ": "日本大"
+    },
+    {
+      "order": 367,
+      "id": "05-048-e-137",
+      "type": "explanation",
+      "target_q": "05-048-q-137",
+      "title": "too, to に着目",
+      "label": "too ... for A to do 「A が 〜 するには … すぎる／ … すぎて A は 〜 できない」",
+      "content": [
+        { "tag": "□", "text": "too ... for A to do 「…すぎて A は 〜 できない」 に意味上の主語 for A を加えた、 〈too ... for A to do〉 「A が 〜 するには … すぎる」 の文の骨格を作る。" },
+        { "tag": "≒", "text": "This problem is **so complex that I don't** know where to start. (→ 306)" }
+      ],
+      "solution": [
+        { "text": "「…すぎて A は 〜 できない」 という文章を作る。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 368,
+      "id": "05-048-q-138",
+      "type": "question",
+      "section_id": "048",
+      "number": "138",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "This house is (enough / for / in / large / us / live / to).",
+      "q_type": "ordering",
+      "ja": "この家は私たちが住めるだけの広さがある。",
+      "answer": "large enough for us to live in",
+      "source_univ": "東洋大"
+    },
+    {
+      "order": 369,
+      "id": "05-048-e-138",
+      "type": "explanation",
+      "target_q": "05-048-q-138",
+      "title": "enough, for, to に着目",
+      "label": "enough for A to do 「A が 〜 するほど（十分） … ／ （とても） … なので A は 〜 」",
+      "content": [
+        { "tag": "□", "text": "... enough to do 「〜するほど（十分） … 」 に意味上の主語 for A を加えた、 **enough for A to do** 「A が 〜 するほど（十分） … 」 の形にする。" },
+        { "tag": "≒", "text": "This house is **so large that** we can live in it." }
+      ],
+      "solution": [
+        { "text": "主語の This house は、動詞 live に対して、live **in** this house という関係があるので、to live **in** と文尾に in を置くことに注意。" },
+        { "text": "large enough の語順に注意。（×）enough large とするのは間違い。副詞の enough は必ず形容詞や副詞のあとに置く。" },
+        { "text": "(... enough for A to do) も (so ... that SV) で書きかえられる。" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "... enough to do と too ... to do の表現では、文全体の主語が to do の目的語にあたる場合、原則として目的語は不要。\nThe book was easy enough for me to read.\n「その本は私が読むのに十分なくらい簡単であった」\nThe book was too difficult for me to read.\n「その本は私が読むには難しすぎた」\n＊to read it とはしない。文全体の主語の the book は read の目的語にあたる（← read the book が前提）。" }
+      ]
+    },
+    {
+      "order": 370,
+      "type": "section_header",
+      "section_id": "049",
+      "title": "目的を表す不定詞の慣用表現"
+    },
+    {
+      "order": 371,
+      "id": "05-049-q-139",
+      "type": "question",
+      "section_id": "049",
+      "number": "139",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "(a) They are so rich that they can travel abroad every year by ship.\n(b) They are rich ( ) ( ) travel abroad every year by ship.",
+      "q_type": "completion",
+      "ja": "(a) (b) 彼らはとても裕福なので、毎年船で海外旅行ができる。",
+      "answer": "enough to",
+      "source_univ": "愛媛大"
+    },
+    {
+      "order": 372,
+      "id": "05-049-e-139",
+      "type": "explanation",
+      "target_q": "05-049-q-139",
+      "title": "rich の後ろに来るものは？",
+      "label": "... enough to do = so ... that SV",
+      "content": [],
+      "solution": [
+        { "text": "本問では形容詞 rich の後ろに enough to do を続ける。" },
+        { "tag": "≒", "en": "so ... that SV", "text": "の書き換え表現。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 373,
+      "id": "05-049-q-140",
+      "type": "question",
+      "section_id": "049",
+      "number": "140",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "The girl was so kind ( ) me to the station.",
+      "options": ["① as to take", "② for taking", "③ in order to take", "④ that it takes"],
+      "ja": "その少女は親切にも私を駅まで連れて行ってくれた。",
+      "answer": "①",
+      "source_univ": "日本女子大"
+    },
+    {
+      "order": 374,
+      "id": "05-049-e-140",
+      "type": "explanation",
+      "target_q": "05-049-q-140",
+      "title": "so kind の so に注目",
+      "label": "so ... as to do 「とても…なので〜する／〜するほど…だ」",
+      "content": [],
+      "solution": [
+        { "text": "so kind の so に注目。 「…してくれるほど親切だ」 と文意が通るので、 ① as to take が正解。" },
+        { "tag": "≒", "text": "The girl was **kind enough to take** me to the station. としても同意。" },
+        { "tag": "≒", "text": "The girl was **so kind that she took** me to the station. としても同意。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 375,
+      "id": "05-049-q-141",
+      "type": "question",
+      "section_id": "049",
+      "number": "141",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "I'm going to study harder ( ) pass my exams in June.",
+      "options": ["① so to", "② for to", "③ in order that", "④ in order to"],
+      "ja": "私は、6月の試験に受かるために、もっと一生懸命勉強するつもりだ。",
+      "answer": "④",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 376,
+      "id": "05-049-e-141",
+      "type": "explanation",
+      "target_q": "05-049-q-141",
+      "title": "「試験に受かるために」 という目的を表す",
+      "label": "in order to do 「…するために」",
+      "content": [
+        { "text": "副詞用法の 〈目的〉 の意味で使っていることをはっきりさせるために、 in order to do や so as to do という表現を用いることがある。" }
+      ],
+      "solution": [
+        { "text": "④ は in order that I can pass my exams in June なら正解。" },
+        { "tag": "→", "note": "310" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "程度を表す so ... as to do (→ 140) と混同しないこと。" }
+      ]
+    },
+    {
+      "order": 377,
+      "id": "05-049-q-142",
+      "type": "question",
+      "section_id": "049",
+      "number": "142",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "時勢に遅れないように、新聞に毎日、目を通すようにしている。\nI make it a rule to read the newspapers every day (as / to / fall / not / times / behind / so / the).",
+      "q_type": "ordering",
+      "ja": "時勢に遅れないように、新聞に毎日、目を通すようにしている。",
+      "answer": "so as not to fall behind the",
+      "source_univ": "日本大"
+    },
+    {
+      "order": 378,
+      "id": "05-049-e-142",
+      "type": "explanation",
+      "target_q": "05-049-q-142",
+      "title": "so, as, not に着目",
+      "label": "so as not to do 「…しないように」",
+      "content": [
+        { "text": "「…しないように」 という否定の表現の 〈目的〉 は、 in order not to do や so as not to do を使う。 not は不定詞の直前に置くことに注意。" },
+        { "tag": "→", "text": "Section 044 (p.073) 参照" }
+      ],
+      "solution": [
+        { "text": "in order や so as を用いずに、 not to do だけで否定の意味の 〈目的〉 を表すことは一般的ではない。" },
+        { "text": "「時勢に遅れないように」 という内容を、 so as not to do を用いて表す。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "fall behind the times 「時代に取り残される」" }
+      ]
+    },
+    {
+      "order": 379,
+      "type": "section_header",
+      "section_id": "050",
+      "title": "原形不定詞"
+    },
+    {
+      "order": 380,
+      "id": "05-050-c-015",
+      "type": "confirmation_box",
+      "target_s": "050",
+      "number": "015",
+      "title": "原形不定詞",
+      "content": [
+        { "text": "第5文型（SVOC）の C（補語）に動詞の原形が来る場合がある。その動詞の原形を原形不定詞と呼ぶ。原形不定詞を用いるのは、知覚動詞の see O do 「O が … するのを見る」、 hear O do 「O が … するのを聞く」 や、使役動詞の make O do 「O に（無理やり）…させる」、 let O do 「O が … するのを許す」、 have O do 「O に…させる／…してもらう」 などの場合。 S と O の間には 「O が … する」 という能動の意味の関係が成立する。" },
+        { "tag": "→", "text": "Section 146 (p.247), 148 (p.251)" }
+      ]
+    },
+    {
+      "order": 381,
+      "id": "05-050-q-143",
+      "type": "question",
+      "section_id": "050",
+      "number": "143",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Last night I heard my sister ( ) with you on the phone.",
+      "options": ["① talk", "② talks", "③ to talk", "④ be talking"],
+      "ja": "昨夜あなたと私の姉［妹］が電話で話すのが聞こえた。",
+      "answer": "①",
+      "source_univ": "東京経済大"
+    },
+    {
+      "order": 382,
+      "id": "05-050-e-143",
+      "type": "explanation",
+      "target_q": "05-050-q-143",
+      "title": "知覚動詞 heard に着目",
+      "label": "hear A do 「A が … するのを聞く」",
+      "content": [],
+      "solution": [
+        { "text": "原形不定詞 ① talk を入れると、知覚動詞を用いた hear A do となり、文意も通る。" },
+        { "tag": "→", "text": "Section 148 (p.251) 参照" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 383,
+      "id": "05-050-q-144",
+      "type": "question",
+      "section_id": "050",
+      "number": "144",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "(a) They made me read a newspaper every day.\n(b) I ( ) ( ) ( ) read a newspaper every day.",
+      "q_type": "completion",
+      "ja": "(a) 彼らは毎日、私に新聞を読ませた。(b) 私は毎日、新聞を読まされた。",
+      "answer": "was made to",
+      "source_univ": "愛媛大"
+    },
+    {
+      "order": 384,
+      "id": "05-050-e-144",
+      "type": "explanation",
+      "target_q": "05-050-q-144",
+      "title": "主語が I なので、受動態",
+      "label": "使役動詞 make A do の受動態 — be made to do 「（無理やり）…させられる」",
+      "content": [
+        { "text": "使役動詞 make A do 「A に（無理やり）…させる」 の受動態は 〈be made to do〉 「…させられる」 となる。原形不定詞 do は受動態では不定詞 to do になることに注意。" }
+      ],
+      "solution": [
+        { "text": "能動態の原形不定詞 read を、受動態の I was made to read に書きかえる問題。能動態では原形不定詞だったのが、受動態では不定詞 to read になる。" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "知覚動詞の受動態も be seen[heard] to do 「…するのが見られる［聞こえる］」 となる。" },
+        { "en": "He was seen [heard] to sing.", "ja": "「彼は歌うのを見られた［聞かれた］」" }
+      ]
+    },
+    {
+      "order": 385,
+      "id": "05-050-q-145",
+      "type": "question",
+      "section_id": "050",
+      "number": "145",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "手紙を封筒に入れて投函してくれさえすればよいのだ。\nAll (have / to / you / put / is / do / the) letter in an envelope and mail it.",
+      "q_type": "ordering",
+      "ja": "手紙を封筒に入れて投函してくれさえすればよいのだ。",
+      "answer": "you have to do is put the",
+      "source_univ": "東京経済大"
+    },
+    {
+      "order": 386,
+      "id": "05-050-e-145",
+      "type": "explanation",
+      "target_q": "05-045-q-145",
+      "title": "All S have to do is + do(原形不定詞) 「S は … しさえすればよい／…するだけでよい」",
+      "label": "All S have to do is + do",
+      "content": [
+        { "text": "All S have to do is + do (原形不定詞) は 「S がしなければならないすべてのことは … することだ」 が直訳。 is のあとに do (原形不定詞) が来ることが特徴。ただし、 All S have to do is to do の形もある。 S have only to do と同意。" },
+        { "tag": "→", "note": "49" }
+      ],
+      "solution": [
+        { "tag": "≒", "text": "You have only [only have] to put the letter ..." }
+      ],
+      "appendix": [
+        { "tag": "プラス", "text": "All S can do is to do (原形不定詞) 「S は … しかできない／…するのが精一杯だ」" },
+        { "en": "All I could do was (to) read the first chapter.", "ja": "「私は第一章を読むだけで精一杯だった」" }
+      ]
+    },
+    {
+      "order": 387,
+      "type": "section_header",
+      "section_id": "051",
+      "title": "be 動詞 + to do"
+    },
+    {
+      "order": 388,
+      "id": "05-051-c-016",
+      "type": "confirmation_box",
+      "target_s": "051",
+      "number": "016",
+      "title": "be 動詞 + to do",
+      "content": [
+        { "text": "〈be 動詞＋to do〉 という形で、次のような意味を表す。" },
+        { "tag": "□", "label": "予定・運命", "text": "「…することになっている」", "note": "→ 146" },
+        { "tag": "□", "label": "可能", "text": "「…できる」", "note": "→ 147" },
+        { "tag": "□", "label": "義務・命令", "text": "「…しなければならない」", "note": "→ 148" },
+        { "tag": "□", "label": "意図・目的", "text": "「…するつもりだ」", "note": "→ 149" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "S is to do が 「S は … することだ」 (→ 114 ：補語としての名詞用法) と訳せると判断される場合は、〈be 動詞＋to do〉 の用法ではないと判断してよい。" },
+        { "en": "(例) My future goal is to teach English at high school.", "ja": "「彼は高校で英語を教えることだ」 という不自然な意味になる。よって、この英文は 〈be 動詞＋to do〉 用法になり、 「彼は高校で英語を教えることになっている／教えなければならない」 などと訳せばよい。" }
+      ]
+    },
+    {
+      "order": 389,
+      "id": "05-051-q-146",
+      "type": "question",
+      "section_id": "051",
+      "number": "146",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The president of the company announced today that a new store is ( ) next year.",
+      "options": ["① building", "② built", "③ to be building", "④ to be built"],
+      "ja": "その会社の社長は今日、新しい店舗が来年建設される予定だと発表した。",
+      "answer": "④",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 390,
+      "id": "05-051-e-146",
+      "type": "explanation",
+      "target_q": "05-051-q-146",
+      "title": "next year 「来年」 に注目 → 〈予定〉",
+      "label": "be 動詞 + to do 〈予定・運命〉",
+      "content": [],
+      "solution": [
+        { "text": "next year 「来年」 に注目して 〈予定〉 を表す 〈be 動詞 + to do〉 を選ぶ。 「新店舗が建てられる」 という受動関係にあるので、受動態を用いた ④ to be built が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 391,
+      "id": "05-051-q-147",
+      "type": "question",
+      "section_id": "051",
+      "number": "147",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The key (to / not / was / found / be) anywhere.",
+      "q_type": "ordering",
+      "ja": "その鍵はどこにも見つけられなかった。",
+      "answer": "was not to be found",
+      "source_univ": "奥羽大"
+    },
+    {
+      "order": 392,
+      "id": "05-051-e-147",
+      "type": "explanation",
+      "target_q": "05-051-q-147",
+      "title": "not と to に着目",
+      "label": "be 動詞 + to do 〈可能〉",
+      "content": [
+        { "text": "〈be 動詞＋to do〉 が 〈可能〉 を表す場合は、 S is not to be done (否定文で受動態の不定詞が続く) の形で用いられることが多い。" }
+      ],
+      "solution": [
+        { "en": "She is not to be trusted.", "ja": "「彼女は信用できない」" },
+        { "text": "「見つけられなかった」 という文意を、 〈可能〉 を表す 〈be 動詞 + to do〉 で表す。 was not to be found と受動態の不定詞にすること、 not の位置に注意。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 393,
+      "id": "05-051-q-148",
+      "type": "question",
+      "section_id": "051",
+      "number": "148",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "This assignment is (at / be / by / submitted / the / to / Wednesday) latest.",
+      "q_type": "ordering",
+      "ja": "この課題は遅くとも水曜日には提出してください。",
+      "answer": "to be submitted by Wednesday at the",
+      "source_univ": "立命館大"
+    },
+    {
+      "order": 394,
+      "id": "05-051-e-148",
+      "type": "explanation",
+      "target_q": "05-051-q-148",
+      "title": "「…してください」を be to do で表す",
+      "label": "be 動詞 + to do 〈義務・命令〉",
+      "content": [],
+      "solution": [
+        { "text": "「…提出してください」という内容を、〈義務〉を表す 〈be 動詞 + to do〉 で表現する。主語の assignment 「課題」と submit 「…を提出する」 は 「課題が提出される」 という受動の関係になることに注意。" },
+        { "text": "at the latest 「遅くとも」 / by A 「（期限）までに」 というフレーズを作る。" },
+        { "tag": "→", "note": "334" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "at the latest 「遅くとも」" },
+        { "tag": "重要", "text": "by A 「（期限）までに」" }
+      ]
+    },
+    {
+      "order": 395,
+      "id": "05-051-q-149",
+      "type": "question",
+      "section_id": "051",
+      "number": "149",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "If you ( ) your dream, you must study much harder.",
+      "options": ["① are realized", "② are realizing", "③ are to realize", "④ would be realize"],
+      "ja": "夢を実現するつもりなら、あなたはさらにもっと勉強しなければならない。",
+      "answer": "③",
+      "source_univ": "川崎医療福祉大"
+    },
+    {
+      "order": 396,
+      "id": "05-051-e-149",
+      "type": "explanation",
+      "target_q": "05-051-q-149",
+      "title": "「…するつもり」を be to do で表す",
+      "label": "be 動詞 + to do 〈意図・目的〉",
+      "content": [],
+      "solution": [
+        { "text": "if 節の中で 「（もし）…するつもりなら」 と、〈意図・目的〉 を表す 〈be 動詞 + to do〉 で表す。一種の慣用表現として覚えよう。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 397,
+      "type": "section_header",
+      "section_id": "052",
+      "title": "独立不定詞"
+    },
+    {
+      "order": 398,
+      "id": "05-052-q-150",
+      "type": "question",
+      "section_id": "052",
+      "number": "150",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The food was delicious, ( ) the wine. The guests must have enjoyed the party.",
+      "options": ["① the less", "② to say nothing of", "③ on behalf of", "④ as far as"],
+      "ja": "料理はおいしかった、ではワインは？",
+      "answer": "②",
+      "source_univ": "東京理科大"
+    },
+    {
+      "order": 399,
+      "id": "05-052-e-150",
+      "type": "explanation",
+      "target_q": "05-052-q-150",
+      "title": "料理はおいしかった、ではワインは？",
+      "label": "to say nothing of A 「A は言うまでもなく」",
+      "content": [],
+      "solution": [
+        { "text": "2文目で 「招待客はパーティーを楽しんだにちがいいない」 と言っているので、料理もワインもおいしかった、とするのが自然。 ② の to say nothing of A 「A は言うまでもなく」 を入れると文意が通る。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 400,
+      "id": "05-052-q-151",
+      "type": "question",
+      "section_id": "052",
+      "number": "151",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "(a) It goes without saying that health is more important than wealth.\n(b) ( ) ( ) ( ), health is more important than wealth.",
+      "q_type": "completion",
+      "ja": "(a) (b) 健康が財産よりも大事なのは言うまでもない。",
+      "answer": "Needless to say",
+      "source_univ": "大阪教育大"
+    },
+    {
+      "order": 401,
+      "id": "05-052-e-151",
+      "type": "explanation",
+      "target_q": "05-052-q-151",
+      "title": "Needless to say 「言うまでもなく」",
+      "label": "Needless to say 「言うまでもなく」",
+      "content": [],
+      "solution": [
+        { "text": "It goes without saying that SV … 「…は言うまでもない」 (→ 175) を、 Needless to say, SV に書きかえる問題。文頭に書きかえる問題。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 402,
+      "id": "05-052-q-152",
+      "type": "question",
+      "section_id": "052",
+      "number": "152",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Strange ( ), I didn't really enjoy the musical.",
+      "options": ["① said", "② saying", "③ to say", "④ say"],
+      "ja": "奇妙なことに、私はそのミュージカルをあまり楽しめなかった。",
+      "answer": "③",
+      "source_univ": "亜細亜大"
+    },
+    {
+      "order": 403,
+      "id": "05-052-e-152",
+      "type": "explanation",
+      "target_q": "05-052-q-152",
+      "title": "strange to say 「不思議なことに／奇妙な話だが」",
+      "label": "strange to say 「不思議なことに／奇妙な話だが」",
+      "content": [],
+      "solution": [
+        { "text": "「不思議なことに／奇妙な話だが」 という意味の独立不定詞 ③ to say を入れる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 404,
+      "id": "05-052-q-153",
+      "type": "question",
+      "section_id": "052",
+      "number": "153",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I lost my bag, and ( ) ( ) matters worse it had all my money in it.",
+      "q_type": "completion",
+      "ja": "バッグを失くしたのだが、さらに悪いことにその中にお金がすべて入っていたんだ。",
+      "answer": "to make",
+      "source_univ": "西南学院大"
+    },
+    {
+      "order": 405,
+      "id": "05-052-e-153",
+      "type": "explanation",
+      "target_q": "05-052-q-153",
+      "title": "to make matters worse 「さらに悪いことに／さらに困ったことには」",
+      "label": "to make matters worse 「さらに悪いことに／さらに困ったことには」",
+      "content": [],
+      "solution": [
+        { "text": "「さらに悪いことに／さらに困ったことには」 という意味の独立不定詞 to make matters worse を完成させる。" },
+        { "tag": "≒", "text": "what is worse 「さらに悪いことに」" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 406,
+      "id": "05-052-q-154",
+      "type": "question",
+      "section_id": "052",
+      "number": "154",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "To ( ) the truth, I still haven't finished my homework.",
+      "options": ["① say", "② tell", "③ speak", "④ mention"],
+      "ja": "実を言うと、私はまだ宿題を終わらせていない。",
+      "answer": "②",
+      "source_univ": "大阪経済大"
+    },
+    {
+      "order": 407,
+      "id": "05-052-e-154",
+      "type": "explanation",
+      "target_q": "05-052-q-154",
+      "title": "to tell the truth 「実を言うと」",
+      "label": "to tell the truth 「実を言うと」",
+      "content": [],
+      "solution": [
+        { "text": "「実を言うと」 という意味の独立不定詞 ② tell (the truth) を入れる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 408,
+      "id": "05-052-s-015",
+      "type": "summary_box",
+      "target_s": "052",
+      "number": "015",
+      "title": "整理して覚える 015 独立不定詞",
+      "content": [
+        { "text": "慣用句として使われる不定詞表現は「独立不定詞」と呼ばれる。" },
+        { "tag": "□", "en": "to begin[start] with", "ja": "「まず最初に」" },
+        { "tag": "□", "en": "to be frank (with you)", "ja": "「率直に言って」" },
+        { "tag": "□", "en": "to be honest", "ja": "「正直に言うと」" },
+        { "tag": "□", "en": "to tell (you) the truth", "ja": "「実を言うと」", "note": "→ 154" },
+        { "tag": "□", "en": "needless to say", "ja": "「言うまでもなく」", "note": "→ 151" },
+        { "tag": "□", "en": "to say nothing of A", "ja": "「A は言うまでもなく」", "note": "→ 150" },
+        { "tag": "□", "en": "not to speak of A", "ja": "「A は言うまでもなく」" },
+        { "tag": "□", "en": "not to mention A", "ja": "「A は言うまでもなく」" },
+        { "tag": "□", "en": "to be sure", "ja": "「確かに」" },
+        { "tag": "□", "en": "to be brief", "ja": "「手短に言えば」" },
+        { "tag": "□", "en": "so to speak", "ja": "「いわば」", "text": "(= as it were)" },
+        { "tag": "□", "en": "to say the least (of it)", "ja": "「控えめに言っても」" },
+        { "tag": "□", "en": "A, not to say B", "ja": "「A, あるいは B と言ってもいいかもしれない」" },
+        { "tag": "□", "en": "strange to say", "ja": "「不思議なことに／奇妙な話だが」", "note": "→ 152" },
+        { "tag": "□", "en": "to make matters worse", "ja": "「さらに悪いことに／さらに困ったことには」", "note": "→ 153", "text": "(= what is worse)" }
+      ]
+    },
+    {
+      "order": 409,
+      "type": "grammar_term",
+      "target_s": "051",
+      "number": "11",
+      "content":[
+      {
+      "term": "知覚動詞",
+      "text": "feel, hear, see, watch, listen to 「見る」「聞く」「感じる」などの意味を表す動詞。"
+      },
+      {
+      "term": "使役動詞",
+      "text": "make, let, have などのように「…させる」という意味の動詞。"
+      }
+      ]
+    }
+  ]
+}

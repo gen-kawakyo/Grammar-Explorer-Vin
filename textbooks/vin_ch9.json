@@ -1,0 +1,2124 @@
+{
+  "metadata": {
+    "source": "vin4",
+    "field": "grammar",
+    "chapter_id": "09",
+    "chapter_title": "接続詞"
+  },
+  "items": [
+    {
+      "order": 664,
+      "type": "section_header",
+      "section_id": "078",
+      "title": "等位接続詞"
+    },
+    {
+      "order": 665,
+      "id": "09-078-c-029",
+      "type": "confirmation_box",
+      "target_s": "078",
+      "number": "029",
+      "title": "等位接続詞",
+      "content": [
+        { "text": "語と語、句と句、節と節、文と文などを、対等な関係でつなぐ接続詞を等位接続詞と呼ぶ。等位接続詞には and 「そして」、but 「しかし」、or 「または」以外に、so 「それで／だから」、yet 「しかし／それにもかかわらず」、nor 「…もまた〜（し）ない」、for 「というのは…だから」などがあり、文脈から適切な接続詞を選ぶ問題が多い。" }
+      ]
+    },
+    {
+      "order": 666,
+      "id": "09-078-q-260",
+      "type": "question",
+      "section_id": "078",
+      "number": "260",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "I think he is a very intelligent person, ( ) many people don't agree with me.",
+      "options": ["① but", "② for", "③ which", "④ who"],
+      "ja": "彼はとても知的な人だと私は思うが、多くの人は私に同意しない。",
+      "answer": "①",
+      "source_univ": "センター試験"
+    },
+    {
+      "order": 667,
+      "id": "09-078-e-260",
+      "type": "explanation",
+      "target_q": "09-078-q-260",
+      "title": "空所の前後の意味の関係に注目",
+      "label": "◆等位接続詞 but 「しかし」",
+      "content": [],
+      "solution": [
+        { "text": "文意が成立するのは逆接の意味を持つ ① but だけ。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "等位接続詞 ② for 「というのは…だから」では文章が成立しない。空所の後ろには欠けた名詞要素がないので、関係代名詞 ③ which と ④ who は不可。 → Section 067 (p.103)" }
+      ]
+    },
+    {
+      "order": 668,
+      "id": "09-078-q-261",
+      "type": "question",
+      "section_id": "078",
+      "number": "261",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I have never been to the country, ( ) do I want to go there in the future.",
+      "options": ["① but", "② or", "③ nor", "④ so"],
+      "ja": "私はその国に今まで行ったことはないし、将来そこに行きたいとも思わない。",
+      "answer": "③",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 669,
+      "id": "09-078-e-261",
+      "type": "explanation",
+      "target_q": "09-078-q-261",
+      "title": "空所のあとの語順 (do I want) に注目",
+      "label": "◆等位接続詞 nor 「…もまた〜（し）ない」",
+      "content": [
+        { "text": "等位接続詞 nor の後ろに文が来る場合は倒置形（＝疑問文と同じ語順）になる。" }
+      ],
+      "solution": [
+        { "text": "空所のあとが do I want ... という倒置形（＝疑問文と同じ語順）なので ③ nor が正解。" },
+        { "text": "他の等位接続詞 ① but、② or、④ so は後ろの文が倒置形にならないので不可。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 670,
+      "id": "09-078-q-262",
+      "type": "question",
+      "section_id": "078",
+      "number": "262",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "We sometimes have strong differences of opinion, ( ) we remain close friends.",
+      "options": ["① nor", "② yet", "③ so", "④ therefore"],
+      "ja": "ときどきは意見が大きく異なることもあるが、それでも私たちが親しい友人であることに変わりはない。",
+      "answer": "②",
+      "source_univ": "工学院大"
+    },
+    {
+      "order": 671,
+      "id": "09-078-e-262",
+      "type": "explanation",
+      "target_q": "09-078-q-262",
+      "title": "空所の前後の意味の関係に注目",
+      "label": "◆等位接続詞 yet 「しかし／それにもかかわらず」",
+      "content": [],
+      "solution": [
+        { "text": "文と文をつなぐのは接続詞。構造と文意が成立するのは逆接の意味を持つ等位接続詞の ② yet だけ。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① nor を用いるとあとの文は倒置形にしなければならないので不可 (→ 261)。③ so 「だから…」は文意が通らないので不可。④ therefore 「したがって…」は副詞。副詞で2つの文をつなぐことはできないので不可。" },
+        { "tag": "注意", "text": "yet は副詞でも使われ、その場合は「（主に否定文で）まだ…ない」という意味を表す。\nI have not called him yet. 「彼にはまだ電話していない」" }
+      ]
+    },
+    {
+      "order": 672,
+      "id": "09-078-q-263",
+      "type": "question",
+      "section_id": "078",
+      "number": "263",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Make haste, ( ) you will miss the last train.",
+      "options": ["① and", "② but", "③ for", "④ or"],
+      "ja": "急ぎなさい。さもないと、終電に乗り遅れますよ。",
+      "answer": "④",
+      "source_univ": "杏林大"
+    },
+    {
+      "order": 673,
+      "id": "09-078-e-263",
+      "type": "explanation",
+      "target_q": "09-078-q-263",
+      "title": "空所の前後の意味の関係に注目",
+      "label": "◆命令文 ..., or SV 「…しなさい。さもないと〜／…しなければ〜」",
+      "content": [
+        { "text": "命令文に続けて or を用いると「…しなさい。さもないと〜／…しなければ〜」という意味。" }
+      ],
+      "solution": [
+        { "text": "命令文 Make haste に続けて用いる接続詞は ① and と ④ or。文意が成立するのは ④ or だけ。命令文とそれに続く文の意味の関係に注目して、and か or かを選択する。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① and については 264 参照。" },
+        { "tag": "プラス", "text": "〈命令文..., or SV〉は、if not ... / unless への書きかえ問題も頻出。\n→ If you don't make haste [Unless you make haste], you will miss the last train." },
+        { "tag": "プラス", "text": "or の代わりに otherwise を用いることもある。\n→ Make haste, otherwise you will miss the last train." }
+      ]
+    },
+    {
+      "order": 674,
+      "id": "09-078-q-264",
+      "type": "question",
+      "section_id": "078",
+      "number": "264",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Think success, ( ) you are more likely to succeed.",
+      "options": ["① unless", "② and", "③ but", "④ or"],
+      "ja": "成功を思い描きなさい。そうすれば、より成功する可能性が高まります。",
+      "answer": "②",
+      "source_univ": "岩手医科大"
+    },
+    {
+      "order": 675,
+      "id": "09-078-e-264",
+      "type": "explanation",
+      "target_q": "09-078-q-264",
+      "title": "空所の前後の意味の関係に注目",
+      "label": "◆命令文 ..., and SV 「…しなさい。そうすれば〜／…すれば〜」",
+      "content": [
+        { "text": "命令文に続けて and を用いると「…しなさい。そうすれば〜／…すれば〜」という意味になる。" }
+      ],
+      "solution": [
+        { "text": "命令文 Think success と一緒に用いて文意が成立するのは ② and だけ。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "text": "〈命令文..., and SV〉は、if ... への書きかえ問題も頻出。\n→ If you think success, you are more likely to succeed." }
+      ]
+    },
+    {
+      "order": 676,
+      "type": "section_header",
+      "section_id": "079",
+      "title": "等位接続詞を用いた相関的な表現"
+    },
+    {
+      "order": 677,
+      "id": "09-079-q-265",
+      "type": "question",
+      "section_id": "079",
+      "number": "265",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "We have stayed at both good ( ) bad camping sites.",
+      "options": ["① and", "② or", "③ nor", "④ also"],
+      "ja": "私たちは、良いキャンプ場と悪いキャンプ場の両方に泊まったことがある。",
+      "answer": "①",
+      "source_univ": "中部大"
+    },
+    {
+      "order": 678,
+      "id": "09-079-e-265",
+      "type": "explanation",
+      "target_q": "09-079-q-265",
+      "title": "both に注目",
+      "label": "◆both A and B 「A と B の両方／A も B も」",
+      "content": [
+        { "text": "both A and B のような、等位接続詞を用いた相関的な表現では、A と B に原則として文法的にな対等な表現（語・句・節）を用いる。" }
+      ],
+      "solution": [
+        { "text": "both に注目して ① and を選ぶ。A と B は2つの形容詞 good と bad をつなげている。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 679,
+      "id": "09-079-q-266",
+      "type": "question",
+      "section_id": "079",
+      "number": "266",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "太郎は雨だから家に帰ったのではなく、疲れていたから家に戻ったのです。\nTaro returned home (not because / it / but / he / was rainy / was tired / because).",
+      "q_type": "ordering",
+      "ja": "太郎は雨だから家に帰ったのではなく、疲れていたから家に戻ったのです。",
+      "answer": "not because it was rainy but because he was tired",
+      "source_univ": "帝京大"
+    },
+    {
+      "order": 680,
+      "id": "09-079-e-266",
+      "type": "explanation",
+      "target_q": "09-079-q-266",
+      "title": "「雨だからではなく、疲れていたから」 ― A と B に相当するものは？",
+      "label": "◆not A but B 「A ではなく B」",
+      "content": [
+        { "text": "「雨だからではなく、疲れていたから」を not A but B で表す。" }
+      ],
+      "solution": [
+        { "text": "A と B には文法的に対等な表現が来ることから、選択肢の not because に注目すると、A と B には because で導かれる節が来ることがわかる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 681,
+      "id": "09-079-q-267",
+      "type": "question",
+      "section_id": "079",
+      "number": "267",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "人間は、言葉だけでなく、表情によっても意思を伝達するものだ。\nPeople (also / but / communicate / expressions / facial / languages / not / only / with / with).",
+      "q_type": "ordering",
+      "ja": "人間は、言葉だけでなく、表情によっても意思を伝達するものだ。",
+      "answer": "communicate not only with languages but also with facial expressions",
+      "source_univ": "兵庫県立大"
+    },
+    {
+      "order": 682,
+      "id": "09-079-e-267",
+      "type": "explanation",
+      "target_q": "09-079-q-267",
+      "title": "何と何を並べているのか",
+      "label": "◆not only A but (also) B 「A だけでなく B も」",
+      "content": [
+        { "text": "「言葉だけでなく、表情によっても」を not only A but also B の形を用いて表す。" }
+      ],
+      "solution": [
+        { "text": "A, B には、ともに副詞句（前置詞＋名詞）の文法的に対等な表現を入れる。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "text": "only の代わりに just / simply / merely などを使うこともある。" }
+      ]
+    },
+    {
+      "order": 683,
+      "id": "09-079-q-268",
+      "type": "question",
+      "section_id": "079",
+      "number": "268",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "We will ( ) go to the movies or go to a baseball game Friday night.",
+      "options": ["① either", "② neither", "③ both", "④ at"],
+      "ja": "金曜の夜、私たちは映画か野球の試合を見に行きます。",
+      "answer": "①",
+      "source_univ": "青森公立大"
+    },
+    {
+      "order": 684,
+      "id": "09-079-e-268",
+      "type": "explanation",
+      "target_q": "09-079-q-268",
+      "title": "or に注目",
+      "label": "◆either A or B 「A か B のどちらか（一方）」",
+      "content": [],
+      "solution": [
+        { "text": "or に注目して ① either を選ぶ。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 685,
+      "id": "09-079-q-269",
+      "type": "question",
+      "section_id": "079",
+      "number": "269",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "(a) Mike doesn't like coffee. He doesn't like tea, either.\n(b) Mike likes ( ) coffee ( ) tea.",
+      "q_type": "completion",
+      "ja": "(a) マイクはコーヒーが好きではない。紅茶も好きではない。(b) マイクはコーヒーも紅茶も好きではない。",
+      "answer": "neither nor",
+      "source_univ": "東京理科大"
+    },
+    {
+      "order": 686,
+      "id": "09-079-e-269",
+      "type": "explanation",
+      "target_q": "09-079-q-269",
+      "title": "「コーヒーも紅茶も好きではない」",
+      "label": "◆neither A nor B 「A も B も（どちらも）…ない」",
+      "content": [],
+      "solution": [
+        { "text": "「どちらも好きではない」という文章になるように、neither A nor B を用いる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 687,
+      "type": "section_header",
+      "section_id": "080",
+      "title": "名詞節を導く接続詞 that"
+    },
+    {
+      "order": 688,
+      "id": "09-080-d-012",
+      "type": "deep_dive",
+      "target_s": "080",
+      "number": "012",
+      "title": "名詞節を導く that と what の違い",
+      "content": [
+        { "text": "接続詞 that が問われるとき、必ずと言っていいほど関係代名詞 what が登場する。どちらも名詞節を導くが、that 節「…ということ」は「…という事実（＝fact）」、what 節「…のこと／もの」は「…の事物（＝thing）」という意味上の違いがある。以下の構造上の違いも理解すること。" },
+        { "tag": "① 接続詞 that", "text": "節内には名詞要素が欠けていない「完全な文」" },
+        { "tag": "② 関係代名詞 what", "text": "節内には名詞要素が欠けた「不完全な文」", "note": "→ Section 071 (p.117)" }
+      ]
+    },
+    {
+      "order": 689,
+      "id": "09-080-q-270",
+      "type": "question",
+      "section_id": "080",
+      "number": "270",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "( ) it took only three months to finish the project is an amazing achievement.",
+      "options": ["① While", "② If", "③ What", "④ That"],
+      "ja": "そのプロジェクトを終えるのにたった3か月しかかからなかったということは、驚くべき成果だ。",
+      "answer": "④",
+      "source_univ": "日本大"
+    },
+    {
+      "order": 690,
+      "id": "09-080-e-270",
+      "type": "explanation",
+      "target_q": "09-080-q-270",
+      "title": "節内は完全な文か？",
+      "label": "◆名詞節を導く接続詞 that ― that 節 「…ということ」 が主語",
+      "content": [
+        { "text": "接続詞 that は名詞節を導き、that 節は文全体の主語、補語、他動詞の目的語になる。原則として前置詞の目的語にはなれない。例外は 272, 273 を参照。" }
+      ],
+      "solution": [
+        { "text": "④ That を選ぶと、That it took ... the project (S) is (V) an amazing achievement (C). という文構造と文意が成立する。本問の that 節は主語になる名詞節。" },
+        { "text": "空所のあとには it (S') took (V') only three months (O') [to finish the project] (S') という形式主語 it を用いた「完全な文」が来ていることを確認しておこう。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "関係代名詞 ③ What の後ろには、名詞要素が欠けた「不完全な文」が来るので不可。" }
+      ]
+    },
+    {
+      "order": 691,
+      "id": "09-080-q-271",
+      "type": "question",
+      "section_id": "080",
+      "number": "271",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Many scientists are researching the theory ( ) global warming is caused by human activity.",
+      "options": ["① of", "② that", "③ which", "④ what"],
+      "ja": "地球温暖化は人間の活動によって引き起こされるという理論を、多くの科学者たちが検証しているところだ。",
+      "answer": "②",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 692,
+      "id": "09-080-e-271",
+      "type": "explanation",
+      "target_q": "09-080-q-271",
+      "title": "同格の名詞節を導く接続詞 that ― 〈名詞 + that 節〉 「…という（名詞）」",
+      "label": "◆同格の接続詞 that",
+      "content": [
+        { "text": "〈名詞 + that 節〉 という形で、that 節が名詞の具体的な内容を説明しているとき、この that 節を「同格」の名詞節と呼ぶ。" }
+      ],
+      "solution": [
+        { "text": "空所のあとには global warming (S) is caused (V) by human activity 「地球温暖化は人間の活動によって引き起こされる」という「完全な文」が来ているので、接続詞 ② that が正解。本問の that 節は the theory の具体的な内容を説明する同格の名詞節。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "関係代名詞 ③ which のあとには、名詞要素が欠けた「不完全な文」が来るので不可。④ what は the thing(s) which に相当するので先行詞は不要。本問は the theory があるので不可。" },
+        { "tag": "プラス", "text": "the theory that ... の that 節が必ずしも同格の名詞節になるとは限らない。\nThe theory that he came up with was wonderful.\n「彼が思いついた理論はすばらしかった」\n→ that he came up with は関係代名詞節で、the theory が先行詞。前置詞 with の目的語が欠けていることから、この that は目的格の関係代名詞 (= which) だと判断できる。" }
+      ]
+    },
+    {
+      "order": 693,
+      "id": "09-080-q-272",
+      "type": "question",
+      "section_id": "080",
+      "number": "272",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "It is often assumed that humans differ from other creatures ( ) they can think and speak.",
+      "options": ["① in that", "② in which", "③ to that", "④ to which"],
+      "ja": "考えたり話したりできるという点で、人間は他の生物とは違うとしばしば考えられている。",
+      "answer": "①",
+      "source_univ": "立命館大"
+    },
+    {
+      "order": 694,
+      "id": "09-080-e-272",
+      "type": "explanation",
+      "target_q": "09-080-q-272",
+      "title": "",
+      "label": "◆in that ... 「…という点で／…なので」",
+      "content": [
+        { "text": "that 節は原則として前置詞の目的語にはなれないが、in that ... 「…という点で／…なので」 と、 except that ... 「…ということを除いて」 は例外。" }
+      ],
+      "solution": [
+        { "text": "空所のあとには they (S) can think and speak (V) という「完全な文」が来ているので、 ① in that を入れると文構造と文意が成立する。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "differ from A 「A と異なる」" }
+      ]
+    },
+    {
+      "order": 695,
+      "id": "09-080-q-273",
+      "type": "question",
+      "section_id": "080",
+      "number": "273",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "We know nothing about him ( ) he is a good teacher.",
+      "options": ["① for", "② except that", "③ in that", "④ if not"],
+      "ja": "良い教師であるということを除いて、私たちは彼について何も知らない。",
+      "answer": "②",
+      "source_univ": "摂南大"
+    },
+    {
+      "order": 696,
+      "id": "09-080-e-273",
+      "type": "explanation",
+      "target_q": "09-080-q-273",
+      "title": "nothing に注目",
+      "label": "◆except that ... 「…ということを除いて」",
+      "content": [],
+      "solution": [
+        { "text": "we know nothing about him の後ろに he is a good teacher という「完全な文」が来ているので、空所には「…以外は」という内容を表す表現を入れれば文意が成立する。 ② except that が正解。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "④ if not A 「A ではないにしても」" }
+      ]
+    },
+    {
+      "order": 697,
+      "id": "09-080-s-019",
+      "type": "summary_box",
+      "target_s": "080",
+      "number": "019",
+      "title": "同格の that 節を伴う名詞",
+      "content": [
+        { "text": "同格の that 節を従える名詞は、以下の3つのグループに分けると覚えやすい。" },
+        { "tag": "(1)", "label": "命令・提案・忠告を意味する名詞", "text": "order 「命令」 / proposal [suggestion] 「提案」 / advice 「忠告」" },
+        { "tag": "(2)", "label": "考え・気持ち・疑いなどを意味する名詞", "text": "idea [thought] 「考え」 / opinion 「意見」 / belief 「信じること」 / conclusion 「結論」 / theory 「学説」 / impression 「印象」 / doubt 「疑い」 / fear 「不安」" },
+        { "tag": "(3)", "label": "事実・可能性・情報などを意味する名詞", "text": "fact 「事実」 / evidence [proof] 「証拠」 / possibility [chance] 「可能性」 / hope 「見込み」 / news 「知らせ」 / rumor 「うわさ」" }
+      ]
+    },
+    {
+      "order": 698,
+      "type": "section_header",
+      "section_id": "081",
+      "title": "名詞節を導く接続詞 whether / if"
+    },
+    {
+      "order": 699,
+      "id": "09-081-c-030",
+      "type": "confirmation_box",
+      "target_s": "081",
+      "number": "030",
+      "title": "接続詞 whether / if",
+      "content": [
+        { "text": "接続詞 whether / if は名詞節を導き、「…かどうか（ということ）」という意味になる。ただし、if 節は他動詞の目的語か、形式主語 it に対する真主語にしか使えない。if 節については、Section 010 「if 節の区別」 (p.031) も参照すること。" },
+        { "label": "節の働きと接続詞の対応", "text": "・主語：whether 節 (○) / if 節 (×)\n・補語：whether 節 (○) / if 節 (×)\n・他動詞の目的語：whether 節 (○) / if 節 (○)\n・前置詞の目的語：whether 節 (○) / if 節 (×)\n・形式主語 it に対する真主語：whether 節 (○) / if 節 (○)" }
+      ]
+    },
+    {
+      "order": 700,
+      "id": "09-081-q-274",
+      "type": "question",
+      "section_id": "081",
+      "number": "274",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Bob asked me ( ) I felt well.",
+      "options": ["① if", "② what", "③ which", "④ who"],
+      "ja": "ボブは私に体調がいいかどうか尋ねた。",
+      "answer": "①",
+      "source_univ": "名古屋学院大"
+    },
+    {
+      "order": 701,
+      "id": "09-081-e-274",
+      "type": "explanation",
+      "target_q": "09-081-q-274",
+      "title": "名詞節を導く接続詞 if ― if 節 「…かどうか（ということ）」 が他動詞の目的語",
+      "label": "◆接続詞 if / whether",
+      "content": [],
+      "solution": [
+        { "text": "① if 「…かどうか（ということ）」 を選ぶと文構造と文意が成立する。 Bob(S) asked(V) me(O1) [if I felt well](O2) という SVOO の文。本問の if は他動詞 ask の目的語になる名詞節。選択肢に whether があればそれも正解になる。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "空所のあとには I(S') felt(V') well(C') という「完全な文」が来ているので、疑問代名詞の ② what, ③ which, ④ who は不可。疑問代名詞のあとに続く文は、主語か目的語が欠けた「不完全な文」が来る。" }
+      ]
+    },
+    {
+      "order": 702,
+      "id": "09-081-q-275",
+      "type": "question",
+      "section_id": "081",
+      "number": "275",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) he is famous doesn't matter.",
+      "options": ["① Although", "② If", "③ Unless", "④ Whether"],
+      "ja": "彼が有名かどうかということは、問題ではない。",
+      "answer": "④",
+      "source_univ": "日本大"
+    },
+    {
+      "order": 703,
+      "id": "09-081-e-275",
+      "type": "explanation",
+      "target_q": "09-081-q-275",
+      "title": "名詞節を導く接続詞 whether ― whether 節 「…かどうか（ということ）」 が主語",
+      "label": "◆接続詞 whether",
+      "content": [],
+      "solution": [
+        { "text": "④ Whether 「…かどうか（ということ）」 を選ぶと文構造と文意が成立する。本問の whether 節は主語になる名詞節。" },
+        { "text": "問題文を形式主語 it を用いて以下のように表せば、真主語として whether 節と if 節の両方を使うことができる。 It doesn't matter whether [if] he is famous." }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "② If は主語になる名詞節を導くことはできないので不可。① Although 「…にもかかわらず」 と ③ Unless 「…でなければ」 は副詞節を導く接続詞なので不可。" }
+      ]
+    },
+    {
+      "order": 704,
+      "type": "section_header",
+      "section_id": "082",
+      "title": "「時」を表す副詞節を導く接続詞"
+    },
+    {
+      "order": 705,
+      "id": "09-082-q-276",
+      "type": "question",
+      "section_id": "082",
+      "number": "276",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "The situation at work got better ( ) the new boss arrived.",
+      "options": ["① when", "② where", "③ which", "④ while"],
+      "ja": "新しい上司が来て、職場の状況が良くなった。",
+      "answer": "①",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 706,
+      "id": "09-082-e-276",
+      "type": "explanation",
+      "target_q": "09-082-q-276",
+      "title": "「時」を表す接続詞 when … 「…するとき」",
+      "label": "◆接続詞 when",
+      "content": [],
+      "solution": [
+        { "text": "接続詞 ① when を入れると、when the new boss arrived は副詞節となって文意が通る。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "④ while 「…している間」は「何かが起こっている／進行している期間」を表し、arrive のような瞬間的に終わる動作には使えない。", "note": "→ 316" }
+      ]
+    },
+    {
+      "order": 707,
+      "id": "09-082-q-277",
+      "type": "question",
+      "section_id": "082",
+      "number": "277",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "I have been living in Nagoya ( ) I came to Japan six years ago.",
+      "options": ["① from", "② since", "③ until", "④ after"],
+      "ja": "6年前に日本に来てから、私はずっと名古屋に住んでいる。",
+      "answer": "②",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 708,
+      "id": "09-082-e-277",
+      "type": "explanation",
+      "target_q": "09-082-q-277",
+      "title": "現在完了進行形 (have been living) に注目",
+      "label": "◆接続詞 since … 「…して以来（ずっと）」",
+      "content": [],
+      "solution": [
+        { "text": "since … 「…して以来（ずっと）」は「過去の起点」を表し、主節には原則として完了形を用いる。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① from 「…から」は前置詞で、後ろに文は来ないので不可。" },
+        { "tag": "選択肢", "text": "④ after 「…したあと」は接続詞だが、since のように完了形と一緒に用いて「過去の起点」を表す用法はない。" }
+      ]
+    },
+    {
+      "order": 709,
+      "id": "09-082-q-278",
+      "type": "question",
+      "section_id": "082",
+      "number": "278",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "You had better write the number down in the notebook ( ) you forget it.",
+      "options": ["① whether", "② if", "③ before", "④ unless"],
+      "ja": "忘れないうちにノートにその番号を書きとめておいたほうがいいよ。",
+      "answer": "③",
+      "source_univ": "九州産業大"
+    },
+    {
+      "order": 710,
+      "id": "09-082-e-278",
+      "type": "explanation",
+      "target_q": "09-082-q-278",
+      "title": "「時」を表す接続詞 before … 「…する前に／…しないうちに」",
+      "label": "◆接続詞 before",
+      "content": [],
+      "solution": [
+        { "text": "③ before … 「…する前に／…しないうちに」を入れると文意が通る。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "④ unless 「…でない限り／もし…でなければ」 (= if ... not)", "note": "→ 293" },
+        { "tag": "プラス", "text": "before は「…する前」よりも「…しないうちに」と否定的に訳したほうが自然な日本語になる場合もある。before it gets dark 「暗くならないうちに」、before it is too late 「手遅れにならないうちに」、before we know it 「知らぬ間に／いつのまにか」" },
+        { "tag": "重要", "text": "write A down / write down A 「Aを書きとめる／記録する」" }
+      ]
+    },
+    {
+      "order": 711,
+      "id": "09-082-q-279",
+      "type": "question",
+      "section_id": "082",
+      "number": "279",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "彼の息子が薬局を引き継ぐのもそう遠くないでしょう。\n(takes / won't / his son / before / it / be / over / long) the drugstore.",
+      "q_type": "ordering",
+      "ja": "彼の息子が薬局を引き継ぐのもそう遠くないでしょう。",
+      "answer": "It won't be long before his son takes",
+      "source_univ": "東邦大"
+    },
+    {
+      "order": 712,
+      "id": "09-082-e-279",
+      "type": "explanation",
+      "target_q": "09-082-q-279",
+      "title": "",
+      "label": "◆It won't [will not] be long before SV 「まもなく［すぐに］ S は V するだろう」 (= S will do ... soon [before long])",
+      "content": [
+        { "text": "It won't [will not] be long before ... は「…する前には長くはないだろう」が直訳だが、「まもなく［すぐに］…するだろう」という意味の一種の慣用表現として覚える。" },
+        { "tag": "△注意", "text": "before 節は「時」の副詞節なので、未来のことでも現在は現在形になっている。", "note": "→ Section 008 (p.029)" }
+      ],
+      "solution": [
+        { "tag": "▶", "text": "His son will take over the drugstore soon [before long]." }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "take over A 「A（仕事・責任など）を引き継ぐ」", "note": "→ 883" }
+      ]
+    },
+    {
+      "order": 713,
+      "id": "09-082-q-280",
+      "type": "question",
+      "section_id": "082",
+      "number": "280",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "私は初めて彼を見たとき、彼を学生だと思った。\nI (student / saw / time / a / the / I / took / for / him / first) him.",
+      "q_type": "ordering",
+      "ja": "私は初めて彼を見たとき、彼を学生だと思った。",
+      "answer": "took him for a student the first time I saw",
+      "source_univ": "西南学院大"
+    },
+    {
+      "order": 714,
+      "id": "09-082-e-280",
+      "type": "explanation",
+      "target_q": "09-082-q-280",
+      "title": "",
+      "label": "◆the first time … 「初めて…するとき」",
+      "content": [],
+      "solution": [
+        { "text": "the first time は接続詞として用いられ、「初めて…するとき」という意味になる。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "take A for B 「AをBと間違える」", "note": "→ 1034" }
+      ]
+    },
+    {
+      "order": 715,
+      "id": "09-082-s-020",
+      "type": "summary_box",
+      "target_s": "082",
+      "number": "020",
+      "title": "time を含む接続詞表現",
+      "content": [
+        { "tag": "□", "en": "the first time ...", "ja": "「初めて…するとき」", "note": "→ 280" },
+        { "tag": "□", "en": "the last time ...", "ja": "「この前［最後に］…したとき」" },
+        { "tag": "□", "en": "the next time ...", "ja": "「この次［今度］…するとき」" },
+        { "tag": "□", "en": "every[each] time ...", "ja": "「…するときはいつも」", "text": "(= whenever ...)" },
+        { "tag": "□", "en": "by the time ...", "ja": "「…するときまでには（すでに）」", "note": "→ 282" }
+      ]
+    },
+    {
+      "order": 716,
+      "id": "09-082-q-281",
+      "type": "question",
+      "section_id": "082",
+      "number": "281",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "You will never enjoy watching the game ( ) you learn the rules.",
+      "options": ["① by", "② for", "③ since", "④ until"],
+      "ja": "ルールを覚えるまで、あなたはその試合を見て楽しむことはないだろう。",
+      "answer": "④",
+      "source_univ": "立命館大"
+    },
+    {
+      "order": 717,
+      "id": "09-082-e-281",
+      "type": "explanation",
+      "target_q": "09-082-q-281",
+      "title": "will に注目",
+      "label": "◆until [till] … 「…するまで（ずっと）」",
+      "content": [
+        { "text": "until [till] は「…するまで（ずっと）」という意味で、「…するまで」の〈動作や状態の継続〉を表す。" }
+      ],
+      "solution": [
+        { "text": "will に注目。楽しむことのないことがずっと続くだろうと言っているわけだから、「ルールを覚えるまで（ずっと）…しない」という文章が読み取れる。よって ④ until 「…するまで（ずっと）」が正解。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "text": "SV ..., until SV 〜 「…して、ついに〜する」 (= and finally) という表現もある。\nI walked overnight, until I reached the village.\n「一晩中歩いて、ついにその村に着いた」" }
+      ]
+    },
+    {
+      "order": 718,
+      "id": "09-082-q-282",
+      "type": "question",
+      "section_id": "082",
+      "number": "282",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "The exam had started ( ) I got to class.",
+      "options": ["① by the time", "② on the time", "③ after the time", "④ until"],
+      "ja": "私が教室に着いたときには、試験は始まっていた。",
+      "answer": "①",
+      "source_univ": "大阪経済大"
+    },
+    {
+      "order": 719,
+      "id": "09-082-e-282",
+      "type": "explanation",
+      "target_q": "09-082-q-282",
+      "title": "過去完了 (had started) に注目",
+      "label": "◆by the time … 「…するときまでには（すでに）」",
+      "content": [
+        { "text": "by the time は〈期限〉を表す前置詞 by を使った表現で、「…するときまでには（すでに）」という意味。" }
+      ],
+      "solution": [
+        { "text": "過去完了の had started 「始まっていた」に注目。「私が教室に着いたときには、（すでに）試験は始まっていた」という文章が読み取れるから、 ① by the time … 「…するときまでには（すでに）」が正解。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "④ until 「…するまで（ずっと）」は〈動作や状態の継続〉を表す (→ 281) 。by the time 「…するときまでには（すでに）」との違いを、しっかりと確認すること。" }
+      ]
+    },
+    {
+      "order": 720,
+      "type": "section_header",
+      "section_id": "083",
+      "title": "「…するとすぐに」の表現"
+    },
+    {
+      "order": 721,
+      "id": "09-083-q-283",
+      "type": "question",
+      "section_id": "083",
+      "number": "283",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "(a) On arriving at the hotel, he called his son.\n(b) ( ) ( ) ( ) he arrived at the hotel, he called his son.",
+      "q_type": "completion",
+      "ja": "(a) (b) ホテルに着くとすぐ、彼は息子に電話をかけた。",
+      "answer": "As soon as",
+      "source_univ": "大阪教育大"
+    },
+    {
+      "order": 722,
+      "id": "09-083-e-283",
+      "type": "explanation",
+      "target_q": "09-083-q-283",
+      "title": "",
+      "label": "◆as soon as … 「…するとすぐに」 (= on doing)",
+      "content": [],
+      "solution": [
+        { "text": "as soon as ... は、on doing (→ 177) に書きかえ可能。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 723,
+      "id": "09-083-q-284",
+      "type": "question",
+      "section_id": "083",
+      "number": "284",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "テレビをつけた途端、おかしいなと思った。\nI recognized something strange about the (I / it / moment / on / switched / television / the).",
+      "q_type": "ordering",
+      "ja": "テレビをつけた途端、おかしいなと思った。",
+      "answer": "moment I switched on the television",
+      "source_univ": "立命館大"
+    },
+    {
+      "order": 724,
+      "id": "09-083-e-284",
+      "type": "explanation",
+      "target_q": "09-083-q-284",
+      "title": "",
+      "label": "◆the moment … 「…するとすぐに」 (= as soon as ...)",
+      "content": [
+        { "text": "the moment は接続詞として用いられ、as soon as と同じ意味を持つことがある。" },
+        { "text": "「テレビをつけた途端」を the moment を用いて表す。" }
+      ],
+      "solution": [
+        { "text": "switched it on の語順に関しては しっかり理解 021 (p.226) を参照。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "(×) switched on it の語順は不可。" },
+        { "tag": "重要", "text": "switch A on / switch on A 「Aのスイッチを入れる」" }
+      ]
+    },
+    {
+      "order": 725,
+      "id": "09-083-s-021",
+      "type": "summary_box",
+      "target_s": "083",
+      "number": "021",
+      "title": "「…するとすぐに」の意味を持つ接続詞",
+      "content": [
+        { "tag": "□", "en": "the moment ...", "ja": "the minute ...", "text": "the instant ...", "note": "→ 284" },
+        { "tag": "□", "en": "directly ...", "ja": "immediately ...", "text": "instantly ..." },
+        { "text": "The moment[minute / instant] he arrived at the hotel, he called his son.\n= Directly[Immediately / Instantly] he arrived at the hotel, he called his son." }
+      ]
+    },
+    {
+      "order": 726,
+      "id": "09-083-q-285",
+      "type": "question",
+      "section_id": "083",
+      "number": "285",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I had no sooner sat down to read the newspaper ( ) the telephone rang.",
+      "options": ["① as", "② after", "③ than", "④ while"],
+      "ja": "新聞を読もうと座ったとたん、電話が鳴った。",
+      "answer": "③",
+      "source_univ": "追手門学院大"
+    },
+    {
+      "order": 727,
+      "id": "09-083-e-285",
+      "type": "explanation",
+      "target_q": "09-083-q-285",
+      "title": "",
+      "label": "◆S had no sooner done ... than S did 「…したらすぐに〜した」",
+      "content": [
+        { "text": "過去の2つの出来事がほぼ同時に起こったという状況は、 S had no sooner done ... than S did 〜 「…したらすぐに〜した」という形で表現できる。主節に過去完了形 (had done ...)、従属節に過去形 (did 〜) を用いるのが一般的。" }
+      ],
+      "solution": [
+        { "text": "本問は No sooner had I sat ... という倒置形で出題される場合も多い。 → 286" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 728,
+      "id": "09-083-q-286",
+      "type": "question",
+      "section_id": "083",
+      "number": "286",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "その車が角を曲がるやいなや、車輪が外れた。\nNo (the car / the corner / had / sooner / than / turned) a wheel came off.",
+      "q_type": "ordering",
+      "ja": "その車が角を曲がるやいなや、車輪が外れた。",
+      "answer": "sooner had the car turned the corner than",
+      "source_univ": "成城大"
+    },
+    {
+      "order": 729,
+      "id": "09-083-e-286",
+      "type": "explanation",
+      "target_q": "09-083-q-286",
+      "title": "",
+      "label": "◆No sooner had S done ... than S did 「…したらすぐに〜した」",
+      "content": [
+        { "text": "S had no sooner done ... than S did 〜 「…したらすぐに〜した」の no sooner を文頭に移動すると、 No sooner had S done ... than S did 〜 という倒置形になる。" }
+      ],
+      "solution": [
+        { "text": "文頭に No があるので、The car had no sooner turned ... の no sooner を文頭に移動させた、 No sooner had the car turned ... という倒置形で表現する。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "come off 「（ボタンなどが）取れる／（車輪などが）外れる」" }
+      ]
+    },
+    {
+      "order": 730,
+      "id": "09-083-q-287",
+      "type": "question",
+      "section_id": "083",
+      "number": "287",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I had ( ) gone to bed when the telephone rang.",
+      "options": ["① closely", "② hardly", "③ shortly", "④ rarely"],
+      "ja": "ベッドに入ったとたん、電話が鳴った。",
+      "answer": "②",
+      "source_univ": "中央大"
+    },
+    {
+      "order": 731,
+      "id": "09-083-e-287",
+      "type": "explanation",
+      "target_q": "09-083-q-287",
+      "title": "",
+      "label": "◆S had hardly [scarcely] done ... when [before] S did 「…したらすぐに〜した」",
+      "content": [
+        { "text": "「…したらすぐに〜した」は S had hardly [scarcely] done ... when [before] S did 〜 という形で表現することができる。hardly の代わりに scarcely を使い、when の代わりに before を使うこともある。" }
+      ],
+      "solution": [
+        { "text": "本問は Hardly had I gone ... という倒置形で出題される場合も多い。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 732,
+      "id": "09-083-s-022",
+      "type": "summary_box",
+      "target_s": "083",
+      "number": "022",
+      "title": "「…したらすぐに〜した」の表現",
+      "content": [
+        { "tag": "□", "en": "S had no sooner done ... than S did 〜", "note": "→ 285" },
+        { "tag": "=", "en": "No sooner had S done ... than S did 〜", "text": "＊倒置形", "note": "→ 286" },
+        { "tag": "□", "en": "S had hardly [scarcely] done ... when [before] S did 〜", "note": "→ 287" },
+        { "tag": "=", "en": "Hardly [Scarcely] had S done ... when [before] S did 〜", "text": "＊倒置形" }
+      ]
+    },
+    {
+      "order": 733,
+      "type": "section_header",
+      "section_id": "084",
+      "title": "「理由」を表す接続詞"
+    },
+    {
+      "order": 734,
+      "id": "09-084-q-288",
+      "type": "question",
+      "section_id": "084",
+      "number": "288",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "( ) the sun rises in the east, Japan has long been called \"the land of the rising sun.\"",
+      "options": ["① Since", "② If", "③ When", "④ For"],
+      "ja": "太陽は東から昇るため、日本は長い間「日出づる国」と呼ばれてきた。",
+      "answer": "①",
+      "source_univ": "駿河台大"
+    },
+    {
+      "order": 735,
+      "id": "09-084-e-288",
+      "type": "explanation",
+      "target_q": "09-084-q-288",
+      "title": "",
+      "label": "◆「理由」を表す接続詞 since … 「…だから／…なので」",
+      "content": [],
+      "solution": [
+        { "text": "接続詞 since は「…だから／…なので」という「理由」の意味を表すこともある。" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "「過去の起点」を表す接続詞 since … 「…して以来（ずっと）」については 277 を参照。" },
+        { "tag": "選択肢", "text": "④ の for は理由を表す等位接続詞で、「（というのは）…だから」という内容を受けて、SV ..., for SV ... という形で用いる。" }
+      ]
+    },
+    {
+      "order": 736,
+      "id": "09-084-q-289",
+      "type": "question",
+      "section_id": "084",
+      "number": "289",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "He will not come to the party ( ) he has so many assignments to do by tomorrow morning.",
+      "options": ["① because", "② yet", "③ or", "④ about"],
+      "ja": "明日朝までにやらなければならない宿題が非常に多くあるので、彼はパーティーには来ないだろう。",
+      "answer": "①",
+      "source_univ": "亜細亜大"
+    },
+    {
+      "order": 737,
+      "id": "09-084-e-289",
+      "type": "explanation",
+      "target_q": "09-084-q-289",
+      "title": "",
+      "label": "◆「理由」を表す接続詞 because … 「…だから／…なので」",
+      "content": [],
+      "solution": [
+        { "text": "「理由」を表す接続詞 because を入れれば文意が通る。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 738,
+      "id": "09-084-q-290",
+      "type": "question",
+      "section_id": "084",
+      "number": "290",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "Many exam candidates lose marks simply ( ) they do not read the questions properly.",
+      "options": ["① because", "② because of", "③ for", "④ since"],
+      "ja": "きちんと設問を読まないという理由だけで、失点する受験生も多い。",
+      "answer": "①",
+      "source_univ": "杏林大"
+    },
+    {
+      "order": 739,
+      "id": "09-084-e-290",
+      "type": "explanation",
+      "target_q": "09-084-q-290",
+      "title": "",
+      "label": "◆simply because … 「（単に）…という理由だけで」",
+      "content": [],
+      "solution": [
+        { "text": "① because を選ぶと、simply because ... 「（単に）…という理由だけで」の形になり、文章が通る。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "理由を表す接続詞 since / for / as は、because のように副詞で修飾することは原則としてできない。よって、③ for, ④ since は不可。" }
+      ]
+    },
+    {
+      "order": 740,
+      "id": "09-084-s-023",
+      "type": "summary_box",
+      "target_s": "084",
+      "number": "023",
+      "title": "〈副詞 + because 節〉の表現",
+      "content": [
+        { "tag": "□", "en": "mainly[chiefly] because ...", "ja": "「主に…の理由で」" },
+        { "tag": "□", "en": "partly[in part] because ...", "ja": "「一つには…の理由で／…の理由もあって」" },
+        { "tag": "□", "en": "precisely because ...", "ja": "「まさに…の理由で／…だからこそ」" },
+        { "tag": "□", "en": "probably because ...", "ja": "「たぶん…の理由だろうから／…のせいか」" },
+        { "tag": "□", "en": "just[simply / merely] because ...", "ja": "「単に…という理由だけで」", "note": "→ 290" }
+      ]
+    },
+    {
+      "order": 741,
+      "id": "09-084-q-291",
+      "type": "question",
+      "section_id": "084",
+      "number": "291",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "本に書いてあるからといって，何でもすぐに信用してはいけない。\nDon't believe everything (in books / it's / because / immediately / just / written).",
+      "q_type": "ordering",
+      "ja": "本に書いてあるからといって，何でもすぐに信用してはいけない。",
+      "answer": "immediately just because it's written in books",
+      "source_univ": "愛知工業大"
+    },
+    {
+      "order": 742,
+      "id": "09-084-e-291",
+      "type": "explanation",
+      "target_q": "09-084-q-291",
+      "title": "",
+      "label": "◆not ... just[simply / merely] because 〜 「…だからといって〜ではない」",
+      "content": [
+        { "text": "「本に書いてあるからといって…ない」を not ... just because 〜 の形で表す。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 743,
+      "id": "09-084-d-013",
+      "type": "deep_dive",
+      "target_s": "084",
+      "number": "013",
+      "title": "〈not ... because 〜〉の意味",
+      "content": [
+        { "text": "〈not ... because 〜〉には以下の2種類の意味がある。not が because 節まで否定するかどうかによる。両者の違いは文脈で判断しなければならない。" },
+        { "tag": "①", "label": "「〜なので…ない」", "text": "「…ない。なぜなら〜だから」" },
+        { "tag": "②", "label": "「〜だからといって…ではない」", "text": "＊本問のように副詞 just[simply / merely] を伴うことが多い。" },
+        { "label": "(例)", "en": "I don't want this watch because it's a brand name.", "items": [
+          { "tag": "①の解釈", "ja": "「ブランド品なので、私はこの時計がほしくはない／私はこの時計がほしくはない。なぜならブランド品だから」" },
+          { "tag": "②の解釈", "ja": "「この時計がブランド品だからといってほしいというわけではない」" }
+        ]}
+      ]
+    },
+    {
+      "order": 744,
+      "id": "09-084-q-292",
+      "type": "question",
+      "section_id": "084",
+      "number": "292",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) the country has a new democratic government, the people will at last have more freedom.",
+      "options": ["① Although", "② Even if", "③ Even though", "④ Now that"],
+      "ja": "その国には，今や新たな民主主義政府があるのだから，国民はようやくより多くの自由をついに手にすることだろう。",
+      "answer": "④",
+      "source_univ": "摂南大"
+    },
+    {
+      "order": 745,
+      "id": "09-084-e-292",
+      "type": "explanation",
+      "target_q": "09-084-q-292",
+      "title": "",
+      "label": "◆now (that) … 「今や［もう］…だから」という「理由」の表現。",
+      "content": [
+        { "text": "接続詞 now (that) は「今や［もう］…だから」という「理由」の意味を表す。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "△注意", "text": "that が省略されて now だけになることもある。副詞 now 「今」と間違えやすいので注意。\nNow the school year is over, I can relax.\n「（もう）学年が終了したので、ゆっくりできる」" }
+      ]
+    },
+    {
+      "order": 746,
+      "type": "section_header",
+      "section_id": "085",
+      "title": "「条件」を表す接続詞"
+    },
+    {
+      "order": 747,
+      "id": "09-085-q-293",
+      "type": "question",
+      "section_id": "085",
+      "number": "293",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Helen jogs every morning ( ) she is too tired.",
+      "options": ["① despite", "② without", "③ whether", "④ unless"],
+      "ja": "ひどく疲れていない限り［ひどく疲れていなければ］、ヘレンは毎朝ジョギングをする。",
+      "answer": "④",
+      "source_univ": "福島大"
+    },
+    {
+      "order": 748,
+      "id": "09-085-e-293",
+      "type": "explanation",
+      "target_q": "09-085-q-293",
+      "title": "",
+      "label": "◆unless … 「…でない限り／もし…でなければ」",
+      "content": [
+        { "text": "unless … には、「…でない限り」〈例外〉の意味と、「もし…でなければ」 (= if ... not) という2つの意味がある。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 749,
+      "id": "09-085-q-294",
+      "type": "question",
+      "section_id": "085",
+      "number": "294",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "You can go ahead and use any book you like on the shelves, ( ) you leave all your bags in the lockers.",
+      "options": ["① unless", "② so that", "③ provided", "④ before"],
+      "ja": "ロッカーにカバンをすべて置いたら、先へ進んで棚にあるあなたの好きな本でも何でも利用することができます。",
+      "answer": "③",
+      "source_univ": "明治大"
+    },
+    {
+      "order": 750,
+      "id": "09-085-e-294",
+      "type": "explanation",
+      "target_q": "09-085-q-294",
+      "title": "",
+      "label": "◆provided (that) … 「もし…ならば」 (= if ...)",
+      "content": [],
+      "solution": [
+        { "text": "③ provided 「もし…ならば」を入れると文意が通る。" },
+        { "text": "provided (that) ... は、providing (that) ... とすることもできる。両方とも元々は分詞構文だが慣用的な接続詞と考えてよい。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 751,
+      "id": "09-085-q-295",
+      "type": "question",
+      "section_id": "085",
+      "number": "295",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "( ) we miss the train, what shall we do?",
+      "options": ["① Having", "② Looking", "③ Being", "④ Supposing"],
+      "ja": "もし電車に乗り遅れたら、どうしよう。",
+      "answer": "④",
+      "source_univ": "駒澤大"
+    },
+    {
+      "order": 752,
+      "id": "09-085-e-295",
+      "type": "explanation",
+      "target_q": "09-085-q-295",
+      "title": "",
+      "label": "◆supposing (that) … 「もし…ならば」 (= if ...)",
+      "content": [],
+      "solution": [
+        { "text": "④ Supposing 「もし…ならば」を入れれば文意が通る。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 753,
+      "id": "09-085-q-296",
+      "type": "question",
+      "section_id": "085",
+      "number": "296",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "( ) you were President, what would you do?",
+      "options": ["① Suppose", "② Supposed", "③ Supposedly", "④ Supposition"],
+      "ja": "もしあなたが大統領だったら、どのようにふるまうか。",
+      "answer": "①",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 754,
+      "id": "09-085-e-296",
+      "type": "explanation",
+      "target_q": "09-085-q-296",
+      "title": "",
+      "label": "◆suppose (that) … 「もし…ならば」 (= if ...)",
+      "content": [
+        { "text": "① Suppose 「もし…ならば」を入れると文章が通る。Suppose you were President と動詞が過去形になっていることから、仮定法が使われていることがわかる。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "② の supposed は形容詞で「（そう）考えられていた」という意味。接続詞のように使うことはできない。間違いの選択肢としてしばしば出題されるので注意。" }
+      ]
+    },
+    {
+      "order": 755,
+      "id": "09-085-s-024",
+      "type": "summary_box",
+      "target_s": "085",
+      "number": "024",
+      "title": "「もし…ならば」という〈条件〉(= if ...) の意味を表す表現",
+      "content": [
+        { "tag": "□", "en": "assuming (that) ...", "ja": "provided (that) ...", "note": "→ 294" },
+        { "tag": "□", "en": "supposing (that) ...", "ja": "providing (that) ...", "note": "→ 295" },
+        { "tag": "□", "en": "suppose (that) ...", "note": "→ 296" }
+      ]
+    },
+    {
+      "order": 756,
+      "id": "09-085-q-297",
+      "type": "question",
+      "section_id": "085",
+      "number": "297",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "They'll lend us their flat on condition that we look after it.",
+      "options": ["① for", "② as", "③ if", "④ while"],
+      "ja": "留守を預かるという条件で、彼らはアパートを貸してくれます。",
+      "answer": "③",
+      "source_univ": "関西外国語大"
+    },
+    {
+      "order": 757,
+      "id": "09-085-e-297",
+      "type": "explanation",
+      "target_q": "09-085-q-297",
+      "title": "",
+      "label": "◆on (the) condition (that) … 「…という条件で／もし…ならば」 (= if ...)",
+      "content": [
+        { "text": "under (the) condition (that) ... とする場合もある。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 758,
+      "id": "09-085-q-298",
+      "type": "question",
+      "section_id": "085",
+      "number": "298",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "At Emi's birthday party he behaved ( ) he were a child.",
+      "options": ["① as to", "② as if", "③ as soon as", "④ as long as"],
+      "ja": "エミの誕生日パーティーで、彼はまるで子どものようにふるまった。",
+      "answer": "②",
+      "source_univ": "愛知大"
+    },
+    {
+      "order": 759,
+      "id": "09-085-e-298",
+      "type": "explanation",
+      "target_q": "09-085-q-298",
+      "title": "",
+      "label": "◆as if … 「まるで…であるかのように」 (= as though ...)",
+      "content": [
+        { "text": "as if [though] ... は「まるで…のように」という意味。「…」には仮定法だけでなく直説法 (→ [文法用語10] p.57) を使うこともある。", "note": "→ Section 036 (p.061)" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 760,
+      "id": "09-085-q-299",
+      "type": "question",
+      "section_id": "085",
+      "number": "299",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Mathew looks very tired. He looks ( ) he hasn't slept for days.",
+      "options": ["① even though", "② although", "③ as though", "④ though"],
+      "ja": "マシューはとても疲れているようだ。彼は何日も眠っていないかのように見える。",
+      "answer": "③",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 761,
+      "id": "09-085-e-299",
+      "type": "explanation",
+      "target_q": "09-085-q-299",
+      "title": "",
+      "label": "◆as though … 「まるで…であるかのように」 (= as if ...)",
+      "content": [
+        { "text": "298 は仮定法、299 は直説法を用いている。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 762,
+      "id": "09-085-q-300",
+      "type": "question",
+      "section_id": "085",
+      "number": "300",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) I learned how to hold the club properly, my golf game improved a lot.",
+      "options": ["① As a result", "② Nevertheless", "③ Once", "④ Whether"],
+      "ja": "ひとたびクラブの正しい持ち方を学んだら、私のゴルフの腕はかなり上がった。",
+      "answer": "③",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 763,
+      "id": "09-085-e-300",
+      "type": "explanation",
+      "target_q": "09-085-q-300",
+      "title": "",
+      "label": "◆once … 「ひとたび…すれば／いったん…したら」",
+      "content": [
+        { "text": "接続詞 once は「ひとたび…すれば／いったん…したら」という意味を表す。" }
+      ],
+      "solution": [
+        { "text": "文意が通るのは接続詞 ③ Once だけだ。本問は2つの文がつながっているので、空所には接続詞が必要。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "副詞(句) ① As a result と ② Nevertheless は2つの文をつなぐ働きはないので不可。" },
+        { "tag": "選択肢", "text": "接続詞 ④ Whether では文意が通らない。" },
+        { "tag": "注意", "text": "once は副詞でも使われ、その場合、「一度」「かつて」という意味になる。\nI have only met her once. 「彼女には一度だけ会ったことがある」\nI once lived in Kyoto. 「私はかつて京都に住んでいた」" }
+      ]
+    },
+    {
+      "order": 764,
+      "type": "section_header",
+      "section_id": "086",
+      "title": "「譲歩」を表す接続詞"
+    },
+    {
+      "order": 765,
+      "id": "09-086-q-301",
+      "type": "question",
+      "section_id": "086",
+      "number": "301",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "I like the restaurant we went to last night, ( ) it was a little too expensive.",
+      "options": ["① whether", "② although", "③ since", "④ because"],
+      "ja": "少し値段が高すぎたけれども、昨晩行ったレストランは良かった。",
+      "answer": "②",
+      "source_univ": "日本大"
+    },
+    {
+      "order": 766,
+      "id": "09-086-e-301",
+      "type": "explanation",
+      "target_q": "09-086-q-301",
+      "title": "",
+      "label": "◆although … 「…だけれども／…にもかかわらず」 (= though ...)",
+      "content": [
+        { "text": "「譲歩」は広い意味では「逆接」の一種だと理解してよい。厳密に言えば、「確かに A であるけれども B だ」「たとえ A だとしても B だ」という場合、A が「譲歩」を表し、B が「主張」を表す。主張とそれにか反する内容を一緒に用いることによって、主張の方を際立たせて効果的に伝えるための表現形式である。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 767,
+      "id": "09-086-q-302",
+      "type": "question",
+      "section_id": "086",
+      "number": "302",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "It is important not to give out your credit card number to anyone over the phone ( ) you know who you are talking to.",
+      "options": ["① so that", "② even if", "③ but", "④ or"],
+      "ja": "たとえ話し相手がだれか知っていたとしても、電話でクレジットカード番号をだれにも教えないことが大事です。",
+      "answer": "②",
+      "source_univ": "日本大"
+    },
+    {
+      "order": 768,
+      "id": "09-086-e-302",
+      "type": "explanation",
+      "target_q": "09-086-q-302",
+      "title": "",
+      "label": "◆even if … 「たとえ…でも」",
+      "content": [
+        { "text": "even if ... は何かを仮定して（「実際はどうか知らないが」もしそうだとしても）という場合に使おう。" }
+      ],
+      "solution": [
+        { "text": "② even if を選ぶと、「たとえ話し相手がだれか知っていても」となり、文意が通る。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 769,
+      "id": "09-086-q-303",
+      "type": "question",
+      "section_id": "086",
+      "number": "303",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) a vast amount of research has been conducted, there is still a great deal that is not known about the workings of the human brain.",
+      "options": ["① Despite", "② Even though", "③ In spite of", "④ Even"],
+      "ja": "膨大な量の研究がなされてきたけれども、人間の脳の働きにはまだまだ未知の部分がたくさんある。",
+      "answer": "②",
+      "source_univ": "学習院大"
+    },
+    {
+      "order": 770,
+      "id": "09-086-e-303",
+      "type": "explanation",
+      "target_q": "09-086-q-303",
+      "title": "",
+      "label": "◆even though … 「…ではあるけれども／たとえ…ではあっても」 (= though ... / although ...)",
+      "content": [
+        { "text": "even though ... は though ... / although ... の意味を強めた表現。ただし (×) even although とは言えない。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "① despite と ③ in spite of は「…にもかかわらず」という意味の前置詞と群前置詞。前置詞(句)の直後に文 (SV) が続くことはないので不可。" },
+        { "tag": "プラス", "text": "even if ... 「たとえ…でも」は何かを仮定して使うが、even though ... は事実に関係した関係で使える。一方、even though ... は事実について（「実際にそうであるが」という場合）に使う。\nEven if it rains, I'll go out. 「たとえ雨でも、外出する」 → 実際に雨が降るかどうか不明。\nEven though it's raining, I'll go out. 「雨だけれども、外出する」 → 実際に雨が降っている。" }
+      ]
+    },
+    {
+      "order": 771,
+      "id": "09-086-q-304",
+      "type": "question",
+      "section_id": "086",
+      "number": "304",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "Sleepy ( ) he was, he kept on studying for the examination.",
+      "options": ["① when", "② because", "③ as", "④ before"],
+      "ja": "彼は眠かったけれども、テストの勉強を続けた。",
+      "answer": "③",
+      "source_univ": "駒澤大"
+    },
+    {
+      "order": 772,
+      "id": "09-086-e-304",
+      "type": "explanation",
+      "target_q": "09-086-q-304",
+      "title": "文頭の Sleepy に注目",
+      "label": "◆形容詞 + as [though] SV = though SV + 形容詞",
+      "content": [
+        { "text": "though SV + 形容詞 「S は…ではあるけれども」 を 〈形容詞 + as [though] SV〉 で表すことができる。" },
+        { "text": "文頭に形容詞 sleepy が来ていることに注目。本問は Though he was sleepy を、形容詞 sleepy を文頭に出して、 Sleepy as he was とした形。" },
+        { "text": "この英文は、以下のように考えるとわかりやすい。" },
+        { "tag": "①", "text": "Though he was sleepy. → （接続詞＋SV）という一般的な語順。" },
+        { "tag": "②", "text": "Sleepy though he was, → 形容詞 sleepy を文頭に出した形。" },
+        { "tag": "③", "text": "Sleepy as he was, → ②の語順の though を as にした形。" }
+      ],
+      "solution": [
+        { "text": "〈形容詞＋as SV〉 という語順になる。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "keep on doing 「…し続ける」" }
+      ]
+    },
+    {
+      "order": 773,
+      "id": "09-086-q-305",
+      "type": "question",
+      "section_id": "086",
+      "number": "305",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) they agree or not, I will carry out the plan.",
+      "options": ["① Either", "② However", "③ Whatever", "④ Whether"],
+      "ja": "彼らが賛成しようとしまいが、私はその計画を実行する。",
+      "answer": "④",
+      "source_univ": "兵庫県立大"
+    },
+    {
+      "order": 774,
+      "id": "09-086-e-305",
+      "type": "explanation",
+      "target_q": "09-086-q-305",
+      "title": "or not に注目",
+      "label": "◆whether ... or 〜 「…であろうが〜であろうが（どちらでも）」",
+      "content": [
+        { "text": "whether は譲歩を表す副詞節を導いて、「…であろうが〜であろうが（どちらでも）」という意味を表す。 whether が名詞節を導く場合は 275 を参照。" }
+      ],
+      "solution": [
+        { "tag": "プラス", "text": "whether ... or not 「…であろうがなかろうが」は、whether or not ... という形にもなる。\n→ Whether or not they agree, I will carry out the plan." }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 775,
+      "type": "section_header",
+      "section_id": "087",
+      "title": "「結果・程度」を表す接続詞"
+    },
+    {
+      "order": 776,
+      "id": "09-087-q-306",
+      "type": "question",
+      "section_id": "087",
+      "number": "306",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "The movie was ( ) interesting that I wanted to see it again.",
+      "options": ["① such", "② too", "③ much", "④ so"],
+      "ja": "その映画はとてもおもしろかったので、私はもう一度見たいと思った。",
+      "answer": "④",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 777,
+      "id": "09-087-e-306",
+      "type": "explanation",
+      "target_q": "09-087-q-306",
+      "title": "that に注目",
+      "label": "◆so ... that 〜 「とても…なので〜／〜なほど［くらい］…」",
+      "content": [],
+      "solution": [
+        { "text": "「結果・程度」を表す so ... that 〜 の 「…」 には、原則として形容詞や副詞が来る。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "text": "「…」 に 〈a / an + 形容詞 + 名詞〉 の形が来る場合は 〈so + 形容詞 + a / an + 名詞〉 の語順になることに注意。 → 503" },
+        { "tag": "プラス", "text": "so ... that 〜 を ... enough (for A) to do / too ... (for A) to do へ書きかえる問題も頻出。\n→ 137, 138, 139\n→ The movie was interesting enough for me to want to see again." }
+      ]
+    },
+    {
+      "order": 778,
+      "id": "09-087-q-307",
+      "type": "question",
+      "section_id": "087",
+      "number": "307",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "It was ( ) a fine day that they went hiking.",
+      "options": ["① such", "② so", "③ what", "④ then"],
+      "ja": "とても良い天気だったので、彼らはハイキングに出かけた。",
+      "answer": "①",
+      "source_univ": "駒澤大"
+    },
+    {
+      "order": 779,
+      "id": "09-087-e-307",
+      "type": "explanation",
+      "target_q": "09-087-q-307",
+      "title": "冠詞 a の位置に注目",
+      "label": "◆such ... that 〜 「とても…なので〜／〜なほど［くらい］…」",
+      "content": [],
+      "solution": [
+        { "text": "「結果・程度」を表す such ... that 〜 の 「…」 には、 〈(a / an) + 形容詞 + 名詞〉 の形が来るのが原則。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "② so を用いる場合は、 〈so + 形容詞 + a / an + 名詞〉 の語順、すなわち It was so fine a day that ... とならなければならない。 → 306, 503" },
+        { "tag": "プラス", "text": "such ... that 〜 の 「…」 に可算名詞の複数形や、不可算名詞が来ることもある。\nThey are such beautiful flowers that ... 「とても美しい花なので…」\nIt is such good weather that ... 「とても良い天気なので…」 → weather は不可算名詞。" }
+      ]
+    },
+    {
+      "order": 780,
+      "id": "09-087-q-308",
+      "type": "question",
+      "section_id": "087",
+      "number": "308",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "( ) was the force of the explosion that all the windows broke into pieces.",
+      "options": ["① So", "② That", "③ What", "④ Such"],
+      "ja": "爆発の威力がとてもすごかったので、窓はすべて粉々に砕けた。",
+      "answer": "④",
+      "source_univ": "埼玉医科大"
+    },
+    {
+      "order": 781,
+      "id": "09-087-e-308",
+      "type": "explanation",
+      "target_q": "09-087-q-308",
+      "title": "空所のあとの語順に注目",
+      "label": "◆S is such that ... = Such is S that ... 「S はとてもすごかったので…／S は…するほどである」",
+      "content": [
+        { "text": "S is such that ... は 「S はとてもすごいので…／S は…するほどである」 という意味で、 S is so great that ... と同意。 Such is S that ... という倒置形になることもある。" }
+      ],
+      "solution": [
+        { "text": "本問は The force of the explosion was such that ... の such が文頭に移動して、 Such was the force of the explosion that ... という倒置形になっている。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 782,
+      "id": "09-087-q-309",
+      "type": "question",
+      "section_id": "087",
+      "number": "309",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "I overslept, ( ) I was late for the meeting.",
+      "options": ["① because", "② as", "③ so", "④ but"],
+      "ja": "寝坊をした。それで、会議に遅れてしまった。",
+      "answer": "③",
+      "source_univ": "芝浦工業大"
+    },
+    {
+      "order": 783,
+      "id": "09-087-e-309",
+      "type": "explanation",
+      "target_q": "09-087-q-309",
+      "title": "",
+      "label": "◆結果を表す接続詞 so (that) 「それで／…その結果…」",
+      "content": [],
+      "solution": [
+        { "text": "... (,) so (that) 〜 「…それで〜／…その結果〜」 は、前の文の内容を受けて、その〈結果〉を表す。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 784,
+      "type": "section_header",
+      "section_id": "088",
+      "title": "「目的」を表す接続詞"
+    },
+    {
+      "order": 785,
+      "id": "09-088-q-310",
+      "type": "question",
+      "section_id": "088",
+      "number": "310",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "She wanted to publish her poetry ( ) everyone could read it.",
+      "options": ["① in that", "② so much", "③ so that", "④ that which"],
+      "ja": "彼女はだれもが読めるように、自分の詩集を出版したいと思っていた。",
+      "answer": "③",
+      "source_univ": "日本女子大"
+    },
+    {
+      "order": 786,
+      "id": "09-088-e-310",
+      "type": "explanation",
+      "target_q": "09-088-q-310",
+      "title": "",
+      "label": "◆so that S can [will / may] do 「S が…するために／…するように」",
+      "content": [
+        { "text": "so that S can [will / may] do で 「S が…するために」 という 〈目的〉 の意味を表す。 in order that S can [will / may] do でも同じ意味を表すが、文語的な表現。" }
+      ],
+      "solution": [
+        { "text": "本問は主節が過去時制なので、時制の一致 (→ まずは確認 045 (p.232)) を受けて could になっている。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 787,
+      "id": "09-088-q-311",
+      "type": "question",
+      "section_id": "088",
+      "number": "311",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "■英文の意味に最も近いものを、①〜④から一つ選べ。\nYou need to speak up so everyone can hear you.",
+      "options": [
+        "① あなたが言うことをみんな聞く準備ができている。",
+        "② あなたの言うことにみんなが賛成するとは限らない。",
+        "③ あなたはもっと大声で話さなければならない。さもないと、人々は聞き取ることができないだろう。",
+        "④ 他のみんなの考えることになたは耳を傾けるべきだ。"
+      ],
+      "ja": "みんなに聞こえるように、あなたはもっと大きな声で話す必要がある。",
+      "answer": "③",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 788,
+      "id": "09-088-e-311",
+      "type": "explanation",
+      "target_q": "09-088-q-311",
+      "title": "",
+      "label": "◆so S can do — so that S can do の that の省略",
+      "content": [
+        { "text": "目的を表す so that S can do の that が省略されて、 so S can do となることがある。" }
+      ],
+      "solution": [
+        { "text": "省略された that を補って、 so that everyone can hear you 「みんなに聞こえるように」 という目的の意味に理解することがポイント。この文章に最も近い ③ を正解に選ぶ。" },
+        { "text": "③ は 〈命令文 ..., or SV〉 「…しなさい。さもないと〜」 (→ 263) の変形。命令文の代わりに 「義務・必要」 の意味の助動詞 have to を、 or の代わりに otherwise を用いている。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "be ready to do 「…する準備ができている／進んで…する」" }
+      ]
+    },
+    {
+      "order": 789,
+      "id": "09-088-q-312",
+      "type": "question",
+      "section_id": "088",
+      "number": "312",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "He got to the station early for ( ) that he might miss the last train.",
+      "q_type": "completion",
+      "ja": "最終電車を逃さないように、彼は早めに駅に着いた。",
+      "answer": "fear",
+      "source_univ": "京都教育大"
+    },
+    {
+      "order": 790,
+      "id": "09-088-e-312",
+      "type": "explanation",
+      "target_q": "09-088-q-312",
+      "title": "接続詞 while の",
+      "label": "◆for fear that S should [might] do 「S が…しないように／…するといけないので」",
+      "content": [
+        { "text": "for fear (that) S should [might] do で 「S が…しないように／…するといけないので」 という意味。原義は 「S が…することを恐れて」 だが、日本語は否定的に訳出するのが一般的。" }
+      ],
+      "solution": [
+        { "tag": "プラス", "text": "同意表現は lest S (should) do だが、文語的な表現。\n→ He got to the station early lest he (should) miss the last train." },
+        { "tag": "プラス", "text": "本問は 〈目的〉 を表す so that ... を使って ... so that he might [would] not miss the last train. と書きかえができる。 → 310" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 791,
+      "id": "09-088-q-313",
+      "type": "question",
+      "section_id": "088",
+      "number": "313",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "You should write down Satsuki's number ( ) you forget it.",
+      "options": ["① in case", "② in the case", "③ so far as", "④ so long as"],
+      "ja": "忘れた場合に備えて、サツキの電話番号を書きとめておくべきです。",
+      "answer": "①",
+      "source_univ": "センター試験"
+    },
+    {
+      "order": 792,
+      "id": "09-088-e-313",
+      "type": "explanation",
+      "target_q": "09-088-q-313",
+      "title": "",
+      "label": "◆in case … 「…する場合に備えて」",
+      "content": [
+        { "text": "in case ... で 「…する場合に備えて」 という意味。 「念のために／予防として」 というニュアンスがある点で fear とは異なる。 in case S should do という言い方もあるが、文語的な表現。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "③ so long as ... 「…する限り」 は 315 を参照。" },
+        { "tag": "プラス", "text": "米語で in case ... は 「条件（＝if）」 の意味で使われ、 「万一…する場合は」 というニュアンスがある。\nYou can start without me in case I am late.\n「もし（万一）私が遅れたら、私なしで出発していいよ」" }
+      ]
+    },
+    {
+      "order": 793,
+      "type": "section_header",
+      "section_id": "089",
+      "title": "接続詞 as [so] far as ... と as [so] long as ..."
+    },
+    {
+      "order": 794,
+      "id": "09-089-c-031",
+      "type": "confirmation_box",
+      "target_s": "089",
+      "number": "031",
+      "title": "接続詞 as [so] far as ... と as [so] long as ...",
+      "content": [
+        { "text": "接続詞 as [so] far as ... と as [so] long as ... は、ともに 「…する限り」 という日本語になるので非常に混同しやすい。 far が 「距離の長さ」 を表すので、 as [so] far as ... は 〈範囲の制限〉 が原義。それに対して、 long は 「時の長さ」 を表すので、 as [so] long as ... は 〈時間の制限〉 が原義となる。" }
+      ]
+    },
+    {
+      "order": 795,
+      "id": "09-089-q-314",
+      "type": "question",
+      "section_id": "089",
+      "number": "314",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "A desert stretched on all sides ( ) the eye could reach.",
+      "options": ["① as far as", "② as long as", "③ so that", "④ regarding"],
+      "ja": "見渡す限り、あらゆる方向に砂漠が広がっていた。",
+      "answer": "①",
+      "source_univ": "中京大"
+    },
+    {
+      "order": 796,
+      "id": "09-089-e-314",
+      "type": "explanation",
+      "target_q": "09-089-q-314",
+      "title": "far は 「距離の長さ」 を表す",
+      "label": "◆as [so] far as ... 「…する限り／…する範囲内で」 〈範囲の制限〉 が原義。",
+      "content": [],
+      "solution": [
+        { "text": "as far as the eye can reach で 「見渡す限り」 という意味。文字通り 「目が見える範囲内で」 という原義から考えれば as long as と間違うことはない。本問は時制の一致で can が could に変化している。" },
+        { "tag": "→", "note": "整理して覚える 025" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 797,
+      "id": "09-089-s-025",
+      "type": "summary_box",
+      "target_s": "089",
+      "number": "025",
+      "title": "as far as を含む慣用表現",
+      "content": [
+        { "text": "以下の慣用表現を覚えておこう。かっこ内の元々のイメージをつかむことが大切。" },
+        { "tag": "□", "en": "as far as I know", "ja": "「私が知る限りでは」", "text": "(←知っている範囲内では) (=to the best of my knowledge)" },
+        { "tag": "□", "en": "as far as I remember", "ja": "「私が覚えている限りでは」", "text": "(←覚えている範囲内では)" },
+        { "tag": "□", "en": "as far as I can [could] tell", "ja": "「私にわかる限りでは」", "text": "(←判断できる範囲内では)" },
+        { "tag": "□", "en": "as far as S is concerned", "ja": "「S に関する限り」", "text": "(←S が関係する範囲内では)" },
+        { "tag": "□", "en": "as far as S go", "ja": "「S に関する限り」", "text": "(←S が移動する範囲内では)" },
+        { "tag": "□", "en": "as far as S [the eye] can see [reach]", "ja": "「S の見渡す限り」", "text": "(←S が［目で］見える範囲内では)", "note": "→ 314" }
+      ]
+    },
+    {
+      "order": 798,
+      "id": "09-089-d-014",
+      "type": "deep_dive",
+      "target_s": "089",
+      "number": "014",
+      "title": "as long as の意味",
+      "content": [
+        { "text": "as long as の long が 「時の長さ」 を表し、 as long as ... が 「…する間は」 という 〈時間の制限〉 を表すことから、結果として 〈条件〉 を表していることを、以下の例で確認。" },
+        { "text": "・as long as you keep quiet 「静かにしている間り」 (←静かにしている間は)\n・as long as I live 「生きている限り」 (←生きている間は)" },
+        { "text": "さらに、 〈時間の制限〉 のニュアンスを失って、以下のように純粋に 〈条件〉 の意味を表す。" },
+        { "en": "I will go as long as the weather is good.", "ja": "「天気が良ければ、私は出かける」 (←天気がいい場合に限る)" },
+        { "en": "You can watch TV as long as you do your homework first.", "ja": "「まず宿題をさえすれば、テレビを見てよい」 (←まず宿題をする場合に限る)" }
+      ]
+    },
+    {
+      "order": 799,
+      "id": "09-089-q-315",
+      "type": "question",
+      "section_id": "089",
+      "number": "315",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "Any bread will do as ( ) as it's fresh.",
+      "options": ["① many", "② far", "③ much", "④ long"],
+      "ja": "焼きたてでありさえすれば、どんなパンでもいいですよ。",
+      "answer": "④",
+      "source_univ": "追手門学院大"
+    },
+    {
+      "order": 800,
+      "id": "09-089-e-315",
+      "type": "explanation",
+      "target_q": "09-089-q-315",
+      "title": "",
+      "label": "◆as [so] long as ... 「…する限り／…しさえすれば／…するという条件で」 〈時間の制限〉 が原義。そこから 「…しさえすれば／…する場合のみ」 という 〈条件〉 の意味を持つようになったと理解すればよい。",
+      "content": [
+        { "tag": "→", "note": "しっかり理解 014" }
+      ],
+      "solution": [
+        { "text": "「パンが焼きたての間はどんなパンでも用が足ります（食べられます）」という意味なので、 as long as を用いる。原義から考えれば範囲を制限する as far as が使えないことがわかる。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "S will do 「S で十分だ／用が足りる／間に合う」 (= S will be enough)" }
+      ]
+    },
+    {
+      "order": 801,
+      "type": "section_header",
+      "section_id": "090",
+      "title": "接続詞 while の用法"
+    },
+    {
+      "order": 802,
+      "id": "09-090-q-316",
+      "type": "question",
+      "section_id": "090",
+      "number": "316",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "I went swimming almost every day ( ) I stayed in Okinawa.",
+      "options": ["① though", "② during", "③ while", "④ if"],
+      "ja": "沖縄滞在中は、ほぼ毎日泳ぎに行った。",
+      "answer": "③",
+      "source_univ": "芝浦工業大"
+    },
+    {
+      "order": 803,
+      "id": "09-090-e-316",
+      "type": "explanation",
+      "target_q": "09-090-q-316",
+      "title": "",
+      "label": "◆〈時〉の while … 「…している間」",
+      "content": [
+        { "text": "接続詞 while は 「何かが起こっている／行われている期間」 を示すので、原則として while 節内では、動作動詞の進行形か、状態動詞が用いられる。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "② during は前置詞で後ろに文は来ない。 ... during my stay in Okinawa なら正しい。" }
+      ]
+    },
+    {
+      "order": 804,
+      "id": "09-090-q-317",
+      "type": "question",
+      "section_id": "090",
+      "number": "317",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Some people say that the internet is a passing fashion, ( ) others believe it is a turning point in human history.",
+      "options": ["① during", "② while", "③ judging from", "④ considering"],
+      "ja": "インターネットは一時的流行だと言う人もいるが、一方で、人類の歴史における転換点だと考える人もいる。",
+      "answer": "②",
+      "source_univ": "国立看護大学校"
+    },
+    {
+      "order": 805,
+      "id": "09-090-e-317",
+      "type": "explanation",
+      "target_q": "09-090-q-317",
+      "title": "some ... others 〜 に注目",
+      "label": "◆〈対比〉の while … 「一方…」 (= whereas ...)",
+      "content": [
+        { "text": "some people ... others 〜 「…する人もいれば、（その一方で）〜する人もいる」 (→ 743) という相関的な表現に注目して、 〈対比〉 の ② while を選ぶ。" },
+        { "tag": "▶", "text": "〈対比〉の while は 〈SV ..., while S' V' 〜 .〉 のように文中で使われるのが一般的。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 806,
+      "id": "09-090-q-318",
+      "type": "question",
+      "section_id": "090",
+      "number": "318",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "( ) Joe agreed with Mary for the most part, there were still some points that he could not accept.",
+      "options": ["① Since", "② While", "③ Whether", "④ Whichever"],
+      "ja": "ジョーはほとんどの部分でメアリーに同意したが、受け入れることができないところがいまだいくつかあった。",
+      "answer": "②",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 807,
+      "id": "09-090-e-318",
+      "type": "explanation",
+      "target_q": "09-090-q-318",
+      "title": "",
+      "label": "◆〈譲歩〉の while … 「…だけれども／…にもかかわらず」 (= though ... / although ...)",
+      "content": [],
+      "solution": [
+        { "text": "〈譲歩〉の ② While なら 「大部分は賛成するが、いくつか賛成できない」 という文章が通る。" },
+        { "text": "〈譲歩〉の while は、 〈While SV ..., S' V' 〜 .〉 のように文頭で使われるのが一般的。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 808,
+      "type": "section_header",
+      "section_id": "091",
+      "title": "接続詞 as の用法"
+    },
+    {
+      "order": 809,
+      "id": "09-091-q-319",
+      "type": "question",
+      "section_id": "091",
+      "number": "319",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "They say our bones get weaker and weaker ( ) we get older.",
+      "options": ["① so", "② as", "③ like", "④ with"],
+      "ja": "年がいくと、だんだん骨がもろくなるらしい。",
+      "answer": "②",
+      "source_univ": "関西医科大"
+    },
+    {
+      "order": 810,
+      "id": "09-091-e-319",
+      "type": "explanation",
+      "target_q": "09-091-q-319",
+      "title": "",
+      "label": "◆〈比例〉の as … 「…するにつれて」",
+      "content": [
+        { "text": "「年がいく＝年を取るにつれて」 を 〈比例〉 の接続詞 as を用いて表す。" },
+        { "tag": "▶", "text": "〈比例〉の as は比較表現とともに使われることが多い。比較表現の weaker and weaker と一緒に用いられていることに注目。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "〈比較級 + and + 比較級〉 「どんどん／ますます／次第に」" }
+      ]
+    },
+    {
+      "order": 811,
+      "id": "09-091-q-320",
+      "type": "question",
+      "section_id": "091",
+      "number": "320",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The students did it ( ) they were told to do it.",
+      "options": ["① that", "② so", "③ as", "④ unless"],
+      "ja": "生徒たちはそれを言われたようにやった。",
+      "answer": "③",
+      "source_univ": "大阪人間科学大"
+    },
+    {
+      "order": 812,
+      "id": "09-091-e-320",
+      "type": "explanation",
+      "target_q": "09-091-q-320",
+      "title": "",
+      "label": "◆〈様態〉の as … 「…するように」",
+      "content": [],
+      "solution": [
+        { "text": "文意が通るのは 〈様態〉 の接続詞 ③ as だけだ。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 813,
+      "id": "09-091-q-321",
+      "type": "question",
+      "section_id": "091",
+      "number": "321",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "私たちはあるがままに物事を受け入れなければなりません。\n(accept / they / we / are / have / things / as / to).",
+      "q_type": "ordering",
+      "ja": "私たちはあるがままに物事を受け入れなければなりません。",
+      "answer": "have to accept things as they are",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 814,
+      "id": "09-091-e-321",
+      "type": "explanation",
+      "target_q": "09-091-q-321",
+      "title": "",
+      "label": "◆〈as S + be 動詞〉 は 〈様態〉 の接続詞 as を用いた表現で、 「ありのままに／そのまま」 と訳す。そこから 「ありのままに／そのまま」 という意味になったと理解すればよい。",
+      "content": [],
+      "solution": [
+        { "text": "本問の as they [= things] are は 「物事が存在するにように」 が直訳。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 815,
+      "id": "09-091-s-026",
+      "type": "summary_box",
+      "target_s": "091",
+      "number": "026",
+      "title": "接続詞 as の用法",
+      "content": [
+        { "tag": "□ 〈様態〉", "text": "「…するように」 ＊省略や代用を用いる場合が多い。", "note": "→ 320, 321", "items": [
+          { "en": "Do as I say!", "ja": "「私が言うようにしなさい！」" },
+          { "en": "They did as I had asked.", "ja": "「彼らは私が頼んだようにしてくれた」" },
+          { "en": "She lost it, just as I said she would.", "ja": "「私が言った通り、彼女はそれをなくした」" },
+          { "en": "Leave everything just as you found it.", "ja": "「すべて見つけたときのままにしておきなさい（←すべて見つけたようにしなさい）」" },
+          { "en": "We'd better leave things as they are until police arrive.", "ja": "「警察が到着するまでは現場に手を触れない方がよい（←状況をそのままにしておく）」" }
+        ]},
+        { "tag": "□ 〈比例〉", "text": "「…するにつれて」 ＊比較級と一緒に用いる場合が多い。", "note": "→ 319" },
+        { "tag": "□ 〈譲歩〉", "text": "「…であるけれども」 (= though ...) ＊ 〈形容詞 + as S + be 動詞〉 の語順", "note": "→ 304" },
+        { "tag": "□ 〈理由〉", "text": "「…するので」 (= because ... / since ...)" },
+        { "tag": "□ 〈時〉", "text": "「…するとき／…する間」 (= when ... / while ...)" }
+      ]
+    }
+  ]
+}

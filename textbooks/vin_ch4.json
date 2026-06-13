@@ -1,0 +1,1427 @@
+{
+  "metadata": {
+    "source": "vin4",
+    "field": "grammar",
+    "chapter_id": "04",
+    "chapter_title": "仮定法"
+  },
+  "items": [
+    {
+      "order": 215,
+      "type": "section_header",
+      "section_id": "030",
+      "title": "仮定法過去"
+    },
+    {
+      "order": 216,
+      "id": "04-030-c-007",
+      "type": "confirmation_box",
+      "target_s": "030",
+      "number": "007",
+      "title": "仮定法過去 「もし S が…すれば，S' は〜するだろう」",
+      "content": [
+        { "text": "現在の事実に反する仮定や，これから実現する可能性が低い仮定を表す場合は，if 節の動詞が過去形に，主節の動詞が〈助動詞の過去形+原形〉になる。この形は仮定法過去と呼ばれる。" },
+        { "tag": "if 節", "text": "If S + did ..., " },
+        { "tag": "主節", "text": "S' would [could / might / should] do ~." },
+        { "tag": "△注意", "text": "主節で should を使うのは主語が一人称（I / we）の場合のみ。意味は would と同じ。if 節の動詞が be 動詞のときは，原則として主語に関係なく were になる。", "note": "→ 80, 82" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 217,
+      "id": "04-030-q-80",
+      "type": "question",
+      "section_id": "030",
+      "number": "80",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "This computer would be perfect if it ( ) a little lighter.",
+      "options": ["① is", "② has", "③ were", "④ has been"],
+      "ja": "もう少し軽ければ，このコンピューターは完璧だろう。",
+      "answer": "③",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 218,
+      "id": "04-030-e-80",
+      "type": "explanation",
+      "target_q": "04-030-q-80",
+      "title": "主節の動詞 would be に注目",
+      "label": "仮定法過去—if 節の動詞の形",
+      "content": [],
+      "solution": [
+        { "tag": "▶", "text": "主節の動詞が would be なので仮定法過去だと考える。仮定法過去の if 節の動詞の過去形を用いる。③ were を入れると文意も通るので正解。if 節の be 動詞は原則として主語とは無関係に were が用いられることに注意。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 219,
+      "id": "04-030-q-81",
+      "type": "question",
+      "section_id": "030",
+      "number": "81",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "John ( ) the team if he had time, but he is really busy now.",
+      "options": ["① joins", "② joined", "③ would join", "④ have joined"],
+      "ja": "ジョンは，時間があればそのチームに加わるだろうが，彼は今本当に忙しい。",
+      "answer": "③",
+      "source_univ": "名古屋学院大"
+    },
+    {
+      "order": 220,
+      "id": "04-030-e-81",
+      "type": "explanation",
+      "target_q": "04-030-q-81",
+      "title": "if 節の動詞 had に注目",
+      "label": "仮定法過去—if 節の動詞の形",
+      "content": [],
+      "solution": [
+        { "tag": "▶", "text": "if 節の動詞が過去形 had で，but 以下の文が現在の事実なので，現在の事実に反する仮定を表す仮定法過去だと考える。仮定法過去の主節は〈助動詞の過去形+原形〉を用いる。③ would join を入れると文意も通るので正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 221,
+      "id": "04-030-q-82",
+      "type": "question",
+      "section_id": "030",
+      "number": "82",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "If I (were) a company owner, I (will) start a special online system to communicate directly (with) all employees in order (to) learn what they think.",
+      "q_type": "error_correction",
+      "ja": "私が社長なら，従業員の考えていることを知るために，彼ら全員と直接意思の疎通を図る特別なオンラインシステムを立ち上げるだろう。",
+      "answer": "② → would",
+      "source_univ": "立教大"
+    },
+    {
+      "order": 222,
+      "id": "04-030-e-82",
+      "type": "explanation",
+      "target_q": "04-030-q-82",
+      "title": "仮定法かどうか見極める",
+      "label": "仮定法過去—if 節と主節の動詞の形",
+      "content": [],
+      "solution": [
+        { "tag": "▶", "text": "if 節の内容「もし私が社長なら（←実際は社長ではない）」と全体の内容から仮定法過去だと判断する。仮定法過去の主節は〈助動詞の過去形+原形〉を用いるので，② will を would にする。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "communicate with A「Aと意思の疎通を図る」" },
+        { "tag": "□", "text": "in order to do「…するために（目的）」 → 141" }
+      ]
+    },
+    {
+      "order": 223,
+      "type": "section_header",
+      "section_id": "031",
+      "title": "仮定法過去完了"
+    },
+    {
+      "order": 224,
+      "id": "04-031-c-008",
+      "type": "confirmation_box",
+      "target_s": "031",
+      "number": "008",
+      "title": "仮定法過去完了 「もし S が…したならば，S' は〜しただろう」",
+      "content": [
+        { "text": "過去の事実に反する仮定を表す場合は，if 節の動詞が過去完了形（had done）に，主節の動詞が〈助動詞の過去形+have done〉になる。この形は仮定法過去完了と呼ばれる。" },
+        { "tag": "if 節", "text": "If S + had done ..., " },
+        { "tag": "主節", "text": "S' would [could / might / should] have done ~." },
+        { "tag": "△注意", "text": "主語で should を使うのは主語が一人称（I / we）の場合のみ。意味は would と同じ。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 225,
+      "id": "04-031-q-83",
+      "type": "question",
+      "section_id": "031",
+      "number": "83",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "If I ( ) harder, I could have played the violin better.",
+      "options": ["① practice", "② have practiced", "③ will practice", "④ had practiced"],
+      "ja": "もっと必死で練習していたら，私はもっとうまくバイオリンを弾くことができただろう。",
+      "answer": "④",
+      "source_univ": "日本大"
+    },
+    {
+      "order": 226,
+      "id": "04-031-e-83",
+      "type": "explanation",
+      "target_q": "04-031-q-83",
+      "title": "主節の動詞 could have played に注目",
+      "label": "仮定法過去完了—if 節の動詞の形",
+      "content": [],
+      "solution": [
+        { "tag": "▶", "text": "主節の動詞が could have played なので仮定法過去完了だと考える。仮定法過去完了の if 節は動詞の過去完了形を用いる。④ had practiced を入れると文意も通るので正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 227,
+      "type": "grammar_term",
+      "target_s": "031",
+      "number": "09",
+      "term": "仮定法",
+      "text": "現在や過去の事実とは反する話をするときに使われる動詞の形。"
+    },
+    {
+      "order": 228,
+      "id": "04-031-q-84",
+      "type": "question",
+      "section_id": "031",
+      "number": "84",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "If we had known about his busy schedule, we ( ) the meeting.",
+      "options": ["① would put off", "② put off", "③ have put off", "④ would have put off"],
+      "ja": "私たちが彼の忙しいスケジュールを知っていたら，その会議を延期しただろうに。",
+      "answer": "④",
+      "source_univ": "甲南大"
+    },
+    {
+      "order": 229,
+      "id": "04-031-e-84",
+      "type": "explanation",
+      "target_q": "04-031-q-84",
+      "title": "if 節の動詞 had known に注目",
+      "label": "仮定法過去完了—主節の動詞の形",
+      "content": [],
+      "solution": [
+        { "tag": "▶", "text": "if 節の動詞が過去完了形 had known なので仮定法過去完了だと考える。仮定法過去完了の主節は〈助動詞の過去形+have done〉を用いる。② would have put off が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 230,
+      "id": "04-031-q-85",
+      "type": "question",
+      "section_id": "031",
+      "number": "85",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "No one would have (attended) the meeting if you (told) the truth about the speaker.",
+      "q_type": "error_correction",
+      "ja": "あなたがその演説者に関する真相を話していたら，会議にはだれも出席しなかっただろうに。",
+      "answer": "② → had told",
+      "source_univ": "東京都市大"
+    },
+    {
+      "order": 231,
+      "id": "04-031-e-85",
+      "type": "explanation",
+      "target_q": "04-031-q-85",
+      "title": "主節の動詞 would have attended に注目",
+      "label": "仮定法過去完了—if 節と主節の動詞の形",
+      "content": [],
+      "solution": [
+        { "tag": "▶", "text": "全体の文意と主節の動詞 would have attended から仮定法過去完了だと考える。仮定法過去完了の if 節は動詞の過去完了形を用いる。② told を had told に訂正する。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "tell the truth (about A)「（Aについて）真実を述べる」" }
+      ]
+    },
+    {
+      "order": 232,
+      "type": "section_header",
+      "section_id": "032",
+      "title": "仮定法過去と仮定法過去完了の組み合わせ"
+    },
+    {
+      "order": 233,
+      "id": "04-032-c-009",
+      "type": "confirmation_box",
+      "target_s": "032",
+      "number": "009",
+      "title": "仮定法過去と仮定法過去完了の組み合わせ",
+      "content": [
+        { "text": "if 節で仮定法過去完了を用い，主節で仮定法過去を用いれば，過去の事実に反する仮定に対して，現在の事実に対する推量を表すことができる。" },
+        { "tag": "if 節", "text": "If S + had done ..., (仮定法過去完了)" },
+        { "tag": "主節", "text": "S' would [could / might / should] do ~. (仮定法過去)" },
+        { "text": "「もし（過去に）S が…したならば，（現在）S' は〜するだろう」", "note": "→ 86, 87" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 234,
+      "id": "04-032-q-86",
+      "type": "question",
+      "section_id": "032",
+      "number": "86",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "If you had taken my advice at that time, you ( ) more successful now.",
+      "options": ["① are", "② would be", "③ will have been", "④ would have been"],
+      "ja": "あの時あなたが私の忠告を聞いていたら，今ごろもっと成功しているだろうに。",
+      "answer": "②",
+      "source_univ": "亜細亜大"
+    },
+    {
+      "order": 235,
+      "id": "04-032-e-86",
+      "type": "explanation",
+      "target_q": "04-032-q-86",
+      "title": "時を表す語句 at that time と now に注目",
+      "label": "if 節〈仮定法過去完了〉+ 主節〈仮定法過去〉",
+      "content": [
+      {
+        "text": "仮定法過去と仮定法過去完了が組み合わされて使われる場合がある。「時」を表す語句に注目しながら，if 節と主節に用いる適切な動詞の形を選ぶ。"
+      }
+      ],
+      "solution": [
+      {
+        "text": "if 節は at that time「あの時」とあり，動詞も過去完了形 had taken なので，過去の事実に反する仮定だとわかる。しかし主節は now「今」とあり，現在の事実に対する推量を表す仮定法過去（助動詞の過去形+原形）を用いるので，② would be が正解。「もし過去に…だったら，今は〜だろう」という文意になる。"
+      }
+      ],
+    "appendix": []
+    },
+    {
+      "order": 236,
+      "id": "04-032-q-87",
+      "type": "question",
+      "section_id": "032",
+      "number": "87",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "If I ( ) him that day, my life would be totally different now.",
+      "options": ["① didn't meet", "② would meet", "③ don't meet", "④ hadn't met"],
+      "ja": "あの日彼に会わなかったら，私の人生は今ごろまったく違うものになっているだろう。",
+      "answer": "④",
+      "source_univ": "芝浦工業大"
+    },
+    {
+      "order": 237,
+      "id": "04-032-e-87",
+      "type": "explanation",
+      "target_q": "04-032-q-87",
+      "title": "時を表す語句 that day と now に注目",
+      "label": "if 節〈仮定法過去完了〉+ 主節〈仮定法過去〉",
+      "content": [],
+      "solution": [
+        {
+          "text": "主節は now「今」とあり，動詞も would be なので，現在の事実に対する推量を表す仮定法過去だとわかる。しかし if 節は that day「あの時（あの日）」とあるので，過去の事実に反する仮定を表す if 節は過去完了形を用いるので，④ hadn't met が正解。「もし過去に…だったら，今は〜だろう」という文章になる。"
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 238,
+      "type": "grammar_term",
+      "target_s": "032",
+      "number": "10",
+      "term": "直説法",
+      "text": "現実のことについて話すときに使われる動詞の形。"
+    },
+    {
+      "order": 239,
+      "type": "section_header",
+      "section_id": "033",
+      "title": "if S were to do / if S should do"
+    },
+    {
+      "order": 240,
+      "id": "04-033-c-010",
+      "type": "confirmation_box",
+      "target_s": "033",
+      "number": "010",
+      "title": "if S were to do / if S should do",
+      "content": [
+        { "text": "if 節に were to や should を用いて，これから起こることについての仮定を表すことができる。" },
+        { "tag": "(1)", "text": "If S were to do ..., S' would [could / might / should] do ~." },
+        { "ja": "「（仮に）S が…すれば，S' は〜するだろう」" },
+        { "tag": "(2)", "text": "If S should do ..., S' would [could / might / should / will / can / may] do ~ / 命令文." },
+        { "ja": "「（万一）S が…すれば，S' は〜するだろう／…しなさい」" },
+        { "tag": "△注意", "text": "(2) の should を使った仮定法の場合は，主節は will [can / may] などの助動詞の現在形を用いたり，命令文が来ることが多い。", "note": "→ 89" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 241,
+      "id": "04-033-q-88",
+      "type": "question",
+      "section_id": "033",
+      "number": "88",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "The destruction of humankind (be / if / inevitable / to / a nuclear war / were / would) break out.",
+      "q_type": "ordering",
+      "ja": "核戦争が起こったら，人類の破滅は避けられないだろう。",
+      "answer": "would be inevitable if a nuclear war were to",
+      "source_univ": "青山学院大"
+    },
+    {
+      "order": 242,
+      "id": "04-033-e-88",
+      "type": "explanation",
+      "target_q": "04-033-q-88",
+      "title": "これから起こることについての仮定",
+      "label": "If S were to do ..., S' would do ~. 「もし（仮に）…すれば，〜だろう」",
+      "content": [],
+      "solution": [
+        { "text": "「核戦争が起こったら」は，これから起こることについての仮定なので，if S were to do ... の形を用いて if a nuclear war were to break out と並べる。" },
+        { "text": "「人類の破滅は避けられないだろう」は S' would be inevitable と並べて The destruction of humankind would be inevitable と述べる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 243,
+      "id": "04-033-q-89",
+      "type": "question",
+      "section_id": "033",
+      "number": "89",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "I don't think he will stop by my office. But if he ( ) while I'm out, give him more information about that.",
+      "options": ["① came", "② will come", "③ should come", "④ had come"],
+      "ja": "彼は私の職場に立ち寄らないと思います。でも万一彼が私の外出中に来たら，あの件についてもっと情報を彼に伝えてください。",
+      "answer": "③",
+      "source_univ": "聖マリアンナ医科大"
+    },
+    {
+      "order": 244,
+      "id": "04-033-e-89",
+      "type": "explanation",
+      "target_q": "04-033-q-89",
+      "title": "「立ち寄らないと思う」でも「万一…」",
+      "label": "If S should do ..., S' would do ~. 「（万一）S が…すれば，〜だろう」",
+      "content": [],
+      "solution": [
+        { "text": "「彼は立ち寄らないと思う」と述べてから，「（万一）彼が外出中に来たら」というこれから起こることについての仮定をしているので，if S should do を用いる ③ should come を選ぶ。" },
+        { "text": "本問では，主節が命令文になっていることに注意。if S should do を用いる仮定法では，主節に直説法（文法用語 10 p.057）や命令文が来ることが多い。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 245,
+      "type": "section_header",
+      "section_id": "034",
+      "title": "S wish + 仮定法"
+    },
+    {
+  "order": 246,
+  "id": "04-034-d-005",
+  "type": "deep_dive",
+  "target_s": "034",
+  "number": "005",
+  "title": "S wish + 仮定法",
+  "content": [
+    {
+      "tag": "(1)",
+      "label": "S wish S' did (仮定法過去)...「S’は...**すればいいのに**とSは思う」",
+      "text": "「願う内容」が「願う時点 (wish)」と同時の内容なら，**仮定法過去**を用いる。→ 90"
+    },
+    {
+      "tag": "(2)",
+      "label": "S wish S' had done (仮定法過去完了)...「S’は...**すればよかったのに**とSは思う」",
+      "text": "「願う内容」が「願う時点 (wish)」より以前の内容なら，**仮定法過去完了**を用いる。→ 91"
+    },
+    {
+      "tag": "(3)",
+      "label": "S wish S' would [could] do ...「S’は（これから）･･･すれば［･･･できれば］いいのにとSは思う。",
+      "text": "「願う内容」が「願う時点」よりあとの内容なら would [could] do を用いる。→ 92"
+    },
+    {
+      "tag": "注意",
+      "text": "wish 「願う」が過去形 wished 「願った」に変わっても，そのあとに続く仮定法は時制の一致（→ まずは確認 045 (p.232)）を受けないことに注意。"
+    },
+    {
+      "en": "I wish I had a car.",
+      "ja": "「車を持っていればいいのになあと思う」"
+    },
+    {
+      "tag": "→",
+      "text": "「車を持っていればいいのに」は，現在形 wish と同時の内容なので，仮定法過去。"
+    },
+    {
+      "en": "I wished I had a car.",
+      "ja": "「車を持っていればいいのになあと思った」"
+    },
+    {
+      "tag": "→",
+      "text": "wish が wished に変わっても，過去形 wished と同時の内容は，過去形 wished と同じく仮定法過去のまま。"
+    },
+    {
+      "en": "I wish[wished] I had finished my homework.",
+      "ja": "「宿題を済ませておけばよかったと思う［思った］」"
+    },
+    {
+      "tag": "→",
+      "text": "「宿題を済ませておけばよかったのに」は，wish[wished] より以前の内容なので，仮定法過去完了を用いる。"
+    }
+  ],
+  "appendix": []
+},
+    {
+      "order": 247,
+      "id": "04-034-q-90",
+      "type": "question",
+      "section_id": "034",
+      "number": "90",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "He wishes he ( ) somewhere more exciting.",
+      "options": ["① live", "② lives", "③ lived", "④ to has lived"],
+      "ja": "彼はどこかもっと刺激的な場所に住んでいればいいのにと思っている。",
+      "answer": "③",
+      "source_univ": "愛知工科大"
+    },
+    {
+      "order": 248,
+      "id": "04-034-e-90",
+      "type": "explanation",
+      "target_q": "04-034-q-90",
+      "title": "wish に注目",
+      "label": "S wish S' did (仮定法過去)",
+      "content": [],
+      "solution": [
+        { "text": "「もっと刺激的な場所に住んでいればいいのに」という，現在の事実に反する願望を述べている。現在形 wishes と同時の内容なので，仮定法過去の ③ lived が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 249,
+      "id": "04-034-q-91",
+      "type": "question",
+      "section_id": "034",
+      "number": "91",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "I wish I ( ) enough money to buy the house around this time last year.",
+      "options": ["① had", "② could have", "③ had had", "④ should have"],
+      "ja": "去年の今頃，その家を買うのに十分なお金を持っていたらよかったのにと思う。",
+      "answer": "③",
+      "source_univ": "明治大"
+    },
+    {
+      "order": 250,
+      "id": "04-034-e-91",
+      "type": "explanation",
+      "target_q": "04-034-q-91",
+      "title": "wish に注目",
+      "label": "S wish S' had done (仮定法過去完了)",
+      "content": [],
+      "solution": [
+        { "text": "「去年の今頃，お金を持っていたらよかったのに」という，「現在の時点（wish）」よりも以前の内容についての願望なので，仮定法過去完了の ③ had had が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 251,
+      "id": "04-034-q-92",
+      "type": "question",
+      "section_id": "034",
+      "number": "92",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "I wish he ( ) more quickly.",
+      "options": ["① has worked", "② is working", "③ will work", "④ would work"],
+      "ja": "私は，彼がもっと速く仕事をしてくれればいいのにと思う。",
+      "answer": "④",
+      "source_univ": "立命館大"
+    },
+    {
+      "order": 252,
+      "id": "04-034-e-92",
+      "type": "explanation",
+      "target_q": "04-034-q-92",
+      "title": "wish に注目",
+      "label": "S wish S' would do ...",
+      "content": [],
+      "solution": [
+        { "text": "wish に注目。節の中には仮定法が続くので，④ would work が正解。「すばやく実現することはなさそうだが，すぐにしてくれればいいのに」という願望を表している。" },
+        { "text": "S wish S' would do ... は、すぐに実現することがなさそうな願望を表す。「彼は仕事が遅い。これからもっと速くしてくれればいいけど、まず無理だろう」という状況。" }
+
+      ],
+      "appendix": []
+    },
+    {
+      "order": 253,
+      "type": "section_header",
+      "section_id": "035",
+      "title": "If only + 仮定法 / S would rather + 仮定法"
+    },
+    {
+      "order": 254,
+      "id": "04-035-c-011",
+      "type": "confirmation_box",
+      "target_s": "035",
+      "number": "011",
+      "title": "If only + 仮定法 / S would rather + 仮定法",
+      "content": [
+        { "label": "● If only + 仮定法", "text": "現在や過去の事実に反する願望を表す。〈I wish + 仮定法〉よりも強い願望を表す。" },
+        { "tag": "(1)", "text": "If only S did ... ! （仮定法過去） 「S が … すれば［であれば］いいのになあ」" },
+        { "tag": "(2)", "text": "If only S had done ... ! （仮定法過去完了） 「S が … していれば［であれば］よかったのになあ」", "note": "→ 93" },
+        { "tag": "(3)", "text": "If only S would [could] ... ! （これから） 「S が … してくれれば［であれば］いいのになあ」" },
+        { "tag": "注意", "text": "感嘆符（!）の代わりにピリオドを用いることもある。" },
+        { "label": "● S would rather + 仮定法", "text": "現在や過去の事実に反する願望を表す。相手に対して丁寧に依頼するようなときに使う。" },
+        { "tag": "(1)", "text": "S would rather S' did ... （仮定法過去） 「S' が … してほしいのですがと S は思う」", "note": "→ 94" },
+        { "tag": "(2)", "text": "S would rather S' had done ... （仮定法過去完了） 「S' が … してほしかったのですがと S は思う」" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 255,
+      "id": "04-035-q-93",
+      "type": "question",
+      "section_id": "035",
+      "number": "93",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "( ) I had studied English much harder when I was young!",
+      "options": ["① How", "② If only", "③ What if", "④ Wishing"],
+      "ja": "若いころもっと一生懸命英語を勉強していたらよかったのになあ。",
+      "answer": "②",
+      "source_univ": "成城大"
+    },
+    {
+      "order": 256,
+      "id": "04-035-e-93",
+      "type": "explanation",
+      "target_q": "04-035-q-93",
+      "title": "過去を表す表現 when I was young と過去完了形 had studied に注目",
+      "label": "If only S had done ... ! 〈仮定法過去完了〉 「S が … していればよかったのになあ」",
+      "content": [],
+      "solution": [
+        { "text": "when I was young 「私が若かったころ」に注目。過去完了形の had studied があることから，過去の事実に反する願望を表す ② If only を用いた仮定法過去完了の文だと考える。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "③ What if + 仮定法？は「もし…したら，どうなるだろうか」という意味。" },
+        { "en": "What if my mother walked in now?", "ja": "「もし今ここにお母さんが入ってきたら，どうなるだろうか」" }
+      ]
+    },
+    {
+      "order": 257,
+      "id": "04-035-q-94",
+      "type": "question",
+      "section_id": "035",
+      "number": "94",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "\"May I smoke here?\" \"I'd rather ( ).\"",
+      "options": ["① you didn't", "② you won't", "③ you not to", "④ for you not to"],
+      "ja": "「ここでタバコを吸ってもいいですか」「遠慮していただけませんか」",
+      "answer": "①",
+      "source_univ": "慶應大"
+    },
+    {
+      "order": 258,
+      "id": "04-035-e-94",
+      "type": "explanation",
+      "target_q": "04-035-q-94",
+      "title": "S would rather S' did ... 〈仮定法過去〉 「S' が … してほしいのですがと S は思う」",
+      "label": "丁寧な依頼のニュアンス",
+      "content": [],
+      "solution": [
+        { "text": "選択肢の否定語から「タバコを吸わないでほしい」という依頼をしていることがわかる。would rather に仮定法過去を続けると現在の事実に反する願望を表し、相手に対する丁寧な依頼のニュアンスを表すことができる。① you didn't の省略部分を補うと I'd rather you didn't smoke here. となる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 259,
+      "type": "section_header",
+      "section_id": "036",
+      "title": "as if + 仮定法"
+    },
+    {
+      "order": 260,
+      "id": "04-036-q-95",
+      "type": "question",
+      "section_id": "036",
+      "number": "95",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "Although we met today for the first time, I feel as if you ( ) my old friend.",
+      "options": ["① have been", "② seem", "③ were", "④ would be"],
+      "ja": "私たちは今日初めて会ったのに，私はあなたが昔からの友人のような気がします。",
+      "answer": "③",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 261,
+      "id": "04-036-e-95",
+      "type": "explanation",
+      "target_q": "04-036-q-95",
+      "title": "実際には「初めて会った」",
+      "label": "as if + 仮定法過去 「まるで … であるかのように」",
+      "content": [
+        { "text": "「まるで昔からの友人のであるかのように」は，feel 「気がする」という時点（この場合は現在）と同時点の内容なので仮定法過去の ③ were が正解。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 262,
+      "id": "04-036-q-96",
+      "type": "question",
+      "section_id": "036",
+      "number": "96",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "He (had / if / acted / nothing / occurred / as).",
+      "q_type": "ordering",
+      "ja": "彼は何事もなかったかのように振る舞った。",
+      "answer": "acted as if nothing had occurred",
+      "source_univ": "東京経済大"
+    },
+    {
+      "order": 263,
+      "id": "04-036-e-96",
+      "type": "explanation",
+      "target_q": "04-036-q-96",
+      "title": "実際には「何かがあった」",
+      "label": "as if + 仮定法過去完了 「まるで … であったかのように」",
+      "content": [
+        { "text": "「何事もなかったかのように」は，acted 「振る舞った」という時点よりも前の内容なので，〈as if + 仮定法過去完了〉を用いて表す。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 264,
+      "id": "04-036-d-006",
+      "type": "deep_dive",
+      "target_s": "036",
+      "number": "006",
+      "title": "as if + 仮定法",
+      "content": [
+        {
+          "tag": "(1)",
+          "label": "as if S did (仮定法過去)",
+          "text": "「Sはまるで … であるかのように」\n→ 主節の動詞が表す時と同時点の内容には，仮定法過去を用いる。"
+        },
+        {
+          "tag": "(2)",
+          "label": "as if S had done (仮定法過去完了)",
+          "text": "「Sはまるで … であったかのように」\n→ 主節の動詞が表す時よりも前の内容なので，仮定法過去完了を用いる。"
+        },
+        {
+          "tag": "注意",
+          "text": "主節の動詞が過去形に変わっても，as if 内の時制は時制の一致を受けないことに注意。"
+        },
+        { "tag": "例", "en": "He talks as if he were my old friend.", "ja": "「彼はまるで旧友のように話す」" },
+        { "tag": "→", "text": "「旧友のように」はtalks「話す」と同時の内容なので、仮定法過去を用いる。" },
+        { "tag": "例", "en": "He talked as if he were my old friend.", "ja": "「彼はまるで旧友のように話した」" },
+        { "tag": "→", "text": "talks が talked に変わっても過去形taledと同時のないようなので、as if 内は仮定法過去のまま。" },
+        { "tag": "例", "en": "He talks as if nothing had occurred.", "ja": "「彼は何事もなかったかのように話す」" },
+        { "tag": "→", "text": "「何事もなかったかのように」は，talks 「話す」よりも前の内容なので，仮定法過去完了を用いる。" },
+        { "tag": "例", "en": "He talked as if nothing had occurred.", "ja": "「彼は何事もなかったかのように話した」" },
+        { "tag": "→", "text": "talksがtalkedに変わっても、as if 内は仮定法過去完了のまま。" },
+        { "tag": "注意", "text": "as if の代わりに as though を用いる場合もある。" },
+        { "tag": "注意", "text": "as if / as though の後ろに直説法を用いることもある。この場合は「話者はそう思っている」というニュアンスがある。" },
+        { "en": "He looks as if he is ill.", "ja": "「彼は病気のように見える」 → 彼が病気だと思っている。" },
+        { "en": "He looks as if he were ill.", "ja": "「彼は病気のように見える」 → 彼が病気ではないと思っている。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 265,
+      "type": "section_header",
+      "section_id": "037",
+      "title": "it is time + 仮定法過去"
+    },
+    {
+      "order": 266,
+      "id": "04-037-s-010",
+      "type": "summary_box",
+      "target_s": "037",
+      "number": "010",
+      "title": "it is time + 仮定法過去",
+      "content": [
+        {
+          "tag": "□",
+          "en": "it is time + 仮定法過去",
+          "ja": "「もう … してもよいころだ」",
+          "note": "→ 97"
+        },
+        {
+          "tag": "□",
+          "en": "it is high time + 仮定法過去",
+          "ja": "「とっくに … する時間だ」",
+          "note": "→ 98"
+        },
+        {
+          "tag": "□",
+          "en": "it is about time + 仮定法過去",
+          "ja": "「そろそろ … する時間だ」"
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 267,
+      "id": "04-037-q-97",
+      "type": "question",
+      "section_id": "037",
+      "number": "97",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "It's time you ( ) those trousers.",
+      "options": ["① are washing", "② had washed", "③ wash", "④ washed"],
+      "ja": "もうそのズボンを洗う時期ですよ。",
+      "answer": "④",
+      "source_univ": "明治大"
+    },
+    {
+      "order": 268,
+      "id": "04-037-e-97",
+      "type": "explanation",
+      "target_q": "04-037-q-97",
+      "title": "it is time + 仮定法過去 「もう … してもよいころだ」",
+      "label": "it is time + 仮定法過去",
+      "content": [],
+      "solution": [
+        { "text": "It's time に注目して，仮定法過去の ④ washed を選ぶ。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 269,
+      "id": "04-037-q-98",
+      "type": "question",
+      "section_id": "037",
+      "number": "98",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "It is ( ) time they came to the conclusion that he is guilty.",
+      "options": ["① tall", "② large", "③ long", "④ high"],
+      "ja": "彼らはとっくに，彼が有罪だという結論に達してよいころだ。",
+      "answer": "④",
+      "source_univ": "中央大"
+    },
+    {
+      "order": 270,
+      "id": "04-037-e-98",
+      "type": "explanation",
+      "target_q": "04-037-q-98",
+      "title": "過去形 came に注目",
+      "label": "it is high time + 仮定法過去 「とっくに … する時間だ」",
+      "content": [],
+      "solution": [
+        { "text": "it is high time + 仮定法過去 「とっくに … する時間だ」 という意味を表す。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "come to the conclusion that SV 「 … という結論に達する」" }
+      ]
+    },
+    {
+      "order": 271,
+      "type": "section_header",
+      "section_id": "038",
+      "title": "if it were not [had not been] for A / but for A / without A"
+    },
+    {
+      "order": 272,
+      "id": "04-038-q-99",
+      "type": "question",
+      "section_id": "038",
+      "number": "99",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "(it / not / but / were / for / if) computers, our lives would be much more inconvenient.",
+      "q_type": "ordering",
+      "ja": "コンピューターがなければ，私たちの暮らしはもっと不便でしょう。",
+      "answer": "If it were not for (不要語: but)",
+      "source_univ": "千葉工業大"
+    },
+    {
+      "order": 273,
+      "id": "04-038-e-99",
+      "type": "explanation",
+      "target_q": "04-038-q-99",
+      "title": "現在の事実に反する仮定",
+      "label": "if it were not for A 「もし（今）A がなければ」",
+      "content": [],
+      "solution": [
+        { "text": "「もし（今）コンピューターがなければ」 を if it were not for A を用いて表す。本問は 「今，コンピューターがある」 という現在の事実に反する仮定を表している。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 274,
+      "id": "04-038-q-100",
+      "type": "question",
+      "section_id": "038",
+      "number": "100",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "If it ( ) your help, I should have given up.",
+      "options": ["① had not been for", "② had not for", "③ were not", "④ were without"],
+      "ja": "もしあなたの助けがなかったら，私はあきらめていただろう。",
+      "answer": "①",
+      "source_univ": "麻布大"
+    },
+    {
+      "order": 275,
+      "id": "04-038-e-100",
+      "type": "explanation",
+      "target_q": "04-038-q-100",
+      "title": "主節の動詞 should have given up に注目",
+      "label": "if it had not been for A 「もし A が（その時）なかったならば」",
+      "content": [],
+      "solution": [
+        { "text": "主節の動詞 should have given up に注目して，「もし（その時）あなたの助けがなかったら」 という過去の事実に反する仮定だと考える。① had not been for が正解。「その時あなたの助けがあった」 という過去の事実を仮定で表している。" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "主節の主語が一人称（I / we）なので should を用いている。 → Section 031 (p.055)" }
+      ]
+    },
+    {
+      "order": 276,
+      "id": "04-038-q-101",
+      "type": "question",
+      "section_id": "038",
+      "number": "101",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "( ) the traffic accident, we would have arrived earlier.",
+      "options": ["① But for", "② Just only", "③ Out of", "④ The same as"],
+      "ja": "交通事故がなかったら，われわれはもっと早く到着していただろうに。",
+      "answer": "①",
+      "source_univ": "名古屋工業大"
+    },
+    {
+      "order": 277,
+      "id": "04-038-e-101",
+      "type": "explanation",
+      "target_q": "04-038-q-101",
+      "title": "主節の動詞 would have arrived と文意から判断",
+      "label": "but for A 「もし A がなければ／もし A がなかったならば」",
+      "content": [],
+      "solution": [
+        { "text": "主節の動詞 would have arrived と文意から過去完了形だと判断。But for ... は If it had not been for the traffic accident と書きかえられる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 278,
+      "id": "04-038-q-102",
+      "type": "question",
+      "section_id": "038",
+      "number": "102",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "(a) If it had not been for your advice, I would have failed.\n(b) ( ) your advice, I would have failed.",
+      "options": ["① Except", "② For", "③ With", "④ Without"],
+      "ja": "もしあなたの忠告がなかったら，私は失敗していただろう。",
+      "answer": "④",
+      "source_univ": "高崎経済大"
+    },
+    {
+      "order": 279,
+      "id": "04-038-e-102",
+      "type": "explanation",
+      "target_q": "04-038-q-102",
+      "title": "if it had not been for A = without A の書きかえ問題",
+      "label": "without A 「もし A がなければ／もし A がなかったならば」",
+      "content": [],
+      "solution": [
+        { "text": "if it had not been for A = without A の書きかえ。 ④ Without が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 280,
+      "id": "04-038-s-011",
+      "type": "summary_box",
+      "target_s": "038",
+      "number": "011",
+      "title": "if it were not [had not been] for A / but for A / without A",
+      "content": [
+        {
+          "tag": "(1)",
+          "en": "if it were not for A",
+          "ja": "「もし A が（今）なければ」（仮定法過去）",
+          "note": "→ 99"
+        },
+        {
+          "tag": "(2)",
+          "en": "if it had not been for A",
+          "ja": "「もし A が（その時）なかったならば」（仮定法過去完了）",
+          "note": "→ 100"
+        },
+        {
+          "text": "＊ それぞれ，but for A (→ 101) や without A (→ 102) を代わりに用いることができる。"
+        },
+        {
+          "tag": "例",
+          "en": "If it were not for air, all living things would die.\nBut for air,\nWithput air,",
+          "ja": "「もし空気がなければ，すべての生物は死んでしまうだろう」",
+          "label": "（仮定法過去）"
+        },
+        {
+          "tag": "例",
+          "en": "If it had not been for your help, I could not have succeeded.\nBut for your help,\nWithout your help,",
+          "ja": "「もしあなたの助けがなかったら，私は成功できなかっただろう」",
+          "label": "（仮定法過去完了）"
+        },
+        {
+          "tag": "→",
+          "text": "but for your help / without your help"
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 281,
+      "type": "section_header",
+      "section_id": "039",
+      "title": "if の省略"
+    },
+    {
+      "order": 282,
+      "id": "04-039-q-103",
+      "type": "question",
+      "section_id": "039",
+      "number": "103",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "( ) in her position, I would decline the offer.",
+      "options": [
+        "① If I had",
+        "② If I have been",
+        "③ If were I",
+        "④ Were I"
+      ],
+      "ja": "もし彼女の立場なら，私はその申し出を断るだろう。",
+      "answer": "④",
+      "source_univ": "杏林大"
+    },
+    {
+      "order": 283,
+      "id": "04-039-e-103",
+      "type": "explanation",
+      "target_q": "04-039-q-103",
+      "title": "主節の動詞 would decline に注目",
+      "label": "Were S ... ← If S were ...",
+      "content": [
+        {
+          "text": "仮定法で接続詞 if を省略すると，疑問文の語順（＝倒置形）になる。were, should, had が文の最初に来るときだけ，倒置形にすることができる。"
+        },
+        {
+          "tag": "→",
+          "text": "仮定法過去の ④ Were I だけが文意が通る。if を用いれば，If I were in her position となる。"
+        },
+        {
+          "tag": "△注意",
+          "text": "仮定法過去で if を省略して倒置形にする場合，if 節の動詞が be 動詞のときだけ可能になる。一般動詞のときは倒置形にできない。"
+        }
+      ],
+      "solution": [
+        {
+          "text": "主節の動詞 would decline に注目して，仮定法過去の文だと判断する。"
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 284,
+      "id": "04-039-q-104",
+      "type": "question",
+      "section_id": "039",
+      "number": "104",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) what you were intending to do, I would have stopped you.",
+      "options": [
+        "① Have I realized",
+        "② Had I realized",
+        "③ If I realize",
+        "④ If I would realize"
+      ],
+      "ja": "あなたが何をしようとしているのかわかっていたら，私はあなたを止めていただろうに。",
+      "answer": "②",
+      "source_univ": "亜細亜大"
+    },
+    {
+      "order": 285,
+      "id": "04-039-e-104",
+      "type": "explanation",
+      "target_q": "04-039-q-104",
+      "title": "主節の動詞 would have stopped に注目",
+      "label": "Had S done ... ← If S had done ...",
+      "content": [
+        {
+          "tag": "→",
+          "text": "仮定法過去完了の ② Had I realized だけが文意が通る。if を用いれば，If I had realized what ... となる。"
+        }
+      ],
+      "solution": [
+        {
+          "text": "主節の動詞 would have stopped に注目して，仮定法過去完了の文だと判断する。"
+        }
+      ],
+      "appendix": [
+        {
+          "tag": "重要",
+          "text": "intend to do 「…するつもりである」"
+        }
+      ]
+    },
+    {
+      "order": 286,
+      "id": "04-039-q-105",
+      "type": "question",
+      "section_id": "039",
+      "number": "105",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "(meters / to rise / were / two / the sea), most of this island would be under water.",
+      "q_type": "ordering",
+      "ja": "もし海が 2 メートル上昇すれば，この島の大半は海の中だ。",
+      "answer": "Were the sea to rise two",
+      "source_univ": "松山大"
+    },
+    {
+      "order": 287,
+      "id": "04-039-e-105",
+      "type": "explanation",
+      "target_q": "04-039-q-105",
+      "title": "語句内に if がない",
+      "label": "Were S to do ... ← If S were to do ...",
+      "content": [
+        {
+          "text": "「もし海が 2 メートル上昇すれば」というのは，これから起こることについての仮定だと考えられる。主節の動詞を見ると would be なので，選択肢から were を使った仮定法が想定される。"
+        },
+        {
+          "tag": "→",
+          "text": "if を用いれば，If the sea were to rise two meters to stars となる。"
+        }
+      ],
+      "solution": [
+        {
+          "text": "語句内に if がないので，主語の動詞を文頭に出した倒置法の文を作る。"
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 288,
+      "id": "04-039-q-106",
+      "type": "question",
+      "section_id": "039",
+      "number": "106",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) you happen to meet them, please give them my best regards.",
+      "options": [
+        "① Shall",
+        "② Should",
+        "③ Will",
+        "④ Would"
+      ],
+      "ja": "彼らにたまたま会うことがあれば，よろしくお伝えください。",
+      "answer": "②",
+      "source_univ": "立命館大"
+    },
+    {
+      "order": 289,
+      "id": "04-039-e-106",
+      "type": "explanation",
+      "target_q": "04-039-q-106",
+      "title": "選択肢に if がない",
+      "label": "Should S do ... ← If S should do ...",
+      "content": [
+        {
+          "tag": "→",
+          "text": "if を用いれば，If you should happen to meet them となる。 → 89"
+        },
+        {
+          "text": "本問は主節に please で始まる命令文を用いている。"
+        }
+      ],
+      "solution": [
+        {
+          "text": "if を用いれば，If you should happen to meet them となる。選択肢に if がないので，助動詞 should を文頭に置いた倒置形を選択する。"
+        }
+      ],
+      "appendix": [
+        {
+          "tag": "重要",
+          "text": "happen to do 「たまたま…する」"
+        }
+      ]
+    },
+    {
+      "order": 290,
+      "id": "04-039-q-107",
+      "type": "question",
+      "section_id": "039",
+      "number": "107",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "(been / for / had / it / not / that) great defensive play, we would have lost the game.",
+      "q_type": "ordering",
+      "ja": "あの非常にうまい守りがなければ，そのゲームに負けてしまったであろう。",
+      "answer": "Had it not been for that",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 291,
+      "id": "04-039-e-107",
+      "type": "explanation",
+      "target_q": "04-039-q-107",
+      "title": "語句内に if がない",
+      "label": "Had it not been for A ← If it had not been for A",
+      "content": [
+        {
+          "tag": "→",
+          "text": "「あの非常にうまい守りがなければ」は，if を用いれば，If it had not been for that great defensive play となる。"
+        }
+      ],
+      "solution": [
+        {
+          "text": "if を省略し，had を文頭に置いた倒置形の文を作る。"
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 292,
+      "id": "04-039-q-108",
+      "type": "question",
+      "section_id": "039",
+      "number": "108",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "You (been / had / have won / might / that prize / you) a little more patient.",
+      "q_type": "ordering",
+      "ja": "もう少しだけ辛抱強かったら，その賞を取れたかもしれないのに。",
+      "answer": "might have won that prize had you been",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 293,
+      "id": "04-039-e-108",
+      "type": "explanation",
+      "target_q": "04-039-q-108",
+      "title": "主節 → if 節の並びに注意",
+      "label": "Had S done ... ← If S had done ...",
+      "content": [
+        {
+          "tag": "→",
+          "text": "本問は，if を用いれば，You might have won that prize if you had been a little more patient となる。本問のように〈主節 → if 節〉という順番で if を省略して倒置形にする場合は，構造がわかりにくいので注意が必要。"
+        }
+      ],
+      "solution": [
+        {
+          "text": "文意を考え，「その賞を取れたかもしれない」という主節から構成する。if がないため，if 節の部分を倒置形にする。"
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 294,
+      "type": "section_header",
+      "section_id": "040",
+      "title": "if 節に相当する語句"
+    },
+    {
+      "order": 295,
+      "id": "04-040-q-109",
+      "type": "question",
+      "section_id": "040",
+      "number": "109",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "( ) a little more support from the government, the African children would have survived.",
+      "options": [
+        "① Thanks to",
+        "② With",
+        "③ For",
+        "④ But"
+      ],
+      "ja": "政府からの援助がもう少しあったら，そのアフリカの子どもたちは生き延びていただろう。",
+      "answer": "②",
+      "source_univ": "大東文化大"
+    },
+    {
+      "order": 296,
+      "id": "04-040-e-109",
+      "type": "explanation",
+      "target_q": "04-040-q-109",
+      "title": "主節の動詞 would have survived に注目",
+      "label": "With A 「もし A があれば／もし A があったら」",
+      "content": [
+        {
+          "text": "if 節を用いずに仮定法の意味を表すことがある。助動詞の形（would do / would have done）と文脈から仮定法の表現だと判断し，仮定の意味がどこに含まれているかを見抜く。"
+        },
+        {
+          "tag": "→",
+          "text": "主節の動詞 would have survived に注目して仮定法過去完了と判断する。② With なら文章が通る。本問は If there had been a little more support ... と書きかえられる。"
+        },
+        {
+          "tag": "→",
+          "text": "With A は without A 「もし A がなければ／もし A がなかったならば」（→ 102）と逆の意味だと考えてよい。"
+        }
+      ],
+      "solution": [
+        {
+          "text": "主節の動詞 would have survived に注目して，文脈から仮定法の意味を読み取る。"
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 297,
+      "id": "04-040-q-110",
+      "type": "question",
+      "section_id": "040",
+      "number": "110",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "We went by taxi; ( ), we would have been late.",
+      "options": [
+        "① otherwise",
+        "② therefore",
+        "③ in particular",
+        "④ instead"
+      ],
+      "ja": "私たちはタクシーで行った。そうしなければ，遅れていただろう。",
+      "answer": "①",
+      "source_univ": "名古屋工業大"
+    },
+    {
+      "order": 298,
+      "id": "04-040-e-110",
+      "type": "explanation",
+      "target_q": "04-040-q-110",
+      "title": "セミコロン以降の動詞 would have been に注目",
+      "label": "otherwise 「もしそうでなければ／もしそうでなかったならば」",
+      "content": [
+        {
+          "text": "otherwise 「もしそうでなければ／もしそうでなかったならば」は，〈SV（直説法）；otherwise S' V'（仮定法）〉という形で用いて，前述した事実に反する仮定を表す。セミコロン（；）ではなく，ピリオドやコンマを使う場合もある。"
+        },
+        {
+          "tag": "→",
+          "text": "We went by taxi は「タクシーで行った」という過去の事実を述べており，セミコロン以降は would have been に注目して仮定法過去完了だと判断する。前述した事実に反する仮定を表す ① otherwise を入れると，「（もしそうしていなかったらば［＝タクシーで行かなかったら］），遅れていただろう」という文章が成立する。本問の otherwise は if we had not gone by taxi と書きかえられる。"
+        }
+      ],
+      "solution": [
+        {
+          "text": "「もしそうでなければ」という意味になるように，前述の事実に対する逆の仮定を表す接続副詞を選ぶ。"
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 299,
+      "id": "04-040-q-111",
+      "type": "question",
+      "section_id": "040",
+      "number": "111",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "Greater care (a / from / have / him / prevented / making / such / would) mistake.",
+      "q_type": "ordering",
+      "ja": "もっと注意をしていれば，彼はそんな間違いをしなくてすんだのに。",
+      "answer": "would have prevented him from making such a",
+      "source_univ": "京都女子大"
+    },
+    {
+      "order": 300,
+      "id": "04-040-e-111",
+      "type": "explanation",
+      "target_q": "04-040-q-111",
+      "title": "「もっと注意をしていれば」の意味が主語に含まれている",
+      "label": "主語に仮定の意味",
+      "content": [
+        {
+          "text": "Greater care を主語にして，述語動詞を would have prevented とさまと、仮定法過去完了の定型を含む文を作る。「もっと細心の注意が彼をそんな間違いをすることから妨げただろう」が直訳。"
+        }
+      ],
+      "solution": [
+        {
+          "text": "Greater care を主語にして，文脈から仮定法過去完了の文を作る。"
+        }
+      ],
+      "appendix": [
+        {
+          "tag": "重要",
+          "text": "prevent A from doing 「A は B が … するのを妨げる［…するのを妨げる］」 → 630"
+        }
+      ]
+    },
+    {
+      "order": 301,
+      "id": "04-040-q-112",
+      "type": "question",
+      "section_id": "040",
+      "number": "112",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "(a) To see us walking together, they would take you for my sister.\n(b) If ( ) us walking together, they would take you for my sister.",
+      "options": [
+        "① they will see",
+        "② they have seen",
+        "③ they saw",
+        "④ they would see"
+      ],
+      "ja": "私たちが一緒に歩いているところを見れば，彼らは君を私の姉［妹］と間違えるだろう。",
+      "answer": "③",
+      "source_univ": "中央大"
+    },
+    {
+      "order": 302,
+      "id": "04-040-e-112",
+      "type": "explanation",
+      "target_q": "04-040-q-112",
+      "title": "不定詞に含まれる仮定の意味と主節の動詞 would take に注目",
+      "label": "不定詞に仮定の意味",
+      "content": [
+        {
+          "text": "不定詞に仮定の意味を含める表現。主節の動詞が would take なので，仮定法過去と判断する。よって ③ they saw が正解。"
+        }
+      ],
+      "solution": [
+        {
+          "text": "不定詞の仮定の意味を読み取り，主節の助動詞の過去形に合わせて if 節内の時制を決定する。"
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 303,
+      "id": "04-040-q-113",
+      "type": "question",
+      "section_id": "040",
+      "number": "113",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "I am disappointed with the result because we ( ) the game against their team last night.",
+      "options": [
+        "① could have won",
+        "② could win",
+        "③ should be winning",
+        "④ should win"
+      ],
+      "ja": "昨夜は私たちが彼らのチームに勝てた可能性もあったので，私はその試合結果にがっかりしている。",
+      "answer": "①",
+      "source_univ": "立命館大"
+    },
+    {
+      "order": 304,
+      "id": "04-040-e-113",
+      "type": "explanation",
+      "target_q": "04-040-q-113",
+      "title": "実際には勝てたのか，勝てなかったのか",
+      "label": "文脈から仮定法のニュアンスを見抜く",
+      "content": [
+        {
+          "text": "仮定の意味を表す表現がなくても，動詞の形と文脈から仮定法のニュアンスを見抜かなければならない場合がある。"
+        },
+        {
+          "tag": "→",
+          "text": "過去を表す last night に注目する。② could win だと，「昨夜の試合に勝てた」という内容が，主節の「結果に失望している」という内容の根拠としては常識的に矛盾する。仮定法過去完了の ① could have won なら，「昨夜の試合に勝つ可能性があった（実際は勝てなかった）」というニュアンスとなり，主節の内容とも矛盾しない。"
+        }
+      ],
+      "solution": [
+        {
+          "text": "過去を表す last night に注目し，文脈から「勝てる可能性があったのに実際は負けた」という仮定法の意味になるように適切な形を選択する。"
+        }
+      ],
+      "appendix": []
+    }
+  ]
+}

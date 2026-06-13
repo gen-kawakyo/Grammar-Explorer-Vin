@@ -1,0 +1,303 @@
+{
+  "metadata": {
+    "source": "vin4",
+    "field": "grammar",
+    "chapter_id": "02",
+    "chapter_title": "受動態"
+  },
+  "items": [
+    {
+      "order": 88,
+      "type": "section_header",
+      "section_id": "013",
+      "title": "受動態の基本"
+    },
+    {
+      "order": 89,
+      "id": "02-013-q-32",
+      "type": "question",
+      "section_id": "013",
+      "number": "32",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "The tallest building in my town ( ) 50 years ago.",
+      "options": ["① has built", "② has been built", "③ built", "④ was built"],
+      "ja": "私の町で一番高い建物は50年前に建てられた。",
+      "answer": "④",
+      "source_univ": "福岡大"
+    },
+    {
+      "order": 90,
+      "id": "02-013-e-32",
+      "type": "explanation",
+      "target_q": "02-013-q-32",
+      "title": "主語 building と他動詞 build の関係に注目",
+      "label": "動作主を表す by A の省略",
+      "content": [
+        { "text": "受動態の基本形は〈S + be 動詞 + 過去分詞（+ by A）〉で、「Sは（Aによって）…される」という意味。" },
+        { "text": "動作主が一般的な人々や不特定の人、不明な場合、または文脈から明らかな場合には、by A は省略される。" }
+      ],
+      "solution": [
+        { "text": "英文の主語「建物」と、選択肢の他動詞 build「…を建設する」の関係は、「建物は建設される」という受動の関係になるので、受動態の ④ was built が正解。" },
+        { "text": "「だれによって」は不明なので、動作主を表す by A は不要。" }
+      ],
+      "appendix": [
+        {
+          "tag": "選択肢",
+          "text": "② has been built は現在完了の受動態（→ 36 ）であるが、明らかに過去のことを表す 50 years ago という表現があるので、現在完了は使えない。 → Section 005 (p.027) 参照"
+        }
+      ]
+    },
+    {
+      "order": 91,
+      "id": "02-013-q-33",
+      "type": "question",
+      "section_id": "013",
+      "number": "33",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "He ( ) captain of the team by the boys.",
+      "options": ["① has chosen", "② was chosen", "③ chose", "④ chooses"],
+      "ja": "彼は少年たちによってチームのキャプテンに選ばれた。",
+      "answer": "②",
+      "source_univ": "神奈川工科大"
+    },
+    {
+      "order": 92,
+      "id": "02-013-e-33",
+      "type": "explanation",
+      "target_q": "02-013-q-33",
+      "title": "動詞のあとの語句の働きに注目",
+      "label": "SVOC の受動態 — 〈be 動詞 + 過去分詞 + 補語〉",
+      "content": [
+        { "text": "SVOC の文の受動態は〈be 動詞 + 過去分詞 + 補語〉という語順になる。補語の位置に注意。受動態の ② was chosen を入れると、「彼はキャプテンに選ばれた」となり文意が通る。" },
+        { "en": "The dog is called \"Momo.\"", "ja": "「その犬は『モモ』と呼ばれている」", "tag": "C" },
+        { "tag": "←", "en": "We call the dog \"Momo.\"", "ja": "「私たちはその犬を『モモ』と呼んでいる」" }
+      ],
+      "solution": [
+        { "text": "主語 He と他動詞 choose「…を選ぶ」の関係を考える。受動態の ② was chosen を入れると、「彼はキャプテンに選ばれた」となり文意が通る。このとき名詞 captain は補語のような働きをする。" },
+        { "tag": "能動態", "en": "The boys chose him captain of the team.", "text": "の受動態。" }
+      ],
+      "appendix": [
+        { "tag": "注意", "text": "captain や mayor「市長」といった公的な役職・役割を表す語が補語になるときには、a や the のような冠詞をつけない。" },
+        { "tag": "注意", "text": "choose「…を選ぶ」の活用：choose-chose-chosen" }
+      ]
+    },
+    {
+      "order": 93,
+      "id": "02-013-q-34",
+      "type": "question",
+      "section_id": "013",
+      "number": "34",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "How often are the flowers ( ) during the summer?",
+      "options": ["① water", "② watered", "③ been watered", "④ watering"],
+      "ja": "その花は夏の間のどれくらいの頻度で水をあげればいいですか。",
+      "answer": "②",
+      "source_univ": "関東学院大"
+    },
+    {
+      "order": 94,
+      "id": "02-013-e-34",
+      "type": "explanation",
+      "target_q": "02-013-q-34",
+      "title": "疑問文のあとの語順に注目",
+      "label": "疑問詞を使う受動態の文の受動態",
+      "content": [
+        { "text": "疑問詞を使う受動態の受動態では、語順に注意。〈疑問詞 + be 動詞 + S + 過去分詞 (+ by A) ?〉のように be 動詞と主語の位置が入れかわる。\n疑問詞が主語（S）の場合は、〈疑問詞 + be 動詞 + 過去分詞 (+ by A) ?〉となる。" },
+        { "en": "What was damaged by the typhoon?", "ja": "「その台風で何が被害を受けましたか」" }
+      ],
+      "solution": [
+        { "text": "water は「…に水をかける［やる］」という他動詞。the flowers と他動詞 water の関係は「花が水をかけられる」という受動の関係になるので、受動態で表す必要がある。" },
+        { "text": "文頭に疑問詞 How often があるから、そのあとの語順に注目する。The flowers are watered ... という平叙文の語順から考えればよい。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 95,
+      "id": "02-013-q-35",
+      "type": "question",
+      "section_id": "013",
+      "number": "35",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "The presidential election ( ) in two years.",
+      "options": ["① will hold", "② will be held", "③ will held", "④ are hold"],
+      "ja": "大統領選挙は2年後に行われる。",
+      "answer": "②",
+      "source_univ": "名古屋学院大"
+    },
+    {
+      "order": 96,
+      "id": "02-013-e-35",
+      "type": "explanation",
+      "target_q": "02-013-q-35",
+      "title": "助動詞 + be done の語順",
+      "label": "助動詞を含む受動態",
+      "content": [
+        { "text": "助動詞を含む受動態は〈助動詞 + be done〉の語順になる。助動詞の後は常に原形の be になることに注意。" }
+      ],
+      "solution": [
+        { "text": "主語の the presidential election「大統領選挙」と、他動詞 hold「（会議やイベント）を行う／開催する」の関係は、「大統領選挙が行われる」という受動の関係になるので、受動態の ② will be held が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 97,
+      "type": "grammar_term",
+      "target_s": "013",
+      "number": "05",
+      "term": "受動態",
+      "text": "動作で表される出来事をどの視点から見るかを区別する形式を態と呼ぶ。動詞が表す動作をする人の側から表す表現を能動態、動作をされる人の側から表す表現を受動態という。"
+    },
+    {
+      "order": 98,
+      "type": "section_header",
+      "section_id": "014",
+      "title": "完了形の受動態と進行形の受動態"
+    },
+    {
+      "order": 99,
+      "id": "02-014-q-36",
+      "type": "question",
+      "section_id": "014",
+      "number": "36",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Fortunately, the hospital's new air-conditioning system ( ) when the first heat wave of the summer arrived.",
+      "options": ["① had already been installed", "② had already been installing", "③ had already installed", "④ already installed"],
+      "ja": "その夏初めての熱波が襲ったとき、幸運にもその病院の新しい空調システムはすでに設置されていた。",
+      "answer": "①",
+      "source_univ": "北里大"
+    },
+    {
+      "order": 100,
+      "id": "02-014-e-36",
+      "type": "explanation",
+      "target_q": "02-014-q-36",
+      "title": "have been done の語順",
+      "label": "完了形の受動態",
+      "content": [
+        { "text": "完了形は have [has / had] の後ろに過去分詞を用いるので、完了形の受動態は〈have [has / had] been done〉の語順になる。have[has / had] の後ろは常に been となることに注意。" }
+      ],
+      "solution": [
+        { "text": "英文の主語 the hospital's new air-conditioning system「その病院の新しい空調システム」と、選択肢の他動詞 install「…を設置する」の関係は、「空調システムが設置される」という受動の関係になるので、受動態の ① が正解。" },
+        { "text": "「その夏初めての熱波が襲った」ときよりも前に空調システムはすでに設置されていたので、過去のある時点までの動作の完了を表す過去完了の had already been installed となっている。" },
+        { "tag": "→", "text": "Section 011 (p.033) 参照" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 101,
+      "id": "02-014-q-37",
+      "type": "question",
+      "section_id": "014",
+      "number": "37",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "It has been hard to concentrate on my studies lately because a road ( ) in front of my house.",
+      "options": ["① builds", "② has built", "③ is being built", "④ is building"],
+      "ja": "自宅の前で道路が建設されているので、このところずっと、勉強に集中しにくい。",
+      "answer": "③",
+      "source_univ": "センター試験"
+    },
+    {
+      "order": 102,
+      "id": "02-014-e-37",
+      "type": "explanation",
+      "target_q": "02-014-q-37",
+      "title": "be 動詞 + being done の語順",
+      "label": "進行形の受動態",
+      "content": [
+        { "text": "進行形は be 動詞の後ろに ing 形（現在分詞）を用いるので、進行形の受動態は〈am / is / are / was / were + being done〉の語順になる。be 動詞の後ろは常に being になることに注意。" }
+      ],
+      "solution": [
+        { "text": "英文の主語 a road「道路」と、選択肢の他動詞 build「…を建設する」の関係は、「道路が建設される」という受動の関係になるので、受動態の ③ が正解。" },
+        { "text": "a road is being built は現在進行形の受動態で、道路が建設中であることを表している。" },
+        { "tag": "→", "text": "Section 004 (p.021) 参照" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 103,
+      "type": "section_header",
+      "section_id": "015",
+      "title": "群動詞の受動態"
+    },
+    {
+      "order": 104,
+      "id": "02-015-q-38",
+      "type": "question",
+      "section_id": "015",
+      "number": "38",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "On her way home from school, the little girl was ( ) a stranger.",
+      "options": ["① spoken to by", "② spoken to", "③ spoke", "④ spoken by to"],
+      "ja": "学校からの帰宅途中、その幼い少女は見知らぬ人に話しかけられた。",
+      "answer": "①",
+      "source_univ": "九州産業大"
+    },
+    {
+      "order": 105,
+      "id": "02-015-e-38",
+      "type": "explanation",
+      "target_q": "02-015-q-38",
+      "title": "群動詞 speak to を1つの動詞と考える",
+      "label": "群動詞の受動態",
+      "content": [
+        { "text": "群動詞の受動態は、〈動詞 + 前置詞 / 副詞〉などを1つの動詞と考えればよい。" },
+        { "en": "This boy should be taken care of by his relatives.", "ja": "「この少年は親戚によって面倒を見られるべきだ」" },
+        { "tag": "←", "text": "take care of ... （動詞+名詞+前置詞）「…の面倒を見る」" }
+      ],
+      "solution": [
+        { "text": "「少女は見知らぬ人に話しかけられた」という英文を作る。群動詞 speak to …「…に話しかける」を1つの動詞と考え、A speak to B「AがBに話しかける」の受動態は、B is spoken to by A となる。よって ① が正解。" },
+        { "text": "前置詞 to と by が連続することに注意。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "on one's way home「家に帰る途中」" }
+      ]
+    },
+    {
+      "order": 106,
+      "id": "02-015-q-39",
+      "type": "question",
+      "section_id": "015",
+      "number": "39",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "(be / fun / in / likes / made / nobody / of / to) public.",
+      "q_type": "ordering",
+      "ja": "だれも人前で笑いものにされるのは好まない。",
+      "answer": "nobody likes to be made fun of in",
+      "source_univ": "龍谷大"
+    },
+    {
+      "order": 107,
+      "id": "02-015-e-39",
+      "type": "explanation",
+      "target_q": "02-015-q-39",
+      "title": "群動詞 make fun of を1つの動詞と考える",
+      "label": "群動詞の受動態",
+      "content": [
+        { "text": "「だれも…ない」は nobody を主語で始めて表す。make fun of ... 「…を笑いものにする」。like to do「…することを好む」。in public「人前で」のフレーズを作る。" },
+        { "text": "本問では likes のあとに to be made fun of と受動態の不定詞を続けることに注意。" }
+      ],
+      "solution": [
+        { "text": "群動詞 make fun of …「…を笑いものにする」を1つの動詞と考え、A make fun of B「AがBをからかう」の受動態は、B is made fun of by A となる。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "in public「人前で」" }
+      ]
+    },
+    {
+      "order": 108,
+      "type": "grammar_term",
+      "target_s": "015",
+      "number": "06",
+      "term": "群動詞",
+      "text": "動詞と前置詞や副詞などがひとまとまりになって意味を表すものを「群動詞」と呼ぶ。"
+    }
+  ]
+}

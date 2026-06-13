@@ -1,0 +1,1803 @@
+{
+  "metadata": {
+    "source": "vin4",
+    "field": "grammar",
+    "chapter_id": "10",
+    "chapter_title": "前置詞"
+  },
+  "items": [
+    {
+      "order": 816,
+      "type": "section_header",
+      "section_id": "092",
+      "title": "時を表す前置詞 at, on, in の基本用法"
+    },
+    {
+      "order": 817,
+      "id": "10-092-c-032",
+      "type": "confirmation_box",
+      "target_s": "092",
+      "number": "032",
+      "title": "時を表す前置詞 at, on, in",
+      "content": [
+        { "tag": "at", "label": "「時の一点（＝時刻）」を表す", "text": "at six (o'clock) 「6時に」、at noon 「正午に」、at midnight 「真夜中に／午前0時に」、at lunchtime 「昼食時に」、at sunset 「日没時に」", "note": "→ 322" },
+        { "tag": "on", "label": "「曜日」「日付」を表す", "text": "on Sunday(s) 「（毎週）日曜日に」、on August 13(th), 2009 「2009年8月13日に」、on my birthday 「私の誕生日に」、on Christmas Day 「クリスマスの日に」", "note": "→ 323" },
+        { "tag": "in", "label": "「幅のある時間」を表す", "text": "in 2010 「2010年に」（→1年は365日の幅）、in (the) spring 「春に」（→季節は数か月の幅）、in May 「5月に」（→1か月は約30日の幅）", "note": "→ 324, 325" }
+      ]
+    },
+    {
+      "order": 818,
+      "id": "10-092-q-322",
+      "type": "question",
+      "section_id": "092",
+      "number": "322",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "I'm tired. I got up ( ) 5:00 this morning.",
+      "options": ["① in", "② on", "③ to", "④ at"],
+      "ja": "疲れているよ。今朝は5時に起きたんだ。",
+      "answer": "④",
+      "source_univ": "阪南大"
+    },
+    {
+      "order": 819,
+      "id": "10-092-e-322",
+      "type": "explanation",
+      "target_q": "10-092-q-322",
+      "title": "5:00 は時の一点",
+      "label": "◆「時の一点（＝時刻）」を表す at",
+      "content": [],
+      "solution": [
+        { "text": "時刻を表す表現の前には at を用いる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 820,
+      "id": "10-092-q-323",
+      "type": "question",
+      "section_id": "092",
+      "number": "323",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "We are expecting our grandparents to arrive ( ) November 28th.",
+      "options": ["① on", "② for", "③ at", "④ in"],
+      "ja": "11月28日に私たちの祖父母がやってくることになっている。",
+      "answer": "①",
+      "source_univ": "亜細亜大"
+    },
+    {
+      "order": 821,
+      "id": "10-092-e-323",
+      "type": "explanation",
+      "target_q": "10-092-q-323",
+      "title": "November 28th は日付",
+      "label": "◆「曜日」「日付」を表す on",
+      "content": [],
+      "solution": [
+        { "text": "「何月、何日に」を表す場合は一般的に 〈on + 月 + 日〉 という表現を用いる。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "④ in は日付には使えない。in November という使い方はできる。", "note": "→ 324" }
+      ]
+    },
+    {
+      "order": 822,
+      "id": "10-092-q-324",
+      "type": "question",
+      "section_id": "092",
+      "number": "324",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "My sister was born ( ).",
+      "options": ["① at 1949 in April", "② on April 1949", "③ 1949 at April", "④ in April 1949"],
+      "ja": "私の姉［妹］は1949年の4月に生まれた。",
+      "answer": "④",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 823,
+      "id": "10-092-e-324",
+      "type": "explanation",
+      "target_q": "10-092-q-324",
+      "title": "April は月を表す語",
+      "label": "◆「年・月」を表す in",
+      "content": [],
+      "solution": [
+        { "text": "「何年に」や「何月に」を表す場合は、in 1949 や in April のように in を使う。" },
+        { "text": "「何年、何月に」とまとめて表す場合は、本問のように 〈in + 月 + 年〉 という語順になる。日本語とは語順が異なる点に注意。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "text": "「何年、何月、何日に」とまとめて表す場合は、日付なので on を用いて、一般的に 〈on + 月 + 日, 年〉 という語順にする。\nI was born on May 31st, 2015.\n「私は2015年5月31日に生まれた」", "note": "→ 323" }
+      ]
+    },
+    {
+      "order": 824,
+      "id": "10-092-q-325",
+      "type": "question",
+      "section_id": "092",
+      "number": "325",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "私たちは朝7時に朝食をとる。\nWe (breakfast / have / in / at / seven / the) morning.",
+      "q_type": "ordering",
+      "ja": "私たちは朝7時に朝食をとる。",
+      "answer": "have breakfast at seven in the",
+      "source_univ": "広島国際学院大"
+    },
+    {
+      "order": 825,
+      "id": "10-092-e-325",
+      "type": "explanation",
+      "target_q": "10-092-q-325",
+      "title": "「幅のある時間」を表す in—in the morning 「朝に／午前中に」",
+      "label": "◆in the morning / at seven",
+      "content": [
+        { "text": "「朝に／午前中に」は、in を用いて in the morning と表現する。morning は「日の出から正午までの幅がある時間」なので in を用いる。" }
+      ],
+      "solution": [
+        { "text": "本問の at seven in the morning 「朝［午前中］の7時」は、morning という幅のある時間を in で表し、時の一点の7時を at で表している。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 826,
+      "id": "10-092-q-326",
+      "type": "question",
+      "section_id": "092",
+      "number": "326",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "We went to a disco ( ).",
+      "options": ["① at Friday night", "② for Friday night", "③ in Friday night", "④ on Friday night"],
+      "ja": "私たちは金曜日の夜にディスコに行った。",
+      "answer": "④",
+      "source_univ": "京都女子大"
+    },
+    {
+      "order": 827,
+      "id": "10-092-e-326",
+      "type": "explanation",
+      "target_q": "10-092-q-326",
+      "title": "「特定の日の朝など」を表す on",
+      "label": "◆on + 特定の日の朝［昼・晩］",
+      "content": [
+        { "text": "不特定の日の「朝［午前］・午後・夜［晩］」は in the morning / in the afternoon / in the evening を用いるが、特定の日の「朝」などや形容詞で修飾している場合は on を用いて、on Monday morning 「月曜の朝に」、on a hot summer afternoon 「暑い夏の午後に」、on the evening [night] of October 19 「10月19日の夕方［夜］に」 などと表現する。" }
+      ],
+      "solution": [
+        { "text": "「金曜日に」は on Friday、「夜に」は at night だが、「金曜日の夜に」は on Friday night となる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 828,
+      "id": "10-092-d-015",
+      "type": "deep_dive",
+      "target_s": "092",
+      "number": "015",
+      "title": "〈last / next / this / every + 時を表す名詞〉",
+      "content": [
+        { "text": "〈last / next / this / every + 時を表す名詞〉 は、前置詞なしで副詞句の働きをする。" },
+        { "en": "last night 「昨夜」", "ja": "(cf. at night 「夜に」)" },
+        { "en": "next Friday 「次の金曜日に」", "ja": "(cf. on Friday 「金曜日に」)" },
+        { "en": "this morning 「今朝」", "ja": "(cf. in the morning 「朝／午前中に」)" },
+        { "en": "every morning 「毎朝」" }
+      ]
+    },
+    {
+      "order": 829,
+      "type": "section_header",
+      "section_id": "093",
+      "title": "場所を表す前置詞 at, in, on の基本用法"
+    },
+    {
+      "order": 830,
+      "id": "10-093-c-033",
+      "type": "confirmation_box",
+      "target_s": "093",
+      "number": "033",
+      "title": "場所を表す前置詞 at, in, on",
+      "content": [
+        { "tag": "at", "label": "「広がりのない場所の一点（＝地点）」を表す", "text": "at the bus stop 「バス停で」", "note": "→ 327" },
+        { "tag": "in", "label": "「広がりのある空間や領域の中に存在する状態」を表す", "text": "in a supermarket 「スーパーマーケット（の中）で」", "note": "→ 328" },
+        { "tag": "on", "label": "「表面に接触している状態」を表す", "text": "on the floor 「床（の上に）」（→床に接触して上）\n＊on は「上面・側面・下面」で使うことができる。\na calendar on the wall 「壁に貼ってあるカレンダー」（→側面）", "note": "→ 329" }
+      ]
+    },
+    {
+      "order": 831,
+      "id": "10-093-q-327",
+      "type": "question",
+      "section_id": "093",
+      "number": "327",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "His house is almost ( ) the top of the hill.",
+      "options": ["① to", "② for", "③ with", "④ at"],
+      "ja": "彼の家はほぼ丘のてっぺんに建っている。",
+      "answer": "④",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 832,
+      "id": "10-093-e-327",
+      "type": "explanation",
+      "target_q": "10-093-q-327",
+      "title": "「広がりのない場所の一点（＝地点）」を表す at",
+      "label": "◆場所の at",
+      "content": [],
+      "solution": [
+        { "text": "at the top of A は「Aの頂上で［てっぺん／最上部に］」という意味。at the bottom of A は「Aのふもと［底・最下部］に」という意味。どちらも at は「広がりのない場所の一点（＝地点）」を表している。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 833,
+      "id": "10-093-q-328",
+      "type": "question",
+      "section_id": "093",
+      "number": "328",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "He made up his mind to fish ( ) the sea next week.",
+      "options": ["① to", "② from", "③ in", "④ into"],
+      "ja": "彼は来週、海で釣りをすることに決めた。",
+      "answer": "③",
+      "source_univ": "中京大"
+    },
+    {
+      "order": 834,
+      "id": "10-093-e-328",
+      "type": "explanation",
+      "target_q": "10-093-q-328",
+      "title": "「広がりのある空間や領域の中に存在する状態」を表す in",
+      "label": "◆場所の in",
+      "content": [],
+      "solution": [
+        { "text": "ここでは「海中に糸を垂らして釣りをしている」という状況なので、「広がりのある空間や領域の中に存在する状態」を表す in を用いて fish in the sea と表すのが適切。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "text": "場所のとらえ方によって使う前置詞も変わる。「海という地点」なら at、「海の表面」なら on も使える。\na house at the sea 「海辺の家」（地点）\na boat on the sea 「海に浮かんだボート」（表面）" }
+      ]
+    },
+    {
+      "order": 835,
+      "id": "10-093-q-329",
+      "type": "question",
+      "section_id": "093",
+      "number": "329",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "A fly is ( ) the ceiling and she is trying to hit it.",
+      "q_type": "completion",
+      "ja": "一匹のハエが天井にとまっていて、彼女はそれを叩こうとしている。",
+      "answer": "on",
+      "source_univ": "日本大"
+    },
+    {
+      "order": 836,
+      "id": "10-093-e-329",
+      "type": "explanation",
+      "target_q": "10-093-q-329",
+      "title": "「表面に接触している状態」を表す on",
+      "label": "◆接触の on",
+      "content": [],
+      "solution": [
+        { "text": "天井にハエが接触している状況なので on が適切。本問のように on は下から何かに接触している場合も使う。必ずしも on が「…の上に」になるとは限らない。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 837,
+      "type": "section_header",
+      "section_id": "094",
+      "title": "紛らわしい前置詞の区別"
+    },
+    {
+      "order": 838,
+      "id": "10-094-q-330",
+      "type": "question",
+      "section_id": "094",
+      "number": "330",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "He's still painting the picture but will finish it ( ) a week or two.",
+      "options": ["① until", "② for", "③ about", "④ in"],
+      "ja": "彼はまだ絵の制作中だが、あと1、2週間で終えるだろう。",
+      "answer": "④",
+      "source_univ": "拓殖大"
+    },
+    {
+      "order": 839,
+      "id": "10-094-e-330",
+      "type": "explanation",
+      "target_q": "10-094-q-330",
+      "title": "in と for の区別",
+      "label": "◆in と for の区別",
+      "content": [
+        { "text": "in は 「これから…（の時間が）経つと／今から…後に」 という 「時の経過」 を表す。 for は 「…の間（ずっと）」 という 「継続する期間」 を表す。" },
+        { "en": "I have lived in Kyoto for five years.", "ja": "「私は5年間、京都に住んでいる」" }
+      ],
+      "solution": [
+        { "text": "「これから1、2週間経つと／今から1、2週間後に」という状況なので、「時の経過」を表す ④ in が正解。本問のように in は「動作が終了する未来の一点」を表すので、will と一緒に使われることが多い。" },
+        { "text": "② for を入れると「1、2週間ずっと絵の制作を終える」という不自然な意味になる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 840,
+      "id": "10-094-q-331",
+      "type": "question",
+      "section_id": "094",
+      "number": "331",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The construction of the building will be completed ( ) two months.",
+      "options": ["① within", "② for", "③ until", "④ among"],
+      "ja": "そのビルの建築工事は2か月以内に終わるだろう。",
+      "answer": "①",
+      "source_univ": "大東文化大"
+    },
+    {
+      "order": 841,
+      "id": "10-094-e-331",
+      "type": "explanation",
+      "target_q": "10-094-q-331",
+      "title": "within と for の区別",
+      "label": "◆within と for の区別",
+      "content": [
+        { "text": "within は 「これから…（の時間）以内に」 という意味。" }
+      ],
+      "solution": [
+        { "text": "② for を入れると「2か月間ずっと建築工事が終わる」という不自然な意味になる。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "text": "within 「これから…（の時間）以内に」と、「時の経過」の in との違いに注意。\nI'll be back within an hour. 「（今から）1時間以内に（1時間を超えないで）戻る」\nI'll be back in an hour. 「（今から）1時間経ったら（1時間後に）戻る」", "note": "→ 330" }
+      ]
+    },
+    {
+      "order": 842,
+      "id": "10-094-q-332",
+      "type": "question",
+      "section_id": "094",
+      "number": "332",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Please wait here ( ) five minutes.",
+      "options": ["① until", "② for", "③ by", "④ during"],
+      "ja": "5分間ここでお待ちください。",
+      "answer": "②",
+      "source_univ": "法政大"
+    },
+    {
+      "order": 843,
+      "id": "10-094-e-332",
+      "type": "explanation",
+      "target_q": "10-094-q-332",
+      "title": "during と for の区別",
+      "label": "◆during と for の区別",
+      "content": [
+        { "text": "during A 「Aの間」 はふつう、「特定の期間」を表すので、A には定冠詞や所有格などのついた名詞が来る (→ 333)。 during the two weeks 「（特定の）2週間」" },
+        { "text": "for A 「Aの間」 は単なる「継続期間」を表すので、A には数詞などのついた名詞が来る (→ 330)。 for two weeks 「2週間」" }
+      ],
+      "solution": [
+        { "text": "本問の「5分間」は「特定の期間」ではないので、④ during ではなく ② for を選ぶ。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 844,
+      "id": "10-094-q-333",
+      "type": "question",
+      "section_id": "094",
+      "number": "333",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "(a) I met him twice while I was staying in Paris.\n(b) I met him twice ( ) ( ) stay in Paris.",
+      "q_type": "completion",
+      "ja": "(a) (b) パリにいる間、私は彼に2度会った。",
+      "answer": "during my",
+      "source_univ": "立正大"
+    },
+    {
+      "order": 845,
+      "id": "10-094-e-333",
+      "type": "explanation",
+      "target_q": "10-094-q-333",
+      "title": "接続詞 while の意味に相当する前置詞は？",
+      "label": "◆during の用法",
+      "content": [],
+      "solution": [
+        { "text": "前置詞 during を用いた during my stay 「私の滞在中」が正解。during the stay だと、だれの滞在かが不明になるので不可。" },
+        { "text": "本問のように、while SV (→ 316) との書きかえもよく出題される。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 846,
+      "id": "10-094-d-016",
+      "type": "deep_dive",
+      "target_s": "094",
+      "number": "016",
+      "title": "during A の用法",
+      "content": [
+        { "text": "・during A は 「特定の期間」 を表し、A にはふつう、定冠詞や所有格などのついた名詞が来る。\nduring his first year at college 「彼の大学最初の年に」\nduring our vacation 「私たちの休暇中に」\nduring the war 「戦時中に」" },
+        { "text": "・during A の A に動名詞を用いることはできない。(×) during my staying" },
+        { "text": "・during A は 「Aの間ずっと」 と 「Aの間のある時に」 (→ 333) の意味がある。\nI was in hospital during the (whole) summer.\n「夏の間は入院していた」（「夏の間ずっと」の意味）" }
+      ]
+    },
+    {
+      "order": 847,
+      "id": "10-094-q-334",
+      "type": "question",
+      "section_id": "094",
+      "number": "334",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "I will continue analyzing this data ( ) the end of this academic year.",
+      "options": ["① by", "② for", "③ until", "④ to"],
+      "ja": "この学年の終わりまで、このデータの分析を続けるつもりだ。",
+      "answer": "③",
+      "source_univ": "青山学院大"
+    },
+    {
+      "order": 848,
+      "id": "10-094-e-334",
+      "type": "explanation",
+      "target_q": "10-094-q-334",
+      "title": "till [until] と by の区別",
+      "label": "◆till [until] と by の区別",
+      "content": [
+        { "text": "till [until] A は 「Aまで（ずっと）」 という意味で、 「Aまでの動作や状態の継続」 を表す。\nI'll stay here until ten. 「10時まで（ずっと）ここにいます」" },
+        { "text": "by A は 「Aまでに（は）」 という意味で、 「Aまでに動作や状態が完了する期限」 を表す。\nI'll return here by ten. 「10時までにここに戻ります」" },
+        { "text": "＊両者の違いは、接続詞 till [until] と by the time の違いと同じ。 → 281, 282" }
+      ],
+      "solution": [
+        { "text": "「この学年末まで…続ける」という動作の「継続」には ③ till がふさわしい。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 849,
+      "id": "10-094-q-335",
+      "type": "question",
+      "section_id": "094",
+      "number": "335",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Please complete the assignment ( ) next Monday.",
+      "options": ["① by", "② until", "③ since", "④ to"],
+      "ja": "次の月曜日までに課題を終えてください。",
+      "answer": "①",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 850,
+      "id": "10-094-e-335",
+      "type": "explanation",
+      "target_q": "10-094-q-335",
+      "title": "till [until] と by の区別",
+      "label": "◆till [until] と by の区別",
+      "content": [],
+      "solution": [
+        { "text": "「次の月曜日までに…終える」という動作が完了する「期限」には ① by がふさわしい。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 851,
+      "id": "10-094-q-336",
+      "type": "question",
+      "section_id": "094",
+      "number": "336",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "There was a full moon ( ) the mountain.",
+      "options": ["① of", "② on", "③ above", "④ out"],
+      "ja": "山の上に満月が出ていた。",
+      "answer": "③",
+      "source_univ": "跡見学園女子大"
+    },
+    {
+      "order": 852,
+      "id": "10-094-e-336",
+      "type": "explanation",
+      "target_q": "10-094-q-336",
+      "title": "above と on の違い",
+      "label": "◆above と on の違い",
+      "content": [
+        { "text": "above A は 「Aよりも上に（出て）／Aよりも高く」 という意味。 on A (→ 329) と異なり、 above A は A と接触していない状況で用いる。 above, below, over, under の違いは、左頁の しっかり理解 017 でチェックしておくこと。" }
+      ],
+      "solution": [
+        { "text": "「山の上に満月が出ていた」という状況にふさわしいのは ③ above だけ。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 853,
+      "id": "10-094-d-017",
+      "type": "deep_dive",
+      "target_s": "094",
+      "number": "017",
+      "title": "above, below, over, under の違い",
+      "content": [
+        { "tag": "above A", "label": "「Aよりも上に（出て）／Aよりも高く」", "text": "My office is above the shop. 「私の職場はその店の上の階にある」\n500 meters above sea level 「海抜500メートル（←海面よりも上）」" },
+        { "tag": "below A", "label": "「Aよりも下に／Aよりも低く」（⇔ above A）", "text": "Our apartment is below theirs. 「私たちのアパートの部屋は彼らの部屋のしたの階にある」\n500 meters below the summit 「頂上から500メートル下」" },
+        { "tag": "over A", "label": "「Aの真上に／（覆うように）Aの上に」", "text": "a bridge over the river 「その川に架かっている橋（←川の真上）」\na white sheet over the desk 「机の上にかけてある白いシーツ（←机を覆っている）」\njump over a wall 「塀を跳び越える」" },
+        { "tag": "under A", "label": "「Aの真下に／（覆うように）Aの下に」（⇔ over A）", "text": "pass under a bridge 「橋の下を通過する」\nwear a sweater under a coat 「コートの下にセーターを着ている」\ndraw a line under the word 「その単語に下線を引く」" }
+      ]
+    },
+    {
+      "order": 854,
+      "id": "10-094-q-337",
+      "type": "question",
+      "section_id": "094",
+      "number": "337",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "This cafe is popular ( ) local residents as well as visitors.",
+      "options": ["① between", "② among", "③ in", "④ to"],
+      "ja": "このカフェは観光客だけでなく地元住民の間でも人気がある。",
+      "answer": "②",
+      "source_univ": "駒澤大"
+    },
+    {
+      "order": 855,
+      "id": "10-094-e-337",
+      "type": "explanation",
+      "target_q": "10-094-q-337",
+      "title": "among と between の区別",
+      "label": "◆among と between の区別",
+      "content": [
+        { "text": "among は 「（3つ［3人］以上）の中で」、 between は 「（2つ［2人］）の間で」 を表す。" }
+      ],
+      "solution": [
+        { "text": "「地元住民」という「3人以上の集団の中で［間で］」を表すには ② among が適切。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "in を用いて be popular in A 「Aの中で人気がある」とする場合、原則として A には場所を表す単数名詞が来る。be popular in this town 「この町の中では人気がある」 よって ③ in は不可。" },
+        { "tag": "重要", "text": "be popular among[with] A 「Aの間で人気がある」 → 1135" }
+      ]
+    },
+    {
+      "order": 856,
+      "id": "10-094-q-338",
+      "type": "question",
+      "section_id": "094",
+      "number": "338",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "There is no connection ( ) the two incidents.",
+      "options": ["① for", "② in", "③ between", "④ among"],
+      "ja": "2つの事件には何の関連性もない。",
+      "answer": "③",
+      "source_univ": "岩手医科大"
+    },
+    {
+      "order": 857,
+      "id": "10-094-e-338",
+      "type": "explanation",
+      "target_q": "10-094-q-338",
+      "title": "among と between の区別",
+      "label": "◆among と between の区別",
+      "content": [],
+      "solution": [
+        { "text": "the two incidents 「2つの事件」なので、「2つの間」を表す ③ between が適切。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "text": "between A and B 「AとBの間」 だけでなく、between A （複数名詞） 「Aの間」という形も頻出。\nbe stuck between the teeth 「（食べ物などが）歯にはさまっている」（←歯と歯の間、teeth は tooth の複数形）\neat between meals 「間食をする」（←食事と食事の間）\nput a bookmark between the pages 「ページにしおりを挟む」（←ページとページの間）" }
+      ]
+    },
+    {
+      "order": 858,
+      "type": "section_header",
+      "section_id": "095",
+      "title": "賛成・反対を表す前置詞"
+    },
+    {
+      "order": 859,
+      "id": "10-095-q-339",
+      "type": "question",
+      "section_id": "095",
+      "number": "339",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "Are you ( ) or against the proposal?",
+      "options": ["① for", "② of", "③ on", "④ with"],
+      "ja": "あなたはその提案に賛成ですか。それとも反対ですか。",
+      "answer": "①",
+      "source_univ": "東北学院大"
+    },
+    {
+      "order": 860,
+      "id": "10-095-e-339",
+      "type": "explanation",
+      "target_q": "10-095-q-339",
+      "title": "賛成・支持の for",
+      "label": "◆賛成・支持の for",
+      "content": [
+        { "text": "(be) for A は 「Aに賛成で（ある）」 という意味。 ⇔ (be) against A 「Aに反対で（ある）」" },
+        { "text": "vote for[against] the law 「その法律に賛成票［反対票］を投じる」" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 861,
+      "id": "10-095-q-340",
+      "type": "question",
+      "section_id": "095",
+      "number": "340",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "It's ( ) the law to smoke cigarettes before you are twenty.",
+      "options": ["① for", "② under", "③ against", "④ away"],
+      "ja": "20歳になる前の喫煙は違法だ。",
+      "answer": "③",
+      "source_univ": "芝浦工業大"
+    },
+    {
+      "order": 862,
+      "id": "10-095-e-340",
+      "type": "explanation",
+      "target_q": "10-095-q-340",
+      "title": "反対・対立の against",
+      "label": "◆反対・対立の against",
+      "content": [
+        { "text": "against A は 「Aに反して」 という意味。" },
+        { "text": "against one's will [wishes / principles / beliefs] 「意志［意向／主義／信念］に反して」" }
+      ],
+      "solution": [
+        { "text": "文意が通るのは ③ against を用いた be against the law 「法律に反する／違法だ」 (= be illegal) だけ。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 863,
+      "type": "section_header",
+      "section_id": "096",
+      "title": "類似・相違などを表す前置詞"
+    },
+    {
+      "order": 864,
+      "id": "10-096-q-341",
+      "type": "question",
+      "section_id": "096",
+      "number": "341",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "(a) He sings as if he were a rock star.\n(b) He sings ( ) a rock star.",
+      "q_type": "completion",
+      "ja": "(a) 彼はまるでロックスターであるかのように歌う。(b) 彼はロックスターのように歌う。",
+      "answer": "like",
+      "source_univ": "中京大"
+    },
+    {
+      "order": 865,
+      "id": "10-096-e-341",
+      "type": "explanation",
+      "target_q": "10-096-q-341",
+      "title": "like A 「Aのように／Aと同様に」",
+      "label": "◆like A 「Aのように／Aと同様に」",
+      "content": [
+        { "text": "like には前置詞の用法があり、 like A は 「Aのように／Aと同様に」 という意味。接続詞を用いた as if SV (→ Section 036 (p.061)) への書きかえ問題は頻出。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "△注意", "text": "like と間違えやすい前置詞 as は 「Aとして」 という意味。 → 343\nHe is treated **as** a rock star. 「彼はロックスターとして扱われる」" }
+      ]
+    },
+    {
+      "order": 866,
+      "id": "10-096-q-342",
+      "type": "question",
+      "section_id": "096",
+      "number": "342",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) sharks, whales and dolphins are warm-blooded mammals.",
+      "options": ["① Dislike", "② Unlike", "③ Despite their being", "④ Similar to"],
+      "ja": "サメとは違い、クジラやイルカは温血の哺乳類である。",
+      "answer": "②",
+      "source_univ": "北里大"
+    },
+    {
+      "order": 867,
+      "id": "10-096-e-342",
+      "type": "explanation",
+      "target_q": "10-096-q-342",
+      "title": "unlike A 「Aと違って／Aらしくない」",
+      "label": "◆unlike A 「Aと違って／Aらしくない」",
+      "content": [
+        { "text": "like A の反意語 unlike A は 「Aと違って／Aらしくない」 という意味。" },
+        { "en": "She is **unlike** me in every way.", "ja": "「彼女は私とはあらゆる点で異なっている」" },
+        { "en": "It is **unlike** him to be late.", "ja": "「遅刻するなんて彼らしくない」" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 868,
+      "id": "10-096-q-343",
+      "type": "question",
+      "section_id": "096",
+      "number": "343",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "彼らはその新しい小説を、いきいきとした場面に満ちた子ども向けの本として計画した。\nThey designed the new novel (a children's / with / book / packed / as) colorful scenes.",
+      "q_type": "ordering",
+      "ja": "彼らはその新しい小説を、いきいきとした場面に満ちた子ども向けの本として計画した。",
+      "answer": "as a children's book packed with",
+      "source_univ": "九州産業大"
+    },
+    {
+      "order": 869,
+      "id": "10-096-e-343",
+      "type": "explanation",
+      "target_q": "10-096-q-343",
+      "title": "as A 「Aとして」",
+      "label": "◆as A 「Aとして」",
+      "content": [],
+      "solution": [
+        { "text": "「子ども向けの本として」は前置詞 as を用いた as a children's book で表す。" },
+        { "text": "「いきいきとした場面に満ちた」は過去分詞句 packed with colorful scenes で表す。この句は a children's book を後置修飾している。 → 182" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "as は関係代名詞 (→ 246) や、接続詞 (→ Section 091 (p.153)) としても用いる。" },
+        { "tag": "△注意", "text": "前置詞 such as は具体例を表し、 〈A(,) such as B〉 や 〈such A as B〉 のような A と B の使い分け方をする。\nbig cities **such as** Tokyo, Osaka and Nagoya 「東京、大阪、名古屋などの大都市」" }
+      ]
+    },
+    {
+      "order": 870,
+      "id": "10-096-q-344",
+      "type": "question",
+      "section_id": "096",
+      "number": "344",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Mary is taller than Judy ( ) two inches.",
+      "options": ["① by", "② for", "③ in", "④ with"],
+      "ja": "メアリーはジュディーよりも2インチ背が高い。",
+      "answer": "①",
+      "source_univ": "青山学院大"
+    },
+    {
+      "order": 871,
+      "id": "10-096-e-344",
+      "type": "explanation",
+      "target_q": "10-096-q-344",
+      "title": "差を表す by",
+      "label": "◆差を表す by",
+      "content": [],
+      "solution": [
+        { "text": "身の差を表す ① by が正解。「差」を表す語句は比較級の前に置いてもよいので、本問は Mary is **two inches** taller than Judy. としても正しい。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "text": "「差」を表す by のフレーズを覚えておこう。\nbe older than you **by** a year 「あなたよりも1歳年上である」\nincrease **by** 30% 「30％増加する」\nwin **by** 1,000 votes 「1,000票差で勝利する」\nmiss the bus **by** three minutes 「3分の差でバスに乗り遅れる」" }
+      ]
+    },
+    {
+      "order": 872,
+      "type": "section_header",
+      "section_id": "097",
+      "title": "手段を表す前置詞"
+    },
+    {
+      "order": 873,
+      "id": "10-097-q-345",
+      "type": "question",
+      "section_id": "097",
+      "number": "345",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "The knife to cut the bread ( ) was very blunt.",
+      "options": ["① by", "② into", "③ for", "④ with"],
+      "ja": "パンを切るのに使うナイフはとても切れ味が悪かった。",
+      "answer": "④",
+      "source_univ": "杏林大"
+    },
+    {
+      "order": 874,
+      "id": "10-097-e-345",
+      "type": "explanation",
+      "target_q": "10-097-q-345",
+      "title": "道具の with",
+      "label": "◆道具の with",
+      "content": [
+        { "text": "with A は 「A（道具）を使って (= by using A)」 という意味を表す。" }
+      ],
+      "solution": [
+        { "text": "④ with を用いた cut the bread with the knife は「そのナイフを使ってパンを切る」という意味。 the knife to cut the bread with は、不定詞の形容詞用法で、修飾される名詞 (the knife) が前置詞 with の目的語になっている。 → 118" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① by を用いた by the knife は「そのナイフのそばに」という意味になる。" }
+      ]
+    },
+    {
+      "order": 875,
+      "id": "10-097-q-346",
+      "type": "question",
+      "section_id": "097",
+      "number": "346",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "You can contact me ( ) e-mail.",
+      "options": ["① under", "② of", "③ by", "④ for"],
+      "ja": "私とはメールで連絡がとれます。",
+      "answer": "③",
+      "source_univ": "駒澤大"
+    },
+    {
+      "order": 876,
+      "id": "10-097-e-346",
+      "type": "explanation",
+      "target_q": "10-097-q-346",
+      "title": "伝達・交通手段を表す by",
+      "label": "◆伝達・交通手段を表す by",
+      "content": [
+        { "text": "by A 「Aによって」 は 〈伝達・交通手段〉 を表す。この表現の A には a / the / 所有格などのつかない、冠詞の単数名詞が来ることに注意。 **by phone [e-mail]** 「電話で［メールで］」、 **by bus [train]** 「バスで［電車で］」 cf. **on foot** 「徒歩で」" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "△注意", "text": "名詞の前に冠詞や所有格などが入ると、by a [the / his] bus 「一台の［その／彼の］バスのそばに」といった意味になることに注意。" },
+        { "tag": "△注意", "text": "345 のように、「A（道具）によって」という道具による手段を表すときは with A で表すが、「…することによって」という動作による手段を表すときは by doing で表す。\nearn one's living **by selling** health foods 「健康食品を売って生計を立てる」" }
+      ]
+    },
+    {
+      "order": 877,
+      "id": "10-097-q-347",
+      "type": "question",
+      "section_id": "097",
+      "number": "347",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Please refrain from talking ( ) the phone near the priority seats in the train.",
+      "options": ["① on", "② by", "③ at", "④ of"],
+      "ja": "電車内の優先席付近での携帯電話での通話はお控えください。",
+      "answer": "①",
+      "source_univ": "桜美林大"
+    },
+    {
+      "order": 878,
+      "id": "10-097-e-347",
+      "type": "explanation",
+      "target_q": "10-097-q-347",
+      "title": "on [over] the phone [telephone] 「電話で」",
+      "label": "◆通信媒体の on [over]",
+      "content": [
+        { "text": "電話・テレビ・ラジオ・ネットなどの利用を表す場合には on を用いることが多い。\nwatch the news **on television** 「テレビでニュースを見る」\nlisten to music **on the radio** 「ラジオで音楽を聴く」\nsearch for information **on the internet** 「ネットで情報を検索する」" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "② の by the phone は「その電話のそばに」という意味になる。〈通信手段〉を表す 〈by + 無冠詞の単数名詞〉 を用いた **by phone** なら正解になる。 → 346" }
+      ]
+    },
+    {
+      "order": 879,
+      "type": "section_header",
+      "section_id": "098",
+      "title": "付帯状況・所有・着用などを表す前置詞"
+    },
+    {
+      "order": 880,
+      "id": "10-098-q-348",
+      "type": "question",
+      "section_id": "098",
+      "number": "348",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "It is not polite to talk ( ) your mouth full.",
+      "options": ["① in", "② on", "③ over", "④ with"],
+      "ja": "口に食べ物をほおばったまま話をするのは失礼だ。",
+      "answer": "④",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 881,
+      "id": "10-098-e-348",
+      "type": "explanation",
+      "target_q": "10-098-q-348",
+      "title": "付帯状況の with—〈with + 名詞 + 形容詞〉",
+      "label": "◆付帯状況の with",
+      "content": [
+        { "text": "〈with + 名詞 + 形容詞〉 で付帯状況を表すパターン。 talk[speak] with one's mouth full 「口に物を入れたまましゃべる」 という形でそのまま覚えよう。分詞を用いて付帯状況を表す表現 (→ Section 066 (p.101)) も確認しておこう。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 882,
+      "id": "10-098-q-349",
+      "type": "question",
+      "section_id": "098",
+      "number": "349",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "コートを着たまま台所に入ってはいけません。\nYou should not (the kitchen / with / on / your / enter / overcoat).",
+      "q_type": "ordering",
+      "ja": "コートを着たまま台所に入ってはいけません。",
+      "answer": "enter the kitchen with your overcoat on",
+      "source_univ": "埼玉工業大"
+    },
+    {
+      "order": 883,
+      "id": "10-098-e-349",
+      "type": "explanation",
+      "target_q": "10-098-q-349",
+      "title": "付帯状況の with—〈with + 名詞 + 副詞〉",
+      "label": "◆付帯状況の with",
+      "content": [
+        { "text": "〈with + 名詞 + 副詞〉 で付帯状況を表すパターン。副詞 on は 「着用」 を表し、 〈with + A(衣服) + on〉 で 「Aを身に着けたまま」 という意味。" },
+        { "en": "with one's hat **on**", "ja": "「帽子をかぶったまま」", "text": "＊one's shoes on 「靴を履いたまま」" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 884,
+      "id": "10-098-q-350",
+      "type": "question",
+      "section_id": "098",
+      "number": "350",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "その少年は、彼女の首に腕を回したまま眠ってしまった。\n(the boy / arms / her / asleep / with / neck / around / fell / his).",
+      "q_type": "ordering",
+      "ja": "その少年は、彼女の首に腕を回したまま眠ってしまった。",
+      "answer": "the boy fell asleep with his arms around her neck",
+      "source_univ": "獨協大"
+    },
+    {
+      "order": 885,
+      "id": "10-098-e-350",
+      "type": "explanation",
+      "target_q": "10-098-q-350",
+      "title": "付帯状況の with—〈with + 名詞 + 前置詞句〉",
+      "label": "◆付帯状況の with",
+      "content": [
+        { "text": "〈with + 名詞 + 前置詞句〉 で付帯状況を表すパターン。 「〈名詞〉が〈前置詞句〉の状態に」 というのが元々の意味。本問では 「彼女の首に腕を回したまま」 という状況を、 with his arms around her neck 「彼の両腕が彼女の首の周りにある状態で」 という形で表す。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "プラス", "text": "〈with + 名詞 + 前置詞句〉 のフレーズを覚えておこう。\nwith one's hat in one's hand 「帽子を手にもって」（←帽子が手の中にある状態で）\nwith one's back to the wall 「壁に背を向けて」（←背中が壁に向いている状態で）" },
+        { "tag": "重要", "text": "fall asleep 「眠りに落ちる／寝入る」" }
+      ]
+    },
+    {
+      "order": 886,
+      "id": "10-098-q-351",
+      "type": "question",
+      "section_id": "098",
+      "number": "351",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The pianist ( ) long hair is my girlfriend.",
+      "options": ["① whose", "② with", "③ wears", "④ has"],
+      "ja": "その長い髪のピアニストは僕のガールフレンドだ。",
+      "answer": "②",
+      "source_univ": "福岡大"
+    },
+    {
+      "order": 887,
+      "id": "10-098-e-351",
+      "type": "explanation",
+      "target_q": "10-098-q-351",
+      "title": "所有の with",
+      "label": "◆所有の with",
+      "content": [
+        { "text": "with は 「所有」 を表し、 A with B で 「Bを持った A ／ Bがついた A 」 という意味になる。\na man with a gun 「拳銃を所持している男」、a house with a pool 「プールつきの家」" }
+      ],
+      "solution": [
+        { "text": "本問は The pianist who has long hair ..., または The pianist whose hair is long ... と書きかえられる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 888,
+      "id": "10-098-q-352",
+      "type": "question",
+      "section_id": "098",
+      "number": "352",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "あの赤い服の女性があなたのことを知りたがっていたよ。\nThe (was / woman / in / curious / red) to know about you.",
+      "q_type": "ordering",
+      "ja": "あの赤い服の女性があなたのことを知りたがっていたよ。",
+      "answer": "woman in red was curious",
+      "source_univ": "大阪学院大"
+    },
+    {
+      "order": 889,
+      "id": "10-098-e-352",
+      "type": "explanation",
+      "target_q": "10-098-q-352",
+      "title": "着用の in",
+      "label": "◆着用の in",
+      "content": [
+        { "text": "in A は 「A(衣服)を身に着けて」 という意味を表す。\nin white 「白い服を着て」、in (one's) shoes 「靴を履いて」、in a hat 「帽子をかぶって」" }
+      ],
+      "solution": [
+        { "text": "「あの赤い服の女性＝赤い服を身に着けている女性」 を the woman in red で表す。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "be curious to do 「…したがっている」" }
+      ]
+    },
+    {
+      "order": 890,
+      "id": "10-098-q-353",
+      "type": "question",
+      "section_id": "098",
+      "number": "353",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "They discussed the matter ( ) tea and cakes.",
+      "options": ["① by", "② for", "③ over", "④ with"],
+      "ja": "彼らはお茶を飲みケーキを食べながら、その問題について話し合った。",
+      "answer": "③",
+      "source_univ": "東京電機大"
+    },
+    {
+      "order": 891,
+      "id": "10-098-e-353",
+      "type": "explanation",
+      "target_q": "10-098-q-353",
+      "title": "従事の over",
+      "label": "◆従事の over",
+      "content": [
+        { "text": "over A は 「Aをしながら／Aをする間に」 という意味を表すことがある。 over work 「仕事をしながら」、 over a book 「本を読みながら」、 over dinner 「食事をしながら」" }
+      ],
+      "solution": [
+        { "text": "over tea and cakes は 「お茶を飲みケーキを食べながら」 という意味。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 892,
+      "type": "section_header",
+      "section_id": "099",
+      "title": "論理関係を表す前置詞"
+    },
+    {
+      "order": 893,
+      "id": "10-099-q-354",
+      "type": "question",
+      "section_id": "099",
+      "number": "354",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) literature, we have to study Japanese and world history.",
+      "options": ["① Nothing but", "② Not all", "③ Beside", "④ Besides"],
+      "ja": "文学に加えて、私たちは日本史と世界史の勉強をしなければならない。",
+      "answer": "④",
+      "source_univ": "摂南大"
+    },
+    {
+      "order": 894,
+      "id": "10-099-e-354",
+      "type": "explanation",
+      "target_q": "10-099-q-354",
+      "title": "追加の besides",
+      "label": "◆追加の besides",
+      "content": [
+        { "text": "besides A は 「Aに加えて／Aのほかに」 (= in addition to A → 1291) という意味。よく似たつづりである beside A 「Aのそばに」 (= close to A) との混同に注意。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 895,
+      "id": "10-099-q-355",
+      "type": "question",
+      "section_id": "099",
+      "number": "355",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I will eat anything ( ) natto.",
+      "options": ["① above", "② but", "③ despite", "④ for"],
+      "ja": "納豆以外は何でも食べます。",
+      "answer": "②",
+      "source_univ": "兵庫県立大"
+    },
+    {
+      "order": 896,
+      "id": "10-099-e-355",
+      "type": "explanation",
+      "target_q": "10-099-q-355",
+      "title": "「…以外の／…を除いた」を表す前置詞の but",
+      "label": "◆前置詞の but 「…以外の／…を除いた」",
+      "content": [
+        { "text": "but には前置詞の用法があり、 A but B は 「Bを除いた A ／ B以外の A 」 (= A except B) という意味になる。原則として A には all / every / any / no / none など（を含んだ語句）が来る。" }
+      ],
+      "solution": [
+        { "en": "There is **no one here but** me. 「ここには私以外だれもいない」", "ja": "" },
+        { "en": "drink **nothing but** beer 「ビール以外は飲まない」", "ja": "" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 897,
+      "id": "10-099-q-356",
+      "type": "question",
+      "section_id": "099",
+      "number": "356",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "All of the audience was impressed by his lecture ( ) the early history of Japan.",
+      "options": ["① at", "② in", "③ on", "④ of"],
+      "ja": "聴衆はみな、日本の初期の歴史についての彼の講義に感銘を受けた。",
+      "answer": "③",
+      "source_univ": "青山学院大"
+    },
+    {
+      "order": 898,
+      "id": "10-099-e-356",
+      "type": "explanation",
+      "target_q": "10-099-q-356",
+      "title": "関連の on",
+      "label": "◆関連の on",
+      "content": [
+        { "text": "on A は 「A(専門的なテーマ)に関して (= about A / concerning A)」 という意味を表すことがある。 a book **on** animals 「動物に関する本」、speak **on** democracy 「民主主義について語る」" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 899,
+      "id": "10-099-q-357",
+      "type": "question",
+      "section_id": "099",
+      "number": "357",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "( ) his efforts, he was not able to pass the examination for a driver's license.",
+      "options": ["① Despite", "② Due to", "③ Although", "④ With"],
+      "ja": "努力したにもかかわらず、彼は運転免許の取得試験に合格できなかった。",
+      "answer": "①",
+      "source_univ": "立教大"
+    },
+    {
+      "order": 900,
+      "id": "10-099-e-357",
+      "type": "explanation",
+      "target_q": "10-099-q-357",
+      "title": "譲歩の despite",
+      "label": "◆譲歩の despite",
+      "content": [
+        { "text": "despite A は 「Aにもかかわらず (= in spite of A → 1274)」 という 「譲歩」 の意味。" }
+      ],
+      "solution": [
+        { "text": "本問は Although he (had) made efforts という意味。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "② due to A 「Aのおかげで」 → 1270" }
+      ]
+    },
+    {
+      "order": 901,
+      "id": "10-099-q-358",
+      "type": "question",
+      "section_id": "099",
+      "number": "358",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Mike is very active ( ) his age.",
+      "options": ["① against", "② spite", "③ for", "④ through"],
+      "ja": "マイクは年齢のわりにはとても活動的だ。",
+      "answer": "③",
+      "source_univ": "駒澤大"
+    },
+    {
+      "order": 902,
+      "id": "10-099-e-358",
+      "type": "explanation",
+      "target_q": "10-099-q-358",
+      "title": "基準の for",
+      "label": "◆基準の for",
+      "content": [
+        { "text": "for A は 「（驚きの気持ちを込めて）Aのわりには／Aにしては」 という意味を表すことがある。 be cold **for** August 「8月にしては寒い」、look young **for** one's age 「年齢のわりに若く見える」" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 903,
+      "type": "section_header",
+      "section_id": "100",
+      "title": "worth の用法"
+    },
+    {
+      "order": 904,
+      "id": "10-100-q-359",
+      "type": "question",
+      "section_id": "100",
+      "number": "359",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Is that project worth ( ) at a great expense to the taxpayer?",
+      "options": ["① launch", "② launching", "③ launched", "④ to launch"],
+      "ja": "そのプロジェクトは、納税者に多大な負担をかけてまで立ち上げる価値があるのか。",
+      "answer": "②",
+      "source_univ": "東京理科大"
+    },
+    {
+      "order": 905,
+      "id": "10-100-e-359",
+      "type": "explanation",
+      "target_q": "10-100-q-359",
+      "title": "A is worth doing. 「Aは…する価値がある」",
+      "label": "◆worth",
+      "content": [
+        { "text": "A is worth doing. は 「Aは…する価値がある」 という意味。worth の後ろには名詞や動名詞が来る。\nThis old painting is **worth a lot of money.** 「この古い絵は大金の価値がある」" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "△注意", "text": "この表現では、主語 A が動名詞 doing の意味上の目的語になる。本問は that project が動名詞 launching の意味上の目的語になる（← launch that project 「そのプロジェクトを立ち上げる」という関係）。" },
+        { "tag": "プラス", "text": "(A is worth doing + 前置詞) という形もある。この場合は、主語 A が前置詞の意味上の目的語になる。 The music is **worth listening to.** 「その曲は聞く価値がある」 (← listen to the music 「その曲を聞く」という関係)" }
+      ]
+    },
+    {
+      "order": 906,
+      "id": "10-100-q-360",
+      "type": "question",
+      "section_id": "100",
+      "number": "360",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "It is worth ( ) the estimated cost of the project.",
+      "options": ["① to consider", "② in considering", "③ considering", "④ considered"],
+      "ja": "その企画の見積もり額は考慮に値する。",
+      "answer": "③",
+      "source_univ": "法政大"
+    },
+    {
+      "order": 907,
+      "id": "10-100-e-360",
+      "type": "explanation",
+      "target_q": "10-100-q-360",
+      "title": "It is worth doing A. 「Aを…する価値がある」",
+      "label": "◆worth",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "プラス", "text": "A is worth doing. = It is worth doing A. = It is worth while doing A [to do A]. という書きかえも頻出する。本問は The estimated cost of the project is worth considering. と書きかえられる。" }
+      ]
+    },
+    {
+      "order": 908,
+      "type": "section_header",
+      "section_id": "101",
+      "title": "beyond の注意すべき意味"
+    },
+    {
+      "order": 909,
+      "id": "10-101-q-361",
+      "type": "question",
+      "section_id": "101",
+      "number": "361",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Most of the questions are easy, but this particular one is ( ) me.",
+      "options": ["① over", "② outside", "③ out of", "④ beyond"],
+      "ja": "ほとんどの問題は簡単だが、特にこの問題は難しくて私には理解できない。",
+      "answer": "④",
+      "source_univ": "明治大"
+    },
+    {
+      "order": 910,
+      "id": "10-101-e-361",
+      "type": "explanation",
+      "target_q": "10-101-q-361",
+      "title": "beyond A 「Aには理解できない」",
+      "label": "◆beyond A",
+      "content": [
+        { "text": "beyond A は 「（難しすぎて）A(人)には理解できない」 という意味の慣用表現。原義は 「Aの能力を超えている」 。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 911,
+      "id": "10-101-q-362",
+      "type": "question",
+      "section_id": "101",
+      "number": "362",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "My stolen bicycle was destroyed ( ) recognition.",
+      "options": ["① above", "② below", "③ beyond", "④ over"],
+      "ja": "私の盗まれた自転車は、見分けがつかないほどに壊されていた。",
+      "answer": "③",
+      "source_univ": "福島大"
+    },
+    {
+      "order": 912,
+      "id": "10-101-e-362",
+      "type": "explanation",
+      "target_q": "10-101-q-362",
+      "title": "beyond recognition 「見分けがつかないほど／判別できないくらい」",
+      "label": "◆beyond recognition",
+      "content": [
+        { "text": "beyond recognition は 「見分けがつかないほど／見る影もなく／判別できないくらい」 という意味の慣用表現。原義は 「認識できる範囲を超えている」 。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 913,
+      "id": "10-101-s-027",
+      "type": "summary_box",
+      "target_s": "101",
+      "number": "027",
+      "title": "beyond を使った慣用表現",
+      "content": [
+        { "tag": "□", "en": "beyond repair", "ja": "「修理できないほど」" },
+        { "tag": "□", "en": "beyond control", "ja": "「制御できないほど」" },
+        { "tag": "□", "en": "beyond belief", "ja": "「信じられないほど」" },
+        { "tag": "□", "en": "beyond description", "ja": "「言葉では表せないほど」" },
+        { "tag": "□", "en": "beyond reach", "ja": "「手が届かないほど」" }
+      ]
+    },
+    {
+      "order": 914,
+      "type": "section_header",
+      "section_id": "102",
+      "title": "in の注意すべき意味"
+    },
+    {
+      "order": 915,
+      "id": "10-102-q-363",
+      "type": "question",
+      "section_id": "102",
+      "number": "363",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I went fishing ( ) the river.",
+      "options": ["① to", "② in", "③ for", "④ of"],
+      "ja": "私は川に釣りに行った。",
+      "answer": "②",
+      "source_univ": "九州共立大"
+    },
+    {
+      "order": 916,
+      "id": "10-102-e-363",
+      "type": "explanation",
+      "target_q": "10-102-q-363",
+      "title": "go doing in[at / on など] A 「Aに…しに行く」",
+      "label": "◆go doing in A",
+      "content": [
+        { "text": "go doing in[at / on など] A 「Aに…しに行く」 については しっかり理解 018 を参照。" }
+      ],
+      "solution": [
+        { "tag": "選択肢", "text": "① の go fishing to the river は「川まで釣りに行く」という不自然な意味になる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 917,
+      "id": "10-102-d-018",
+      "type": "deep_dive",
+      "target_s": "102",
+      "number": "018",
+      "title": "go doing in[at / on など] A 「Aに…しに行く」",
+      "content": [
+        { "text": "go doing in [at / on など] A 「Aに…しに行く」 に使える行為 (doing にあたるもの) は 「スポーツ・娯楽」 などに限られる。この表現は A という場所に到着してからその行為をするものなので、前置詞は到達点を表す to ではなく、その行為をする場所を示す in / at / on などを用いる。" },
+        { "en": "go fishing in the river", "ja": "「川に釣りに行く」" },
+        { "en": "go shopping at the mall", "ja": "「モールに買い物に行く」" },
+        { "en": "go skating on the lake", "ja": "「湖にスケートに行く」" },
+        { "en": "go jogging around the Imperial Palace", "ja": "「皇居の周りにジョギングに行く」" }
+      ]
+    },
+    {
+      "order": 918,
+      "id": "10-102-q-364",
+      "type": "question",
+      "section_id": "102",
+      "number": "364",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "They were close to home now, but David turned ( ) the opposite direction.",
+      "options": ["① of", "② at", "③ in", "④ to"],
+      "ja": "彼らはもう家の近くまで来ていたが、デイビッドは反対方向に曲がった。",
+      "answer": "③",
+      "source_univ": "桜美林大"
+    },
+    {
+      "order": 919,
+      "id": "10-102-e-364",
+      "type": "explanation",
+      "target_q": "10-102-q-364",
+      "title": "方向・方角の in",
+      "label": "◆方向・方角の in",
+      "content": [
+        { "text": "in A は 「A(の方向・方角)へ」 という意味を表すことがある。 「方向・方角」 に to は使えないことに注意。" },
+        { "en": "go in [(×) to] the right direction", "ja": "「正しい方向へ進む」" },
+        { "en": "The sun rises **in** the east and sets **in** the west.", "ja": "「太陽は東から昇り、西に沈む」" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 920,
+      "id": "10-102-q-365",
+      "type": "question",
+      "section_id": "102",
+      "number": "365",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I went skiing for the first time ( ) fifteen years.",
+      "options": ["① before", "② in", "③ during", "④ of"],
+      "ja": "私は15年ぶりにスキーに行った。",
+      "answer": "②",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 921,
+      "id": "10-102-e-365",
+      "type": "explanation",
+      "target_q": "10-102-q-365",
+      "title": "for the first time in A 「Aぶりに」 (← Aの期間の中で初めて)",
+      "label": "◆for the first time in A",
+      "content": [],
+      "solution": [
+        { "text": "for the first time in fifteen years は 「15年間の中で初めて＝15年ぶり」 という意味になる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 922,
+      "type": "section_header",
+      "section_id": "103",
+      "title": "to の注意すべき意味"
+    },
+    {
+      "order": 923,
+      "id": "10-103-q-366",
+      "type": "question",
+      "section_id": "103",
+      "number": "366",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) my surprise, she didn't come to their wedding party.",
+      "options": ["① At", "② By", "③ To", "④ With"],
+      "ja": "驚いたことに、彼女は彼らの結婚パーティーに来なかった。",
+      "answer": "③",
+      "source_univ": "東京理科大"
+    },
+    {
+      "order": 924,
+      "id": "10-103-e-366",
+      "type": "explanation",
+      "target_q": "10-103-q-366",
+      "title": "結果を表す to",
+      "label": "◆〈to A's + 感情を表す名詞〉",
+      "content": [
+        { "text": "〈to A's + 感情を表す名詞〉 は 「Aが…したことには」 という 〈結果として抱いた感情〉 を表す。所有格 A's の代わりに 〈to the + 感情を表す名詞 + of A〉 「Aが…したことには」 という表現もある。" },
+        { "en": "to his (great) delight", "ja": "「彼が（とても）喜んだことに」" },
+        { "en": "to the disappointment of my parents", "ja": "「私の両親ががっかりしたことに」" }
+      ],
+      "solution": [
+        { "text": "to my surprise は 「私が驚いたことには」 という意味。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 925,
+      "id": "10-103-q-367",
+      "type": "question",
+      "section_id": "103",
+      "number": "367",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "We danced ( ) the music.",
+      "options": ["① by", "② of", "③ in", "④ to"],
+      "ja": "私たちは音楽に合わせて踊った。",
+      "answer": "④",
+      "source_univ": "福岡工業大"
+    },
+    {
+      "order": 926,
+      "id": "10-103-e-367",
+      "type": "explanation",
+      "target_q": "10-103-q-367",
+      "title": "伴奏の to",
+      "label": "◆伴奏の to",
+      "content": [
+        { "text": "to A は 「A(音)に合わせて」 という意味を表すことがある。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 927,
+      "type": "grammar_term",
+      "target_s": "103",
+      "number": "14",
+      "term": "抽象名詞",
+      "text": "英語の名詞には、①固有名詞、②普通名詞、③集合名詞、④物質名詞、⑤抽象名詞の5種類がある。抽象名詞は数えられない名詞（不可算名詞）。\n(例) freedom など"
+    },
+    {
+      "order": 928,
+      "type": "section_header",
+      "section_id": "104",
+      "title": "抽象名詞とともに用いる前置詞"
+    },
+    {
+      "order": 929,
+      "id": "10-104-q-368",
+      "type": "question",
+      "section_id": "104",
+      "number": "368",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "The President said that it was ( ) great importance to develop the US-China constructive partnership.",
+      "options": ["① a", "② of", "③ such", "④ with"],
+      "ja": "米中の建設的な協調関係を進展させることが非常に重要であると、大統領は述べた。",
+      "answer": "②",
+      "source_univ": "上智大"
+    },
+    {
+      "order": 930,
+      "id": "10-104-e-368",
+      "type": "explanation",
+      "target_q": "10-104-q-368",
+      "title": "〈of + 抽象名詞〉 = 形容詞",
+      "label": "◆〈of + 抽象名詞〉 = 形容詞",
+      "content": [
+        { "text": "〈of + 抽象名詞〉 は形容詞と同じ働き（補語になる・名詞を修飾する）をする。\nof use 「役立つ」 (= useful), of help 「役立つ」 (= helpful), of value 「価値のある」 (= valuable)" },
+        { "tag": "△注意", "text": "本問のように抽象名詞の前に great / a little / little / no などが入ることがある。\nof a little [little / no] importance 「少し重要である［ほとんど重要でない／重要でない］」" }
+      ],
+      "solution": [
+        { "text": "本問の of (great) importance は、(very) important と同意で、補語の働きをしている。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 931,
+      "id": "10-104-q-369",
+      "type": "question",
+      "section_id": "104",
+      "number": "369",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The dog jumped over the fence ( ) ease.",
+      "options": ["① in", "② of", "③ by", "④ with"],
+      "ja": "その犬は簡単に柵を飛び越えた。",
+      "answer": "④",
+      "source_univ": "昭和大"
+    },
+    {
+      "order": 932,
+      "id": "10-104-e-369",
+      "type": "explanation",
+      "target_q": "10-104-q-369",
+      "title": "〈with + 抽象名詞〉 = 副詞",
+      "label": "◆〈with + 抽象名詞〉 = 副詞",
+      "content": [
+        { "text": "〈with + 抽象名詞〉 は副詞と同じ働きをし、原則として動詞を修飾する。\nwith care 「注意深く」 (= carefully), with kindness 「親切に」 (= kindly), with fluency 「流暢に」 (= fluently), with difficulty 「苦労して」, with pleasure 「喜んで」 など" }
+      ],
+      "solution": [
+        { "text": "本問の with ease は副詞 easily と同意で、動詞 jumped を修飾している。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 933,
+      "type": "section_header",
+      "section_id": "105",
+      "title": "定冠詞 the とともに用いる前置詞"
+    },
+    {
+      "order": 934,
+      "id": "10-105-q-370",
+      "type": "question",
+      "section_id": "105",
+      "number": "370",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "I get paid ( ) the hour.",
+      "options": ["① at", "② by", "③ for", "④ in"],
+      "ja": "私は時間給で支払われる。",
+      "answer": "②",
+      "source_univ": "広島国際大"
+    },
+    {
+      "order": 935,
+      "id": "10-105-e-370",
+      "type": "explanation",
+      "target_q": "10-105-q-370",
+      "title": "基準となる単位を表す by",
+      "label": "◆基準となる単位を表す by",
+      "content": [
+        { "text": "「販売や支払いの基準となる単位」 は 〈by the + 単位〉 「…単位で」 で表す。定冠詞の the をつける点に注意。" },
+        { "en": "sell meat **by the kilo**", "ja": "「肉をキロ単位で販売する」" }
+      ],
+      "solution": [
+        { "text": "by the hour は 「（賃金の支払いを）時間給で」 という意味。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 936,
+      "id": "10-105-q-371",
+      "type": "question",
+      "section_id": "105",
+      "number": "371",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The mother caught her baby ( ) when he fell forward.",
+      "options": ["① by the arm", "② with his arm", "③ to his arm", "④ of the arm"],
+      "ja": "赤ちゃんが前に倒れたとき、母親はその子の腕をつかんだ。",
+      "answer": "①",
+      "source_univ": "名古屋学院大"
+    },
+    {
+      "order": 937,
+      "id": "10-105-e-371",
+      "type": "explanation",
+      "target_q": "10-105-q-371",
+      "title": "catch A by the arm 「Aの腕をつかむ」",
+      "label": "◆catch A by the arm",
+      "content": [
+        { "text": "身体や衣服の一部に触れる場合、まず「相手」を述べてから、そのあとに「相手の身体や衣服の部位」を前置詞句で示す表現がある。「身体や衣服の部位」には所有格ではなく **定冠詞 the** をつけることに注意。\ncatch me by the[(×) my] arm 「私の腕をつかむ」\nslap him in the face 「彼の顔をひっぱたく」\ntouch you on the shoulder 「君の肩に触れる」" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 938,
+      "id": "10-105-q-372",
+      "type": "question",
+      "section_id": "105",
+      "number": "372",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "コーチは私の肩をポンと叩きながら，励ましてくれた。\nThe coach encouraged me, (shoulder / patting / on / the / my / me).",
+      "q_type": "ordering",
+      "ja": "コーチは私の肩をポンと叩きながら，励ましてくれた。（1語不要）",
+      "answer": "patting me on the shoulder",
+      "source_univ": "千葉工業大"
+    },
+    {
+      "order": 939,
+      "id": "10-105-e-372",
+      "type": "explanation",
+      "target_q": "10-105-e-372",
+      "title": "pat [tap] A on the shoulder 「Aの肩を軽くたたく」",
+      "label": "◆pat A on the shoulder",
+      "content": [
+        { "text": "この表現では身体や衣服の部位に the をつけるので、 (×) patting me on **my** shoulder は不可。よって my が不要。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 940,
+      "id": "10-105-q-373",
+      "type": "question",
+      "section_id": "105",
+      "number": "373",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "必ず彼の目を見て話しなさい。さもないと、正直に話していないと思われてしまう。\nBe sure to (him / in / look / talking / the eye / while), or he might think you are not being honest.",
+      "q_type": "ordering",
+      "ja": "必ず彼の目を見て話しなさい。さもないと、正直に話していないと思われてしまう。",
+      "answer": "look him in the eye while",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 941,
+      "id": "10-105-e-373",
+      "type": "explanation",
+      "target_q": "10-105-q-373",
+      "title": "look A in the eye 「Aの目を見る」",
+      "label": "◆look A in the eye",
+      "content": [
+        { "text": "371, 372 と同じように考えて、 look him in the eye とする。この look は他動詞なので (×) look at him in the eye とはならないことに注意。" },
+        { "text": "while talking は、 while you are talking の you are が省略された形。接続詞が導く副詞句内では、 〈S + be 動詞〉 が省略されることがある。 → 509" },
+        { "text": "you are not being honest は 「（いつもは正直なのに、今に限って）正直でない＝嘘を言っている」 という意味。 be 動詞を進行形にすることで、一時性を強調する用法。 → 整理して覚える 001 (p.022) の注意。" },
+        { "en": "You **are** kind. 「あなたは親切だ」", "ja": "←ふだんの変わらない性格や性質" },
+        { "en": "You **are being** kind. 「あなたは（今日に限って）親切だ」", "ja": "←今だけの一時的な状況" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "be sure to do 「必ず…する」 → 1124" }
+      ]
+    },
+    {
+      "order": 942,
+      "id": "10-105-s-028",
+      "type": "summary_box",
+      "target_s": "105",
+      "number": "028",
+      "title": "重要な前置詞の意味 — これまで学んだ前置詞の意味を整理しよう",
+      "content": [
+        { "tag": "at", "items": [
+          { "text": "at 5:00 this morning 「今朝5時に」 〈時の一点（＝時刻）〉", "note": "→ 322" },
+          { "text": "at the top of the hill 「丘のてっぺんに」 〈広がりのない場所の一点（＝地点）〉", "note": "→ 327" }
+        ]},
+        { "tag": "on", "items": [
+          { "text": "on November 28th 「11月28日に」 〈曜日，日付〉", "note": "→ 323" },
+          { "text": "on Friday night 「金曜日の夜に」 〈特定の日の朝・昼・夜など〉", "note": "→ 326" },
+          { "text": "on the ceiling 「天井に」 〈表面に接触している状態〉", "note": "→ 329" },
+          { "text": "on the phone 「電話で」 〈電話・テレビ・ラジオ・ネットなどの利用〉", "note": "→ 347" },
+          { "text": "a book on animals 「動物に関する本」 〈関連〉", "note": "→ 356" }
+        ]},
+        { "tag": "in", "items": [
+          { "text": "in April 1949 「1949年4月に」 〈年・月〉", "note": "→ 324" },
+          { "text": "in the evening 「夕方に」 〈幅のある時間〉", "note": "→ 325" },
+          { "text": "in the sea 「海で」 〈広がりのある空間や領域の中に存在する状態〉", "note": "→ 328" },
+          { "text": "in a week or two 「あと1，2週間で」 〈時の経過〉", "note": "→ 330" },
+          { "text": "the woman in red 「赤い服を着た女性」 〈着用〉", "note": "→ 352" },
+          { "text": "in the opposite direction 「反対の方向へ」 〈方向・方角〉", "note": "→ 364" }
+        ]},
+        { "tag": "for", "items": [
+          { "text": "for five years 「5年間」 〈継続する期間〉", "note": "→ 330" },
+          { "text": "look young for one's age 「年齢のわりには若く見える」 〈基準〉", "note": "→ 358" },
+          { "text": "Are you for the proposal? 「提案に賛成ですか」 〈賛成・支持〉", "note": "→ 339" },
+          { "text": "⇔ against the law 「法律に反している」 〈反対・対立〉", "note": "→ 340" }
+        ]},
+        { "tag": "by", "items": [
+          { "text": "by two inches 「2インチだけ」 〈差〉", "note": "→ 344" },
+          { "text": "by e-mail 「メールで」 〈伝達・交通手段〉", "note": "→ 346" },
+          { "text": "by the hour 「時間単位で／時間給で」 〈基準となる単位〉", "note": "→ 370" }
+        ]},
+        { "tag": "with", "items": [
+          { "text": "with the knife 「ナイフで」 〈道具〉", "note": "→ 345" },
+          { "text": "with your mouth full 「口に食べ物をほおばったまま」 〈付帯状況〉", "note": "→ 348, 350" },
+          { "text": "the pianist with long hair 「長い髪のピアニスト」 〈所有〉", "note": "→ 351" },
+          { "text": "with care 「注意深く」 〈with + 抽象名詞〉", "note": "→ 369" }
+        ]},
+        { "tag": "to", "items": [
+          { "text": "to my surprise 「私が驚いたことには」 〈感情〉", "note": "→ 366" },
+          { "text": "dance to the music 「音楽に合わせて踊る」 〈伴奏〉", "note": "→ 367" }
+        ]}
+      ]
+    },
+    {
+      "order": 943,
+      "id": "10-105-s-029",
+      "type": "summary_box",
+      "target_s": "105",
+      "number": "029",
+      "title": "重要な前置詞の整理（続き）",
+      "content": [
+        { "tag": "●上下の位置関係を表す前置詞", "items": [
+          { "text": "500 meters above sea level 「海抜500メートル」 〈…よりも上に〉", "note": "→ 336" },
+          { "text": "below sea level 「海面よりも下に」 〈…よりも下に〉 (⇔ above A)" },
+          { "text": "a bridge over the river 「その川に架かっている橋」 〈（覆うように）…の上に〉", "note": "→ しっかり理解 017 (p.158)" },
+          { "text": "under a bridge 「橋の下」 〈（覆うように）…の下に〉 (⇔ over A)" }
+        ]},
+        { "tag": "●ペアで覚える前置詞—till[until] と by", "items": [
+          { "text": "till[until] ten 「10時まで（ずっと）」 〈動作や状態の継続〉", "note": "→ 334" },
+          { "text": "by ten 「10時までに」 〈動作や状態が完了する期限〉", "note": "→ 335" }
+        ]},
+        { "tag": "●ペアで覚える前置詞—among と between", "items": [
+          { "text": "among local residents 「地元住民の間で」 〈（3つ［3人］以上）の中で〉", "note": "→ 337" },
+          { "text": "between the two incidents 「2つの事件の間で」 〈（2つ［2人］）の間で〉", "note": "→ 338" }
+        ]},
+        { "tag": "●ペアで覚える前置詞—like と unlike", "items": [
+          { "text": "sing like a rock star 「ロックスターのように歌う」 〈…のように〉", "note": "→ 341" },
+          { "text": "She is unlike me. 「彼女は私とは違っている」 〈…と違って／…らしくない〉", "note": "→ 342" }
+        ]},
+        { "tag": "●ペアで覚える前置詞—for と during", "items": [
+          { "text": "for five years 「5年間」 〈継続する期間〉", "note": "→ 332" },
+          { "text": "during my stay in Paris 「私のパリ滞在中に」 〈特定の期間〉", "note": "→ 333" }
+        ]},
+        { "tag": "●その他", "items": [
+          { "text": "as a children's book 「子ども向けの本として」 〈…として〉", "note": "→ 343" },
+          { "text": "besides literature 「文学に加えて」 〈追加〉", "note": "→ 354" },
+          { "text": "beyond me 「私には理解できない」 〈…の能力を超えている〉", "note": "→ 361" },
+          { "text": "eat anything but natto 「納豆以外は食べる」 〈…以外の／…を除いた〉", "note": "→ 355" },
+          { "text": "despite his efforts 「彼の努力にもかかわらず」 〈譲歩〉", "note": "→ 357" },
+          { "text": "of use 「役立つ」 〈of + 抽象名詞〉", "note": "→ 368" },
+          { "text": "over tea and cakes 「お茶を飲みケーキを食べながら」 〈従事〉", "note": "→ 353" },
+          { "text": "within two months 「2か月以内に」 〈今から…（の時間）以内に〉", "note": "→ 331" },
+          { "tag": "worth", "items": [
+            { "text": "That project is worth launching. 「そのプロジェクトは立ち上げる価値がある」 〈A is worth doing.〉", "note": "→ 359" },
+            { "text": "It is worth launching that project. 「そのプロジェクトは立ち上げる価値がある」 〈It is worth doing A.〉", "note": "→ 360" }
+          ]}
+        ]}
+      ]
+    }
+  ]
+}

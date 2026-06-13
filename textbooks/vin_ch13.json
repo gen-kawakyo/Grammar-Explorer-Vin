@@ -1,0 +1,932 @@
+{
+  "metadata": {
+    "source": "vin4",
+    "field": "grammar",
+    "chapter_id": "13",
+    "chapter_title": "疑問文"
+  },
+  "items": [
+    {
+      "order": 1124,
+      "type": "section_header",
+      "section_id": "124",
+      "title": "疑問詞の基本用法"
+    },
+    {
+      "order": 1125,
+      "id": "13-124-c-037",
+      "type": "confirmation_box",
+      "target_s": "124",
+      "number": "037",
+      "title": "疑問代名詞と疑問副詞",
+      "content": [
+        { "tag": "① 疑問代名詞", "label": "who 「だれが」, whom 「だれを」, 〈whose + 名詞〉 「だれの〈名詞〉」, which 「どちら」, what 「何」 など", "text": "＊名詞や代名詞で表現される部分を尋ねることになるので、文中で主語、目的語、補語、前置詞の目的語のいずれかとして働く。" },
+        { "tag": "② 疑問副詞", "label": "when 「いつ」, where 「どこで」, why 「なぜ」, how 「どのように」 など", "text": "＊時、場所、理由、方法など副詞（句）で表現される部分を尋ねることになるので、文中で主語、目的語、補語、前置詞の目的語として働くことはない。" }
+      ]
+    },
+    {
+      "order": 1126,
+      "id": "13-124-s-038",
+      "type": "summary_box",
+      "target_s": "124",
+      "number": "038",
+      "title": "〈how + 形容詞・副詞〉 の表現",
+      "content": [
+        { "tag": "□", "en": "how far", "ja": "(距離)" },
+        { "tag": "□", "en": "how long", "ja": "(時間の長さ・物の長さ)", "note": "→ 452" },
+        { "tag": "□", "en": "how much (+ 名詞)", "ja": "(（…の）量・金額)", "note": "→ 449" },
+        { "tag": "□", "en": "how many + 名詞", "ja": "(…の数)" },
+        { "tag": "□", "en": "how large", "ja": "(広さ・大きさ)" },
+        { "tag": "□", "en": "how often", "ja": "(頻度・回数)", "note": "→ 450" },
+        { "tag": "□", "en": "how soon", "ja": "(残り時間)", "note": "→ 453" }
+      ]
+    },
+    {
+      "order": 1127,
+      "id": "13-124-q-448",
+      "type": "question",
+      "section_id": "124",
+      "number": "448",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "( ) did you spend your summer vacation?",
+      "options": ["① How", "② Who", "③ What", "④ Which"],
+      "ja": "夏休みはどう過ごしましたか。",
+      "answer": "①",
+      "source_univ": "湘南工科大"
+    },
+    {
+      "order": 1128,
+      "id": "13-124-e-448",
+      "type": "explanation",
+      "target_q": "13-124-q-448",
+      "title": "文の要素がそろっているか",
+      "label": "◆疑問代名詞と疑問副詞",
+      "content": [],
+      "solution": [
+        { "text": "疑問副詞 ① How を選ぶと、「夏休みの過ごし方」を尋ねる文章が成立する。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "② Who, ③ What, ④ Which はすべて疑問代名詞。本問は you (S) spend (V) your summer vacation (O) という構造で、必要な文の要素はそろっているので、主語、目的語、補語のいずれかの働きをする疑問代名詞を用いることはできない。" }
+      ]
+    },
+    {
+      "order": 1129,
+      "id": "13-124-q-449",
+      "type": "question",
+      "section_id": "124",
+      "number": "449",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "How ( ) these trousers cost?",
+      "options": ["① many do", "② do", "③ much are", "④ much do"],
+      "ja": "このズボンはいくらですか。",
+      "answer": "④",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 1130,
+      "id": "13-124-e-449",
+      "type": "explanation",
+      "target_q": "13-124-q-449",
+      "title": "「費用」は数か量か？",
+      "label": "◆How much (+ 名詞) …？ ― 「量や金額」を尋ねる表現",
+      "content": [],
+      "solution": [
+        { "text": "「量や金額」を尋ねるときは、 How much ...? と表現する。「数」を尋ねるときは How many ...? と表現する。本問はズボンの値段を尋ねているので、金額を尋ねる表現 How much ...? を作る ④ が正解。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① の How many ...? は数を尋ねる表現なので不可。 S cost A 「S は A の値段である」から、 How much do[does] S cost? 「S の値段はいくらですか？」 の疑問文を作るので、 ③ は不可。" }
+      ]
+    },
+    {
+      "order": 1131,
+      "id": "13-124-q-450",
+      "type": "question",
+      "section_id": "124",
+      "number": "450",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "\"How ( ) do you go abroad each year?\"\n\"Two or three times.\"",
+      "options": ["① much", "② many", "③ often", "④ long"],
+      "ja": "「毎年、どのくらいの頻度で海外に行きますか」「2、3回です」",
+      "answer": "③",
+      "source_univ": "大阪産業大"
+    },
+    {
+      "order": 1132,
+      "id": "13-124-e-450",
+      "type": "explanation",
+      "target_q": "13-124-q-450",
+      "title": "回数を表す表現 two or three times",
+      "label": "◆How often …？ ― 「頻度」を尋ねる表現",
+      "content": [],
+      "solution": [
+        { "text": "質問に対する答えが two or three times (each year) 「（年に）2、3回」 と頻度を表しているので、質問文は「頻度」を尋ねていることがわかる。 ③ の How often ...? が「頻度」を尋ねる表現。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "text": "「回数」は How many times ...? で表す。本問は How many times do you go abroad each year? と表現してもよい。" }
+      ]
+    },
+    {
+      "order": 1133,
+      "id": "13-124-q-451",
+      "type": "question",
+      "section_id": "124",
+      "number": "451",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "How ( ) is it from Osaka to Kyoto?",
+      "options": ["① long", "② often", "③ far", "④ near"],
+      "ja": "大阪から京都まではどのくらいの距離ですか。",
+      "answer": "③",
+      "source_univ": "山梨学院大"
+    },
+    {
+      "order": 1134,
+      "id": "13-124-e-451",
+      "type": "explanation",
+      "target_q": "13-124-q-451",
+      "title": "",
+      "label": "◆How far …？ ― 「距離」を尋ねる表現",
+      "content": [],
+      "solution": [
+        { "text": "How far is it from A to B? 「A から B までどれくらいの距離ですか」 の形で頻出。 〈It is + 距離 + from A to B〉 「A から B まで…の距離だ」 の 「距離」 を尋ねる疑問文。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① の how long は 「時間の長さ」 や 「物の長さ」 を尋ねる場合に用いる。 → 452\nHow long is that bridge? 「あの橋はどれくらいの長さがありますか」" }
+      ]
+    },
+    {
+      "order": 1135,
+      "id": "13-124-q-452",
+      "type": "question",
+      "section_id": "124",
+      "number": "452",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "このホテルからその湖まで行くのにどのくらいかかりますか。\n(how / hotel / to / it / from / take / this / go / does / long) to the lake?",
+      "q_type": "ordering",
+      "ja": "このホテルからその湖まで行くのにどのくらいかかりますか。",
+      "answer": "How long does it take to go from this",
+      "source_univ": "東洋大"
+    },
+    {
+      "order": 1136,
+      "id": "13-124-e-452",
+      "type": "explanation",
+      "target_q": "13-124-q-452",
+      "title": "",
+      "label": "◆How long …？ ― 「時間の長さ・物の長さ」を尋ねる表現",
+      "content": [],
+      "solution": [
+        { "text": "How long does it take (A) to do ...? 「(A が) …するのにどれくらいの時間がかかりますか」 で頻出。これは 〈It takes (A) + 時間 + to do ...〉 「(A が) …するのに〜の時間かかる」 の 「時間」 の部分を尋ねる疑問文。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1137,
+      "id": "13-124-q-453",
+      "type": "question",
+      "section_id": "124",
+      "number": "453",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "How ( ) does the talk show begin?",
+      "options": ["① quickly", "② soon", "③ fast", "④ long"],
+      "ja": "あとどれくらいでそのトークショーが始まりますか。",
+      "answer": "②",
+      "source_univ": "徳島文理大"
+    },
+    {
+      "order": 1138,
+      "id": "13-124-e-453",
+      "type": "explanation",
+      "target_q": "13-124-q-453",
+      "title": "begin 「（これから）始まる」 に注目",
+      "label": "◆How soon …？ ― 「残り時間」を尋ねる表現",
+      "content": [],
+      "solution": [
+        { "text": "How soon ...? は、直訳すれば 「どれくらいまもなく…するか」 という意味。そこから 「あとどれくらいの時間で…するか」 という 「残り時間」 を尋ねる疑問文になる。" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "452 の How long ...? 「どれくらいの時間…するか（＝時間の長さ）」 と混同しないこと。両者の違いは疑問文に対する答え方を考えればすぐにわかる。\nHow long will it take? 「どれくらいかかるか？」 ― An hour. 「1時間かかる」\nHow soon will it start? 「どれくらいで始まるか？」 ― In an hour. 「1時間後に始まる」 → 330" }
+      ]
+    },
+    {
+      "order": 1139,
+      "type": "section_header",
+      "section_id": "125",
+      "title": "間接疑問"
+    },
+    {
+      "order": 1140,
+      "id": "13-125-c-038",
+      "type": "confirmation_box",
+      "target_s": "125",
+      "number": "038",
+      "title": "間接疑問とは",
+      "content": [
+        { "text": "疑問文の形を文の中に組み込んで、間接的に疑問の意味を表す表現を 「間接疑問」 と呼ぶ。疑問詞に導かれる節は名詞節で、節の中の語順は平叙文と同じになる。疑問文と間接疑問の語順の違いに注意すること。" },
+        { "tag": "疑問文", "text": "448 **How did you spend** your summer vacation?" },
+        { "tag": "間接疑問", "text": "Tell me **how you spent your summer vacation.**", "label": "V + O (名詞節)" }
+      ]
+    },
+    {
+      "order": 1141,
+      "id": "13-125-q-454",
+      "type": "question",
+      "section_id": "125",
+      "number": "454",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "I wonder ( ) between Osaka and Kanazawa.",
+      "options": ["① how long it is", "② how long is it", "③ how far it is", "④ how far is it"],
+      "ja": "大阪から金沢まではどれくらいの距離があるのだろう。",
+      "answer": "③",
+      "source_univ": "金沢工業大"
+    },
+    {
+      "order": 1142,
+      "id": "13-125-e-454",
+      "type": "explanation",
+      "target_q": "13-125-q-454",
+      "title": "何について尋ねているのか",
+      "label": "◆〈I wonder + 疑問詞 …〉 「…なのだろうか」 の間接疑問",
+      "content": [],
+      "solution": [
+        { "text": "between Osaka and Kanazawa と2つの都市間について尋ねているので、「距離」を尋ねる How far ...? (→ 451) が適切。" },
+        { "text": "疑問文 How far is it ...? を間接疑問にすると、 how far it is ... の語順になる。" },
+        { "text": "how far it is ... Kanazawa は、他動詞 wonder の目的語になる名詞節。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "「時間の長さ」を尋ねる How long ...? ならば、 How long does it take to go from Osaka to Kanazawa? 「〜へ行くのにどれくらいの時間がかかりますか」 のようにしなければならない。" }
+      ]
+    },
+    {
+      "order": 1143,
+      "id": "13-125-q-455",
+      "type": "question",
+      "section_id": "125",
+      "number": "455",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Elisabeth would often think about (been / different / her life / how / if / would have) she had been born 100 years ago.",
+      "q_type": "ordering",
+      "ja": "エリザベスは、100年前に生まれていたら、人生はどのくらい違っていたかについてよく考えたものだ。",
+      "answer": "how different her life would have been",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 1144,
+      "id": "13-125-e-455",
+      "type": "explanation",
+      "target_q": "13-125-q-455",
+      "title": "どの部分が間接疑問か",
+      "label": "◆〈how + 形容詞 + SV〉 「どのくらい（形容詞）か」 の間接疑問",
+      "content": [],
+      "solution": [
+        { "text": "「もし100年前に生まれていたら、彼女の人生はどのくらい違っていただろう」という疑問文を「エリザベスは…についてよく考えたものだ」の 「…」 部分に間接疑問の形で組み込む。" },
+        { "text": "How different would her life have been if she ...? という仮定法過去完了 (→ Section 031 (p.55)) の疑問文を想定して、その間接疑問 how different her life would have been if she ... を作る。疑問文の語順のままにしないこと。" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "(×) how her life would have been different の語順も不可。この語順では「どのような方法で彼女の人生が違っていただろうか」という不自然な意味になる。" }
+      ]
+    },
+    {
+      "order": 1145,
+      "type": "section_header",
+      "section_id": "126",
+      "title": "〈Do you know + 疑問詞 ...?〉 と 〈疑問詞 + do you think ...?〉"
+    },
+    {
+      "order": 1146,
+      "id": "13-126-c-039",
+      "type": "confirmation_box",
+      "target_s": "126",
+      "number": "039",
+      "title": "〈Do you know + 疑問詞 ...?〉 と 〈疑問詞 + do you think ...?〉",
+      "content": [
+        { "tag": "(1)", "label": "〈Do you know + 疑問詞 ...?〉", "text": "「（疑問詞）…を知っていますか」\ndo[does] で始まる yes / no 疑問文なので、返答は Yes, I do. や No, I don't. となる。\nDo you know **where she lives?** 「彼女がどこに住んでいるか知っていますか」\n― Yes, I do. 「はい、知っています」 ／ No, I don't. 「いいえ、知りません」" },
+        { "tag": "(2)", "label": "〈疑問詞 + do you think ...?〉", "text": "「（疑問詞）…と思いますか」\n疑問詞で始まる疑問文なので、期待されている返答は何らかの具体的な内容であって、 yes / no ではない。\n**Where do you think she lives?** 「彼女はどこに住んでいると思いますか」\n― (I think she lives) In Osaka. 「大阪だと思います」" },
+        { "tag": "△注意", "text": "2つの疑問文の 「…」 の部分は、ともに平叙文の語順になる。" }
+      ]
+    },
+    {
+      "order": 1147,
+      "id": "13-126-q-456",
+      "type": "question",
+      "section_id": "126",
+      "number": "456",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "トムがいつニューヨークからパリに向けて出発するのか知りませんか。\n(do / know / when / you / will / Tom / leave) New York for Paris?",
+      "q_type": "ordering",
+      "ja": "トムがいつニューヨークからパリに向けて出発するのか知りませんか。",
+      "answer": "Do you know when Tom will leave",
+      "source_univ": "摂南大"
+    },
+    {
+      "order": 1148,
+      "id": "13-126-e-456",
+      "type": "explanation",
+      "target_q": "13-126-q-456",
+      "title": "期待されている答えは？",
+      "label": "◆〈Do you know + 疑問詞 …？〉 「（疑問詞）…を知っていますか」",
+      "content": [],
+      "solution": [
+        { "text": "「…を知っていますか」は 「はい／いいえ」 という返答が期待されているので、 do[does] で始まる yes / no 疑問文を作る。 (×) When do you know Tom will leave New York for Paris? の語順が典型的な誤り。" },
+        { "text": "意見を尋ねる場合は、 When do you **think** Tom will leave New York for Paris? 「トムはいつニューヨークからパリに向けて出発すると思いますか」 となる。 → 457" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "leave A for B 「A を出発して B に向かう」 → 1032" },
+        { "tag": "△注意", "text": "平叙文の語順になっていない (×) Do you know when **will Tom leave** ...? も不可。" }
+      ]
+    },
+    {
+      "order": 1149,
+      "id": "13-126-q-457",
+      "type": "question",
+      "section_id": "126",
+      "number": "457",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "お酒は何からできていると思いますか。\n(do / from / is / made / sake / think / what / you)?",
+      "q_type": "ordering",
+      "ja": "お酒は何からできていると思いますか。",
+      "answer": "What do you think sake is made from",
+      "source_univ": "中部大"
+    },
+    {
+      "order": 1150,
+      "id": "13-126-e-457",
+      "type": "explanation",
+      "target_q": "13-126-q-457",
+      "title": "期待されている答えは？",
+      "label": "◆〈疑問詞 + do you think …？〉 「（疑問詞）…と思いますか」",
+      "content": [],
+      "solution": [
+        { "text": "「何からできていると思うか」 という意見を尋ねるので、疑問詞で始まる疑問文を作る。" },
+        { "text": "A is made from B 「A は B (原料) からできている」 の B の部分を疑問代名詞 what で尋ねる疑問文を作り、 「…と思いますか」 から、その疑問文を間接疑問として文を完成させる。 (×) Do you think what sake is made from? の語順が典型的な誤り。" },
+        { "text": "yes / no の返答を求める場合は、 Do you know what sake is made from? 「お酒は何からできているか知っていますか」 となる。 → 456" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "A is made from B 「A は B (原料) からできている」" }
+      ]
+    },
+    {
+      "order": 1151,
+      "type": "section_header",
+      "section_id": "127",
+      "title": "否定疑問文"
+    },
+    {
+      "order": 1152,
+      "id": "13-127-c-040",
+      "type": "confirmation_box",
+      "target_s": "127",
+      "number": "040",
+      "title": "否定疑問文とその答え方",
+      "content": [
+        { "text": "英語は、疑問文が肯定文か否定文かとは無関係に、答えが肯定なら Yes、答えが否定なら No を使う。日本語の 「はい／いいえ」 を機械的にあてはめないように注意。" },
+        { "en": "\"Don't you come?\" \"Yes, I do.\"", "ja": "「来ないんですか？」「いいえ、行きます」" },
+        { "en": "\"Don't you come?\" \"No, I don't.\"", "ja": "「来ないんですか？」「はい、行きません」" }
+      ]
+    },
+    {
+      "order": 1153,
+      "id": "13-127-q-458",
+      "type": "question",
+      "section_id": "127",
+      "number": "458",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "\"Didn't you go there to see her yesterday?\"\n\"( ) I met her there and we went to the party together.\"",
+      "options": ["① No, I didn't.", "② No, I did.", "③ Yes, I didn't.", "④ Yes, I did."],
+      "ja": "「昨日、彼女に会いにそこに行かなかったのですか」「いいえ、行きました。そこで彼女と会って、一緒にパーティーに出かけました」",
+      "answer": "④",
+      "source_univ": "名古屋工業大"
+    },
+    {
+      "order": 1154,
+      "id": "13-127-e-458",
+      "type": "explanation",
+      "target_q": "13-127-q-458",
+      "title": "否定疑問文に対する Yes / No の答え方",
+      "label": "◆否定疑問文",
+      "content": [],
+      "solution": [
+        { "text": "文章から 「行った」 という肯定の答えになるのは明らか。よって、 ④ Yes, I did. が正解。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "Yes には肯定文を、 No には否定文を続けるのが原則。 No に肯定文を続けた ② No, I did. や、 Yes に否定文を続けた ③ Yes, I didn't. は不可。" }
+      ]
+    },
+    {
+      "order": 1155,
+      "type": "section_header",
+      "section_id": "128",
+      "title": "付加疑問"
+    },
+    {
+      "order": 1156,
+      "id": "13-128-c-041",
+      "type": "confirmation_box",
+      "target_s": "128",
+      "number": "041",
+      "title": "付加疑問",
+      "content": [
+        { "tag": "(1)", "text": "付加疑問は確認のために相手に念を押す表現で、「…ですよね／…ではないですよね」という意味になる。" },
+        { "tag": "(2)", "text": "肯定文には否定形の付加疑問を、否定文には肯定形の付加疑問を続けるのが原則。付加疑問の形は 〈助動詞や be 動詞の短縮形 + 主語を受ける（あるいは主語と同じ）代名詞〉 となる。" },
+        { "en": "Tom ate lunch, **didn't he?**", "ja": "「トムはお昼を食べたよね」", "text": "(一般動詞の場合)" },
+        { "en": "Mary can play the piano, **can't she?**", "ja": "「メアリーはピアノが弾けるよね」", "text": "(助動詞の場合)" },
+        { "en": "You have been there, **haven't you?**", "ja": "「君はそこに行ったことがあるよね」", "text": "(完了形の場合)" }
+      ]
+    },
+    {
+      "order": 1157,
+      "id": "13-128-q-459",
+      "type": "question",
+      "section_id": "128",
+      "number": "459",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "You're not the new student, ( )?",
+      "options": ["① aren't you", "② you aren't", "③ are you", "④ you are"],
+      "ja": "あなたは新入生ではありませんよね。",
+      "answer": "③",
+      "source_univ": "駒澤大"
+    },
+    {
+      "order": 1158,
+      "id": "13-128-e-459",
+      "type": "explanation",
+      "target_q": "13-128-q-459",
+      "title": "You're not に対する付加疑問の形は？",
+      "label": "◆〈否定文 + 肯定形〉の付加疑問",
+      "content": [],
+      "solution": [
+        { "text": "本問は be 動詞の否定文なので、付加疑問は肯定形の ③ are you となる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1159,
+      "id": "13-128-q-460",
+      "type": "question",
+      "section_id": "128",
+      "number": "460",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "What he said is difficult to understand, ( )?",
+      "options": ["① isn't it", "② wasn't it", "③ didn't he", "④ doesn't he"],
+      "ja": "彼の言ったことは理解しにくいですよね。",
+      "answer": "①",
+      "source_univ": "中日本大"
+    },
+    {
+      "order": 1160,
+      "id": "13-128-e-460",
+      "type": "explanation",
+      "target_q": "13-128-q-460",
+      "title": "主語をどのような代名詞で表すか？",
+      "label": "◆〈肯定文 + 否定形〉の付加疑問",
+      "content": [],
+      "solution": [
+        { "text": "本問は be 動詞の肯定文。主語は What he said なので、それを代名詞 it で受けて否定形の付加疑問を作る。よって、 ① isn't it が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1161,
+      "id": "13-128-q-461",
+      "type": "question",
+      "section_id": "128",
+      "number": "461",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Let's go on a picnic, ( )?",
+      "options": ["① shall you", "② shall we", "③ will you", "④ will we"],
+      "ja": "ピクニックに出かけましょうよ。",
+      "answer": "②",
+      "source_univ": "中部大"
+    },
+    {
+      "order": 1162,
+      "id": "13-128-e-461",
+      "type": "explanation",
+      "target_q": "13-128-q-461",
+      "title": "Let's ... の付加疑問",
+      "label": "◆Let's ..., shall we? 「…しましょうよ」",
+      "content": [],
+      "solution": [
+        { "text": "Let's 「…しましょう」 で始まる命令文の付加疑問は shall we? で表す。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "text": "動詞の原形から始まる「肯定」の命令文の付加疑問は will you? または won't you? となる。否定形の won't you? だけではなく、肯定形の will you? も使われることに注意。\nOpen the door, **will [won't] you?** 「ドアを開けてね」" },
+        { "tag": "プラス", "text": "Don't から始まる「否定」の命令文の付加疑問は will you? で表す。\nDon't open the door, **will you?** 「ドアを開けないでね」" }
+      ]
+    },
+    {
+      "order": 1163,
+      "id": "13-128-q-462",
+      "type": "question",
+      "section_id": "128",
+      "number": "462",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "There is a big dog in your garden, ( )?",
+      "options": ["① aren't they", "② isn't it", "③ don't you", "④ isn't there"],
+      "ja": "あなたの家の庭には大きな犬がいますよね。",
+      "answer": "④",
+      "source_univ": "神戸山手大"
+    },
+    {
+      "order": 1164,
+      "id": "13-128-e-462",
+      "type": "explanation",
+      "target_q": "13-128-q-462",
+      "title": "There is ... の付加疑問は？",
+      "label": "◆There is ..., isn't there? 「…がありますよね」",
+      "content": [],
+      "solution": [
+        { "text": "There is[are] ... の付加疑問は isn't[aren't] there? で表す。" },
+        { "en": "There are many students in the class, **aren't there?**", "ja": "「教室には大勢の生徒がいますよね」" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1165,
+      "type": "section_header",
+      "section_id": "129",
+      "title": "慣用的な疑問文"
+    },
+    {
+      "order": 1166,
+      "id": "13-129-q-463",
+      "type": "question",
+      "section_id": "129",
+      "number": "463",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "君がどこで生まれたのかということは重要ではない。\nIt (importance / from / no / where / you / is / come / of).",
+      "q_type": "ordering",
+      "ja": "君がどこで生まれたのかということは重要ではない。",
+      "answer": "is of no importance where you come from",
+      "source_univ": "西南学院大"
+    },
+    {
+      "order": 1167,
+      "id": "13-129-e-463",
+      "type": "explanation",
+      "target_q": "13-129-q-463",
+      "title": "",
+      "label": "◆Where do you come from? 「どこの出身ですか／どこで生まれましたか」",
+      "content": [
+        { "text": "Where do you come from? は出身地を尋ねる表現。 Where are you from? でも同意。本来、疑問副詞 where は前置詞の目的語にならないが、この慣用表現は例外。出身地は一生変わらない 「不変の事実」 (→ 1) なので、現在時制を用いる点に注意。" }
+      ],
+      "solution": [
+        { "text": "本問はこの表現を間接疑問にした where you come from を、 it を形式主語とする真主語として置いた形を作る。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "be of no importance 「重要ではない」", "note": "→ 368" }
+      ]
+    },
+    {
+      "order": 1168,
+      "id": "13-129-q-464",
+      "type": "question",
+      "section_id": "129",
+      "number": "464",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "この本を読めば、19世紀における教育がどのようなものであったかがわかる。\nThis book (was / what / like / education / us / how / shows) in the nineteenth century.",
+      "q_type": "ordering",
+      "ja": "この本を読めば、19世紀における教育がどのようなものであったかがわかる。（1語不要）",
+      "answer": "shows us what education was like",
+      "source_univ": "福岡大"
+    },
+    {
+      "order": 1169,
+      "id": "13-129-e-464",
+      "type": "explanation",
+      "target_q": "13-129-q-464",
+      "title": "",
+      "label": "◆What is S like? 「S はどのような…ですか」",
+      "content": [
+        { "text": "S is like A. 「S は A のようだ」 の A の部分を尋ねる疑問文 **What is S like?** は 「S はどのような…ですか」 という意味で、S の様子や特徴を尋ねる慣用表現。 like は前置詞で、疑問代名詞 what は like の目的語。間接疑問は **what S is like** 「S がどのような…ということ」 という語順になる。" },
+        { "text": "show O1 O2 で 「O1 (人) に O2 (もの) を示す」 という意味。本問は us を O1 に、間接疑問の what education was like ... を用いて英文を完成させる。「この本は…がどのようなものであったかを私たちに示してくれる」 が直訳。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "△注意", "text": "「どのような」 という日本語に引きずられすぎて、 (×) **How** is S like? としないこと。疑問代名詞 what は前置詞 like の目的語になるが、疑問副詞 how は主語にはならない。" }
+      ]
+    },
+    {
+      "order": 1170,
+      "id": "13-129-q-465",
+      "type": "question",
+      "section_id": "129",
+      "number": "465",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "フランスに行くことを決めたときは、まだ海外生活とはどういうものかわからなかった。\nWhen I decided to go to France, I had no idea (like / what / would / was / it / be) to live abroad.",
+      "q_type": "ordering",
+      "ja": "フランスに行くことを決めたときは、まだ海外生活とはどういうものかわからなかった。（1語不要）",
+      "answer": "what it would be like",
+      "source_univ": "成蹊大"
+    },
+    {
+      "order": 1171,
+      "id": "13-129-e-465",
+      "type": "explanation",
+      "target_q": "13-129-q-465",
+      "title": "",
+      "label": "◆What is it like to do …？ 「…するのはどのようなものですか」",
+      "content": [
+        { "text": "464 の What is S like? の主語 S に形式主語 it を用いて、真主語に不定詞 to do ... を用いた **What is it like to do ...?** を想定した。さらにそれを間接疑問にすると、 what it is like to do ... 「…するのはどのようなものか」 という語順になる。" },
+        { "text": "「海外生活とはどういうものか」 を what it would be like ... と過去からみた将来への推量を込めた形と表現する。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1172,
+      "id": "13-129-q-466",
+      "type": "question",
+      "section_id": "129",
+      "number": "466",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "授業で話し合った記事について、どう思いますか。\n(article / how / the / you / what / do / that / about / think) we discussed in class?",
+      "q_type": "ordering",
+      "ja": "授業で話し合った記事について、どう思いますか。（1語不要）",
+      "answer": "What do you think about the",
+      "source_univ": "福岡大"
+    },
+    {
+      "order": 1173,
+      "id": "13-129-e-466",
+      "type": "explanation",
+      "target_q": "13-129-q-466",
+      "title": "",
+      "label": "◆What do you think about[of] A? 「A についてどう思いますか」",
+      "content": [
+        { "text": "What do you think about[of] A? は 「A についてどう思いますか」 という意味で、 A に関する意見を尋ねる慣用表現。疑問詞 What は他動詞 think の目的語。" }
+      ],
+      "solution": [
+        { "tag": "△注意", "text": "(×) **How** do you think about ...? という誤りに注意。疑問代名詞 what は他動詞 think の目的語になるが、疑問副詞 how は目的語にならない。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1174,
+      "id": "13-129-q-467",
+      "type": "question",
+      "section_id": "129",
+      "number": "467",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "母が買ってくれたマフラーはどうなったのだろうか。\nI (become / bought / has / mother / my / of / scarf / the / what / wonder) for me.",
+      "q_type": "ordering",
+      "ja": "母が買ってくれたマフラーはどうなったのだろうか。",
+      "answer": "wonder what has become of the scarf",
+      "source_univ": "兵庫県立大"
+    },
+    {
+      "order": 1175,
+      "id": "13-129-e-467",
+      "type": "explanation",
+      "target_q": "13-129-q-467",
+      "title": "",
+      "label": "◆What has become of A? 「A はどうなりましたか」 (= What has happened to A?)",
+      "content": [
+        { "text": "What has become of A? は 「A はどうなりましたか」 という意味で、A に何かが起こった結果を尋ねる慣用表現。疑問代名詞 what は文の主語。間接疑問は what has become of A という語順になる。主語を尋ねる疑問文は間接疑問にしてもその語順は変わらないことに注意。" }
+      ],
+      "solution": [
+        { "text": "間接疑問の what has become of ... を、他動詞 wonder の目的語にする。" },
+        { "text": "「母が買ってくれたマフラー」 は、 the scarf (which [(that)]) my mother bought for me となる。ここでは目的格の関係代名詞 which [that] が省略されている。", "note": "→ 209" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "464, 466 と同様に 「どうなりましたか」 から (×) **How** has become of A? という誤りをしやすい。疑問副詞 how は主語にならない。" }
+      ]
+    },
+    {
+      "order": 1176,
+      "id": "13-129-q-468",
+      "type": "question",
+      "section_id": "129",
+      "number": "468",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "どうして昨日のパーティーに来なかったの。\nHow (not / did / come / you) join the party yesterday?",
+      "q_type": "ordering",
+      "ja": "どうして昨日のパーティーに来なかったの。",
+      "answer": "come you did not",
+      "source_univ": "駒澤大"
+    },
+    {
+      "order": 1177,
+      "id": "13-129-e-468",
+      "type": "explanation",
+      "target_q": "13-129-q-468",
+      "title": "語順に注意",
+      "label": "◆〈How come + 平叙文 …？〉 「どうして［なぜ］…するのですか」",
+      "content": [
+        { "text": "How come ...? は Why ...? と同じ意味だが、 **How come には平叙文の語順が続く**ことに注意。" }
+      ],
+      "solution": [
+        { "tag": "△注意", "text": "(×) How come did you not join ...? の語順は不可。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1178,
+      "id": "13-129-q-469",
+      "type": "question",
+      "section_id": "129",
+      "number": "469",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) did you come here today for?",
+      "options": ["① What", "② Why", "③ When", "④ Where"],
+      "ja": "今日は何のためにこちらに来たのですか。",
+      "answer": "①",
+      "source_univ": "杏林大"
+    },
+    {
+      "order": 1179,
+      "id": "13-129-e-469",
+      "type": "explanation",
+      "target_q": "13-129-q-469",
+      "title": "文尾の for に注目",
+      "label": "◆What ... for? 「何のために…するのですか」",
+      "content": [],
+      "solution": [
+        { "text": "What ... for? で 「目的・理由」 を尋ねる。疑問代名詞 what は前置詞 for の目的語で、 「何のために」 という意味になる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1180,
+      "id": "13-129-q-470",
+      "type": "question",
+      "section_id": "129",
+      "number": "470",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "\"I don't know what this word means.\" \"Why ( ) you consult a dictionary?\"",
+      "options": ["① don't", "② do", "③ shall", "④ can"],
+      "ja": "「この単語の意味がわかりません」「辞書をひいてみたらどうですか」",
+      "answer": "①",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 1181,
+      "id": "13-129-e-470",
+      "type": "explanation",
+      "target_q": "13-129-q-470",
+      "title": "",
+      "label": "◆Why don't you do …？ 「…したらどうですか」",
+      "content": [
+        { "text": "Why don't you do ...? は 「君は…したらどうですか」 (← 「なぜ君は…しないのか」) という 〈（相手への）提案〉 を表す。 Why not do ...? も同意。" }
+      ],
+      "solution": [
+        { "tag": "▶", "text": "Why not consult a dictionary? としてもよい。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1182,
+      "id": "13-129-q-471",
+      "type": "question",
+      "section_id": "129",
+      "number": "471",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "一緒に映画に見に行きませんか。\n(see / to / why / movie / we / go / don't / a)?",
+      "q_type": "ordering",
+      "ja": "一緒に映画に見に行きませんか。",
+      "answer": "Why don't we go to see a",
+      "source_univ": "九州看護福祉大"
+    },
+    {
+      "order": 1183,
+      "id": "13-129-e-471",
+      "type": "explanation",
+      "target_q": "13-129-q-471",
+      "title": "",
+      "label": "◆Why don't we do …？ 「（一緒に）…しましょう」",
+      "content": [
+        { "text": "Why don't we do ...? は 「（一緒に）…しましょう」 (← 「なぜ私たちは…しないのか」) という 〈（自分も含めた）提案〉 を表す。 Let's do .... や Why not do ...? も同意。" }
+      ],
+      "solution": [
+        { "tag": "▶", "text": "本問は Let's go to see a movie. や Why not go to see a movie? としてもよい。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1184,
+      "id": "13-129-q-472",
+      "type": "question",
+      "section_id": "129",
+      "number": "472",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "It's time for another meeting. What ( ) about this matter again tomorrow?",
+      "options": ["① for talking", "② about talking", "③ talking", "④ to talk"],
+      "ja": "そろそろ別の会議の時間です。明日もう一度この件について話し合いませんか。",
+      "answer": "②",
+      "source_univ": "愛知教育大"
+    },
+    {
+      "order": 1185,
+      "id": "13-129-e-472",
+      "type": "explanation",
+      "target_q": "13-129-q-472",
+      "title": "",
+      "label": "◆What about A / doing …？ 「A はどうですか／…するのはどうですか」",
+      "content": [
+        { "text": "What about A / doing ...? は 〈提案〉 を表す。 How about A / doing ...? や、 **What do [would] you say to A / doing ...?** (→ 169) も同意。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1186,
+      "type": "section_header",
+      "section_id": "130",
+      "title": "修辞疑問文"
+    },
+    {
+      "order": 1187,
+      "id": "13-130-c-042",
+      "type": "confirmation_box",
+      "target_s": "130",
+      "number": "042",
+      "title": "修辞疑問文",
+      "content": [
+        { "text": "言いたいこととは反対の内容を述べる疑問文を 「修辞疑問文」 と呼ぶ。これには断定を強める効果がある。" },
+        { "en": "Who can solve such a difficult problem?", "ja": "「だれがそんなに難しい問題を解けるだろうか」", "text": "＊肯定の疑問文は反対の 「だれもが解けない（否定の内容）」 が言いたいこと。" },
+        { "en": "Who cannot solve such an easy problem?", "ja": "「だれがそんなに簡単な問題を解けないだろうか」", "text": "＊否定の疑問文は反対の 「だれもが解ける（肯定の内容）」 が言いたいこと。" }
+      ]
+    },
+    {
+      "order": 1188,
+      "id": "13-130-q-473",
+      "type": "question",
+      "section_id": "130",
+      "number": "473",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) knows the trouble we have experienced?\n= Nobody knows the trouble we have experienced.",
+      "q_type": "completion",
+      "ja": "私たちが経験した苦労をだれが知っているだろうか。\n= 私たちが経験した苦労はだれも知らない。",
+      "answer": "Who",
+      "source_univ": "駒澤大"
+    },
+    {
+      "order": 1189,
+      "id": "13-130-e-473",
+      "type": "explanation",
+      "target_q": "13-130-q-473",
+      "title": "",
+      "label": "◆Who knows …？ 「だれが…を知っているのか」 → 「だれも…を知らない」",
+      "content": [
+        { "text": "修辞疑問文の Who knows ...? 「だれが…を知っているのか」 は、その反対の Nobody knows .... 「だれも…を知らない」 が実際に言いたいこと。" },
+        { "text": "本問の他動詞 knows の目的語は the trouble we have experienced で、 the trouble の直後には目的格の関係代名詞 which [that] が省略されている。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "△注意", "text": "Who knows? 「知らないね／何とも言えない／やってみなきゃわからない」 という会話の定型表現としても使われる場合がある。" }
+      ]
+    },
+    {
+      "order": 1190,
+      "id": "13-130-q-474",
+      "type": "question",
+      "section_id": "130",
+      "number": "474",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "そんなことをして何の役に立つのでしょうか。\n(the / is / what / of / use) doing such a thing?",
+      "q_type": "ordering",
+      "ja": "そんなことをして何の役に立つのでしょうか。",
+      "answer": "What is the use of",
+      "source_univ": "西日本工業大"
+    },
+    {
+      "order": 1191,
+      "id": "13-130-e-474",
+      "type": "explanation",
+      "target_q": "13-130-q-474",
+      "title": "",
+      "label": "◆What is the use of doing …？ 「…して何の役に立つのか」 → 「…しても何の役にも立たない」",
+      "content": [
+        { "text": "修辞疑問文の What is the use of doing ...? の直訳の 「…することの何の有益は何か」 から 「…して何の役に立つのか」 という意味になる。反対の意味の It is no use doing .... 「…しても何の役にも立たない」 → 「…してもむだだ」 (→ 161) が実際に言いたいこと。" }
+      ],
+      "solution": [],
+      "appendix": []
+    }
+  ]
+}

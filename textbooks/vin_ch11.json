@@ -1,0 +1,1865 @@
+{
+  "metadata": {
+    "source": "vin4",
+    "field": "grammar",
+    "chapter_id": "11",
+    "chapter_title": "比較"
+  },
+  "items": [
+    {
+      "order": 944,
+      "type": "section_header",
+      "section_id": "106",
+      "title": "原級を用いた比較"
+    },
+    {
+      "order": 945,
+      "id": "11-106-c-034",
+      "type": "confirmation_box",
+      "target_s": "106",
+      "number": "034",
+      "title": "原級を用いた比較表現 〈A as + 原級 + as B〉 の基本構造",
+      "content": [
+        { "tag": "(1)", "text": "何（A）と何（B）が比較されているのかを明確にする。" },
+        { "tag": "(2)", "label": "「比較の基準となる語」", "text": "どのような基準において比較されているのかを表す語を明確にする。「比較の基準となる語」は形容詞か副詞。" },
+        { "tag": "(3)", "text": "副詞 as が「比較の基準となる語」の原級の直前に置かれ、接続詞 as で2つの文がつなげられているという構造。" },
+        { "en": "I am tall. + He is tall.", "text": "→ I am **as tall as** he (is) tall. \n＊as 以下の代名詞は目的格になることもある。" },
+        { "tag": "*", "text": "2つ目の基準となる語は必ず消去される。2つの文に共通する同意の表現は省略してよい。同意の表現を代名詞や代動詞で表すこともある。" }
+      ]
+    },
+    {
+      "order": 946,
+      "id": "11-106-q-374",
+      "type": "question",
+      "section_id": "106",
+      "number": "374",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "The crowd was surprised to see that a seven-year-old boy was able to swim as ( ) the teenagers.",
+      "options": ["① fast as", "② fast still", "③ faster so", "④ faster than"],
+      "ja": "7歳の少年が10代の若者と同じくらい速く泳げることがわかり、群衆は驚いた。",
+      "answer": "①",
+      "source_univ": "獨協大"
+    },
+    {
+      "order": 947,
+      "id": "11-106-e-374",
+      "type": "explanation",
+      "target_q": "11-106-q-374",
+      "title": "〈A as + 原級 + as B〉 「AはBと同じくらい…」 ― 副詞が基準",
+      "label": "◆as + 原級 + as",
+      "content": [
+        { "text": "〈A as + 原級 + as B〉 は、AとBを比較して「AはBと同じくらい…」（A＝B）という意味を表す。" }
+      ],
+      "solution": [
+        { "text": "「7歳の少年が速く泳ぐ（A）」ことと「10代の若者が速く泳ぐ（B）」こととを比較している。副詞 fast が「比較の基準となる語」。" },
+        { "text": "A seven-year-old boy was able to swim fast. + The teenagers were able to swim fast.\n→ A seven-year-old boy was able to swim **as fast as** the teenagers (were able to swim fast)." }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 948,
+      "id": "11-106-q-375",
+      "type": "question",
+      "section_id": "106",
+      "number": "375",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "Travelling into the city center is as convenient by subway ( ) by bus.",
+      "options": ["① instead of", "② than it is", "③ as it is", "④ compared to"],
+      "ja": "街の中心に移動するのはバスと同じくらい地下鉄も便利だ。",
+      "answer": "③",
+      "source_univ": "福岡大"
+    },
+    {
+      "order": 949,
+      "id": "11-106-e-375",
+      "type": "explanation",
+      "target_q": "11-106-q-375",
+      "title": "〈A as + 原級 + as B〉 「AはBと同じくらい…」 ― 形容詞が基準",
+      "label": "◆as + 原級 + as",
+      "content": [],
+      "solution": [
+        { "text": "「地下鉄で移動する便利さ（A）」と「バスで移動する便利さ（B）」とを比較。形容詞 convenient が「比較の基準となる語」。Travelling into the city center は動名詞句で、全体の主語。" },
+        { "text": "Bにあたる部分の it is by bus は、travelling into the city center is convenient by bus の基準 convenient を省略して、travelling into the city center を it で代用した表現。" },
+        { "text": "Travelling into the city center is convenient by subway. + Travelling into the city center is convenient by bus.\n→ Travelling into the city center is as convenient by subway as [travelling into the city center] is convenient by bus.\n→ Travelling into the city center is as convenient by subway as **it** is by bus." }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 950,
+      "id": "11-106-q-376",
+      "type": "question",
+      "section_id": "106",
+      "number": "376",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "This movie (say / not / it / interesting / people / as / is / so) is.",
+      "q_type": "ordering",
+      "ja": "この映画は皆が言うほど面白くない。",
+      "answer": "is not so interesting as people say it",
+      "source_univ": "中央大"
+    },
+    {
+      "order": 951,
+      "id": "11-106-e-376",
+      "type": "explanation",
+      "target_q": "11-106-q-376",
+      "title": "〈A not as[so] + 原級 + as B〉 「AはBほど…ない」",
+      "label": "◆not as [so] + 原級 + as",
+      "content": [
+        { "text": "〈A not as[so] + 原級 + as B〉 は 〈A as + 原級 + as B〉 の否定形。AとBを比較して「AはBほど…ない」（A < B）という意味を表す。" }
+      ],
+      "solution": [
+        { "text": "この映画に対する、「実際の面白さ（A）」と「人々の言う面白さ（B）」とを比較している。形容詞 interesting が「比較の基準となる語」。" },
+        { "text": "Bにあたる部分の people say it is は、people say (that) this movie is interesting の基準 interesting を省略して、this movie を it で代用した表現。" },
+        { "text": "This movie is interesting. + People say (that) this movie is interesting.\n→ This movie is not so interesting as people say [this movie] is interesting.\n→ This movie is **not so interesting as people say it** is." }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 952,
+      "id": "11-106-q-377",
+      "type": "question",
+      "section_id": "106",
+      "number": "377",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I haven't got (as / as / I really / much / need / money) to complete the project.",
+      "q_type": "ordering",
+      "ja": "私にはその計画をやり遂げるのに十分な資金がありません。",
+      "answer": "as much money as I really need",
+      "source_univ": "大阪電気通信大"
+    },
+    {
+      "order": 953,
+      "id": "11-106-e-377",
+      "type": "explanation",
+      "target_q": "11-106-q-377",
+      "title": "〈A as much + 名詞 + as B〉 「同じくらい（多く）の量の（名詞）」",
+      "label": "◆as + many/much + 名詞 + as",
+      "content": [
+        { "text": "〈A as + 原級 + as B〉 の 「原級」 の部分に 〈much + 不可算名詞〉 や 〈many + 可算名詞（の複数形）〉 を用いて、 〈A as + much / many + 名詞 + as B〉 の形にすることができる。\nI have as many DVDs as you do. 「僕は君と同じくらいの数の DVD を持っている」" }
+      ],
+      "solution": [
+        { "text": "「実際に持っている資金（A）」と「計画をやり遂げるのに十分な資金（B）」とを比較している。ここでは money 。この much は形容詞で、名詞 money を修飾する。" },
+        { "tag": "△注意", "text": "本問の much は副詞ではないので、 (×) I haven't got money as much as ... と much と money を離してはいけない。比較の基準は「多くのお金」なので、形容詞 much と名詞 money を離すことはできない。" },
+        { "text": "I haven't got much money. + I really need much money to complete the project.\n→ I haven't got **as much money as** I really need (much money) to complete the project." }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 954,
+      "type": "section_header",
+      "section_id": "107",
+      "title": "倍数表現"
+    },
+    {
+      "order": 955,
+      "id": "11-107-q-378",
+      "type": "question",
+      "section_id": "107",
+      "number": "378",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Traveling by air costs ( ) taking the train.",
+      "options": ["① as much as twice", "② as much twice as", "③ twice as much as", "④ twice much as"],
+      "ja": "飛行機での移動は、電車の2倍の費用がかかる。",
+      "answer": "③",
+      "source_univ": "愛知産業大"
+    },
+    {
+      "order": 956,
+      "id": "11-107-e-378",
+      "type": "explanation",
+      "target_q": "11-107-q-378",
+      "title": "倍数表現 「2倍」 ― 〈A twice as + 原級 + as B〉 「AはBの2倍…」",
+      "label": "◆倍数表現",
+      "content": [],
+      "solution": [
+        { "text": "「〜の2倍」は **twice** を 〈as + 原級 + as〉 の前に置いて表す。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 957,
+      "id": "11-107-q-379",
+      "type": "question",
+      "section_id": "107",
+      "number": "379",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Carol is the daughter of a luxury hotel owner, and last month she bought a sports car which was ( ) as mine.",
+      "options": ["① as ten times expensive", "② ten times as expensive", "③ more ten times expensive", "④ ten times more expensive"],
+      "ja": "キャロルは高級ホテルのオーナーの娘で、先月、私の車の10倍の値段のスポーツカーを購入した。",
+      "answer": "②",
+      "source_univ": "愛知学院大"
+    },
+    {
+      "order": 958,
+      "id": "11-107-e-379",
+      "type": "explanation",
+      "target_q": "11-107-q-379",
+      "title": "倍数表現 「〜倍」 ― 〈A ten times as + 原級 + as B〉 「AはBの10倍…」",
+      "label": "◆倍数表現",
+      "content": [],
+      "solution": [
+        { "text": "3倍以上の「〜倍」は **〜 times** で表す。「〜」には three, four, five などの数詞が入る。" },
+        { "text": "比較対象の mine は所有代名詞で my car の代用。 → 720" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 959,
+      "id": "11-107-q-380",
+      "type": "question",
+      "section_id": "107",
+      "number": "380",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "前の事務所の大きさは新しい事務所の3分の1だった。\nOur old office (large / as / third / was / one) as our new one.",
+      "q_type": "ordering",
+      "ja": "前の事務所の大きさは新しい事務所の3分の1だった。",
+      "answer": "was one third as large",
+      "source_univ": "関東学院大"
+    },
+    {
+      "order": 960,
+      "id": "11-107-e-380",
+      "type": "explanation",
+      "target_q": "11-107-q-380",
+      "title": "倍数表現 「分数」 ― 〈A one third as + 原級 + as B〉 「AはBの3分の1…」",
+      "label": "◆倍数表現",
+      "content": [
+        { "text": "倍数に分数を用いることができる。分数は 〈分子 + 分母〉 で表す。分子には one, two, three などの基数を、分母には third, fifth, sixth などの序数を使う。分子が2以上のときは分母を複数形にする。one third 「3分の1」、two thirds 「3分の2」（3分の1が2つあるから複数形になると考えればよい）" },
+        { "tag": "△注意", "text": "分子と分母の間にハイフン (-) をつける場合と、つけない場合の両方がある。" }
+      ],
+      "solution": [
+        { "text": "比較対象の our new one は our new office の代用。 〈形容詞 + one〉 については 707 を参照。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 961,
+      "id": "11-107-q-381",
+      "type": "question",
+      "section_id": "107",
+      "number": "381",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "このエアコンの消費電力はあのエアコンの2分の1だ。\nThis air conditioner uses (electricity / much / as / that / one / as / half).",
+      "q_type": "ordering",
+      "ja": "このエアコンの消費電力はあのエアコンの2分の1だ。",
+      "answer": "half as much electricity as that",
+      "source_univ": "九州産業大"
+    },
+    {
+      "order": 962,
+      "id": "11-107-e-381",
+      "type": "explanation",
+      "target_q": "11-107-q-381",
+      "title": "倍数表現 「2分の1」 ― 〈A half as + 原級 + as B〉 「AはBの2分の1…」",
+      "label": "◆倍数表現",
+      "content": [
+        { "text": "倍数が「2分の1、4分の1、4分の3、1.5倍」のときには、それぞれ half, a quarter, three quarters, one and a half という表現を使うのが一般的。" }
+      ],
+      "solution": [
+        { "text": "比較対象の that one は that air conditioner の代用。" },
+        { "text": "本問の much は electricity を修飾する形容詞。副詞ではないので、 (×) This air conditioner uses half electricity **as much as** that ... とすることはできない。比較の基準は much electricity 「多くの電力」 なので、形容詞 much と名詞 electricity を離すことはできない。 → 377" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 963,
+      "id": "11-107-q-382",
+      "type": "question",
+      "section_id": "107",
+      "number": "382",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Our new computer is almost ( ) conventional ones.",
+      "options": ["① half size", "② half the size of", "③ half of the size", "④ the half size"],
+      "ja": "私たちの新しいコンピューターは従来のものとほぼ半分の大きさだ。",
+      "answer": "②",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 964,
+      "id": "11-107-e-382",
+      "type": "explanation",
+      "target_q": "11-107-q-382",
+      "title": "名詞を用いた倍数表現 ― 〈A half the + 名詞 + of B〉 「AはBの2分の1…」",
+      "label": "◆倍数表現",
+      "content": [
+        { "text": "名詞を用いた 〈倍数 + the + 名詞 + of 〜〉 という倍数表現もある。よく用いられる名詞は number「数」 (←many), amount「量」 (←much), size「大きさ」 (←large), weight「重さ」 (←heavy), length「長さ」 (←long), height「高さ」 (←high), depth「深さ」 (←deep), speed「速さ」 (←fast) など。" },
+        { "tag": "△注意", "text": "This coat is **twice the length of** that one. = This coat is **twice as long as** that one.\n「このコートはあのコートの2倍の長さがある」" }
+      ],
+      "solution": [
+        { "text": "Our new computer is almost **half as large as** conventional ones." }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 965,
+      "id": "11-107-q-383",
+      "type": "question",
+      "section_id": "107",
+      "number": "383",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "A car (approximately one-tenth / runs / speed / at / of / the) a jet plane.",
+      "q_type": "ordering",
+      "ja": "車はジェット機のおよそ10分の1の速さで走る。",
+      "answer": "runs at approximately one-tenth the speed of",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 966,
+      "id": "11-107-e-383",
+      "type": "explanation",
+      "target_q": "11-107-q-383",
+      "title": "名詞を用いた倍数表現 ― 〈A one-tenth the + 名詞 + of B〉 「AはBの10分の1…」",
+      "label": "◆倍数表現",
+      "content": [],
+      "solution": [
+        { "text": "A car runs approximately **one-tenth as fast as** a jet plane." }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "at the speed of A 「Aの速さで」" }
+      ]
+    },
+    {
+      "order": 967,
+      "type": "section_header",
+      "section_id": "108",
+      "title": "原級を用いた慣用表現"
+    },
+    {
+      "order": 968,
+      "id": "11-108-q-384",
+      "type": "question",
+      "section_id": "108",
+      "number": "384",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "We didn't want to go home, so we killed ( ) at the restaurant.",
+      "options": ["① time as much as possible", "② as much time as possible", "③ as much as time", "④ many time as we liked"],
+      "ja": "私たちは家に帰りたくなかったので、レストランでできる限りの時間をつぶした。",
+      "answer": "②",
+      "source_univ": "東京経済大"
+    },
+    {
+      "order": 969,
+      "id": "11-108-e-384",
+      "type": "explanation",
+      "target_q": "11-108-q-384",
+      "title": "〈as + 原級 + as possible〉 「できるだけ…／可能な限り…」 (= 〈as + 原級 + as S can〉)",
+      "label": "◆as + 原級 + as possible",
+      "content": [],
+      "solution": [
+        { "text": "we killed much time ... という文が前提となり、 〈形容詞 + 名詞〉 の much time が基準となるので、 ② as much time as possible が正解。 (×) ① time as much as possible とするミスに注意。 → 377" },
+        { "tag": "≒", "text": "... we killed **as much time as we could** at the restaurant. → 385" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 970,
+      "id": "11-108-q-385",
+      "type": "question",
+      "section_id": "108",
+      "number": "385",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Read this book ( ).",
+      "options": ["① as carefully as you can", "② as carefully as you possible", "③ so carefully as possible", "④ so carefully as you can"],
+      "ja": "できるだけ注意深くこの本を読みなさい。",
+      "answer": "①",
+      "source_univ": "金城学院大"
+    },
+    {
+      "order": 971,
+      "id": "11-108-e-385",
+      "type": "explanation",
+      "target_q": "11-108-q-385",
+      "title": "〈as + 原級 + as S can〉 「できるだけ…／可能な限り…」 (= 〈as + 原級 + as possible〉)",
+      "label": "◆as + 原級 + as S can",
+      "content": [],
+      "solution": [
+        { "text": "本問は命令文なので、 〈as + 原級 + as S can〉 の S には、命令する相手である you を用いる。" },
+        { "tag": "▶", "text": "Read this book **as carefully as possible.** → 384" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 972,
+      "id": "11-108-q-386",
+      "type": "question",
+      "section_id": "108",
+      "number": "386",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "(a) She is a singer rather than an actress.\n(b) She is ( ) ( ) ( ) an actress ( ) a singer.",
+      "q_type": "completion",
+      "ja": "(a) (b) 彼女は女優というよりむしろ歌手だ。",
+      "answer": "not so much as",
+      "source_univ": "大阪教育大"
+    },
+    {
+      "order": 973,
+      "id": "11-108-e-386",
+      "type": "explanation",
+      "target_q": "11-108-q-386",
+      "title": "not so much A as B 「Aというよりは（むしろ）B」 (= B rather than A)",
+      "label": "◆not so much A as B",
+      "content": [],
+      "solution": [
+        { "text": "B rather than A を not so much A as B に書きかえる問題。AとBの順番に気をつける。 → 396" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 974,
+      "id": "11-108-q-387",
+      "type": "question",
+      "section_id": "108",
+      "number": "387",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "He did not ( ) a word of thanks when I helped him with his assignment.",
+      "options": ["① so to say", "② say so much", "③ so much as say", "④ much as say as"],
+      "ja": "私が彼の宿題を手伝ったとき、彼は感謝の言葉さえ言わなかった。",
+      "answer": "③",
+      "source_univ": "北里大"
+    },
+    {
+      "order": 975,
+      "id": "11-108-e-387",
+      "type": "explanation",
+      "target_q": "11-108-q-387",
+      "title": "not so much as do 「…さえしない」 (= not even do)",
+      "label": "◆not so much as do",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 976,
+      "id": "11-108-q-388",
+      "type": "question",
+      "section_id": "108",
+      "number": "388",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The angry person went away without so much ( ) some apologetic words.",
+      "options": ["① as saying", "② in saying", "③ saying", "④ saying about"],
+      "ja": "謝罪の言葉すら言わずに、その怒った人は立ち去った。",
+      "answer": "①",
+      "source_univ": "鹿児島大"
+    },
+    {
+      "order": 977,
+      "id": "11-108-e-388",
+      "type": "explanation",
+      "target_q": "11-108-q-388",
+      "title": "without so much as doing 「…さえしないで」 (= without even doing)",
+      "label": "◆without so much as doing",
+      "content": [],
+      "solution": [
+        { "text": "この慣用表現は 387 の not so much as do の not が前置詞 without に変わり、原形 do が動名詞 doing に変わったと理解すればよい。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 978,
+      "id": "11-108-q-389",
+      "type": "question",
+      "section_id": "108",
+      "number": "389",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "He is ( ) diligent a man as ever lived.",
+      "options": ["① as", "② such", "③ very", "④ more"],
+      "ja": "彼はきわめて勤勉な男だ。",
+      "answer": "①",
+      "source_univ": "愛知工業大"
+    },
+    {
+      "order": 979,
+      "id": "11-108-e-389",
+      "type": "explanation",
+      "target_q": "11-108-q-389",
+      "title": "〈as + 原級 + as ever lived〉 「今までにないほど…／並外れて…」",
+      "label": "◆as + 原級 + as ever lived",
+      "content": [
+        { "text": "「今まで生きたどんな人と同じくらい…」が直訳だが、一種の強調表現として考える。" },
+        { "text": "最初の as が副詞で、基準である形容詞 diligent を修飾するので、 as **diligent a man** as ... のように副詞 as に引っ張られて形容詞 diligent が a の前に移動している。 〈as + 形容詞 + a / an + 名詞 + as〉 の語順については 504 を参照。" },
+        { "tag": "△注意", "text": "as が前置詞の場合 (→ 343) は 〈as a / an + 形容詞 + 名詞〉 の語順になる。\nWe regard him as **a diligent man.** 「私たちは彼を勤勉な男だと見なしている」" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 980,
+      "id": "11-108-q-390",
+      "type": "question",
+      "section_id": "108",
+      "number": "390",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "This is as difficult a task as ( ) I have ever faced.",
+      "options": ["① every", "② none", "③ any", "④ much"],
+      "ja": "これは私が今まで直面したどの課題にも劣らず困難な課題だ。",
+      "answer": "③",
+      "source_univ": "追手門学院大"
+    },
+    {
+      "order": 981,
+      "id": "11-108-e-390",
+      "type": "explanation",
+      "target_q": "11-108-q-390",
+      "title": "〈as + 原級 + as any (+ 名詞)〉 「（〜する）どれ［だれ］にも劣らず…／極めて…」",
+      "label": "◆as + 原級 + as any",
+      "content": [
+        { "text": "この表現は「どれ［だれ］とも同じくらい…」が直訳だが、一種の強調表現として理解する。" },
+        { "text": "... any (task) (which) I have ever faced と補って考えればよい。" },
+        { "text": "as difficult a task as は 〈as + 形容詞 + a / an + 名詞 + as〉 の語順になっている。 → 504" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 982,
+      "type": "section_header",
+      "section_id": "109",
+      "title": "原級を用いて数量の多少を強調する表現"
+    },
+    {
+      "order": 983,
+      "id": "11-109-q-391",
+      "type": "question",
+      "section_id": "109",
+      "number": "391",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "We were surprised to hear that ( ) 200 people attended the lecture.",
+      "options": ["① so many", "② as much", "③ so much as", "④ as many as"],
+      "ja": "200人もの人々がその講義に出席したと聞いて、私たちは驚いた。",
+      "answer": "④",
+      "source_univ": "昭和大"
+    },
+    {
+      "order": 984,
+      "id": "11-109-e-391",
+      "type": "explanation",
+      "target_q": "11-109-q-391",
+      "title": "as many as A 「Aも（多くの）」",
+      "label": "◆as many as",
+      "content": [],
+      "solution": [
+        { "text": "④ as many as を選ぶと、数が多いことを強調する。 as many as 200 people 「200人もの人々」となる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 985,
+      "id": "11-109-q-392",
+      "type": "question",
+      "section_id": "109",
+      "number": "392",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "In some parts of the world, people working six or seven days a week make ( ) four dollars.",
+      "options": ["① little as", "② as few as", "③ many as", "④ as little as"],
+      "ja": "世界の一部の地域では、週に6、7日働いてもわずか4ドルしか稼げない人たちもいる。",
+      "answer": "④",
+      "source_univ": "大東文化大"
+    },
+    {
+      "order": 986,
+      "id": "11-109-e-392",
+      "type": "explanation",
+      "target_q": "11-109-q-392",
+      "title": "as little as A 「わずか A ／ Aしか…ない」",
+      "label": "◆as little as",
+      "content": [],
+      "solution": [
+        { "text": "④ as little as を選ぶと、量が少ないことを強調する。 as little as four dollars 「わずか4ドル」となり、文意が成立する。" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "as many[few] as A は「数」が多い［少ない］ことを、as much[little] as A は「量」が多い［少ない］ことを強調する表現。英語では一般的に「時間・年齢・距離・金額・重量」などは「数」ではなく「量」とみなされるので、本問の four dollars (金額) には as little as が用いられる。よって、 (×) as few as four dollars は不可。" },
+        { "tag": "重要", "text": "a week 「1週間につき／1週間あたり」" }
+      ]
+    },
+    {
+      "order": 987,
+      "id": "11-109-s-029",
+      "type": "summary_box",
+      "target_s": "109",
+      "number": "029",
+      "title": "原級を用いて数量の多少を強調する表現",
+      "content": [
+        { "tag": "①", "en": "as many as A", "ja": "Aも（多くの）", "text": "数が多いことを強調。Aは〈数詞+可算名詞（の複数形）〉", "note": "→ 391" },
+        { "tag": "②", "en": "as few as A", "ja": "わずか A ／ Aしか…ない", "text": "数が少ないことを強調。Aは〈数詞+可算名詞（の複数形）〉", "note": "→ 392" },
+        { "tag": "③", "en": "as much as A", "ja": "Aも（多くの）", "text": "量が多いことを強調。Aは〈数詞+不可算名詞〉" },
+        { "tag": "④", "en": "as little as A", "ja": "わずか A ／ Aしか…ない", "text": "量が少ないことを強調。Aは〈数詞+不可算名詞〉", "note": "→ 392" },
+        { "label": "例文で確認", "items": [
+          { "en": "As many as 100 students attended the class.", "ja": "「100人もの学生がその授業に出席した」" },
+          { "en": "As few as 10 students attended the class.", "ja": "「その授業に出た学生はわずか10人だった／10人の学生しかその授業に出なかった」" },
+          { "en": "I paid as much as $500 for the repairs.", "ja": "「私はその修理に500ドルも（の大金を）払った」" },
+          { "en": "I paid as little as $5 for the repairs.", "ja": "「私がその修理に払ったのはわずか5ドルだった／私はその修理に5ドルしか払わなかった」" }
+        ]}
+      ]
+    },
+    {
+      "order": 988,
+      "id": "11-109-q-393",
+      "type": "question",
+      "section_id": "109",
+      "number": "393",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "They invented printing as ( ) as the fifteenth century.",
+      "options": ["① soon", "② quickly", "③ fast", "④ early"],
+      "ja": "早くも15世紀に彼らは印刷術を発明した。",
+      "answer": "④",
+      "source_univ": "芝浦工業大"
+    },
+    {
+      "order": 989,
+      "id": "11-109-e-393",
+      "type": "explanation",
+      "target_q": "11-109-q-393",
+      "title": "as early as A 「早くも A (時代・年齢) に」",
+      "label": "◆as early as",
+      "content": [
+        { "text": "as early as A は 「早くも A (時代・年齢) に」 という意味で、時期の早さを強調する。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "プラス", "text": "as late as A は 「ほんの［つい］ A (ほど最近) まで」 という意味。as early as とは反対に「時期の遅さ」を強調する。\nHe was still using a typewriter as late as the 1990s.\n「彼は1990年代になってもまだタイプライターを使っていた」" }
+      ]
+    },
+    {
+      "order": 990,
+      "type": "section_header",
+      "section_id": "110",
+      "title": "比較級を用いた表現"
+    },
+    {
+      "order": 991,
+      "id": "11-110-c-035",
+      "type": "confirmation_box",
+      "target_s": "110",
+      "number": "035",
+      "title": "比較級を用いた比較表現 〈A + 比較級 + than B〉 の基本構造",
+      "content": [
+        { "tag": "(1)", "text": "比較する2つの物事 AとB を明確にする。 〈A + 比較級 + than B〉 では、AとBを比較して 「Aは Bより…」 (A > B) という意味を表す。" },
+        { "tag": "(2)", "text": "「比較の基準となる語」 が比較級になり、2つの文が接続詞 than でつなげられている。" },
+        { "en": "I am tall. + He is tall.", "text": "→ I am **taller than** he (is) tall. \n＊than 以下の代名詞は目的格になることも多い。" },
+        { "tag": "*", "text": "2つ目の基準となる語は必ず消去される。2つの文に共通する同意の表現は省略してよい。同意の表現を代名詞や代動詞で表すこともできる。" }
+      ]
+    },
+    {
+      "order": 992,
+      "id": "11-110-q-394",
+      "type": "question",
+      "section_id": "110",
+      "number": "394",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Jiro's car is ( ) more economical than my car.",
+      "options": ["① so", "② too", "③ much", "④ very"],
+      "ja": "ジロウの車は私の車よりもはるかに経済的だ。",
+      "answer": "③",
+      "source_univ": "東京都市大"
+    },
+    {
+      "order": 993,
+      "id": "11-110-e-394",
+      "type": "explanation",
+      "target_q": "11-110-q-394",
+      "title": "比較級を強調する much",
+      "label": "◆比較級の強調",
+      "content": [
+        { "text": "「ずっと…」「はるかに…」のように比較級を強調する場合は、 **much, far, still, even, a lot** などの副詞（句）を比較級の直前に置く。" }
+      ],
+      "solution": [
+        { "text": "比較級 more economical を強調できるのは ③ much だけ。" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "very は比較級を強調できない。" }
+      ]
+    },
+    {
+      "order": 994,
+      "id": "11-110-q-395",
+      "type": "question",
+      "section_id": "110",
+      "number": "395",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "(a) Mike is not so ill-tempered as his elder brother.\n(b) Mike is ( ) ill-tempered ( ) his elder brother.",
+      "q_type": "completion",
+      "ja": "(a) マイクは彼の兄ほど怒りっぽくない。(b) マイクは彼の兄ほど怒りっぽくない。",
+      "answer": "less than",
+      "source_univ": "福岡歯科大"
+    },
+    {
+      "order": 995,
+      "id": "11-110-e-395",
+      "type": "explanation",
+      "target_q": "11-110-q-395",
+      "title": "〈A less + 原級 + than B〉 「AはBほど…ない」",
+      "label": "◆less + 原級 + than",
+      "content": [
+        { "text": "〈A less + 原級 + than B〉 は 「Aは Bほど…ない」 (A < B) という意味で、 〈A not as[so] + 原級 + as B〉 (→ 376) とほぼ同じ意味と考えてよい。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 996,
+      "id": "11-110-q-396",
+      "type": "question",
+      "section_id": "110",
+      "number": "396",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "He is ( ) than clever.",
+      "options": ["① wise", "② wiser", "③ more wise", "④ the most wise"],
+      "ja": "彼は利口というよりよりも聡明だ。",
+      "answer": "③",
+      "source_univ": "愛知淑徳大"
+    },
+    {
+      "order": 997,
+      "id": "11-110-e-396",
+      "type": "explanation",
+      "target_q": "11-110-q-396",
+      "title": "more A (原級) than B (原級) 「Bよりはむしろ A」 (= A rather than B)",
+      "label": "◆more A than B",
+      "content": [
+        { "text": "同一の人物や事物の持つ、2つの異なる性質・状態を比較する場合は、-er をつけて比較級を作る形容詞でも 〈more + 原級〉 という形にして、 more A (原級) than B (原級) 「Bよりは（むしろ） A」 という表現を用いる。" }
+      ],
+      "solution": [
+        { "text": "本問は「彼」という同一の人物の持つ、「聡明な (wise)」と「利口な (clever)」という2つの異なる性質を比較しているので、形容詞 wise の比較級 wiser ではなく、 ③ more wise が正解。" },
+        { "tag": "▶", "text": "He is wise rather than clever. = He is not so much clever as wise. → 386" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "異なる人物や物事を、1つの形容詞を基準にして比較する場合と混同しないこと。\n「彼は私よりも聡明だ」 (→ He と I という異なる人物を、wise という1つの基準で比較)\n(○) He is wiser than I.\n(×) He is more wise than I." }
+      ]
+    },
+    {
+      "order": 998,
+      "id": "11-110-q-397",
+      "type": "question",
+      "section_id": "110",
+      "number": "397",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Betelgeuse, a star in the constellation of Orion, has a diameter (700 / larger / of / sun / than / that / the / times).",
+      "q_type": "ordering",
+      "ja": "オリオン座の星ベテルギウスは直径が太陽の700倍もある。",
+      "answer": "700 times larger than that of the sun",
+      "source_univ": "成蹊大"
+    },
+    {
+      "order": 999,
+      "id": "11-110-e-397",
+      "type": "explanation",
+      "target_q": "11-110-q-397",
+      "title": "〈A + 倍数 + 比較級 + than B〉 「AはBの〜倍…」 (= 〈A + 倍数 + as + 原級 + as B〉)",
+      "label": "◆倍数 + 比較級 + than",
+      "content": [
+        { "text": "〈A + 倍数 + 比較級 + than B〉 は 〈A + 倍数 + as + 原級 + as B〉 (→ Section 107 (p. 177)) と同意。" }
+      ],
+      "solution": [
+        { "text": "「…の700倍（大きな直径）」は、倍数を比較級 larger の直前に置く。" },
+        { "text": "「ベテルギウスの直径 (A)」と「太陽の直径 (B)」を比較しており、Bにあたる that of the sun の that は代名詞で、 diameter を表している。 → 715" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1000,
+      "id": "11-110-q-398",
+      "type": "question",
+      "section_id": "110",
+      "number": "398",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "John is ( ) of the two boys.",
+      "options": ["① the most tall", "② taller", "③ the taller", "④ more tall"],
+      "ja": "ジョンは2人の少年のうちの背の高い方だ。",
+      "answer": "③",
+      "source_univ": "青山学院大"
+    },
+    {
+      "order": 1001,
+      "id": "11-110-e-398",
+      "type": "explanation",
+      "target_q": "11-110-q-398",
+      "title": "〈the + 比較級 + of the two (+ 名詞)〉 「2つ［2人］の（名詞）の中でより…」",
+      "label": "◆the + 比較級 + of the two",
+      "content": [
+        { "text": "この表現は2つ［2人］の要素を比べているので比較級を用いる。「より…な方」は自然と1つ［1人］に決まるので、特定を示す定冠詞 the を比較級の前に付けたと考える。" }
+      ],
+      "solution": [
+        { "text": "問題文の of the two boys に注目すれば、文意が成立するのは ③ the taller だけ。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1002,
+      "type": "section_header",
+      "section_id": "111",
+      "title": "〈the + 比較級〉 を用いた表現"
+    },
+    {
+      "order": 1003,
+      "id": "11-111-q-399",
+      "type": "question",
+      "section_id": "111",
+      "number": "399",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "( ) went on, the more tired the players became.",
+      "options": ["① The long game", "② Longer game", "③ The longer the game", "④ The longest the game"],
+      "ja": "試合が長引けば長引くほど、選手たちはますます疲れてきた。",
+      "answer": "③",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 1004,
+      "id": "11-111-e-399",
+      "type": "explanation",
+      "target_q": "11-111-q-399",
+      "title": "〈the + 比較級 ..., the + 比較級 〜〉 「…すればするほど、ますます〜」",
+      "label": "◆the + 比較級 ..., the + 比較級 〜",
+      "content": [
+        { "text": "〈the + 比較級 ..., the + 比較級 〜〉 は 「…すればするほど、ますます〜」 という意味を表す。この表現の語順は元の文の語順とは大きく変化するので、必ず元の文を前提にして考えること。" }
+      ],
+      "solution": [
+        { "text": "問題文の the more tired ... に注目して、 (the + 比較級) を用いた ③ The longer the game を選ぶ。" },
+        { "text": "The game went on long. と The players became tired. の2つの文を前提にして、副詞 long と形容詞 tired を (the + 比較級) にして文頭に移動したと考えればよい。\nThe game went on long. + The players became tired.\n→ **The longer** the game went on, **the more tired** the players became." }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "go on 「（事が）長く続く」" }
+      ]
+    },
+    {
+      "order": 1005,
+      "id": "11-111-q-400",
+      "type": "question",
+      "section_id": "111",
+      "number": "400",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "時間をかければかけるほど英語は上達する。\nThe more (you / your / the / improves / time / spend, / more / English).",
+      "q_type": "ordering",
+      "ja": "時間をかければかけるほど英語は上達する。",
+      "answer": "time you spend, the more your English improves",
+      "source_univ": "摂南大"
+    },
+    {
+      "order": 1006,
+      "id": "11-111-e-400",
+      "type": "explanation",
+      "target_q": "11-111-q-400",
+      "title": "〈the + 比較級 ..., the + 比較級 〜〉 「…すればするほど、ますます〜」",
+      "label": "◆the + 比較級 ..., the + 比較級 〜",
+      "content": [],
+      "solution": [
+        { "text": "You spend much time. (形容詞+名詞) と Your English improves much. (副詞) の2つの文を前提にして、 〈形容詞+名詞〉 の much time と副詞 much を (the + 比較級) にして文頭に移動したと考えればよい。\nYou spend much time. + Your English improves much.\n→ **The more time** you spend, **the more** your English improves." },
+        { "tag": "△注意", "text": "(×) the more you spend time は不可。形容詞が名詞を修飾する場合は 〈形容詞+名詞〉 のセットで文頭に移動することに注意しよう。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1007,
+      "id": "11-111-q-401",
+      "type": "question",
+      "section_id": "111",
+      "number": "401",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "ビルは、父親が仕事で忙しいのでますます兄に頼るようになった。\nBill came to depend on (more / brother / was / his / all / his / the / because / father) busy with his job.",
+      "q_type": "ordering",
+      "ja": "ビルは、父親が仕事で忙しいのでますます兄に頼るようになった。",
+      "answer": "his brother all the more because his father",
+      "source_univ": "関西学院大"
+    },
+    {
+      "order": 1008,
+      "id": "11-111-e-401",
+      "type": "explanation",
+      "target_q": "11-111-q-401",
+      "title": "〈(all) the + 比較級 + for + 名詞〉 / 〈(all) the + 比較級 + because SV ...〉 「…なのでそれだけ［いっそう／なおさら］〜」",
+      "label": "◆(all) the + 比較級 + for/because",
+      "content": [
+        { "text": "〈(all) the + 比較級〉 に 「理由」 を表す表現を続けると、「…なのでそれだけ［いっそう／なおさら］〜」 という意味になる。 〈(all) the + 比較級〉 に続ける 「理由」 を表す表現は、 for (+ 名詞) や because SV ... などを用いる。" }
+      ],
+      "solution": [
+        { "text": "選択肢に because があるので、「父親が仕事で忙しいので」という 「理由」 を because SV で表す。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1009,
+      "id": "11-111-q-402",
+      "type": "question",
+      "section_id": "111",
+      "number": "402",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "ジェームズは裕福であっても少しも幸せではない。（2語不要）\nJames is (for / happier / happy / less / none / the) his wealth.",
+      "q_type": "ordering",
+      "ja": "ジェームズは裕福であっても少しも幸せではない。",
+      "answer": "none the happier for",
+      "source_univ": "東京理科大"
+    },
+    {
+      "order": 1010,
+      "id": "11-111-e-402",
+      "type": "explanation",
+      "target_q": "11-111-q-402",
+      "title": "〈none the + 比較級 + for + 名詞〉 / 〈none the + 比較級 + because SV ...〉 「…だからといって、少しも〜ない」",
+      "label": "◆none the + 比較級 + for/because",
+      "content": [
+        { "text": "〈none the + 比較級〉 に 「理由」 を表す表現を続けると、「…だからといって、少しも〜ない」 という意味になる。 401 の表現の否定形として理解しよう。" },
+        { "text": "「裕福であっても」 を 〈for + 名詞〉 で表す。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "プラス", "text": "none the less for A 「A にもかかわらず」 は慣用表現として覚えよう。\nI love him **none the less** for his faults. 「彼の欠点にもかかわらず、私は彼が好きだ」" }
+      ]
+    },
+    {
+      "order": 1011,
+      "type": "section_header",
+      "section_id": "112",
+      "title": "〈no + 比較級 + than〉 などを用いた表現"
+    },
+    {
+      "order": 1012,
+      "id": "11-112-q-403",
+      "type": "question",
+      "section_id": "112",
+      "number": "403",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "1か月以上も海外にいたら，日本食が食べたくなるでしょうね。\nI will begin to miss Japanese food (a month / I / than / more / if / stay abroad for).",
+      "q_type": "ordering",
+      "ja": "1か月以上も海外にいたら，日本食が食べたくなるでしょうね。",
+      "answer": "if I stay abroad for more than a",
+      "source_univ": "和洋女子大"
+    },
+    {
+      "order": 1013,
+      "id": "11-112-e-403",
+      "type": "explanation",
+      "target_q": "11-112-q-403",
+      "title": "more than A (数量) 「A以上／Aより多い」",
+      "label": "◆more than",
+      "content": [
+        { "tag": "→", "note": "しっかり理解 019" }
+      ],
+      "solution": [
+        { "text": "「1か月以上」は more than a month で表す。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1014,
+      "id": "11-112-q-404",
+      "type": "question",
+      "section_id": "112",
+      "number": "404",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "京都まではバスで2時間かかりません。\n(two hours / journey to / less than / the bus / takes / Kyoto).",
+      "q_type": "ordering",
+      "ja": "京都まではバスで2時間かかりません。",
+      "answer": "The bus journey to Kyoto takes less than two",
+      "source_univ": "桃山学院大"
+    },
+    {
+      "order": 1015,
+      "id": "11-112-e-404",
+      "type": "explanation",
+      "target_q": "11-112-q-404",
+      "title": "less than A (数量) 「A未満／Aより少ない」",
+      "label": "◆less than",
+      "content": [],
+      "solution": [
+        { "text": "「京都までのバスの行程は2時間かからない」という構造の文を作る。「2時間かからない→2時間未満かかる」を less than two hours とまとめる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1016,
+      "id": "11-112-q-405",
+      "type": "question",
+      "section_id": "112",
+      "number": "405",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "I had no more than two thousand yen when I arrived at the station.",
+      "options": ["① much", "② often", "③ only", "④ as much as"],
+      "ja": "駅に着いたとき、私はわずか2,000円しか持っていなかった。",
+      "answer": "③",
+      "source_univ": "流通経済大"
+    },
+    {
+      "order": 1017,
+      "id": "11-112-e-405",
+      "type": "explanation",
+      "target_q": "11-112-q-405",
+      "title": "no more than A (数量) 「わずか A ／ Aしか…ない」",
+      "label": "◆no more than",
+      "content": [
+        { "text": "more than A 「Aより多い」 (→ 403) という表現の直前に、否定語 no を置いた no more than A は、more than A を強く否定することから 「わずか A (たくさん) …ない」 (= only) という意味になり、数・量の少なさを強調している。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1018,
+      "id": "11-112-q-406",
+      "type": "question",
+      "section_id": "112",
+      "number": "406",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "(a) The painting cost him no less than a million dollars.\n(b) He paid as ( ) as a million dollars for the painting.",
+      "q_type": "completion",
+      "ja": "(a) (b) 彼はその絵に100万ドルも支払った。",
+      "answer": "much",
+      "source_univ": "北海道文教大"
+    },
+    {
+      "order": 1019,
+      "id": "11-112-e-406",
+      "type": "explanation",
+      "target_q": "11-112-q-406",
+      "title": "no less than A (数量) 「Aも（たくさん）」",
+      "label": "◆no less than",
+      "content": [
+        { "text": "less than A 「Aより少ない」 (→ 404) という表現の直前に、否定語 no を置いた no less than A は、less than A を強く否定することから 「Aも（たくさん）」 (= as many [much] as) という意味になり、数・量の多さを強調している。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "③ many は不可。a million dollars は金額なので量として扱う。 → 392 の △注意" }
+      ]
+    },
+    {
+      "order": 1020,
+      "id": "11-112-d-019",
+      "type": "deep_dive",
+      "target_s": "112",
+      "number": "019",
+      "title": "more than A と no less than A の意味の違い",
+      "content": [
+        { "text": "more than A は 「A（数量）より多い」 (→ 403) という意味。 A よりどのくらい多いかを表すには、直前に much や a little などを置いて、 much more than A 「A よりはるかに多い」 (→ 394)、 a little more than A 「A より少し多い」 となる。この much や a little は 「A を超える幅」 を表しているので、 「A を超える幅がゼロ」 の場合は no more than A 「A よりゼロも多くない」 、結局 「A と同じ」 ということになる。同様に no less than A も 「A よりゼロも少なくない ＝ A と同じ」 ということ。" },
+        { "text": "つまり、 no more than A も no less than A も 「A と同じ」 ということを表すのだが、両者には 「（数量）に対する話者の気持ち」 に大きな違いがある。例えば 「1万円」 という同じ金額をどのように評価するかは個人差がある。そういう場合に no more than 10,000 yen 「1万円しかいない」 、 no less than 10,000 yen 「1万円もある」 という表現を用いて、同じ客観的な数量に対する異なる気持ちを表すことができる。" }
+      ]
+    },
+    {
+      "order": 1021,
+      "id": "11-112-s-030",
+      "type": "summary_box",
+      "target_s": "112",
+      "number": "030",
+      "title": "no more[less] than A と not more[less] than A",
+      "content": [
+        { "text": "左頁の しっかり理解 019 もよく読んで、理解して覚えよう。" },
+        { "tag": "□ no more than A", "ja": "「わずか A ／ Aしかない」", "text": "← A と否定的に同じ（少ないという気持ち）" },
+        { "tag": "□ no less than A", "ja": "「Aも（ある）」", "text": "← A と肯定的に同じ（多いという気持ち）" },
+        { "tag": "cf. not more than A", "ja": "「Aより多くはない＝最大でも A ／多くても A」", "text": "(= at most A)" },
+        { "tag": "cf. not less than A", "ja": "「Aより少なくはない＝最小でも A ／少なくとも A」", "text": "(= at least A)" },
+        { "text": "not more than 10,000 yen 「1万円より多くはない＝最大でも1万円＝1円多くても1万円」" },
+        { "text": "not less than 10,000 yen 「1万円より少なくはない＝最小でも1万円＝少なくとも1万円」" },
+        { "tag": "*", "text": "not は単なる否定なので not more than A と not less than A は直訳でそのまま理解できる。" }
+      ]
+    },
+    {
+      "order": 1022,
+      "type": "section_header",
+      "section_id": "113",
+      "title": "no more ... than / no less ... than の表現"
+    },
+    {
+      "order": 1023,
+      "id": "11-113-q-407",
+      "type": "question",
+      "section_id": "113",
+      "number": "407",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "A whale is ( ) a horse is.",
+      "options": ["① not more a fish than", "② not a fish less than", "③ no more a fish than", "④ not less a mammal than"],
+      "ja": "馬が魚でないのと同様に，クジラも魚ではない。",
+      "answer": "③",
+      "source_univ": "岩手医科大"
+    },
+    {
+      "order": 1024,
+      "id": "11-113-e-407",
+      "type": "explanation",
+      "target_q": "11-113-q-407",
+      "title": "A is no more B than C is (D). 「C (が D でない) と同様に A は B ではない」",
+      "label": "◆no more B than C",
+      "content": [
+        { "text": "A is no more B than C is (D). は、 「C (が D でない) と同様に A は B ではない」 という意味。 B と D に同じ表現が来る場合、 D は省略される。" },
+        { "text": "本問は D にあたる a fish が文末で省略されている。 ... than a horse is **a fish** 「馬が魚でないように」 と補って考えればよい。" },
+        { "text": "この表現の狙いは、 than 以下の C is D が常識的に否定される内容であることを利用して、 「A は B でない」 ということをより効果的に述べる点にある。本問でも 「馬は魚ではない」 ことは常識的に当然で、それと同じように、 「クジラは魚ではない（＝実際は哺乳類だ）」 ということを効果的に述べている。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1025,
+      "id": "11-113-q-408",
+      "type": "question",
+      "section_id": "113",
+      "number": "408",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "I don't believe his story ( ) than you do.",
+      "options": ["① any more", "② as much", "③ no more", "④ not much"],
+      "ja": "あなたが彼の話を信じないのと同様に，私も彼の話を信じません。",
+      "answer": "①",
+      "source_univ": "東北学院大"
+    },
+    {
+      "order": 1026,
+      "id": "11-113-e-408",
+      "type": "explanation",
+      "target_q": "11-113-q-408",
+      "title": "A is not B any more than C is (D). 「C (が D でない) と同様に A は B ではない」",
+      "label": "◆not ... any more than",
+      "content": [
+        { "text": "A is not B any more than C is (D). は、 〈C が D でない〉 と同様に A は B ではない」 という意味。 407 の A is no more B than C is (D). と同意表現で、 no を not any で書きかえたものである。" },
+        { "text": "本問の文末の do は代動詞の do で、 ... than you **believe his story** と考えればよい。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1027,
+      "id": "11-113-q-409",
+      "type": "question",
+      "section_id": "113",
+      "number": "409",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "私には、彼はアインシュタインと同じくらい頭が良いように思える。（1語不足）\nIt seems to me that (Einstein / she / than / is / no / intelligent).",
+      "q_type": "ordering",
+      "ja": "私には、彼はアインシュタインと同じくらい頭が良いように思える。",
+      "answer": "she is no less intelligent than Einstein",
+      "source_univ": "西南学院大"
+    },
+    {
+      "order": 1028,
+      "id": "11-113-e-409",
+      "type": "explanation",
+      "target_q": "11-113-q-409",
+      "title": "A is no less B than C is (D). 「C (が D である) と同様に A は B である」",
+      "label": "◆no less B than C",
+      "content": [
+        { "tag": "→", "note": "しっかり理解 020" },
+        { "text": "A is no less B than C is (D). は、 「C (が D である) と同様に A は B である」 という意味。 B と D に同じ表現が来る場合、 D は省略される。" },
+        { "text": "本問は D にあたる is intelligent が文末に省略されている。 ... than Einstein **was intelligent** 「アインシュタインが頭が良かったように」 と補って考えればよい。" },
+        { "text": "この表現の狙いは、 than 以下の C is D が常識的に肯定される内容であることを利用して、 「A は B である」 ということをより効果的に述べる点にある。本問でも 「アインシュタインが頭が良かった」 ことは常識的に当然で、それと同じように、 「彼女は頭が良い」 ということを効果的に述べている。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1029,
+      "id": "11-113-d-020",
+      "type": "deep_dive",
+      "target_s": "113",
+      "number": "020",
+      "title": "A is no more B than C is (D). と A is no less B than C is (D). の意味の違い",
+      "content": [
+        { "text": "しっかり理解 019 (p. 186) で確認したように、 no more は 「否定的に同じ」 、 no less は 「肯定的に同じ」 という話者の異なる気持ちを表す。この考え方を応用すると、 A is no more B than C is D. は、否定的に 〈A is B = C is D〉 となり、肯定的に 〈A is B = C is D〉 と否定的に表すと理解すればよい。" },
+        { "tag": "● A is no more B than C is D.", "label": "「A が B であること」 と 「C が D であること」 は否定的に同じ", "text": "→ 「クジラが魚であること」 と 「馬が魚であること」 は否定的に同じ\nA whale is no more a fish than a horse is.\n「クジラが魚であること」 と 「馬が魚であること」 は否定的に同じ」\n→ 「馬が魚でないのと同様に，クジラも魚ではない」" },
+        { "tag": "● A is no less B than C is D.", "label": "「A が B であること」 と 「C が D であること」 は肯定的に同じ", "text": "→ 「彼女が頭が良いこと」 と 「アインシュタインが頭が良かったこと」 は肯定的に同じ\nShe is no less intelligent than Einstein.\n「彼女が頭が良いこと」 と 「アインシュタインが頭が良かったこと」 は肯定的に同じ」\n→ 「アインシュタインが頭が良かったのと同様に，彼女は頭が良い」" }
+      ]
+    },
+    {
+      "order": 1030,
+      "type": "section_header",
+      "section_id": "114",
+      "title": "比較級を用いた慣用表現"
+    },
+    {
+      "order": 1031,
+      "id": "11-114-q-410",
+      "type": "question",
+      "section_id": "114",
+      "number": "410",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "The man was none ( ) the writer the journalists had been looking for.",
+      "options": ["① another than", "② anyone or other", "③ other than", "④ some than"],
+      "ja": "その男性は、記者たちが探していた作家に他ならなかった。",
+      "answer": "③",
+      "source_univ": "日本大"
+    },
+    {
+      "order": 1032,
+      "id": "11-114-e-410",
+      "type": "explanation",
+      "target_q": "11-114-q-410",
+      "title": "none other than A 「A に他ならない／他ならぬ A」 (= the very A)",
+      "label": "◆none other than A",
+      "content": [
+        { "text": "〈no + 名詞 + other than A〉 は 「A 以外の（名詞）ではない」 という意味。この 〈no + 名詞〉 を none に変えたのが **none other than A** で、 「A 以外の何ものでもない＝他ならぬ A」 という意味になる。" }
+      ],
+      "solution": [
+        { "tag": "▶", "text": "The man was **the very writer** (that) the journalists had been looking for. → 519" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1033,
+      "id": "11-114-q-411",
+      "type": "question",
+      "section_id": "114",
+      "number": "411",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "その子どもたちは冬に湖で泳ぐような愚かなことはしなかった。\nThe children (swim / to / in / knew / than / better / the) lake in the winter.",
+      "q_type": "ordering",
+      "ja": "その子どもたちは冬に湖で泳ぐような愚かなことはしなかった。",
+      "answer": "knew better than to swim in the",
+      "source_univ": "東京経済大"
+    },
+    {
+      "order": 1034,
+      "id": "11-114-e-411",
+      "type": "explanation",
+      "target_q": "11-114-q-411",
+      "title": "know better than to do 「…するほど愚かではない／…しないだけの分別［思慮］がある」",
+      "label": "◆know better than to do",
+      "content": [
+        { "tag": "≒", "text": "be wise[sensible] enough not to do" }
+      ],
+      "solution": [
+        { "tag": "▶", "text": "know better than のあとには to 不定詞が来ることに注意。" },
+        { "tag": "▶", "text": "The children were **wise [sensible] enough not to swim** in the lake in the winter." }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1035,
+      "id": "11-114-q-412",
+      "type": "question",
+      "section_id": "114",
+      "number": "412",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "私はほとんど英語を話せません。ドイツ語はなおさらです。（コンマを1か所用いること）\nI can (less / much / hardly / speak English / German).",
+      "q_type": "ordering",
+      "ja": "私はほとんど英語を話せません。ドイツ語はなおさらです。",
+      "answer": "hardly speak English, much less German",
+      "source_univ": "足利大"
+    },
+    {
+      "order": 1036,
+      "id": "11-114-e-412",
+      "type": "explanation",
+      "target_q": "11-114-q-412",
+      "title": "〈否定文, much less ...〉 「まして［なおさら］…ない／…ないのは言うまでもない」",
+      "label": "◆much less",
+      "content": [
+        { "tag": "≒", "text": "否定文, still less ... / 否定文, let alone ..." }
+      ],
+      "solution": [
+        { "text": "本問は hardly 「ほとんど…ない」 という否定の意味を表す言葉を伴う。その否定の文に much less を続ける。" },
+        { "tag": "▶", "text": "hardly speak English, **much less** German. = ..., **still less** German. = ..., **let alone** German." }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1037,
+      "id": "11-114-q-413",
+      "type": "question",
+      "section_id": "114",
+      "number": "413",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "When he was driving me home, he told me that he was ( ) longer living with his wife.",
+      "q_type": "completion",
+      "ja": "私を家まで車で送ってくれているときに、妻とはもう一緒には暮らしていないと彼は言った。",
+      "answer": "no",
+      "source_univ": "東洋大"
+    },
+    {
+      "order": 1038,
+      "id": "11-114-e-413",
+      "type": "explanation",
+      "target_q": "11-114-q-413",
+      "title": "no longer ... 「もはや…ない」 (= not ... any longer)",
+      "label": "◆no longer",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "drive A home 「A (人) を家まで車で送る」" },
+        { "tag": "重要", "text": "tell A that SV 「A (人) に…と言う」" }
+      ]
+    },
+    {
+      "order": 1039,
+      "type": "section_header",
+      "section_id": "115",
+      "title": "比較対象に前置詞 to を用いる表現"
+    },
+    {
+      "order": 1040,
+      "id": "11-115-q-414",
+      "type": "question",
+      "section_id": "115",
+      "number": "414",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "Our teacher has told us that DVDs are ( ) videotapes for foreign language learning.",
+      "options": ["① superior to", "② more better than", "③ such good as", "④ useful than"],
+      "ja": "私たちの先生は、外国語を学ぶためにはビデオテープよりも DVD の方が優れていると言っている。",
+      "answer": "①",
+      "source_univ": "東京薬科大"
+    },
+    {
+      "order": 1041,
+      "id": "11-115-e-414",
+      "type": "explanation",
+      "target_q": "11-115-q-414",
+      "title": "A is superior to B 「Bより A が優れている」",
+      "label": "◆A is superior to B",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1042,
+      "id": "11-115-q-415",
+      "type": "question",
+      "section_id": "115",
+      "number": "415",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "I prefer staying home ( ) going out on Sundays.",
+      "options": ["① by", "② for", "③ from", "④ to"],
+      "ja": "私は，日曜日は外出するよりも家にいたい。",
+      "answer": "④",
+      "source_univ": "中央大"
+    },
+    {
+      "order": 1043,
+      "id": "11-115-e-415",
+      "type": "explanation",
+      "target_q": "11-115-q-415",
+      "title": "prefer A to B 「Bより A を好む」",
+      "label": "◆prefer A to B",
+      "content": [],
+      "solution": [
+        { "text": "本問のように A, B に動名詞を用いた prefer doing ... to doing 〜 「〜することよりも…することを好む」 という形も頻出する。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1044,
+      "id": "11-115-q-416",
+      "type": "question",
+      "section_id": "115",
+      "number": "416",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Although he only joined the firm last year, he is ( ) to me already.",
+      "options": ["① better", "② higher", "③ senior", "④ older"],
+      "ja": "彼は去年、入社したばかりだが、すでに僕よりも地位が上である。",
+      "answer": "③",
+      "source_univ": "東京電機大"
+    },
+    {
+      "order": 1045,
+      "id": "11-115-e-416",
+      "type": "explanation",
+      "target_q": "11-115-q-416",
+      "title": "A is senior to B 「Bより A が先輩である／地位が高い／年上である」",
+      "label": "◆A is senior to B",
+      "content": [],
+      "solution": [
+        { "text": "前置詞 to を用いていることから、 ③ senior を選ぶ。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "他の選択肢なら空所のあとは to me ではなく than I [me] でなければならない。" }
+      ]
+    },
+    {
+      "order": 1046,
+      "id": "11-115-s-031",
+      "type": "summary_box",
+      "target_s": "115",
+      "number": "031",
+      "title": "比較対象に前置詞 to を用いる表現",
+      "content": [
+        { "tag": "□", "en": "A is superior to B", "ja": "「Bより A が優れている」", "note": "→ 414" },
+        { "tag": "□", "en": "A is inferior to B", "ja": "「Bより A が劣っている」" },
+        { "tag": "□", "en": "A is senior to B", "ja": "「Bより A が先輩である／地位が高い／年上である」", "note": "→ 416" },
+        { "tag": "□", "en": "A is junior to B", "ja": "「Bより A が後輩である／地位が低い／年下である」" },
+        { "tag": "□", "en": "prefer A to B", "ja": "「Bよりも A を好む」", "note": "→ 415" },
+        { "tag": "□", "en": "A is preferable to B", "ja": "「Bよりも A が好ましい」" },
+        { "tag": "△注意", "text": "前置詞 to のあとの B には名詞や動名詞が来る。不定詞の to と勘違いして原形 do を続けないこと。" }
+      ]
+    },
+    {
+      "order": 1047,
+      "type": "section_header",
+      "section_id": "116",
+      "title": "最上級を用いた表現"
+    },
+    {
+      "order": 1048,
+      "id": "11-116-c-036",
+      "type": "confirmation_box",
+      "target_s": "116",
+      "number": "036",
+      "title": "最上級を用いた表現 〈S is the + 最上級 (+ 名詞) (of A / in A)〉 の基本構造",
+      "content": [
+        { "tag": "(1)", "text": "最上級は 「（Aの中で）Sは最も…である」 という意味を表す表現。 「…」 にあたる部分に 「基準となる語」 の最上級が来る。" },
+        { "tag": "(2)", "text": "「基準となる語」 が 〈形容詞 + 名詞〉 の場合、最上級には必ず前に the をつける (→ 417) 。副詞の場合は、最上級に the をつける場合もあれば、 the をつけない場合もある。" },
+        { "tag": "(3)", "text": "比較の対象となる範囲 「Aの中で」 を明示する場合は、以下の使い分けをする。" },
+        { "text": "・Aが 「その名詞」 と同類の要素やメンバーを現し、原則として複数名詞の場合は 〈of A〉 とする。 → 417, 418" },
+        { "text": "・Aが 「その名詞が存在する場所」 や 「その名詞が所属する」 集団などの名称を表し、原則として単数名詞の場合は 〈in A〉 とする。 → 420" }
+      ]
+    },
+    {
+      "order": 1049,
+      "id": "11-116-q-417",
+      "type": "question",
+      "section_id": "116",
+      "number": "417",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Diamonds are ( ) all substances; they can be cut only by other diamonds.",
+      "options": ["① the hardest of", "② more than hard", "③ harder of", "④ hardest"],
+      "ja": "ダイヤモンドはあらゆる物質の中で最も硬く、別のダイヤモンドによってしか切ることができない。",
+      "answer": "①",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 1050,
+      "id": "11-116-e-417",
+      "type": "explanation",
+      "target_q": "11-116-q-417",
+      "title": "〈S is the + 最上級 (+ 名詞) (of A / in A)〉",
+      "label": "◆the + 最上級 + of",
+      "content": [],
+      "solution": [
+        { "text": "① the hardest of を選ぶと最上級として文章が成立し、セミコロン以下の内容とも合う。" },
+        { "text": "Diamonds are the hardest (substance) of all substances と補って考えればよい。" },
+        { "text": "本問は「ダイヤモンドという物質」を同類の「あらゆる物質」と比較しているので、比較対象となる範囲は複数形の名詞で表している。 (×) in all substances は不可。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1051,
+      "id": "11-116-q-418",
+      "type": "question",
+      "section_id": "116",
+      "number": "418",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Of all the films released this month, the one with lots of special effects is (too / far) the most exciting.",
+      "q_type": "error_correction",
+      "ja": "今月公開されたすべての映画の中で、特殊効果をふんだんに用いたその映画がずばぬけておもしろい。",
+      "answer": "too → by",
+      "source_univ": "兵庫医科大"
+    },
+    {
+      "order": 1052,
+      "id": "11-116-e-418",
+      "type": "explanation",
+      "target_q": "11-116-q-418",
+      "title": "最上級の強調 ― 〈(by) far the + 最上級 / much the + 最上級〉",
+      "label": "◆最上級の強調",
+      "content": [
+        { "text": "最上級の前に (by) far や much を置いて、「ずばぬけて…」「のように最上級を強調することができる。 〈(by) far (the) + 最上級 / much (the) + 最上級〉 という語順になる。" }
+      ],
+      "solution": [
+        { "text": "最上級を強調するため ④ too を by に訂正して、 by far の表現にする。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① 比較の対象の範囲を表す Of all the films released this month が文頭に置かれた形。特殊効果を用いた映画を同類の「今月公開されたすべての映画」と比較しているので、前置詞 of を用いている (→ 417)。 (all the + 名詞) の語順に注意。 → しっかり理解 024 (p. 315)" },
+        { "tag": "選択肢", "text": "② the one は the film の代用 (→ 707) 。" },
+        { "tag": "選択肢", "text": "③ lots of (= a lot of) は「多くの」という意味。" }
+      ]
+    },
+    {
+      "order": 1053,
+      "id": "11-116-q-419",
+      "type": "question",
+      "section_id": "116",
+      "number": "419",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "これは私が今までにエッセイを書いたテーマの中でも飛びぬけてすばらしい。\nThis is (theme / on / the / best / very) which I have ever written an essay.",
+      "q_type": "ordering",
+      "ja": "これは私が今までにエッセイを書いたテーマの中でも飛びぬけてすばらしい。",
+      "answer": "the very best theme on",
+      "source_univ": "明海大"
+    },
+    {
+      "order": 1054,
+      "id": "11-116-e-419",
+      "type": "explanation",
+      "target_q": "11-116-q-419",
+      "title": "最上級の強調 ― 〈the very + 最上級 (+ 名詞)〉",
+      "label": "◆最上級の強調",
+      "content": [
+        { "text": "very で最上級を強調することができるが、 very を用いる場合は、 〈the very + 最上級 (+ 名詞)〉 という語順になる。" }
+      ],
+      "solution": [
+        { "text": "「飛びぬけてすばらしい（テーマ）」という内容を、 〈the very + 最上級 (+ 名詞)〉 の語順通りに並べて、 the very best theme を完成させる。" },
+        { "text": "on which I have ever written an essay は、比較の対象となる範囲を、関係代名詞を用いて表している (→ 422) 。 on は 「（専門的なテーマ）に関して」 という意味 (→ 356) 。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1055,
+      "id": "11-116-q-420",
+      "type": "question",
+      "section_id": "116",
+      "number": "420",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "This shopping mall is the second ( ) one in New York.",
+      "options": ["① large", "② larger", "③ largest", "④ as large"],
+      "ja": "このショッピングモールはニューヨークで2番目に大きいものだ。",
+      "answer": "③",
+      "source_univ": "札幌大"
+    },
+    {
+      "order": 1056,
+      "id": "11-116-e-420",
+      "type": "explanation",
+      "target_q": "11-116-q-420",
+      "title": "〈the second [third] + 最上級 (+ 名詞)〉 「2番目［3番目］に…」",
+      "label": "◆the + 序数 + 最上級",
+      "content": [
+        { "text": "最上級とは要するに「ある範囲で」1番目に…ということ。 「2番目［3番目／4番目］に…」 という意味を表す場合は、 〈the second [third / fourth] + 最上級 (+ 名詞)〉 という表現を使う。" }
+      ],
+      "solution": [
+        { "text": "最上級 ③ largest を選ぶと、 〈the second + 最上級 (+ 名詞)〉 を用いた英文となる。" },
+        { "text": "one は shopping mall の代用。 → 707" },
+        { "text": "in New York が比較の対象となる範囲。 New York は場所を表すので in を用いている。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1057,
+      "id": "11-116-q-421",
+      "type": "question",
+      "section_id": "116",
+      "number": "421",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "Although it is neither new nor big, the house we bought is ( ) one of the most elegant building in this city.",
+      "q_type": "error_correction",
+      "ja": "新しくもなく大きくもないが、私たちが買った家は、この街で最も洗練された建物の1つだ。",
+      "answer": "building → buildings",
+      "source_univ": "北里大"
+    },
+    {
+      "order": 1058,
+      "id": "11-116-e-421",
+      "type": "explanation",
+      "target_q": "11-116-q-421",
+      "title": "〈one of the + 最上級 + 複数名詞〉 「最も…な（名詞）の1つ［1人］」",
+      "label": "◆one of the + 最上級",
+      "content": [],
+      "solution": [
+        { "text": "〈one of the + 最上級〉 には必ず複数名詞が続くので、 ④ building を buildings に訂正する。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1059,
+      "id": "11-116-q-422",
+      "type": "question",
+      "section_id": "116",
+      "number": "422",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "The curry at that restaurant is ( ) I've ever had.",
+      "options": ["① much worse", "② the worst", "③ too bad", "④ worse"],
+      "ja": "あのレストランのカレーは今まで食べた中で一番まずい。",
+      "answer": "②",
+      "source_univ": "金沢工業大"
+    },
+    {
+      "order": 1060,
+      "id": "11-116-e-422",
+      "type": "explanation",
+      "target_q": "11-116-q-422",
+      "title": "〈(the) + 最上級 + 名詞 + (that) S have ever done 〜〉 「S が今まで〜した中で最も…（の形容詞）」",
+      "label": "◆the + 最上級 + (that) S have ever done",
+      "content": [
+        { "text": "比較の対象となる範囲を関係代名詞を用いて表した、 〈the + 最上級 (+ 名詞) + (that) S have ever done 〜〉 「S が今まで〜した中で最も…（の名詞）」 という表現を用いる。比較の対象となる範囲が 「過去から現在までの経験」 となるので、現在完了を用いる。" }
+      ],
+      "solution": [
+        { "text": "問題文の I've ever had に注目して、最上級 ② the worst を選ぶと文章が成立する。" },
+        { "text": "... is the worst (curry) (that) I've ever had と補って考えればよい。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1061,
+      "id": "11-116-q-423",
+      "type": "question",
+      "section_id": "116",
+      "number": "423",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "こんなに賢いロボットは見たことがない。\nThis is (seen / cleverest / have / ever / robot / I / the).",
+      "q_type": "ordering",
+      "ja": "こんなに賢いロボットは見たことがない。",
+      "answer": "the cleverest robot I have ever seen",
+      "source_univ": "東洋大"
+    },
+    {
+      "order": 1062,
+      "id": "11-116-e-423",
+      "type": "explanation",
+      "target_q": "11-116-q-423",
+      "title": "〈the + 最上級 + 名詞 + (that) S have ever done 〜〉 「S が今まで〜した中で最も…（の名詞）」",
+      "label": "◆the + 最上級 + (that) S have ever done",
+      "content": [],
+      "solution": [
+        { "text": "本問は 「これは私が今まで見た中で最も賢いロボットだ」 という意味。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "text": "この表現は 〈S have never done such a / an + 形容詞 + 名詞 + as A〉 「A ほど…な（名詞）を S は今まで〜したことがない」 という表現で書きかえることができる。\nI have never seen such a clever robot as this. (423)\nI have never had such a bad curry as the curry at that restaurant. (422)\n「あのレストランのカレーほどまずいカレーを私は今まで食べたことがない」" }
+      ]
+    },
+    {
+      "order": 1063,
+      "id": "11-116-q-424",
+      "type": "question",
+      "section_id": "116",
+      "number": "424",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "( ) least 530 of them died in this fire.",
+      "options": ["① Among", "② For", "③ At", "④ During"],
+      "ja": "この火災で彼らのうち少なくとも530名が死亡した。",
+      "answer": "③",
+      "source_univ": "上智大"
+    },
+    {
+      "order": 1064,
+      "id": "11-116-e-424",
+      "type": "explanation",
+      "target_q": "11-116-q-424",
+      "title": "at least A 「最低でも A ／ 少なくとも A」 (= not less than A)",
+      "label": "◆at least",
+      "content": [
+        { "text": "at (the) least A (数量) は 「最低でも A ／ 少なくとも A」 (= not less than A) という意味。反意表現は at (the) most A (数量) で 「最大でも A ／ 多くても A」 (= not more than A) という意味。 → 整理して覚える 030 (p. 187)" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "プラス", "text": "at least が 「（悪い状況の中でも）少なくとも…」 という意味になる場合もある。この意味の at least は文頭に置かれることが多い。\nThe car crashed into a tree, but at least no one got hurt.\n「その車は木に衝突したが、少なくともだれもけがをしなかった」" }
+      ]
+    },
+    {
+      "order": 1065,
+      "type": "section_header",
+      "section_id": "117",
+      "title": "原級や比較級を用いた最上級相当表現"
+    },
+    {
+      "order": 1066,
+      "id": "11-117-q-425",
+      "type": "question",
+      "section_id": "117",
+      "number": "425",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "その男の子はこのクラスで一番利口だ。\n(other / as smart / student / is / as / no / in this class) the boy.",
+      "q_type": "ordering",
+      "ja": "その男の子はこのクラスで一番利口だ。",
+      "answer": "No other student in this class is as smart as",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 1067,
+      "id": "11-117-e-425",
+      "type": "explanation",
+      "target_q": "11-117-q-425",
+      "title": "〈No (other) + 単数名詞 + is as [so] + 原級 + as A〉 「A ほど…な（名詞）はない」",
+      "label": "◆no other ... as [so] + 原級 + as",
+      "content": [],
+      "solution": [
+        { "text": "与えられた日本語を 「このクラスには、その男の子ほど利口な生徒はいない」 と読みかえて考える。" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "比較の対象となる範囲 (本問では in this class) は、主語 (本問では No other student) の直後に置くのが原則。" },
+        { "tag": "△注意", "text": "No other のあとの student が単数形になっていることに注意。" }
+      ]
+    },
+    {
+      "order": 1068,
+      "id": "11-117-q-426",
+      "type": "question",
+      "section_id": "117",
+      "number": "426",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) is so precious as time.",
+      "options": ["① Anything", "② Everything", "③ Nothing", "④ Something"],
+      "ja": "時間ほど貴重なものはない。",
+      "answer": "③",
+      "source_univ": "日本大"
+    },
+    {
+      "order": 1069,
+      "id": "11-117-e-426",
+      "type": "explanation",
+      "target_q": "11-117-q-426",
+      "title": "〈Nothing is as [so] + 原級 + as A〉 「A ほど…なものはない」",
+      "label": "◆nothing is as [so] + 原級 + as",
+      "content": [],
+      "solution": [
+        { "text": "代入して文意が通るのは ③ Nothing だけ。同意表現の書きかえは 430 参照。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1070,
+      "id": "11-117-q-427",
+      "type": "question",
+      "section_id": "117",
+      "number": "427",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "日本には，富士山ほど高い山は他にない。\nNo (mountain / Japan / than / higher / other / is / in) Mt. Fuji.",
+      "q_type": "ordering",
+      "ja": "日本には，富士山ほど高い山は他にない。",
+      "answer": "other mountain in Japan is higher than",
+      "source_univ": "東京国際大"
+    },
+    {
+      "order": 1071,
+      "id": "11-117-e-427",
+      "type": "explanation",
+      "target_q": "11-117-q-427",
+      "title": "〈No (other) + 単数名詞 + is + 比較級 + than A〉 「A よりも…な（名詞）はない」",
+      "label": "◆no other ... + 比較級 + than",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "△注意", "text": "比較の対象となる範囲 (本問では in Japan) は、主語 (本問では No other mountain) の直後に置くことに注意。" },
+        { "tag": "△注意", "text": "No other のあとの mountain が単数形になっていることに注意。" }
+      ]
+    },
+    {
+      "order": 1072,
+      "id": "11-117-q-428",
+      "type": "question",
+      "section_id": "117",
+      "number": "428",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "私に関する限り，今は健康が一番大切なのだ。\nAs for myself, ( ) ( ) ( ) precious than my health now.",
+      "q_type": "completion",
+      "ja": "私に関する限り，今は健康が一番大切なのだ。",
+      "answer": "nothing is more",
+      "source_univ": "日本大"
+    },
+    {
+      "order": 1073,
+      "id": "11-117-e-428",
+      "type": "explanation",
+      "target_q": "11-117-q-428",
+      "title": "〈Nothing is + 比較級 + than A〉 「A よりも…なものはない」",
+      "label": "◆nothing is + 比較級 + than",
+      "content": [],
+      "solution": [
+        { "text": "与えられた日本語を 「健康ほど大切なものはない」 と読みかえて考える。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1074,
+      "id": "11-117-q-429",
+      "type": "question",
+      "section_id": "117",
+      "number": "429",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "(a) The ostrich is the largest bird in the world.\n(b) The ostrich is larger than ( ) ( ) ( ) in the world.",
+      "q_type": "completion",
+      "ja": "(a) ダチョウは世界最大の鳥だ。(b) ダチョウは世界の他のどの鳥よりも大きい。",
+      "answer": "any other bird",
+      "source_univ": "名城大"
+    },
+    {
+      "order": 1075,
+      "id": "11-117-e-429",
+      "type": "explanation",
+      "target_q": "11-117-q-429",
+      "title": "〈A is + 比較級 + than any other + 単数名詞〉 「A は他のどの（名詞）よりも…だ」",
+      "label": "◆比較級 + than any other",
+      "content": [],
+      "solution": [
+        { "text": "この表現の any other のあとには単数名詞が来るので、 (×) any other birds は不可。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1076,
+      "id": "11-117-q-430",
+      "type": "question",
+      "section_id": "117",
+      "number": "430",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Time is more precious than ( ).",
+      "options": ["① all things", "② anything else", "③ everything", "④ nothing"],
+      "ja": "時間は他の何よりも貴重なものだ。",
+      "answer": "②",
+      "source_univ": "大妻女子大"
+    },
+    {
+      "order": 1077,
+      "id": "11-117-e-430",
+      "type": "explanation",
+      "target_q": "11-117-q-430",
+      "title": "〈A is + 比較級 + than anything else〉 「A は他のどんなものよりも…だ」",
+      "label": "◆比較級 + than anything else",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "プラス", "text": "〈than any other + 単数名詞〉 の代わりに、 **than anybody[anyone] else** を用いれば 「他のだれよりも…だ」 、 **than anything else** を用いれば 「他のどんなものよりも…だ」 となる。 → 430" }
+      ]
+    },
+    {
+      "order": 1078,
+      "id": "11-117-s-032",
+      "type": "summary_box",
+      "target_s": "117",
+      "number": "032",
+      "title": "原級や比較級を用いた最上級相当表現",
+      "content": [
+        { "tag": "□", "en": "No (other) + 単数名詞 + is as [so] + 原級 + as A", "ja": "「A ほど…な（名詞）はない」", "note": "→ 425" },
+        { "tag": "□", "en": "No (other) + 単数名詞 + is + 比較級 + than A", "ja": "「A よりも…な（名詞）はない」", "note": "→ 427" },
+        { "tag": "*", "text": "〈No (other) + 単数名詞〉 の代わりに、 Nobody [No one] を主語にすれば 「…な人はいない」 、 Nothing を主語にすれば 「…なものはない」 となる。", "note": "→ 426, 428" },
+        { "tag": "□", "en": "A is + 比較級 + than any other + 単数名詞", "ja": "「A は他のどの（名詞）よりも…だ」", "note": "→ 429" },
+        { "tag": "*", "text": "〈than any other + 単数名詞〉 の代わりに、 than anybody [anyone] else を用いれば 「他のだれよりも…だ」 、 than anything else を用いれば 「他のどんなものよりも…だ」 となる。", "note": "→ 430" },
+        { "tag": "△注意", "text": "of / in を用いて比較の対象となる範囲を明示する場合は、主語（No (other) + 単数名詞 / Nobody / Nothing）の直後に置くのが原則。", "note": "→ 425, 427" }
+      ]
+    }
+  ]
+}

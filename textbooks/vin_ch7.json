@@ -1,0 +1,938 @@
+{
+  "metadata": {
+    "source": "vin4",
+    "field": "grammar",
+    "chapter_id": "07",
+    "chapter_title": "分詞"
+  },
+  "items": [
+    {
+      "order": 464,
+      "type": "section_header",
+      "section_id": "058",
+      "title": "名詞を修飾する分詞（句）"
+    },
+    {
+      "order": 465,
+      "id": "07-058-c-018",
+      "type": "confirmation_box",
+      "target_s": "058",
+      "number": "018",
+      "title": "名詞を修飾する分詞（句）",
+      "content": [
+        { "tag": "(1)", "text": "分詞には現在分詞 doing と過去分詞 done の2種類がある。" },
+        { "tag": "(2)", "text": "分詞は形容詞と同じように用いられ、名詞を修飾することができる。" },
+        { "tag": "(3)", "text": "分詞と修飾される名詞との関係によって、現在分詞と過去分詞を使い分ける。" },
+        { "text": "・「（名詞が）…する／…している」という能動関係の場合は、現在分詞 doing。" },
+        { "text": "・「（名詞が）…される／…された」という受動関係の場合は、過去分詞 done。" },
+        { "tag": "△注意", "text": "自動詞の過去分詞は「完了」の意味になる。 fallen leaves「落ちてしまった葉＝落ち葉」" },
+        { "tag": "(4)", "text": "分詞が単独で用いられる場合は、名詞の前に置く。（doing / done + 名詞）" },
+        { "tag": "(5)", "text": "分詞が他の語句を伴う場合は、名詞のあとに置く。（名詞 + doing ... / done ...）" }
+      ]
+    },
+    {
+      "order": 466,
+      "id": "07-058-q-179",
+      "type": "question",
+      "section_id": "058",
+      "number": "179",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "Don't make any noise near the ( ) baby.",
+      "options": ["① sleep", "② sleeper", "③ sleeping", "④ slept"],
+      "ja": "眠っている赤ちゃんのそばで音を立てるな。",
+      "answer": "③",
+      "source_univ": "名古屋学院大"
+    },
+    {
+      "order": 467,
+      "id": "07-058-e-179",
+      "type": "explanation",
+      "target_q": "07-058-q-179",
+      "title": "baby と sleep の関係に注目",
+      "label": "◆名詞修飾の分詞―現在分詞と過去分詞の区別",
+      "content": [],
+      "solution": [
+        { "text": "baby と sleep の間には「赤ちゃんが眠っている」という能動関係が成立するので、現在分詞 ③ sleeping が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 468,
+      "id": "07-058-q-180",
+      "type": "question",
+      "section_id": "058",
+      "number": "180",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "\"Do you know that Chris had a skiing accident?\"\n\"Yes. He has a ( ) leg, but I think he'll be OK.\"",
+      "options": ["① breaking", "② broke", "③ broken", "④ break"],
+      "ja": "「クリスがスキーで事故にあったって知ってる？」「ええ。脚を骨折したけど、心配ないと思うよ」",
+      "answer": "③",
+      "source_univ": "法政大"
+    },
+    {
+      "order": 469,
+      "id": "07-058-e-180",
+      "type": "explanation",
+      "target_q": "07-058-q-180",
+      "title": "leg と break の関係に注目",
+      "label": "◆名詞修飾の分詞―現在分詞と過去分詞の区別",
+      "content": [],
+      "solution": [
+        { "text": "leg と break「…を折る」の間には「脚の骨が（何かによって）折られた」という受動関係が成立するので、過去分詞 ③ broken が正解。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "have a broken leg「脚を骨折している」" }
+      ]
+    },
+    {
+      "order": 470,
+      "id": "07-058-q-181",
+      "type": "question",
+      "section_id": "058",
+      "number": "181",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "Yesterday a friend of mine ( ) in China came to Tokyo to attend a meeting.",
+      "options": ["① to live", "② lived", "③ living", "④ lives"],
+      "ja": "昨日、中国に住む私の友人の1人が会議に出席するため東京にやってきた。",
+      "answer": "③",
+      "source_univ": "獨協大"
+    },
+    {
+      "order": 471,
+      "id": "07-058-e-181",
+      "type": "explanation",
+      "target_q": "07-058-q-181",
+      "title": "a friend of mine と live の関係に注目",
+      "label": "◆現在分詞の後置修飾",
+      "content": [],
+      "solution": [
+        { "text": "a friend of mine と live「住む」の間には「私の友人が住んでいる」という能動関係が成立するので、現在分詞 ③ living が正解。" },
+        { "text": "in China という他の語句を伴っているので、現在分詞句 living in China は名詞 a friend of mine のあとに来ている。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 472,
+      "id": "07-058-q-182",
+      "type": "question",
+      "section_id": "058",
+      "number": "182",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "The language ( ) in New Zealand is mainly English.",
+      "options": ["① spoken", "② be spoken", "③ speaking", "④ be speaking"],
+      "ja": "ニュージーランドで話されている言語は主に英語です。",
+      "answer": "①",
+      "source_univ": "拓殖大"
+    },
+    {
+      "order": 473,
+      "id": "07-058-e-182",
+      "type": "explanation",
+      "target_q": "07-058-q-182",
+      "title": "language と speak の関係に注目",
+      "label": "◆過去分詞の後置修飾",
+      "content": [],
+      "solution": [
+        { "text": "language と speak「…を話す」の間には「言語が話される」という受動関係が成立するので、過去分詞 ① spoken が正解。" },
+        { "text": "in New Zealand という他の語句を伴っているので、過去分詞句 spoken in New Zealand は名詞 language のあとに来ている。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 474,
+      "id": "07-058-q-183",
+      "type": "question",
+      "section_id": "058",
+      "number": "183",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "As you know, Microsoft developed a computer operating system (calling) Windows.",
+      "q_type": "error_correction",
+      "ja": "ご存じの通り、マイクロソフト社は、ウィンドウズと呼ばれるコンピューターオペレーティングシステムを開発した。",
+      "answer": "calling → called",
+      "source_univ": "亜細亜大"
+    },
+    {
+      "order": 475,
+      "id": "07-058-e-183",
+      "type": "explanation",
+      "target_q": "07-058-q-183",
+      "title": "system と call の関係に注目",
+      "label": "◆分詞の後置修飾―現在分詞と過去分詞の区別",
+      "content": [],
+      "solution": [
+        { "text": "system と call「…を（〜と）呼ぶ」の間には「システムが（ウィンドウズと）呼ばれる」という受動関係が成立するので、④ calling を過去分詞 called に訂正する。" },
+        { "text": "Windows という他の語を伴っているので、過去分詞 called Windows は名詞 system のあとに来ている。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "as you know「ご存じのように」" }
+      ]
+    },
+    {
+      "order": 476,
+      "type": "section_header",
+      "section_id": "059",
+      "title": "There is S doing ... / There is S done ..."
+    },
+    {
+      "order": 477,
+      "id": "07-059-q-184",
+      "type": "question",
+      "section_id": "059",
+      "number": "184",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "雲の向こうから光がさしている。\n(behind / light / coming / is / there / from) the clouds.",
+      "q_type": "ordering",
+      "ja": "雲の向こうから光がさしている。",
+      "answer": "There is light coming from behind",
+      "source_univ": "麗澤大"
+    },
+    {
+      "order": 478,
+      "id": "07-059-e-184",
+      "type": "explanation",
+      "target_q": "07-059-q-184",
+      "title": "light と come の関係に注目",
+      "label": "◆There is S doing ... 「S が…している」",
+      "content": [
+        { "text": "There is S doing ... 「S が…している」 S と doing は能動関係。" }
+      ],
+      "solution": [
+        { "text": "light と come「来る」の間には「光が来る」という能動関係が成立するので、現在分詞 coming を用いる。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "from behind A「A の後ろ［裏］から」" },
+        { "tag": "△注意", "text": "There is S doing / done の S には、the などで特定されていない名詞が来る。" }
+      ]
+    },
+    {
+      "order": 479,
+      "id": "07-059-q-185",
+      "type": "question",
+      "section_id": "059",
+      "number": "185",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "There was an expensive watch ( ) in the locker room.",
+      "options": ["① leaving", "② to be leaving", "③ left", "④ to have left"],
+      "ja": "ロッカールームに高価な腕時計が置き忘れられてあった。",
+      "answer": "③",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 480,
+      "id": "07-059-e-185",
+      "type": "explanation",
+      "target_q": "07-059-q-185",
+      "title": "watch と leave の関係に注目",
+      "label": "◆There is S done ... 「S が…される」",
+      "content": [
+        { "text": "There is S done ... 「S が…される」 S と done は受動関係。" }
+      ],
+      "solution": [
+        { "text": "watch と leave「…を置き忘れる」の間には「時計が置き忘れられる」という受動関係が成立するので、過去分詞 ③ left を用いて英文を完成させる。" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "There is S doing / done の S には、the などで特定されていない名詞が来る。" }
+      ]
+    },
+    {
+      "order": 481,
+      "type": "section_header",
+      "section_id": "060",
+      "title": "主格補語の分詞"
+    },
+    {
+      "order": 482,
+      "id": "07-060-c-019",
+      "type": "confirmation_box",
+      "target_s": "060",
+      "number": "019",
+      "title": "主格補語の分詞",
+      "content": [
+        { "tag": "(1)", "text": "分詞は形容詞と同じように SVC の補語 C として用いられる。" },
+        { "tag": "(2)", "text": "SVC の C（主格補語）の位置に分詞が来る場合、主語 S と分詞の意味との関係によって、現在分詞と過去分詞を以下のように区別して使い分ける。" },
+        { "text": "・I sat sleeping for an hour.「1時間座ったまま眠っていた」" },
+        { "tag": "→", "text": "主語（S）と補語（C）が「S が…する／…している」という能動関係の場合は、SV doing（現在分詞）となる。" },
+        { "text": "・I sat surrounded by kids.「子どもたちに囲まれて座っていた」" },
+        { "tag": "→", "text": "主語（S）と補語（C）が「S が…される／…された」という受動関係の場合は、SV done（過去分詞）となる。" }
+      ]
+    },
+    {
+      "order": 483,
+      "id": "07-060-q-186",
+      "type": "question",
+      "section_id": "060",
+      "number": "186",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Please remain ( ) for a couple of minutes.",
+      "options": ["① in seat", "② seating", "③ seated", "④ to seat"],
+      "ja": "数分の間、座ったままでお願いします。",
+      "answer": "③",
+      "source_univ": "摂南大"
+    },
+    {
+      "order": 484,
+      "id": "07-060-e-186",
+      "type": "explanation",
+      "target_q": "07-060-q-186",
+      "title": "隠れた主語 You と seat の関係に注目",
+      "label": "◆主格補語の分詞―現在分詞と過去分詞の区別",
+      "content": [],
+      "solution": [
+        { "text": "remain C で「C のままである」という意味。命令文なので主語が現れていないが、隠れた主語 You と seat「…を座らせる」の間には「あなたが座らされる」という受動関係が成立するので、過去分詞 ③ seated が正解。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "remain seated「座ったままである」 cf. be seated「座る／座っている」" }
+      ]
+    },
+    {
+      "order": 485,
+      "type": "section_header",
+      "section_id": "061",
+      "title": "目的格補語の分詞"
+    },
+    {
+      "order": 486,
+      "id": "07-061-c-020",
+      "type": "confirmation_box",
+      "target_s": "061",
+      "number": "020",
+      "title": "目的格補語の分詞",
+      "content": [
+        { "text": "SVOC の C（目的格補語）の位置に分詞が来る場合、目的語 O と分詞の意味との関係によって、現在分詞と過去分詞を以下のように区別して使い分ける。" },
+        { "text": "・I found him sleeping on the sofa.「彼がソファで寝ているのに気づいた」" },
+        { "tag": "→", "text": "目的語（O）と目的格補語（C）が「O が…する／…している」という能動関係の場合は、SVO doing（現在分詞）となる。" },
+        { "text": "・I found him surrounded by kids.「彼が子どもたちに囲まれているのに気づいた」" },
+        { "tag": "→", "text": "目的語（O）と目的格補語（C）が「O が…される／…された」という受動関係の場合は、SVO done（過去分詞）となる。" },
+        { "tag": "*", "text": "SVO doing / done の形を作る動詞 V は find, keep (→ 187, 188), leave など。" }
+      ]
+    },
+    {
+      "order": 487,
+      "id": "07-061-q-187",
+      "type": "question",
+      "section_id": "061",
+      "number": "187",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I am sorry to have kept you ( ).",
+      "options": ["① to wait", "② wait", "③ waited", "④ waiting"],
+      "ja": "お待たせしてすみません。",
+      "answer": "④",
+      "source_univ": "工学院大"
+    },
+    {
+      "order": 488,
+      "id": "07-061-e-187",
+      "type": "explanation",
+      "target_q": "07-061-q-187",
+      "title": "目的語 you と wait の関係に注目",
+      "label": "◆目的格補語の分詞―keep A doing",
+      "content": [],
+      "solution": [
+        { "text": "keep OC で「O を C の（状態）にしておく」という意味。本問は目的格補語 C に分詞が来る形。目的語 you と wait「待つ」の間には「あなたが待つ」という能動関係が成立するので、現在分詞 ④ waiting が正解。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "keep A waiting「A を待たせる」" }
+      ]
+    },
+    {
+      "order": 489,
+      "id": "07-061-q-188",
+      "type": "question",
+      "section_id": "061",
+      "number": "188",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "You should keep the door ( ) at all times.",
+      "options": ["① lock", "② locked", "③ locking", "④ to lock"],
+      "ja": "常にドアに鍵をかけておくべきだ。",
+      "answer": "②",
+      "source_univ": "金城学院大"
+    },
+    {
+      "order": 490,
+      "id": "07-061-e-188",
+      "type": "explanation",
+      "target_q": "07-061-q-188",
+      "title": "目的語 the door と lock の関係に注目",
+      "label": "◆目的格補語の分詞―keep A done",
+      "content": [],
+      "solution": [
+        { "text": "keep OC の目的格補語 C に分詞が来る。目的語 the door と lock「…に鍵をかける」の間には「ドアが鍵をかけられる」という受動関係が成立するので、過去分詞 ② locked が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 491,
+      "type": "section_header",
+      "section_id": "062",
+      "title": "知覚動詞 + O + do / doing / done"
+    },
+    {
+      "order": 492,
+      "id": "07-062-d-008",
+      "type": "deep_dive",
+      "target_s": "062",
+      "number": "008",
+      "title": "知覚動詞 + O + do / doing / done",
+      "content": [
+        { "text": "知覚動詞（see, look at, watch, hear, listen to, feel など）は、SVOC の形で目的格補語 C に (1) do（原形不定詞）、(2) doing（現在分詞）、(3) done（過去分詞）を用いる。" },
+        { "tag": "(1)", "text": "知覚動詞 V + O + do 「O が…するのを見る［聞く］」 → O と do は能動関係" },
+        { "en": "I heard him sing the song.", "ja": "「彼がその歌を歌うのを聞いた」" },
+        { "tag": "(2)", "text": "知覚動詞 V + O + doing 「O が…しているのを見る［聞く］」 → O と doing は能動関係" },
+        { "en": "I heard him singing the song.", "ja": "「彼がその歌を歌っているのを聞いた」" },
+        { "tag": "(3)", "text": "知覚動詞 V + O + done 「O が…されるのを見る［聞く］」 → O と done は受動関係" },
+        { "en": "I heard the song sung by him.", "ja": "「その歌が彼に歌われるのを聞いた」" },
+        { "tag": "△注意", "text": "(1) は「動作の開始から終了までを承知している」、(2) は「動作の途中だけを承知している」というニュアンスの差がある。したがって、(1) の例文では、歌を最初から最後まで聞いたニュアンスがあり、(2) の例文では、歌っている途中のどこかを耳にしたというニュアンスがある。" },
+        { "text": "(1) と (2) の受動態は以下のようになる。" },
+        { "tag": "(1)'", "en": "He was heard to sing the song.", "text": "→補語の原形不定詞が to 不定詞になる（→ 144）。" },
+        { "tag": "(2)'", "en": "He was heard singing the song.", "text": "→補語は現在分詞のまま。" }
+      ]
+    },
+    {
+      "order": 493,
+      "id": "07-062-q-189",
+      "type": "question",
+      "section_id": "062",
+      "number": "189",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "I was glad to see birds ( ) in the blue sky.",
+      "options": ["① flying high", "② to fly high", "③ were highly flying", "④ highly fly"],
+      "ja": "鳥たちが青空高く飛んでいるのを見て、私はうれしかった。",
+      "answer": "①",
+      "source_univ": "北里大"
+    },
+    {
+      "order": 494,
+      "id": "07-062-e-189",
+      "type": "explanation",
+      "target_q": "07-062-q-189",
+      "title": "目的語 birds と fly の関係に注目",
+      "label": "◆see A doing「A が…しているのを見る」",
+      "content": [],
+      "solution": [
+        { "text": "目的語 birds と fly「飛ぶ」の間には「鳥が飛ぶ／飛んでいる」という能動関係が成立するので、現在分詞を用いた ① flying high が正解。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "③, ④ の highly は「（動詞を修飾して）大いにほめて／たいへん好意的に」という意味なので文意が通らない。" }
+      ]
+    },
+    {
+      "order": 495,
+      "id": "07-062-q-190",
+      "type": "question",
+      "section_id": "062",
+      "number": "190",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "I saw the injured schoolboys ( ) to the hospital.",
+      "options": ["① to be carried", "② be carried", "③ carried", "④ carrying"],
+      "ja": "けがをした男子生徒たちが病院に運ばれるのを私は見た。",
+      "answer": "③",
+      "source_univ": "岩手医科大"
+    },
+    {
+      "order": 496,
+      "id": "07-062-e-190",
+      "type": "explanation",
+      "target_q": "07-062-q-190",
+      "title": "目的語 the injured schoolboys と carry の関係に注目",
+      "label": "◆see A done「A が…されるのを見る」",
+      "content": [],
+      "solution": [
+        { "text": "目的語 the injured schoolboys と carry「…を運ぶ」の間には「けがをした男子生徒たちが運ばれる」という受動関係が成立するので、過去分詞 ③ carried が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 497,
+      "id": "07-062-q-191",
+      "type": "question",
+      "section_id": "062",
+      "number": "191",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Though he had tried to run away secretly, he was ( ) out of the house.",
+      "options": ["① seeing to come", "② seen come", "③ seen coming", "④ seeing coming"],
+      "ja": "彼はひそかに逃げ出そうとしたが、家から出るところを目撃された。",
+      "answer": "③",
+      "source_univ": "東京農業大"
+    },
+    {
+      "order": 498,
+      "id": "07-062-e-191",
+      "type": "explanation",
+      "target_q": "07-062-q-191",
+      "title": "see A doing の受動態",
+      "label": "◆A is seen doing「A は…しているところを見られる」",
+      "content": [],
+      "solution": [
+        { "text": "saw him coming ... の受動態は、he was seen coming ... となる。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "saw him come ... の受動態は、he was seen to come ... となるので、② seen come は不可。", "note": "→ 144" }
+      ]
+    },
+    {
+      "order": 499,
+      "type": "section_header",
+      "section_id": "063",
+      "title": "make oneself understood / make oneself heard"
+    },
+    {
+      "order": 500,
+      "id": "07-063-q-192",
+      "type": "question",
+      "section_id": "063",
+      "number": "192",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I had no difficulty in making myself ( ) in English when I went to America last summer.",
+      "q_type": "completion",
+      "ja": "この前の夏アメリカに行ったとき、私は英語で自分の考えを理解してもらうことに苦労しなかった。",
+      "answer": "understood",
+      "source_univ": "桜美林大"
+    },
+    {
+      "order": 501,
+      "id": "07-063-e-192",
+      "type": "explanation",
+      "target_q": "07-063-q-192",
+      "title": "make oneself understood「自分の考え［言葉］を人に理解してもらう／意思を疎通させる」",
+      "label": "◆make oneself understood",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "① の have no difficulty in doing「…するのに苦労しない」は、have difficulty (in) doing「…するのに苦労する」の否定表現。", "note": "→ 170" }
+      ]
+    },
+    {
+      "order": 502,
+      "id": "07-063-q-193",
+      "type": "question",
+      "section_id": "063",
+      "number": "193",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I couldn't make myself ( ) because the room was terribly noisy.",
+      "options": ["① hear", "② heard", "③ hearing", "④ to hear"],
+      "ja": "その部屋がひどく騒がしかったので、私は自分の声を相手に届けられなかった。",
+      "answer": "②",
+      "source_univ": "成蹊大"
+    },
+    {
+      "order": 503,
+      "id": "07-063-e-193",
+      "type": "explanation",
+      "target_q": "07-063-q-193",
+      "title": "make oneself heard「自分の声を相手に届ける」",
+      "label": "◆make oneself heard",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 504,
+      "type": "section_header",
+      "section_id": "064",
+      "title": "分詞構文"
+    },
+    {
+      "order": 505,
+      "id": "07-064-c-021",
+      "type": "confirmation_box",
+      "target_s": "064",
+      "number": "021",
+      "title": "分詞構文",
+      "content": [
+        { "tag": "(1)", "text": "分詞が導く句が、文（の述語動詞）を修飾するものを「分詞構文」と呼ぶ。分詞構文は原則として、以下の内容を持つ。" },
+        { "text": "(a)「時」（…するとき）、(b)「理由」（…なので）、(c)「付帯状況」（…しながら／そして…する）、(d)「条件」（…すれば）、(e)「譲歩」（…ではあるが）" },
+        { "tag": "△注意", "text": "(a) 〜 (e) のいずれの意味になるかを明確には区別・判断できない分詞構文も多い。また分詞構文はすべて接続詞を用いて書きかえることができるわけではない。" },
+        { "tag": "△注意", "text": "「条件」「譲歩」の意味になる分詞構文はほとんどが慣用表現なので、代表的な表現を覚えること。 → Section 065 (p.101)" },
+        { "tag": "(2)", "text": "分詞構文は文頭、文中、文末で用いることができる。" },
+        { "tag": "(3)", "text": "分詞構文の意味上の主語と、修飾する文の主語 S は一致するのが原則。" },
+        { "tag": "△注意", "text": "分詞構文の意味上の主語と、文の主語 S が一致しない場合に関しては 197 の独立分詞構文を参照。" }
+      ]
+    },
+    {
+      "order": 506,
+      "id": "07-064-q-194",
+      "type": "question",
+      "section_id": "064",
+      "number": "194",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "( ) exactly the same job, he understands my situation better.",
+      "options": ["① Doing", "② Doing as", "③ For doing", "④ That we are doing"],
+      "ja": "まったく同じ仕事をしているので、彼は私の状況をより理解してくれる。",
+      "answer": "①",
+      "source_univ": "立命館大"
+    },
+    {
+      "order": 507,
+      "id": "07-064-e-194",
+      "type": "explanation",
+      "target_q": "07-064-q-194",
+      "title": "分詞構文の形を確認する",
+      "label": "◆分詞構文の基本形",
+      "content": [],
+      "solution": [
+        { "text": "現在分詞の ① Doing を選ぶと、Doing exactly the same job は分詞構文となる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 508,
+      "id": "07-064-q-195",
+      "type": "question",
+      "section_id": "064",
+      "number": "195",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "( ) how to study, the students decided to visit their advisor in his office.",
+      "options": ["① Not knowing", "② Knowing not to", "③ Not to knowing", "④ To not knowing"],
+      "ja": "勉強の仕方がわからなかったので、生徒たちは研究室の指導教官を訪ねることにした。",
+      "answer": "①",
+      "source_univ": "関東学院大"
+    },
+    {
+      "order": 509,
+      "id": "07-064-e-195",
+      "type": "explanation",
+      "target_q": "07-064-q-195",
+      "title": "not の位置を確認する",
+      "label": "◆分詞構文の否定形",
+      "content": [
+        { "text": "分詞構文を否定する not [never] は分詞構文の直前に置き、not [never] doing ... という語順になる。" }
+      ],
+      "solution": [
+        { "text": "否定語 not を直前に置いた ① Not knowing を選ぶと、文構造と文意が成立する。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 510,
+      "id": "07-064-q-196",
+      "type": "question",
+      "section_id": "064",
+      "number": "196",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) the joke before, I didn't find it funny the second time.",
+      "options": ["① Hearing", "② Heard", "③ Having heard", "④ Hear"],
+      "ja": "その冗談は以前に聞いたことがあったので、2回目に聞いても私はおもしろいと思わなかった。",
+      "answer": "③",
+      "source_univ": "玉川大"
+    },
+    {
+      "order": 511,
+      "id": "07-064-e-196",
+      "type": "explanation",
+      "target_q": "07-064-q-196",
+      "title": "before に注目",
+      "label": "◆完了分詞構文",
+      "content": [
+        { "text": "文の述語動詞が表す時よりも前の時を表すには、完了分詞構文 (having done) を用いる。" }
+      ],
+      "solution": [
+        { "text": "before があることから、分詞で導かれる句は述語動詞 (didn't find) よりも前の時を表していることがわかる。したがって完了分詞構文 ③ Having heard が正解。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "② Heard は Having been heard から Having been が省略された形なので不可。", "note": "→ 199" }
+      ]
+    },
+    {
+      "order": 512,
+      "id": "07-064-q-197",
+      "type": "question",
+      "section_id": "064",
+      "number": "197",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) the night before, the road was muddy.",
+      "options": ["① It having rained", "② Having rained", "③ Having been rained", "④ It being rained"],
+      "ja": "前の晩に雨が降ったので、道路はぬかるんでいた。",
+      "answer": "①",
+      "source_univ": "千葉工業大"
+    },
+    {
+      "order": 513,
+      "id": "07-064-e-197",
+      "type": "explanation",
+      "target_q": "07-064-q-197",
+      "title": "分詞構文の意味上の主語は何か",
+      "label": "◆独立分詞構文",
+      "content": [
+        { "text": "分詞構文の意味上の主語が文の主語と一致しない場合は、意味上の主語を分詞の前に置く。このような分詞構文は「独立分詞構文」と呼ばれる。" }
+      ],
+      "solution": [
+        { "text": "the night before があることから、述語動詞 (was) よりも前の時を表すので、完了の独立分詞構文 ① It having rained が正解。この It は天候を表し、分詞構文の意味上の主語となっている。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "動詞 rain「雨が降る」は it を主語にする。② や ③ を選ぶと分詞構文の意味上の主語は（文の主語である）the road になる。" }
+      ]
+    },
+    {
+      "order": 514,
+      "id": "07-064-q-198",
+      "type": "question",
+      "section_id": "064",
+      "number": "198",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "There ( ) no available information on the crime, the police asked the mass media for cooperation.",
+      "options": ["① being", "② having", "③ is", "④ seems"],
+      "ja": "その犯罪に関して情報が入手できなかったので、警察はマスコミに協力を求めた。",
+      "answer": "①",
+      "source_univ": "鹿児島大"
+    },
+    {
+      "order": 515,
+      "id": "07-064-e-198",
+      "type": "explanation",
+      "target_q": "07-064-q-198",
+      "title": "There と the police に注目",
+      "label": "◆独立分詞構文",
+      "content": [],
+      "solution": [
+        { "text": "① を選ぶと There being ... the crime という独立分詞構文になる。主語の the police と一致していないことを確認すること。この There は、there is ... 「…がある」の there が分詞構文の主語の役割をしていると考えればよい。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 516,
+      "id": "07-064-q-199",
+      "type": "question",
+      "section_id": "064",
+      "number": "199",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) from the airplane, the lake looks like a huge doughnut.",
+      "options": ["① See", "② Seeing", "③ Seen", "④ Having seen"],
+      "ja": "飛行機から見ると、その湖は巨大なドーナツのように見える。",
+      "answer": "③",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 517,
+      "id": "07-064-e-199",
+      "type": "explanation",
+      "target_q": "07-064-q-199",
+      "title": "文の主語 the lake と see の関係に注目",
+      "label": "◆受動態の分詞構文",
+      "content": [
+        { "text": "受動態 be done の分詞構文は being done、完了分詞構文は having been done になる。being / having been が省略されて、done で始まることが多い。" }
+      ],
+      "solution": [
+        { "text": "文の主語は the lake なので、「その湖が（飛行機から）見られる」という受動態にする必要がある。Being seen ... の Being が省略された ③ Seen が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 518,
+      "id": "07-064-q-200",
+      "type": "question",
+      "section_id": "064",
+      "number": "200",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "All things ( ), we have done a good job.",
+      "options": ["① considering", "② considered", "③ to consider", "④ consider"],
+      "ja": "総合的に考えてみると、我々はいい仕事をした。",
+      "answer": "②",
+      "source_univ": "西南学院大"
+    },
+    {
+      "order": 519,
+      "id": "07-064-e-200",
+      "type": "explanation",
+      "target_q": "07-064-q-200",
+      "title": "all things considered 「すべてを考慮してみると」",
+      "label": "◆受動態の独立分詞構文",
+      "content": [],
+      "solution": [
+        { "text": "受動態の独立分詞構文の all things considered 「すべてを考慮してみると／総合的に考えてみると」は、よく使われる慣用表現として覚えよう。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 520,
+      "id": "07-064-d-009",
+      "type": "deep_dive",
+      "target_s": "064",
+      "number": "009",
+      "title": "過去分詞 done を用いた分詞構文",
+      "content": [
+        { "text": "受動態の分詞構文 being done / having been done から being / having been を省略したものと考える。" },
+        { "tag": "(1)", "label": "否定形：not done", "en": "Not being trained, the dog barks at anyone. → Not trained, the dog barks at anyone.", "ja": "「訓練されていないので、その犬はだれに対してもほえる」" },
+        { "tag": "(2)", "label": "完了分詞構文：done", "en": "Having been trained properly before, the dog never bites. → Trained properly before, the dog never bites.", "ja": "「以前適切に訓練されたので、その犬は決してかまない」" },
+        { "tag": "(3)", "label": "独立分詞構文：名詞 + done", "en": "The dog being trained properly, I felt safe with it. → The dog trained properly, I felt safe with it.", "ja": "「その犬は適切に訓練されていたので、一緒にいて私は安心できた」" }
+      ]
+    },
+    {
+      "order": 521,
+      "type": "section_header",
+      "section_id": "065",
+      "title": "慣用的な分詞構文"
+    },
+    {
+      "order": 522,
+      "id": "07-065-q-201",
+      "type": "question",
+      "section_id": "065",
+      "number": "201",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) your love of the outdoors, I am really surprised that you decided to live in the city rather than in the countryside.",
+      "options": ["① Considered", "② Considerate", "③ Considering", "④ Considerable"],
+      "ja": "あなたのアウトドア好きを考えれば、田舎ではなく、むしろ都会に住むとあなたが決めたことに私は本当に驚いている。",
+      "answer": "③",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 523,
+      "id": "07-065-e-201",
+      "type": "explanation",
+      "target_q": "07-065-q-201",
+      "title": "considering [given] A 「A を考慮すれば」",
+      "label": "◆慣用的な分詞構文",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 524,
+      "id": "07-065-q-202",
+      "type": "question",
+      "section_id": "065",
+      "number": "202",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) cars, I've got an environmentally-friendly one.",
+      "options": ["① Speaking of", "② Talking to", "③ To talk", "④ To be spoken"],
+      "ja": "車と言えば、私は環境にやさしい車を持っています。",
+      "answer": "①",
+      "source_univ": "流通経済大"
+    },
+    {
+      "order": 525,
+      "id": "07-065-e-202",
+      "type": "explanation",
+      "target_q": "07-065-q-202",
+      "title": "speaking [talking] of A 「A と言えば」",
+      "label": "◆慣用的な分詞構文",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 526,
+      "id": "07-065-s-016",
+      "type": "summary_box",
+      "target_s": "065",
+      "number": "016",
+      "title": "慣用的な分詞構文",
+      "content": [
+        { "tag": "□", "en": "strictly [roughly / frankly / generally] speaking", "ja": "「厳密に［おおまかに／率直に／一般的に］言えば」" },
+        { "tag": "□", "en": "speaking [talking] of A", "ja": "「A と言えば」", "note": "→ 202" },
+        { "tag": "□", "en": "judging from A", "ja": "「A から判断すれば」" },
+        { "tag": "□", "en": "considering [given] A", "ja": "「A を考慮すれば」", "note": "→ 201" },
+        { "tag": "□", "en": "considering [given] (that) SV", "ja": "「…ということを考慮すれば」" },
+        { "tag": "□", "en": "weather permitting", "ja": "「天気が良ければ」" }
+      ]
+    },
+    {
+      "order": 527,
+      "type": "section_header",
+      "section_id": "066",
+      "title": "付帯状況を表す <with + 名詞 + 分詞>"
+    },
+    {
+      "order": 528,
+      "id": "07-066-q-203",
+      "type": "question",
+      "section_id": "066",
+      "number": "203",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "With summer ( ), medical experts have made recommendations to prevent sunburn.",
+      "options": ["① approaches", "② approaching", "③ has approached", "④ is approaching"],
+      "ja": "夏の到来にあわせて、医療専門家は日焼け防止の提言をした。",
+      "answer": "②",
+      "source_univ": "立命館大"
+    },
+    {
+      "order": 529,
+      "id": "07-066-e-203",
+      "type": "explanation",
+      "target_q": "07-066-q-203",
+      "title": "summer と approach の関係に注目",
+      "label": "◆付帯状況を表す <with + 名詞 + doing>",
+      "content": [],
+      "solution": [
+        { "text": "名詞 summer と approach「近づく」の間には「夏が近づく」という能動関係が成立するので、現在分詞 ② approaching が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 530,
+      "id": "07-066-q-204",
+      "type": "question",
+      "section_id": "066",
+      "number": "204",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "The thief was taken away with his ( ) behind his back.",
+      "options": ["① hands tying", "② tied hands", "③ tying hands", "④ hands tied"],
+      "ja": "その泥棒は後ろ手に縛られて連行された。",
+      "answer": "④",
+      "source_univ": "芝浦工業大"
+    },
+    {
+      "order": 531,
+      "id": "07-066-e-204",
+      "type": "explanation",
+      "target_q": "07-066-q-204",
+      "title": "his hands と tie の関係に注目",
+      "label": "◆付帯状況を表す <with + 名詞 + done>",
+      "content": [],
+      "solution": [
+        { "text": "名詞 his hands と tie「…を縛る」の間には「腕が縛られる」という受動関係が成立するので、過去分詞を用いた ④ hands tied が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 532,
+      "id": "07-066-d-010",
+      "type": "deep_dive",
+      "target_s": "066",
+      "number": "010",
+      "title": "付帯状況「…しながら／…したまま」を表す <with + 名詞 + 分詞>",
+      "content": [
+        { "text": "付帯状況を表す <with + 名詞 + 分詞> の（分詞）の部分には、現在分詞か過去分詞が来る。どちらを用いるかは直前の名詞の意味との関係で判断する。" },
+        { "tag": "(1)", "label": "名詞と分詞が「（名詞）が…する」という能動関係の場合は、<with + 名詞 + doing>", "en": "with my eyes shining 「目を輝かせながら」", "ja": "（←目が輝く）" },
+        { "en": "with tears running down my face 「涙を流しながら」", "ja": "（←涙が流れる）" },
+        { "en": "with my hair streaming in the wind 「髪を風になびかせて」", "ja": "（←髪がなびく）" },
+        { "tag": "(2)", "label": "名詞と分詞が「（名詞）が…される」という受動関係の場合は、<with + 名詞 + done>", "en": "with my arms folded 「腕を組んで」", "ja": "（←腕が組まれる）" },
+        { "en": "with my legs crossed 「脚を組んで」", "ja": "（←脚が組まれる）" },
+        { "en": "with my eyes closed 「目を閉じて」", "ja": "（←目が閉じられる）" },
+        { "tag": "プラス", "text": "分詞の代わりに形容詞や副詞（前置詞句／副詞）を用いて、<with + 名詞 + 形容詞／副詞> で付帯状況を表すこともある。" },
+        { "en": "with my eyes open 「目を開けて」", "ja": "→ open は形容詞" },
+        { "en": "with my mouth full 「口に食べ物をいっぱいに入れたままで」", "ja": "→ full は形容詞" },
+        { "en": "with some candy in my mouth 「あめを口に入れて」", "ja": "→ in my mouth は前置詞句" },
+        { "en": "with a cell phone in my hand 「携帯電話を手にとって」", "ja": "→ in my hand は前置詞句" },
+        { "en": "with the TV on 「テレビをつけたまま」", "ja": "→ on は副詞" },
+        { "en": "with the lights off 「照明を消したままで」", "ja": "→ off は副詞" }
+      ]
+    }
+  ]
+}

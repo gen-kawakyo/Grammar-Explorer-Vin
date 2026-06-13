@@ -1,0 +1,1675 @@
+{
+  "metadata": {
+    "source": "vin4",
+    "field": "grammar",
+    "chapter_id": "03",
+    "chapter_title": "助動詞"
+  },
+  "items": [
+    {
+      "order": 109,
+      "type": "section_header",
+      "section_id": "016",
+      "title": "may"
+    },
+    {
+      "order": 110,
+      "id": "03-016-q-40",
+      "type": "question",
+      "section_id": "016",
+      "number": "40",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) you all be happy and well.",
+      "options": ["① Fortunately", "② If only", "③ May", "④ Suppose"],
+      "ja": "皆様のご多幸とご健康をお祈りします。",
+      "answer": "③",
+      "source_univ": "獨協医科大"
+    },
+    {
+      "order": 111,
+      "id": "03-016-e-40",
+      "type": "explanation",
+      "target_q": "03-016-q-40",
+      "title": "原形 be に注目",
+      "label": "祈願を表す may",
+      "content": [
+        { "text": "〈May S do ...!〉で「Sが…します［であります］ように」という祈願を表す。本問のように \"!\"（感嘆符）がつかない場合もある。この用法では Might は使えない。" }
+      ],
+      "solution": [
+        { "text": "you all be happy の動詞の原形 be に注目。助動詞の原形が続くのは助動詞の ③ May だけ。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 112,
+      "id": "03-016-c-001",
+      "type": "confirmation_box",
+      "target_s": "016",
+      "number": "001",
+      "title": "may / may not のおもな意味",
+      "content": [
+        {
+          "items": [
+            { "tag": "(1)", "text": "may 「…してもよい」 (= can) <許可>", "en": "In this room, you may study, but you may not talk.", "ja": "「この部屋では勉強してもよいが、しゃべってはいけない」" },
+            { "tag": "□", "text": "may not 「…してはいけない」 (= must not) <不許可・禁止>" },
+            { "tag": "(2)", "text": "may 「…する［である］かもしれない」 <現在や未来の可能性・推量>", "en": "Tonight he may come, but he may not stay long.", "ja": "「今晩彼は来るかもしれないが、長くは滞在しないかもしれない」" }
+          ]
+        }
+      ],
+      "appendix": [
+        { "tag": "注意", "text": "may の過去形 might も may の (2) と同じような意味で用いられる。might は過去形だが過去のことを述べているのではない。" },
+        { "en": "Don't throw the textbook away. You might need it later.", "ja": "「教科書は捨てるな。あとで必要になるかもしれない」" }
+      ]
+    },
+    {
+      "order": 113,
+      "type": "section_header",
+      "section_id": "017",
+      "title": "can"
+    },
+    {
+      "order": 114,
+      "id": "03-017-c-002",
+      "type": "confirmation_box",
+      "target_s": "017",
+      "number": "002",
+      "title": "can / cannot[can't] のおもな意味",
+      "content": [
+        {
+          "items": [
+            { "tag": "(1)", "text": "can 「…できる」 / cannot[can't] 「…できない」 <能力・可能>", "en": "I can ski, but I cannot skate.", "ja": "「スキーはできるがスケートはできない」" },
+            { "tag": "(2)", "text": "can 「…してもよい」 (= may) <許可>" },
+            { "tag": "(3)", "text": "can 「…することがある／…でありうる」 <可能性>", "en": "It can be very hot here in summer.", "ja": "「ここは夏にとても暑くなることがある」" },
+            { "tag": "(4)", "text": "cannot[can't] 「…はずがない」 <否定の確信> ((3) の否定) ", "note": "→ Q41" },
+            { "tag": "(5)", "text": "Can ...? 「(いったい)…だろうか」 <疑い> ((3) の疑問) ", "note": "→ Q42" }
+          ]
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 115,
+      "id": "03-017-q-41",
+      "type": "question",
+      "section_id": "017",
+      "number": "41",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "He ( ) be Mary's boyfriend.",
+      "options": ["① mustn't", "② can't", "③ won't", "④ may not"],
+      "ja": "彼はメアリーのボーイフレンドのはずがない。",
+      "answer": "②",
+      "source_univ": "国士舘大"
+    },
+    {
+      "order": 116,
+      "id": "03-017-e-41",
+      "type": "explanation",
+      "target_q": "03-017-q-41",
+      "title": "「はずがない」の意味の助動詞は？",
+      "label": "cannot[can't] 「…のはずがない」",
+      "content": [],      
+      "solution": [
+        { "text": "日本語の意味になるのは ② can't 「…のはずがない」だけ。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① mustn't は「…してはいけない」という禁止の意味。 → 44" }
+      ]
+    },
+    {
+      "order": 117,
+      "id": "03-017-q-42",
+      "type": "question",
+      "section_id": "017",
+      "number": "42",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) it be true that he bought a sports car?",
+      "options": ["① Can", "② Had", "③ Has", "④ Did"],
+      "ja": "彼がスポーツカーを買ったというのは本当だろうか。",
+      "answer": "①",
+      "source_univ": "広島経済大"
+    },
+    {
+      "order": 118,
+      "id": "03-017-e-42",
+      "type": "explanation",
+      "target_q": "03-017-q-42",
+      "title": "原形 be に注目",
+      "label": "Can ...? 「(いったい)…だろうか」",
+      "content": [],
+      "solution": [
+        { "text": "it be true の原形 be に注目する。原形 be が後ろに来るのは助動詞の ① Can だけ。" },
+        { "text": "空所のあとの it は形式主語で、that 以下が真主語になっている。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 119,
+      "type": "section_header",
+      "section_id": "018",
+      "title": "must"
+    },
+    {
+      "order": 120,
+      "id": "03-018-c-003",
+      "type": "confirmation_box",
+      "target_s": "018",
+      "number": "003",
+      "title": "must / must not のおもな意味",
+      "content": [
+        {
+          "items": [
+            { "tag": "(1)", "text": "must 「…しなければならない」 (= have to) <義務・必要>", "note": "→ Q43" },
+            { "tag": "(2)", "text": "must not[mustn't] 「…してはいけない」 <禁止>", "note": "→ Q44" },
+            { "tag": "△注意", "text": "「…する必要はない」 (不必要) は、don't have to (→ 48)、need not[needn't] (→ 53) で表す。" },
+            { "tag": "(3)", "text": "must 「…にちがいない」 <確信>", "note": "→ Q45" },
+            { "tag": "△注意", "text": "((3) の否定) 「…のはずがない」は cannot[can't] で表す。", "note": "→ 41" }
+          ]
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 121,
+      "id": "03-018-q-43",
+      "type": "question",
+      "section_id": "018",
+      "number": "43",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Excuse me for rushing off. I ( ) get back to the office.",
+      "options": ["① would", "② need", "③ must", "④ may"],
+      "ja": "急いで飛び出してしまってすみません。私は職場に戻らないといけないのです。",
+      "answer": "③",
+      "source_univ": "青山学院大"
+    },
+    {
+      "order": 122,
+      "id": "03-018-e-43",
+      "type": "explanation",
+      "target_q": "03-018-q-43",
+      "title": "謝罪の理由を述べている",
+      "label": "must 「…しなければならない」",
+      "content": [],
+      "solution": [
+        { "text": "急いで飛び出してしまったことに関する謝罪のあとに理由を述べていると考えれば、文意が成立するのは「…しなければならない」という意味を表す ③ must だけ。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "② の助動詞 need は否定文・疑問文で使い、肯定文では使えないので不可。 → 53" }
+      ]
+    },
+    {
+      "order": 123,
+      "type": "grammar_term",
+      "target_s": "018",
+      "number": "07",
+      "term": "助動詞",
+      "text": "助動詞は、話し手がどのように思っているか、どのように判断しているかを示す働きをする。〈助動詞 + 動詞の原形〉という組み合わせで用いる。"
+    },
+    {
+      "order": 124,
+      "id": "03-018-q-44",
+      "type": "question",
+      "section_id": "018",
+      "number": "44",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "I promised I would be on time. I ( ) be late.",
+      "options": ["① need not", "② might not", "③ must not", "④ don't have to"],
+      "ja": "私は時間通りに行くと約束した。遅れてはならない。",
+      "answer": "③",
+      "source_univ": "日本大"
+    },
+    {
+      "order": 125,
+      "id": "03-018-e-44",
+      "type": "explanation",
+      "target_q": "03-018-q-44",
+      "title": "文意を成立させる：約束を守るためには？",
+      "label": "must not 「…してはいけない」",
+      "content": [
+        { "text": "文意が成立するのは「…してはならない」という意味を表す ③ must not だけ。" }
+      ],
+      "solution": [
+        { "tag": "選択肢", "text": "④ don't have to は「…する必要はない」という意味。 → 48" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 126,
+      "id": "03-018-q-45",
+      "type": "question",
+      "section_id": "018",
+      "number": "45",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "He ( ) be in because I can hear his radio.",
+      "options": ["① shall", "② must have", "③ has", "④ must"],
+      "ja": "彼のラジオの音が聞こえるので、彼は中にいるにちがいない。",
+      "answer": "④",
+      "source_univ": "上智大"
+    },
+    {
+      "order": 127,
+      "id": "03-018-e-45",
+      "type": "explanation",
+      "target_q": "03-018-q-45",
+      "title": "理由を述べて判断している",
+      "label": "must 「…にちがいない」",
+      "content": [
+        { "text": "because 以下の理由をもとに話し手が判断していると考える。文意が成立するのは「…にちがいない」という意味を表す ④ must だけ。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 128,
+      "type": "section_header",
+      "section_id": "019",
+      "title": "have to do"
+    },
+    {
+      "order": 129,
+      "id": "03-019-c-004",
+      "type": "confirmation_box",
+      "target_s": "019",
+      "number": "004",
+      "title": "have to do の用法",
+      "content": [
+        {
+          "items": [
+            { "tag": "(1)", "text": "have to do 「…しなければならない」 <義務・必要>", "note": "→ 46", "appendix": [ { "text": "(= must / have['ve] got to → 47 )" }, { "tag": "△注意", "text": "主語が三人称単数の場合は has to do になる。" } ] },
+            { "tag": "(2)", "text": "don't have to do 「…する必要はない」 <不必要>", "note": "→ 48", "appendix": [ { "text": "(= need not [needn't] → 53 )" }, { "tag": "△注意", "text": "主語が三人称単数の場合は doesn't have to do になる。" }, { "tag": "△注意", "text": "過去の〈義務・必要〉は had to do 「…しなければならなかった」 (→ 46 )。未来の〈義務〉は will have to do 「…しなければならないだろう」になる。" } ] }
+          ]
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 130,
+      "id": "03-019-q-46",
+      "type": "question",
+      "section_id": "019",
+      "number": "46",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "My brother was in an accident a few days ago and I ( ) him to the hospital then.",
+      "options": ["① should take", "② had to take", "③ can take", "④ had better take"],
+      "ja": "私の兄［弟］が数日前に事故にあい、その時私は彼を病院へ連れて行かなければならなかった。",
+      "answer": "②",
+      "source_univ": "西南学院大"
+    },
+    {
+      "order": 131,
+      "id": "03-019-e-46",
+      "type": "explanation",
+      "target_q": "03-019-q-46",
+      "title": "過去形 was に注目：過去の出来事",
+      "label": "had to do 「…しなければならなかった」",
+      "content": [
+        { "text": "take him to the hospital 「彼を病院に連れて行く」という過去の義務であり、文意が成立するのは過去の義務を表す ② had to take だけ。" }
+      ],
+      "solution": [
+        { "tag": "選択肢", "text": "正解以外はすべて現在の事柄を表し、過去の事柄には使えない。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 132,
+      "id": "03-019-q-47",
+      "type": "question",
+      "section_id": "019",
+      "number": "47",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Oh, it's already eleven o'clock? I ( ) go home now.",
+      "options": ["① I've gotten", "② I've got to", "③ I had had to", "④ I'm having to"],
+      "ja": "おっと、もう11時？もう家に帰らなきゃ。",
+      "answer": "②",
+      "source_univ": "桜美林大"
+    },
+    {
+      "order": 133,
+      "id": "03-019-e-47",
+      "type": "explanation",
+      "target_q": "03-019-q-47",
+      "title": "「…しなければならない」の文を作る",
+      "label": "have got to do 「…しなければならない」",
+      "content": [
+        { "text": "have to do の代わりに、have['ve] got to do を使うことがある。口語的表現。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 134,
+      "id": "03-019-q-48",
+      "type": "question",
+      "section_id": "019",
+      "number": "48",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "You ( ) talk about yourself if you don't want to.",
+      "options": ["① don't have to", "② have not", "③ have not to", "④ have not"],
+      "ja": "自分のことについて話したくなければ、話す必要はない。",
+      "answer": "①",
+      "source_univ": "九州ルーテル学院大"
+    },
+    {
+      "order": 135,
+      "id": "03-019-e-48",
+      "type": "explanation",
+      "target_q": "03-019-q-48",
+      "title": "if you don't want to の内容に注目",
+      "label": "don't have to 「…する必要はない」",
+      "content": [
+        { "text": "「…する必要はない」を表す ① don't have to が正解。" },
+        { "text": "if you don't want to の to は代不定詞（→ 135 ）で、そのあのが省略されている。省略を補えば if you don't want to talk about yourself となる。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 136,
+      "id": "03-019-q-49",
+      "type": "question",
+      "section_id": "019",
+      "number": "49",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "You ( ) only to send me an e-mail.",
+      "options": [],
+      "ja": "あなたは E メールを送ってくれるだけでいいんです。",
+      "answer": "have / need",
+      "source_univ": "西南学院大"
+    },
+    {
+      "order": 137,
+      "id": "03-019-e-49",
+      "type": "explanation",
+      "target_q": "03-019-q-49",
+      "title": "〈have to do〉+〈only〉と考える",
+      "label": "have only to do 「…するだけでよい」",
+      "content": [
+        { "text": "have only to do 「…するだけでよい（…しさえすればよい）」 (= only have to do ) は have to do 「…しなければならない」に only の意味を加えたものと考える。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 138,
+      "type": "section_header",
+      "section_id": "020",
+      "title": "should / ought to"
+    },
+    {
+      "order": 139,
+      "id": "03-020-c-005",
+      "type": "confirmation_box",
+      "target_s": "020",
+      "number": "005",
+      "title": "should / ought to のおもな意味",
+      "content": [
+        {
+          "items": [
+            { "tag": "(1)", "text": "should / ought to 「…すべきである［したほうがよい］」 <義務・忠告>", "note": "→ 50, 51" },
+            { "tag": "(2)", "text": "should not [shouldn't] / ought not to 「…すべきでない」", "appendix": [ { "tag": "△注意", "text": "ought to の否定形は ought not to になる。not の位置に注意。", "note": "→ 52" } ] },
+            { "tag": "(3)", "text": "should / ought to 「…のはずだ［きっと…にちがいない］」 <推量>", "en": "If you come by subway, you should[ought to] arrive here at five.", "ja": "「地下鉄で来るとしたら、5時にはここに着くはずだ」" }
+          ]
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 140,
+      "id": "03-020-q-50",
+      "type": "question",
+      "section_id": "020",
+      "number": "50",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "The train for Osaka will be leaving in two minutes. You ( ) hurry up now.",
+      "options": ["① used to", "② should", "③ mustn't", "④ had to"],
+      "ja": "大阪行きの電車は2分後に出ます。急いだほうがいいですよ。",
+      "answer": "②",
+      "source_univ": "跡見学園女子大"
+    },
+    {
+      "order": 141,
+      "id": "03-020-e-50",
+      "type": "explanation",
+      "target_q": "03-020-q-50",
+      "title": "命令文に近いニュアンス",
+      "label": "should 「…すべきである／…したほうがよい」",
+      "content": [],
+      "solution": [{ "text": "文意が成立するのは ② should 「…したほうがよい」だけ。" }],
+      "appendix": [{ "tag": "選択肢", "text": "③ 「急いではならない」では文意が通らない。① と ④ は過去の内容に用いるので不可。" }]
+    },
+    {
+      "order": 142,
+      "id": "03-020-q-51",
+      "type": "question",
+      "section_id": "020",
+      "number": "51",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "He ( ) to look after his children better.",
+      "options": ["① must", "② ought", "③ have", "④ should"],
+      "ja": "彼はもっとちゃんと自分の子どもの面倒を見るべきだ。",
+      "answer": "②",
+      "source_univ": "杏林大"
+    },
+    {
+      "order": 143,
+      "id": "03-020-e-51",
+      "type": "explanation",
+      "target_q": "03-020-q-51",
+      "title": "空所のあとの to に注目",
+      "label": "ought to do 「…すべきである／…したほうがよい」",
+      "content": [],
+      "solution": [{ "text": "空所のあとの to に注目して ② ought を選ぶ。" }],
+      "appendix": [{ "tag": "選択肢", "text": "主語が He なので、③ が has なら空所に入る。" }]
+    },
+    {
+      "order": 144,
+      "id": "03-020-q-52",
+      "type": "question",
+      "section_id": "020",
+      "number": "52",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I ( ) not to tell my father the true state of his health.",
+      "options": ["① must", "② should", "③ better", "④ ought"],
+      "ja": "私は父に、彼の本当の健康状態を告げるべきではない。",
+      "answer": "④",
+      "source_univ": "福岡国際大"
+    },
+    {
+      "order": 145,
+      "id": "03-020-e-52",
+      "type": "explanation",
+      "target_q": "03-020-q-52",
+      "title": "空所のあとの not to に注目",
+      "label": "ought not to do 「…すべきでない」",
+      "content": [],
+      "solution": [{ "text": "空所のあとの not to に注目して ④ ought を選ぶ。not の位置に注意。" }],
+      "appendix": []
+    },
+    {
+      "order": 146,
+      "type": "section_header",
+      "section_id": "021",
+      "title": "need と dare の助動詞としての用法"
+    },
+    {
+      "order": 147,
+      "id": "03-021-q-53",
+      "type": "question",
+      "section_id": "021",
+      "number": "53",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "(a) In many schools in the U.S.A., you don't have to wear a uniform.\n(b) In many schools in the U.S.A., you ( ) ( ) ( ) a uniform.",
+      "q_type": "sentence_transformation",
+      "ja": "(a) (b) アメリカ合衆国の多くの学校では、制服を着る必要がない。",
+      "answer": "need not wear",
+      "source_univ": "名城大"
+    },
+    {
+      "order": 148,
+      "id": "03-021-e-53",
+      "type": "explanation",
+      "target_q": "03-021-q-53",
+      "title": "「…する必要はない」の同意表現",
+      "label": "need not [needn't] do 「…する必要はない」",
+      "content": [
+        { "text": "助動詞 need は、原則として否定文と疑問文で使われる。" },
+        { "text": "S need not [needn't] do 「Sは…する必要はない」 (否定文)\n(= don't[doesn't] have to do / don't[doesn't] need to do)" },
+        { "text": "Need S do ...? 「Sは…する必要がありますか」 (疑問文)\n(= Do[Does] S have to do ...? / Do[Does] S need to do ...?)" },
+        { "tag": "*", "text": "動詞 need は目的語として不定詞を続ける：S need to do ... 「Sは…する必要がある」" }],
+      "solution": [{"text": "don't have to do 「…する必要はない」と同意の助動詞 need not do を用いて作る。" }],
+      "appendix": []
+    },
+    {
+      "order": 149,
+      "id": "03-021-q-54",
+      "type": "question",
+      "section_id": "021",
+      "number": "54",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "How ( ) you speak to me like that!",
+      "options": ["① might", "② do", "③ dare", "④ may"],
+      "ja": "よくもまあ僕にそんな口がきけるね！",
+      "answer": "③",
+      "source_univ": "駒澤大"
+    },
+    {
+      "order": 150,
+      "id": "03-021-e-54",
+      "type": "explanation",
+      "target_q": "03-021-q-54",
+      "title": "非難の内容を読み取る",
+      "label": "How dare S do ...? 「よくも…できるね」",
+      "content": [
+        { "text": "助動詞 dare も、原則として否定文と疑問文で使われる。" },
+        { "text": "S dare not do 「Sは…する勇気がない」 (否定文)" },
+        { "text": "Dare S do ...? 「Sは…する勇気がありますか」 (疑問文)" }
+      ],
+      "solution": [
+        { "text": "助動詞 dare は本問のように、How dare S do ...? の形で出題されることがほとんどで、「…するとは図々しいにもほどがある／…するのは厚かましすぎる」という非難や驚きを表す。本問のように \"?\" (疑問符) の代わりに \"!\" (感嘆符) を用いる場合もある。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 151,
+      "type": "section_header",
+      "section_id": "022",
+      "title": "主語の意志を表す will / would"
+    },
+    {
+      "order": 152,
+      "id": "03-022-q-55",
+      "type": "question",
+      "section_id": "022",
+      "number": "55",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "We all tried to push the truck, but it ( ) move. Finally, we called the car service center.",
+      "options": ["① will", "② would", "③ won't", "④ wouldn't"],
+      "ja": "私たちはみんなでそのトラックを押そうとしたが、どうしても動かなかった。結局、私たちは自動車サービスセンターに電話をかけた。",
+      "answer": "④",
+      "source_univ": "名古屋工業大"
+    },
+    {
+      "order": 153,
+      "id": "03-022-e-55",
+      "type": "explanation",
+      "target_q": "03-022-q-55",
+      "title": "主語 it = the truck の強い意志",
+      "label": "would not do 「どうしても…しなかった」",
+      "content": [
+        { "text": "will / would が「主語の強い意志」を表す場合があり、否定形の will not / would not には「どうしても…しようとしない［しなかった］」という「拒絶」のニュアンスがある。" }
+      ],
+      "solution": [
+        { "tag": "▶", "text": "文章が成立するのは ④ wouldn't 「どうしても…しなかった」だけ。本問のように、will / would は主語が人以外の場合にもよく用いられる。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "本問は過去の出来事なので ① と ③ は不可。" }
+      ]
+    },
+    {
+      "order": 154,
+      "type": "section_header",
+      "section_id": "023",
+      "title": "would rather"
+    },
+    {
+      "order": 155,
+      "id": "03-023-q-56",
+      "type": "question",
+      "section_id": "023",
+      "number": "56",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Peter would rather stay home than ( ) to the movies.",
+      "options": ["① having gone", "② go", "③ gone", "④ to go"],
+      "ja": "ピーターは映画に行くよりも、むしろ家にいたいと思う。",
+      "answer": "②",
+      "source_univ": "北里大"
+    },
+    {
+      "order": 156,
+      "id": "03-023-e-56",
+      "type": "explanation",
+      "target_q": "03-023-q-56",
+      "title": "than の直後は動詞の原形",
+      "label": "would rather do ... than do ~ 「〜するよりも（むしろ）…したい」",
+      "content": [],
+      "solution": [
+        { "tag": "▶", "text": "この表現の than の直後には動詞の原形が来るので ② go が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 157,
+      "id": "03-023-q-57",
+      "type": "question",
+      "section_id": "023",
+      "number": "57",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "As it is raining, I would ( ) stay at home.",
+      "options": ["① better", "② have", "③ like", "④ rather"],
+      "ja": "雨が降っているので、私はむしろ家にいたい。",
+      "answer": "④",
+      "source_univ": "金城学院大"
+    },
+    {
+      "order": 158,
+      "id": "03-023-e-57",
+      "type": "explanation",
+      "target_q": "03-023-q-57",
+      "title": "than 以下が省略されている",
+      "label": "would rather do ... 「（むしろ）…したい」",
+      "content": [],
+      "solution": [
+        { "tag": "▶", "text": "この表現は would rather do ... than do ~ 「〜するよりも…したい」の than 以下が示されない形。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 159,
+      "id": "03-023-q-58",
+      "type": "question",
+      "section_id": "023",
+      "number": "58",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "(this / he / not / rather / see / movie / would).",
+      "q_type": "ordering",
+      "ja": "彼はこの映画をむしろ見たくありません。",
+      "answer": "He would rather not see this movie",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 160,
+      "id": "03-023-e-58",
+      "type": "explanation",
+      "target_q": "03-023-q-58",
+      "title": "not の位置に注意",
+      "label": "would rather not do ... 「（むしろ）…したくない」",
+      "content": [],
+      "solution": [
+        { "tag": "▶", "text": "would rather do ... の否定は、would rather not do ... になる。would rather を1つの助動詞と考えて否定語 not を直後に続ける。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 161,
+      "type": "section_header",
+      "section_id": "024",
+      "title": "had better"
+    },
+    {
+      "order": 162,
+      "id": "03-024-q-59",
+      "type": "question",
+      "section_id": "024",
+      "number": "59",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "If you have a toothache, you ( ) the dentist right now.",
+      "options": ["① have better to see", "② have better see", "③ had better to see", "④ had better see"],
+      "ja": "歯が痛いのなら、あなたは今すぐ歯医者に診てもらったほうがいい。",
+      "answer": "④",
+      "source_univ": "東洋大"
+    },
+    {
+      "order": 163,
+      "id": "03-024-e-59",
+      "type": "explanation",
+      "target_q": "03-024-q-59",
+      "title": "had better は直後に動詞の原形を続ける",
+      "label": "had better do 「…したほうがよい」",
+      "content": [],
+      "solution": [
+        { "tag": "▶", "text": "had better は直後に動詞の原形を続ける。よって ④ had better see が正解。had better を1つの助動詞として考える。" }
+      ],
+      "appendix": [
+        { "tag": "注意", "text": "had better は提案や忠告を表すが、主語にした You had better ... は「…したほうがよい（さもなければ問題や危険を招くだろう）」という脅迫的なニュアンスになるので、目上の人には使わない。控えめに忠告する場合は I think (I) you should ... と記述する。" }
+      ]
+    },
+    {
+      "order": 164,
+      "id": "03-024-q-60",
+      "type": "question",
+      "section_id": "024",
+      "number": "60",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "You ( ) go jogging after dark in this neighborhood.",
+      "options": ["① had not better", "② had better not", "③ not had better", "④ had not better to"],
+      "ja": "この近辺では暗くなってからジョギングに出かけないほうがいいですよ。",
+      "answer": "②",
+      "source_univ": "法政大"
+    },
+    {
+      "order": 165,
+      "id": "03-024-e-60",
+      "type": "explanation",
+      "target_q": "03-024-q-60",
+      "title": "had better の否定形は not の位置に注意",
+      "label": "had better not do 「…しないほうがよい」",
+      "content": [],
+      "solution": [
+        { "tag": "▶", "text": "had better do の否定形は、had better not do になる。had better を1つの助動詞と考えて否定語 not を直後に続ける。よって ② had better not が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 166,
+      "type": "section_header",
+      "section_id": "025",
+      "title": "used to と would (often) の用法"
+    },
+    {
+      "order": 167,
+      "id": "03-025-c-006",
+      "type": "confirmation_box",
+      "target_s": "025",
+      "number": "006",
+      "title": "used to と would (often) の用法",
+      "content": [
+        {
+          "en": "used to",
+          "text": "(1)「（以前は）よく…したものだ」（過去の習慣的動作）：あとには動作動詞が続く。→ 61\n(2)「（以前は）…だった（が今はそうではない）」（過去の状態）：あとには状態動詞が続く。→ 62",
+          "note": ""
+        },
+        {
+          "en": "would (often)",
+          "text": "「（以前は）よく…したものだ」（過去の習慣的動作）",
+          "appendix": []
+        }
+      ],
+      "appendix": [
+        {
+          "tag": "注意",
+          "text": "would (often) は過去の習慣的動作を表すが、過去の状態を表すことはできない。従って、would (often) のあとには動作動詞だけが続き、状態動詞は続かない。"
+        },
+        {
+          "tag": "例",
+          "en": "There used to [ (×) would ] be a park in front of the station.",
+          "ja": "「以前は駅前に公園があった（が今はなない）」\n→ be は「存在する」という意味の状態動詞。"
+        }
+      ]
+    },
+    {
+      "order": 168,
+      "id": "03-025-q-61",
+      "type": "question",
+      "section_id": "025",
+      "number": "61",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "In fact, since French fashions were so popular, American dressmakers used to (changing) their names to French ones.",
+      "q_type": "error_correction",
+      "ja": "実際、フランスのファッションはとても人気があったので、アメリカの洋裁師たちは自らの名前をフランス風に変えたものだ。",
+      "answer": "changing → change",
+      "source_univ": "創価大"
+    },
+    {
+      "order": 169,
+      "id": "03-025-e-61",
+      "type": "explanation",
+      "target_q": "03-025-q-61",
+      "title": "used to のあとは動詞の原形",
+      "label": "used to do 「（以前は）よく…したものだ」—過去の習慣的動作",
+      "content": [],
+      "solution": [
+        {
+          "tag": "",
+          "text": "④ changing を原形 change に変更すれば、過去の習慣的動作を表す used to do になり、文意が成立する。used to を1つの助動詞として考える。"
+        }
+      ],
+      "appendix": [
+        {
+          "tag": "重要表現",
+          "text": "in fact「実際に（は）」 → 1221\nsince SV...「…なので」（理由） → 288"
+        }
+      ]
+    },
+    {
+      "order": 170,
+      "id": "03-025-q-62",
+      "type": "question",
+      "section_id": "025",
+      "number": "62",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "My sister ( ) in Chicago, but she moved to Los Angeles last year.",
+      "options": [
+        "① is used to living",
+        "② used to live",
+        "③ used to living",
+        "④ was used to live"
+      ],
+      "ja": "私の姉［妹］は以前シカゴに住んでいたが、昨年ロサンゼルスに引っ越した。",
+      "answer": "②",
+      "source_univ": "明治大"
+    },
+    {
+      "order": 171,
+      "id": "03-025-e-62",
+      "type": "explanation",
+      "target_q": "03-025-q-62",
+      "title": "似たような表現との混同に注意",
+      "label": "used to do 「（以前は）…だった」—過去の状態",
+      "content": [],
+      "solution": [
+        {
+          "text": "文意が成立するのは過去の状態を表す ② used to live だけ。"
+        }
+      ],
+      "appendix": [
+        {
+          "tag": "選択肢",
+          "text": "① は be used to doing「…することに慣れている」という表現なので「住むことに慣れている」という意味になる。④ は受動態で「住むために使われた」という意味になる。"
+        }
+      ]
+    },
+    {
+      "order": 172,
+      "id": "03-025-s-005",
+      "type": "summary_box",
+      "target_s": "025",
+      "number": "005",
+      "title": "used to do / be used to doing / be used to do の区別",
+      "content": [
+        {
+          "tag": "(1)",
+          "en": "used to do",
+          "ja": "「（以前は）よく…したものだ／（以前は）…だった」",
+          "note": "→ 61, 62"
+        },
+        {
+          "tag": "(2)",
+          "en": "be used to doing",
+          "ja": "「…することに慣れている」",
+          "text": "＊to の直後には名詞か動詞の -ing 形が続く。この to は前置詞の to。",
+          "note": "→ 165"
+        },
+        {
+          "tag": "(3)",
+          "en": "be used to do",
+          "ja": "「…するために使われる」",
+          "text": "＊受動態の ＜be used＞ に、「目的」の意味の不定詞が続く表現。"
+        },
+        {
+          "tag": "例",
+          "en": "This medicine is used to cure a cold.",
+          "ja": "「この薬は風邪を治すために使われる」"
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 173,
+      "id": "03-025-q-63",
+      "type": "question",
+      "section_id": "025",
+      "number": "63",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "When we were children, we ( ) go skating every winter.",
+      "options": [
+        "① liked",
+        "② would",
+        "③ might",
+        "④ wanted"
+      ],
+      "ja": "子どものころ、私たちは毎年冬にスケートをしに行ったものだ。",
+      "answer": "②",
+      "source_univ": "杏林大"
+    },
+    {
+      "order": 174,
+      "id": "03-025-e-63",
+      "type": "explanation",
+      "target_q": "03-025-q-63",
+      "title": "when 節の過去形と every winter に注目",
+      "label": "would 「（以前は）よく…したものだ」",
+      "content": [],
+      "solution": [
+        {
+          "text": "when we were children と過去のことを話題にし、さらに every winter「毎年冬」と繰り返される時間を表現しているので、「過去の習慣」を表しているよ考える。"
+        },
+        {
+          "text": "直後に動作動詞が続き、文意が成立する過去の習慣的動作を表す ② would だけ。"
+        }
+      ],
+      "appendix": [
+        {
+          "tag": "選択肢",
+          "text": "③ might は現在や未来の推量を表すので不可。 → まずは確認 001 (p.038)"
+        }
+      ]
+    },
+    {
+      "order": 175,
+      "type": "section_header",
+      "section_id": "026",
+      "title": "may have done / must have done / cannot have done"
+    },
+    {
+      "order": 176,
+      "id": "03-026-q-64",
+      "type": "question",
+      "section_id": "026",
+      "number": "64",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "Tom ( ) there yesterday, but we didn't see him.",
+      "options": [
+        "① might be",
+        "② may have been",
+        "③ should be",
+        "④ must have to be"
+      ],
+      "ja": "トムは昨日そこにいたかもしれないが、私たちは彼を見かけなかった。",
+      "answer": "②",
+      "source_univ": "岩手医科大"
+    },
+    {
+      "order": 177,
+      "id": "03-026-e-64",
+      "type": "explanation",
+      "target_q": "03-026-q-64",
+      "title": "過去の内容であることに注目",
+      "label": "may[might] have done 「…したかもしれない／…であったかもしれない」",
+      "content": [],
+      "solution": [
+        {
+          "text": "yesterday に注目すれば、問題文は過去の内容を述べていることがわかる。過去の推量を表すのは ② may have been だけ。might have been を用いても同意。"
+        }
+      ],
+      "appendix": [
+        {
+          "tag": "選択肢",
+          "text": "① の might は現在や未来の推量を表すので不可。 → まずは確認 001 (p.038)"
+        }
+      ]
+    },
+    {
+      "order": 178,
+      "id": "03-026-q-65",
+      "type": "question",
+      "section_id": "026",
+      "number": "65",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "The wedding party ( ) a lot of money. There were a lot of guests, and the hotel was the best in the city.",
+      "options": [
+        "① must have cost",
+        "② cannot have cost",
+        "③ could not cost",
+        "④ will cost"
+      ],
+      "ja": "その結婚披露宴には大金がかかったにちがいない。たくさんの客がいたし、街で一番のホテルだった。",
+      "answer": "①",
+      "source_univ": "芝浦工業大"
+    },
+    {
+      "order": 179,
+      "id": "03-026-e-65",
+      "type": "explanation",
+      "target_q": "03-026-q-65",
+      "title": "過去の内容であることに注目",
+      "label": "must have done 「…したにちがいない／…であったにちがいない」",
+      "content": [],
+      "solution": [
+        {
+          "text": "問題文は過去の内容を述べており、文意が成立するのは ① must have cost だけ。"
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 180,
+      "id": "03-026-q-66",
+      "type": "question",
+      "section_id": "026",
+      "number": "66",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "Kate ( ) her way, for she has come here several times.",
+      "options": [
+        "① couldn't lose",
+        "② could have lost",
+        "③ can't have lost",
+        "④ can be lost"
+      ],
+      "ja": "ケイトが道に迷ったはずはない。というのも彼女は何度かここに来たことがあるのだから。",
+      "answer": "③",
+      "source_univ": "國學院大"
+    },
+    {
+      "order": 181,
+      "id": "03-026-e-66",
+      "type": "explanation",
+      "target_q": "03-026-q-66",
+      "title": "経験を表す現在完了 has come に注目",
+      "label": "cannot[can't] have done 「…したはずがない／…であったはずがない」",
+      "content": [],
+      "solution": [
+        {
+          "tag": "",
+          "text": "she has come here several times「（今までに）ここへ数回来たことがある」に注目。この根拠から ③ can't have lost (her way)「道に迷ったはずがない」と推量している。"
+        }
+      ],
+      "appendix": [
+        {
+          "tag": "重要",
+          "text": "lose one's way「道に迷う／迷子になる」"
+        },
+        {
+          "tag": "重要",
+          "text": "for「（というのは）…だから」 → まずは確認 029 (p.131) 整理して覚える 109 (p.358)"
+        }
+      ]
+    },
+    {
+      "order": 182,
+      "id": "03-026-s-006",
+      "type": "summary_box",
+      "target_s": "026",
+      "number": "006",
+      "title": "may[might] / must / cannot[can't] have done は、過去の事柄に関する推量を表す",
+      "content": [
+        {
+          "tag": "(1)",
+          "en": "may[might] have done",
+          "ja": "「…したかもしれない／…であったかもしれない」",
+          "note": "→ 64"
+        },
+        {
+          "tag": "(2)",
+          "en": "must have done",
+          "ja": "「…したにちがいない／…であったにちがいない」",
+          "note": "→ 65"
+        },
+        {
+          "tag": "(3)",
+          "en": "cannot[can't] have done",
+          "ja": "「…したはずがない／…であったはずがない」",
+          "note": "→ 66"
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 183,
+      "type": "section_header",
+      "section_id": "027",
+      "title": "should [ought to] have done / need not have done"
+    },
+    {
+      "order": 184,
+      "id": "03-027-q-67",
+      "type": "question",
+      "section_id": "027",
+      "number": "67",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "I ( ) called you this morning, but I was too busy to do so.",
+      "options": [
+        "① must have",
+        "② must not have",
+        "③ should have",
+        "④ should not have"
+      ],
+      "ja": "私は今朝あなたに電話すべきだったのだが、忙しすぎてできなかった。",
+      "answer": "③",
+      "source_univ": "明治大"
+    },
+    {
+      "order": 185,
+      "id": "03-027-e-67",
+      "type": "explanation",
+      "target_q": "03-027-q-67",
+      "title": "実際はどうだったのかに注目",
+      "label": "should[ought to] have done 「…すべきだったのに（実際は…しなかった）」",
+      "content": [],
+      "solution": [
+        {
+          "text": "実際には電話ができなかったのであるから、文意が成立するのは ③ should have (called)「電話すべきだったのに」だけ。"
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 186,
+      "id": "03-027-q-68",
+      "type": "question",
+      "section_id": "027",
+      "number": "68",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Our French teacher ( ) here by now because he took the early bus.",
+      "options": [
+        "① ought to have arrived",
+        "② may arrive",
+        "③ can arrive",
+        "④ must arrive"
+      ],
+      "ja": "私たちのフランス語の先生は、今ごろはもうここに着いているはずだ。彼は早めのバスに乗ったのだから。",
+      "answer": "①",
+      "source_univ": "神戸山手大"
+    },
+    {
+      "order": 187,
+      "id": "03-027-e-68",
+      "type": "explanation",
+      "target_q": "03-027-q-68",
+      "title": "by now 「今ごろはもう」に注目",
+      "label": "should[ought to] have done 「今ごろはもう…して（しまって）いるはずだ」",
+      "content": [],
+      "solution": [
+        {
+          "text": "by now「今ごろはもう」に注目。he took the early bus「早めのバスに乗った」とあることから、① ought to have arrived「到着して（しまって）いるはずだ」と推量している。"
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 188,
+      "id": "03-027-q-69",
+      "type": "question",
+      "section_id": "027",
+      "number": "69",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "\"You are soaking wet. You ( ) out in the rain.\"\n\"I know, but they were expecting me.\"",
+      "options": [
+        "① wouldn't have gone",
+        "② shouldn't have gone",
+        "③ could have gone",
+        "④ couldn't have gone"
+      ],
+      "ja": "「君はびしょ濡れだね。雨の中を出かけるべきではなかったのに」\n「わかっているけど、彼らが僕を待っていたんだ」",
+      "answer": "②",
+      "source_univ": "駒澤大"
+    },
+    {
+      "order": 189,
+      "id": "03-027-e-69",
+      "type": "explanation",
+      "target_q": "03-027-q-69",
+      "title": "「事実」に対して文面が成立するのは？",
+      "label": "should not [ought not to] have done 「…すべきではなかったのに（実際は…した）」",
+      "content": [],
+      "solution": [
+        {
+          "tag": "",
+          "text": "「びしょ濡れだ」という事実に対して、「雨の中を外出するべきではなかったのに（実際は外出した）」という文意が成立するのは ② should not have gone だけ。"
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 190,
+      "id": "03-027-q-70",
+      "type": "question",
+      "section_id": "027",
+      "number": "70",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "You (to / not / kept / have / ought) her waiting on such a cold night.",
+      "q_type": "ordering",
+      "ja": "あんな寒い夜に彼女を待たせておくべきではなかった。",
+      "answer": "ought not to have kept",
+      "source_univ": "明海大"
+    },
+    {
+      "order": 191,
+      "id": "03-027-e-70",
+      "type": "explanation",
+      "target_q": "03-027-q-70",
+      "title": "not の位置に注意",
+      "label": "ought not to have done 「…すべきではなかったのに」",
+      "content": [
+        {
+          "text": "ought to have done の否定形は ought not to have done となる。not の位置に注意。"
+        }
+      ],
+      "solution": [],
+      "appendix": [
+        {
+          "tag": "重要",
+          "text": "keep A waiting 「Aを待たせておく」 → 187"
+        }
+      ]
+    },
+    {
+      "order": 192,
+      "id": "03-027-q-71",
+      "type": "question",
+      "section_id": "027",
+      "number": "71",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Contrary to the weather forecast, it did not rain yesterday. We ( ) all our raincoats and umbrellas.",
+      "options": [
+        "① must have brought",
+        "② should have brought",
+        "③ needn't have brought",
+        "④ couldn't have brought"
+      ],
+      "ja": "天気予報に反して、昨日は雨が降らなかった。私たちはレインコートも傘もまったく持ってくる必要がなかったのに。",
+      "answer": "③",
+      "source_univ": "北陸大"
+    },
+    {
+      "order": 193,
+      "id": "03-027-e-71",
+      "type": "explanation",
+      "target_q": "03-027-q-71",
+      "title": "「事実」に対して文面を成立させる",
+      "label": "need not [needn't] have done 「…する必要はなかったのに（実際は…した）」",
+      "content": [],
+      "solution": [
+        {
+          "tag": "",
+          "text": "「雨が降らなかったので、雨具を持ってくる必要はなかったのに（のを持ってきてしまった）」という文意を成立させる。③ needn't have brought が正解。"
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 194,
+      "id": "03-027-s-007",
+      "type": "summary_box",
+      "target_s": "027",
+      "number": "007",
+      "title": "should[ought to] have done / need not have done",
+      "content": [
+        {
+          "tag": "",
+          "en": "should[ought to] have done",
+          "ja": "(1)「…すべきだったのに（実際は…しなかった）」→ 67\n(2) 「（今ごろはもう）…して（しまって）いるはずだ」→ 68",
+          "note": ""
+        },
+        {
+          "tag": "",
+          "en": "",
+          "ja": "",
+          "note": ""
+        },
+        {
+          "tag": "",
+          "en": "should not [ought not to] have done",
+          "ja": "「…すべきではなかったのに（実際は…した）」",
+          "note": "→ 69, 70"
+        },
+        {
+          "tag": "",
+          "en": "need not [needn't] have done",
+          "ja": "「…する必要はなかったのに（実際は…した）」",
+          "note": "→ 71"
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 195,
+      "type": "section_header",
+      "section_id": "028",
+      "title": "that 節で用いる should"
+    },
+    {
+      "order": 196,
+      "id": "03-028-q-72",
+      "type": "question",
+      "section_id": "028",
+      "number": "72",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "It is regrettable that Annie ( ) waste her artistic talent.",
+      "options": [
+        "① could not",
+        "② ought to",
+        "③ should",
+        "④ should not"
+      ],
+      "ja": "アニーが芸術的才能を無駄にしているのは残念なことだ。",
+      "answer": "③",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 197,
+      "id": "03-028-e-72",
+      "type": "explanation",
+      "target_q": "03-028-q-72",
+      "title": "regrettable「残念な」は感情を表す形容詞",
+      "label": "that 節で用いる should",
+      "content": [
+        {
+          "text": "〈It is + 形容詞 + that ...〉の表現で、形容詞が「感情・判断」などを表すとき、that 節では should を用いる。"
+        }
+      ],
+      "solution": [
+        {
+          "tag": "",
+          "text": "It is regrettable that ...「…は残念だ」の that 節では ③ should が用いられる。"
+        }
+      ],
+      "appendix": [
+        {
+          "tag": "注意",
+          "text": "should を用いずに、主語に応じた動詞の形にすることもある。本問の場合、Annie should waste ... の代わりに、Annie wastes ... の形になることもある。"
+        }
+      ]
+    },
+    {
+      "order": 198,
+      "id": "03-028-q-73",
+      "type": "question",
+      "section_id": "028",
+      "number": "73",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "It is essential that the documents ( ) kept in the safe.",
+      "options": [
+        "① is",
+        "② being",
+        "③ be",
+        "④ were"
+      ],
+      "ja": "その書類を金庫に保管することは不可欠だ。",
+      "answer": "③",
+      "source_univ": "亜細亜大"
+    },
+    {
+      "order": 199,
+      "id": "03-028-e-73",
+      "type": "explanation",
+      "target_q": "03-028-q-73",
+      "title": "essential「不可欠の」は重要・必要を表す形容詞",
+      "label": "that 節で用いる動詞の原形や should",
+      "content": [
+        {
+          "text": "〈It is + 形容詞 + that ...〉の表現で、形容詞が「重要・必要」などを表すとき、that 節では動詞の原形か should を用いる。"
+        }
+      ],
+      "solution": [
+        {
+          "text": "It is essential that ...「…は不可欠だ」の that 節では動詞の原形か should を用いる。本問では、③ be だけが正解となりうる。"
+        }
+      ],
+      "appendix": [
+        {
+          "tag": "注意",
+          "text": "should や動詞の原形を主語に応じた動詞の形にすることもある。本問の場合、the documents should be kept / are kept の形になることもある。"
+        },
+        {
+          "tag": "注意",
+          "text": "「要求・提案」などを表す動詞に続く that 節でも動詞の原形か should を用いる。 → Section 150 (p.257)"
+        }
+      ]
+    },
+    {
+      "order": 200,
+      "id": "03-028-s-008",
+      "type": "summary_box",
+      "target_s": "028",
+      "number": "008",
+      "title": "「感情・判断」を表す形容詞",
+      "content": [
+        {
+          "en": "natural",
+          "ja": "「当然の」"
+        },
+        {
+          "en": "surprising",
+          "ja": "「驚くべき」"
+        },
+        {
+          "en": "wrong",
+          "ja": "「間違っている」"
+        },
+        {
+          "en": "right",
+          "ja": "「正しい」"
+        },
+        {
+          "en": "strange",
+          "ja": "「不思議な」"
+        },
+        {
+          "en": "regrettable",
+          "ja": "「残念な」",
+          "note": "→ 72"
+        }
+      ],
+      "appendix": [],
+      "columns": 2
+    },
+    {
+      "order": 201,
+      "type": "section_header",
+      "section_id": "029",
+      "title": "助動詞を用いた慣用表現"
+    },
+    {
+      "order": 202,
+      "id": "03-029-q-74",
+      "type": "question",
+      "section_id": "029",
+      "number": "74",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "You (your friends / cannot / in / you / of / careful / too / choice / be / the).",
+      "q_type": "ordering",
+      "ja": "友を選ぶのにいくら注意してもしすぎることはありません。",
+      "answer": "You cannot be too careful in the choice of your friends",
+      "source_univ": "北里大"
+    },
+    {
+      "order": 203,
+      "id": "03-029-e-74",
+      "type": "explanation",
+      "target_q": "03-029-q-74",
+      "title": "",
+      "label": "cannot[can't] ... too ~ 「いくら…してもしすぎることはない」",
+      "content": [],
+      "solution": [
+        {
+          "text": "cannot[can't] とあとの「…」には動詞の原形が、そのあとの「〜」には形容詞や副詞が来る。ここでは形容詞 careful を too の後ろに続ける。"
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 204,
+      "id": "03-029-q-75",
+      "type": "question",
+      "section_id": "029",
+      "number": "75",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Anyone watching the musical cannot ( ) feeling happiness, joy and pride.",
+      "options": [
+        "① but",
+        "② also",
+        "③ help",
+        "④ without"
+      ],
+      "ja": "そのミュージカルを見ている人だれであっても幸福や喜び、誇りを感じずにはいられない。",
+      "answer": "③",
+      "source_univ": "城西大"
+    },
+    {
+      "order": 205,
+      "id": "03-029-e-75",
+      "type": "explanation",
+      "target_q": "03-029-q-75",
+      "title": "",
+      "label": "cannot[can't] help doing 「…しないではいられない」",
+      "content": [],
+      "solution": [
+        {
+          "text": "cannot と feeling に注目して ③ help を選ぶ。① but は cannot but feel なら正しい。"
+        }
+      ],
+      "appendix": [
+        {
+          "tag": "注意",
+          "text": "cannot but do や cannot help but do でも cannot help doing と同じ意味を表す。ただし、but のあとは動詞の原形が続く。\nI cannot help laughing. 「私は笑わないではいられない」\n≒ I cannot but laugh. ≒ I cannot help but laugh."
+        }
+      ]
+    },
+    {
+      "order": 206,
+      "id": "03-029-q-76",
+      "type": "question",
+      "section_id": "029",
+      "number": "76",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I could not ( ) help my brother with his math homework.",
+      "options": [
+        "① so",
+        "② much",
+        "③ but",
+        "④ doing"
+      ],
+      "ja": "私は弟の数学の宿題を手伝わないではいられなかった。",
+      "answer": "③",
+      "source_univ": "松山大"
+    },
+    {
+      "order": 207,
+      "id": "03-029-e-76",
+      "type": "explanation",
+      "target_q": "03-029-q-76",
+      "title": "",
+      "label": "cannot[can't] but do 「…しないではいられない」",
+      "content": [],
+      "solution": [
+        {
+          "text": "could not と動詞の原形 help に注目。③ but が正解。"
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 208,
+      "id": "03-029-q-77",
+      "type": "question",
+      "section_id": "029",
+      "number": "77",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "(a) Tom has good reason to be angry.\n(b) Tom may ( ) be angry.",
+      "q_type": "sentence_transformation",
+      "ja": "(a) (b) トムが腹を立てるのももっともな理由がある。",
+      "answer": "well",
+      "source_univ": "愛媛大"
+    },
+    {
+      "order": 209,
+      "id": "03-029-e-77",
+      "type": "explanation",
+      "target_q": "03-029-q-77",
+      "title": "",
+      "label": "may[might] well do 「…するのももっともだ」",
+      "content": [
+        {
+          "text": "may[might] well do には、(1)「たぶん…だろう」 (= probably)、(2)「…するのももっともだ」 (= with good reason) の2つの意味がある。"
+        }
+      ],
+      "solution": [
+        {
+          "text": "have good reason to do 「…するもっともな理由がある」という表現に注目。"
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 210,
+      "id": "03-029-q-78",
+      "type": "question",
+      "section_id": "029",
+      "number": "78",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "I (as / at / home / stay / might / well) as join in a package tour.",
+      "q_type": "ordering",
+      "ja": "パック旅行に参加するなら、私は家にいる方がいい。",
+      "answer": "might as well stay at home",
+      "source_univ": "獨協大"
+    },
+    {
+      "order": 211,
+      "id": "03-029-e-78",
+      "type": "explanation",
+      "target_q": "03-029-q-78",
+      "title": "",
+      "label": "may[might] as well do ... as do ~ 「〜するより…する方がいい」",
+      "content": [],
+      "solution": [
+        {
+          "text": "may[might] as well do ... as do ~ では well のあとと as のあとに動詞の原形が来る。"
+        },
+        {
+          "text": "「〜するより家にいる方がいい」という文章を完成させる。"
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 212,
+      "id": "03-029-q-79",
+      "type": "question",
+      "section_id": "029",
+      "number": "79",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "It takes so long by train. You ( ) as well fly.",
+      "options": [
+        "① should",
+        "② might",
+        "③ can",
+        "④ would"
+      ],
+      "ja": "電車ではすごく時間がかかります。あなたは飛行機を使った方がいいでしょう。",
+      "answer": "②",
+      "source_univ": "青山学院大"
+    },
+    {
+      "order": 213,
+      "id": "03-029-e-79",
+      "type": "explanation",
+      "target_q": "03-029-q-79",
+      "title": "",
+      "label": "may[might] as well do 「…した方がいい」",
+      "content": [],
+      "solution": [
+        {
+          "text": "この表現は may[might] as well do ... __as do ~ __の、__as do ~ __が示されない形。"
+        }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 214,
+      "id": "03-029-s-009",
+      "type": "summary_box",
+      "target_s": "028",
+      "number": "009",
+      "title": "「重要・必要」を表す形容詞",
+      "content": [
+        {
+          "en": "essential",
+          "ja": "「不可欠の」"
+        },
+        {
+          "en": "necessary",
+          "ja": "「必要な」"
+        },
+        {
+          "en": "important",
+          "ja": "「重要な」"
+        },
+        {
+          "en": "urgent",
+          "ja": "「緊急の」"
+        }
+      ],
+      "appendix": [],
+      "columns": 2
+    }
+  ]
+}

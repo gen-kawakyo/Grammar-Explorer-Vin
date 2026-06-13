@@ -1,0 +1,1862 @@
+{
+  "metadata": {
+    "source": "vin4",
+    "field": "grammar",
+    "chapter_id": "08",
+    "chapter_title": "関係詞"
+  },
+  "items": [
+    {
+      "order": 533,
+      "type": "section_header",
+      "section_id": "067",
+      "title": "関係代名詞の基本"
+    },
+    {
+      "order": 534,
+      "id": "08-067-c-022",
+      "type": "confirmation_box",
+      "target_s": "067",
+      "number": "022",
+      "title": "関係代名詞とは",
+      "content": [
+        { "tag": "(1)", "text": "関係代名詞は、名詞と（名詞の働きをする語句が1つだけ欠けた）文をつなげる働きをする。 〈名詞＋関係代名詞＋文…〉 という語順になる。この時の 〈名詞〉 を 「先行詞」 と呼び、 〈関係代名詞＋文…〉 を 「関係代名詞節（＝関係詞節）」 と呼ぶ。" },
+        { "en": "He is a man **who works in the bank.**", "ja": "「彼はその銀行で働いている人です」", "text": "先行詞：a man / 関係代名詞節：who works in the bank" },
+        { "tag": "(2)", "text": "関係代名詞の後ろでは名詞の働きをする語句が1つだけ欠けている。その語句は先行詞となっていて、関係代名詞節の中では関係代名詞がその欠けた語句の代わりをしている。つまり、関係代名詞の後ろには、名詞要素が1つ欠けた 「不完全な文」 が来ることになる。" }
+      ]
+    },
+    {
+      "order": 535,
+      "id": "08-067-q-205",
+      "type": "question",
+      "section_id": "067",
+      "number": "205",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "That was the man ( ) did it.",
+      "options": ["① as", "② who", "③ whom", "④ whose"],
+      "ja": "そいつがそれをやった男だった。",
+      "answer": "②",
+      "source_univ": "上智大"
+    },
+    {
+      "order": 536,
+      "id": "08-067-e-205",
+      "type": "explanation",
+      "target_q": "08-067-q-205",
+      "title": "空所の後ろに欠けているものは？",
+      "label": "◆先行詞が「人」＋主格の who",
+      "content": [],
+      "solution": [
+        { "text": "空所の後ろに注目すれば、他動詞 (did) と目的語 (it) があるので、主語が欠けていることがわかる。先行詞 the man は 「人」 なので、関係代名詞節内で主語の働きをする主格の関係代名詞 ② who が正解。" },
+        { "text": "That was the man. + He [= the man] did it.\n↓\nThat was the **man who** did it." }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 537,
+      "id": "08-067-c-023",
+      "type": "confirmation_box",
+      "target_s": "067",
+      "number": "023",
+      "title": "関係代名詞の種類",
+      "content": [
+        { "tag": "(1)", "text": "関係代名詞が関係詞節の中で主語の働きをするときは 「主格」 、目的語の働きをするときは 「目的格」 、所有格の代名詞の働きをするときは 「所有格」 と呼ばれる。" },
+        { "tag": "(2)", "label": "先行詞：人", "text": "主格：who (→ 205) / that\n目的格：who(m) (→ 207) / that\n所有格：whose (→ 210)" },
+        { "tag": "(3)", "label": "先行詞：人以外", "text": "主格：which (→ 206) / that\n目的格：which (→ 208) / that\n所有格：whose (→ 211) / of which" },
+        { "text": "＊主格、目的格では who, whom, which の代わりに関係代名詞 that が使える。所有格の whose の代わりには、that は使えない。" },
+        { "text": "＊目的格の whom の代わりに、話し言葉ではしばしば who が使われる。" },
+        { "text": "＊目的格の関係代名詞はよく省略される (→ 209, 213) 。主格と所有格は省略できない。" }
+      ]
+    },
+    {
+      "order": 538,
+      "id": "08-067-q-206",
+      "type": "question",
+      "section_id": "067",
+      "number": "206",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "\"Why is the bus late?\" \"It crashed into a car ( ) came speeding down the hill.\"",
+      "options": ["① which", "② who", "③ what", "④ whose"],
+      "ja": "「どうしてバスが遅れているのですか」「下り坂をスピードを出して下りてきた車と衝突したんですよ」",
+      "answer": "①",
+      "source_univ": "北海学園大"
+    },
+    {
+      "order": 539,
+      "id": "08-067-e-206",
+      "type": "explanation",
+      "target_q": "08-067-q-206",
+      "title": "空所の後ろに欠けているものは？",
+      "label": "◆先行詞が「人以外」＋主格の which",
+      "content": [],
+      "solution": [
+        { "text": "空所の後ろに注目すれば、自動詞 (came) があるので、主語が欠けていることがわかる。先行詞 a car が 「人以外」 なので、関係代名詞節内で主語の働きをする主格の関係代名詞 ① which が正解。" },
+        { "text": "It [= the bus] crashed into a car. + It [= the car] came speeding down the hill.\n↓\nIt crashed into a **car which** came speeding down the hill." }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "crash into A 「A と衝突する」" }
+      ]
+    },
+    {
+      "order": 540,
+      "id": "08-067-q-207",
+      "type": "question",
+      "section_id": "067",
+      "number": "207",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "私たちの進歩は一生の間に出会う人々に左右されるといえる。\nWe can say that our development depends (upon / our lives / whom / of / we meet / in the course / the people).",
+      "q_type": "ordering",
+      "ja": "私たちの進歩は一生の間に出会う人々に左右されるといえる。",
+      "answer": "upon the people whom we meet in the course of our lives",
+      "source_univ": "東洋大"
+    },
+    {
+      "order": 541,
+      "id": "08-067-e-207",
+      "type": "explanation",
+      "target_q": "08-067-q-207",
+      "title": "「人々←私たちが出会う」 目的格の目的語は何か",
+      "label": "◆先行詞が「人」＋目的格の whom",
+      "content": [],
+      "solution": [
+        { "text": "the people 「人々」 を先行詞にして、そのあとに関係代名詞節 whom we meet in the course of our lives 「一生の間に出会う」 を続けて表現する。他動詞 meet の目的語が欠けていて、先行詞 the people がその欠けた語にあたることを確認しておこう。" },
+        { "text": "Our development depends upon the people. + We meet them [= the people] in the course of our lives.\n↓\nOur development depends upon the **people whom** we meet in the course of our lives." }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "目的格の関係代名詞は省略できるので、本問の whom も省略可能。" },
+        { "tag": "重要", "text": "depend (up)on A 「A は B に左右される／B 次第である」 → 907" },
+        { "tag": "重要", "text": "in the course of A 「A の間に／A の過程で」" }
+      ]
+    },
+    {
+      "order": 542,
+      "id": "08-067-q-208",
+      "type": "question",
+      "section_id": "067",
+      "number": "208",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Global warming is an important issue ( ) we have to discuss more seriously.",
+      "options": ["① how", "② what", "③ which", "④ why"],
+      "ja": "地球温暖化は私たちがもっと真剣に話し合うべき重要な問題だ。",
+      "answer": "③",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 543,
+      "id": "08-067-e-208",
+      "type": "explanation",
+      "target_q": "08-067-q-208",
+      "title": "空所の後ろに欠けているものは？",
+      "label": "◆先行詞が「人以外」＋目的格の which",
+      "content": [],
+      "solution": [
+        { "text": "空所の後ろに注目すれば、主語 (we) と他動詞 (discuss) があるので、目的語が欠けていることがわかる。先行詞 an important issue が 「人以外」 なので、関係代名詞節で目的語の働きをする目的格の関係代名詞 ③ which が正解。先行詞 an important issue を他動詞 discuss の目的語だと考えれば文意が通ることを確認しておこう。" },
+        { "text": "Global warming is an important issue. + We have to discuss it [= the issue] more seriously.\n↓\nGlobal warming is an **important issue which** we have to discuss more seriously." }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 544,
+      "id": "08-067-q-209",
+      "type": "question",
+      "section_id": "067",
+      "number": "209",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "定員ですでにいっぱいで，希望していた講座を履修できず残念だ。\nIt's a pity that I (to / I / take / can't / wanted / course / the) because it's already full.",
+      "q_type": "ordering",
+      "ja": "定員ですでにいっぱいで，希望していた講座を履修できず残念だ。",
+      "answer": "can't take the course I wanted to",
+      "source_univ": "中央大"
+    },
+    {
+      "order": 545,
+      "id": "08-067-e-209",
+      "type": "explanation",
+      "target_q": "08-067-q-209",
+      "title": "「講座←私が履修することを希望していた」",
+      "label": "◆目的格の関係代名詞の省略",
+      "content": [],
+      "solution": [
+        { "text": "the course 「講座」 を先行詞にして、そのあとに I wanted to 「（履修を）希望していた」 を続けるには、目的格の which / that が必要。ところが選択肢に which / that がないので、目的格の関係代名詞が省略されていると考える。" },
+        { "text": "take が1つしかないので、wanted to take の take を省略して代不定詞 (→ Section 047 p.077) を用いる。" },
+        { "text": "I can't take the course. + I wanted to take it [= the course].\n↓\nI can't take the **course (which / that) I wanted to (take).**" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 546,
+      "id": "08-067-q-210",
+      "type": "question",
+      "section_id": "067",
+      "number": "210",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Are you the boy ( ) bicycle was stolen?",
+      "options": ["① who", "② whose", "③ your", "④ his"],
+      "ja": "あなたが，自転車を盗まれた少年ですか。",
+      "answer": "②",
+      "source_univ": "西南学院大"
+    },
+    {
+      "order": 547,
+      "id": "08-067-e-210",
+      "type": "explanation",
+      "target_q": "08-067-q-210",
+      "title": "the boy と bicycle の関係に注目",
+      "label": "◆先行詞が「人」＋所有格の whose",
+      "content": [],
+      "solution": [
+        { "text": "空所の前後の the boy と bicycle に注目して、 「少年の自転車が盗まれた」 という状況を考え、所有格の関係代名詞 ② whose を入れると文章が成立する。" },
+        { "text": "Are you the boy? + His [= The boy's] bicycle was stolen.\n↓\nAre you the **boy whose** bicycle was stolen?" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① who が入るとすれば、先行詞の the boy が関係詞節の中で欠けた名詞要素の働きをしていなければならないが、そのような名詞要素はない。よって ① who は不可。" }
+      ]
+    },
+    {
+      "order": 548,
+      "id": "08-067-q-211",
+      "type": "question",
+      "section_id": "067",
+      "number": "211",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "You should avoid using technical terms ( ) meanings you don't understand very well.",
+      "options": ["① what", "② which", "③ who", "④ whose"],
+      "ja": "意味があまりよくわからない専門用語を使うのは避けるべきだ。",
+      "answer": "④",
+      "source_univ": "京都女子大"
+    },
+    {
+      "order": 549,
+      "id": "08-067-e-211",
+      "title": "technical terms と meanings の関係に着目",
+      "label": "◆先行詞が「人以外」＋所有格の whose",
+      "target_q": "08-067-q-211",
+      "content": [],
+      "solution": [
+        { "text": "空所の前後の technical terms と meanings に着目して、 「専門用語の意味をあまりよく理解していない」 という状況を考え、所有格の関係代名詞 ④ whose を入れると文章が成立する。" },
+        { "text": "You should avoid using technical terms. + You don't understand their [= the technical terms'] meanings very well.\n↓\nYou should avoid using **technical terms whose** meanings you don't understand very well." }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 550,
+      "type": "section_header",
+      "section_id": "068",
+      "title": "先行詞が関係代名詞節の中で前置詞の目的語になる場合"
+    },
+    {
+      "order": 551,
+      "id": "08-068-c-024",
+      "type": "confirmation_box",
+      "target_s": "068",
+      "number": "024",
+      "title": "先行詞が関係代名詞節の中で前置詞の目的語になっている場合は、2種類の表現が可能",
+      "content": [
+        { "tag": "(1)", "label": "目的格の関係代名詞 (→ 212) を用いる表現", "text": "I have a talented daughter (whom / that) I am proud of.\n「私には自慢の才能のある娘がいる」\n(← I have a talented daughter. + I am proud of her.)\n＊目的格の関係代名詞は省略できる (→ 213) 。節内では前置詞の目的語が欠けている。" },
+        { "tag": "(2)", "label": "〈前置詞＋目的格の関係代名詞〉 を用いる表現 → 214", "text": "I have a talented daughter of whom I am proud.\n「私には自慢の才能のある娘がいる」\n(← I have a talented daughter. + I am proud of her.)\n＊前置詞＋目的格の関係代名詞は省略できない。" },
+        { "tag": "△注意", "text": "〈前置詞＋that〉 は用いられない。(×) a talented daughter of that I am proud は不可。" }
+      ]
+    },
+    {
+      "order": 552,
+      "id": "08-068-q-212",
+      "type": "question",
+      "section_id": "068",
+      "number": "212",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "私があなたにお話をしたもう1人の女の子もブリストルに住んでいる。\nThe other girl (about / also / I / that / told / you) lives in Bristol.",
+      "q_type": "ordering",
+      "ja": "私があなたにお話をしたもう1人の女の子もブリストルに住んでいる。",
+      "answer": "that I told you about also",
+      "source_univ": "創価大"
+    },
+    {
+      "order": 553,
+      "id": "08-068-e-212",
+      "type": "explanation",
+      "target_q": "08-068-q-212",
+      "title": "「もう1人の女の子←あなたにお話をした」",
+      "label": "◆目的格の関係代名詞を用いる表現",
+      "content": [],
+      "solution": [
+        { "text": "The other girl 「もう1人の女の子」 を先行詞にして、そのあとに関係代名詞節 that I told you about を続けて表現する。前置詞 about の目的語が欠けていて、先行詞 The other girl がその欠けた語にあたる。" },
+        { "text": "The other girl also lives in Bristol. + I told you about her [= the other girl].\n↓\nThe other girl **that I told you about also** lives in Bristol." },
+        { "text": "関係代名詞 that の前に前置詞をつけることはできないので、 (×) about that I told you の語順は不可。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "tell A about B 「B について A に話す」 → 617" }
+      ]
+    },
+    {
+      "order": 554,
+      "id": "08-068-q-213",
+      "type": "question",
+      "section_id": "068",
+      "number": "213",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "これが昨日君が話していた本ですか。\n(the / book / this / you / were / talking / is / about) yesterday?",
+      "q_type": "ordering",
+      "ja": "これが昨日君が話していた本ですか。",
+      "answer": "Is this the book you were talking about",
+      "source_univ": "麗澤大"
+    },
+    {
+      "order": 555,
+      "id": "08-068-e-213",
+      "type": "explanation",
+      "target_q": "08-068-q-213",
+      "title": "「本←君が話していた」",
+      "label": "◆目的格の関係代名詞の省略",
+      "content": [],
+      "solution": [
+        { "text": "the book 「本」 を先行詞にして、そのあとに you were talking about 「（君が）について話していた」 を続けるには、目的格の which / that が必要。ところが選択肢に which / that がないので、目的格の関係代名詞が省略されていると考える。関係詞節内では前置詞 about の目的語が欠けている。" },
+        { "text": "Is this the book? + You were talking about it [= the book] yesterday.\n↓\nIs this the **book (which / that) you were talking about** yesterday?" },
+        { "text": "〈前置詞＋目的格の関係代名詞〉 は省略できないので、 (×) the book about you were talking yesterday は不可。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 556,
+      "id": "08-068-q-214",
+      "type": "question",
+      "section_id": "068",
+      "number": "214",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "These are the tools ( ) he built his own house.",
+      "options": ["① that", "② with that", "③ with which", "④ which"],
+      "ja": "これらは、彼が自分の家を建てるのに使った道具だ。",
+      "answer": "③",
+      "source_univ": "青山学院大"
+    },
+    {
+      "order": 557,
+      "id": "08-068-e-214",
+      "type": "explanation",
+      "target_q": "08-068-q-214",
+      "title": "the tools の関係詞節内での働きは？",
+      "label": "◆〈前置詞＋目的格の関係代名詞〉を用いる表現",
+      "content": [],
+      "solution": [
+        { "text": "He built his own house with the tools. 「彼はその道具を使って自分の家を建てた」 を前提にし、 〈前置詞＋目的格〉 を用いる ③ with which が正解。" },
+        { "text": "These are the tools. + He built his own house with them [= the tools].\n↓\nThese are the **tools with which** he built his own house." }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "関係代名詞 that の前に前置詞をつけることはできないので ② with that は不可。空所の後ろは he (S) built (V) his own house (O) という構造で、欠けた名詞要素はないので関係代名詞 ① と ④ は不可。" }
+      ]
+    },
+    {
+      "order": 558,
+      "type": "section_header",
+      "section_id": "069",
+      "title": "関係副詞"
+    },
+    {
+      "order": 559,
+      "id": "08-069-c-025",
+      "type": "confirmation_box",
+      "target_s": "069",
+      "number": "025",
+      "title": "関係副詞",
+      "content": [
+        { "text": "関係副詞は、基本的に先行詞が 「場所」 なら where → 215 、 「時」 なら when → 217 、 「理由」 なら why → 218 を用いる。ただし、先行詞だけで関係副詞を選ばないこと。" },
+        { "text": "関係副詞は 〈前置詞＋which〉 で表せるものを、関係副詞1語で表したものである。よって、まず 〈前置詞＋which〉 で表せることを確認したうえで、ふさわしい関係副詞を選ばなければならない。" },
+        { "tag": "△注意", "text": "関係副詞 how だけは例外的な使い方をするので 整理して覚える 017 (p.108) を参照。" }
+      ]
+    },
+    {
+      "order": 560,
+      "id": "08-069-q-215",
+      "type": "question",
+      "section_id": "069",
+      "number": "215",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Please tell me the name of the shop ( ) you bought that camera.",
+      "options": ["① which", "② that", "③ where", "④ why"],
+      "ja": "あなたがそのカメラを買った店の名前を教えてください。",
+      "answer": "③",
+      "source_univ": "芝浦工業大"
+    },
+    {
+      "order": 561,
+      "id": "08-069-e-215",
+      "type": "explanation",
+      "target_q": "08-069-q-215",
+      "title": "the shop と you bought that camera の関係は？",
+      "label": "◆関係副詞 where / 先行詞は「場所」",
+      "content": [],
+      "solution": [
+        { "text": "〈前置詞＋which〉 ＝ 関係副詞 という前提から、次のような関係を見抜く。" },
+        { "text": "Please tell me the name of the shop. + You bought that camera **at the shop.**\n→ Please tell me the name of the **shop at which** you bought that camera.\n→ Please tell me the name of the **shop where** you bought that camera." }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "空所の後ろは you (S) bought (V) that camera (O) という構造で、欠けた名詞要素はないので関係代名詞 ① which と ② that は不可。" }
+      ]
+    },
+    {
+      "order": 562,
+      "id": "08-069-q-216",
+      "type": "question",
+      "section_id": "069",
+      "number": "216",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "This is the museum ( ) my grandfather visited fifty years ago.",
+      "options": ["① where", "② which", "③ at which", "④ to which"],
+      "ja": "これは、私の祖父が50年前に訪れた美術館です。",
+      "answer": "②",
+      "source_univ": "北陸大"
+    },
+    {
+      "order": 563,
+      "id": "08-069-e-216",
+      "type": "explanation",
+      "target_q": "08-069-q-216",
+      "title": "the museum と visited の関係は？",
+      "label": "◆先行詞が「場所」でも関係代名詞 which / that を用いる場合",
+      "content": [],
+      "solution": [
+        { "text": "先行詞 the museum が 「場所」 を表すからといって、関係副詞 ① where を選ばないこと。先行詞 the museum は他動詞 visited の目的語をしているので、空所には目的格の関係代名詞 ② which が入る。次の図式で確認しよう。" },
+        { "text": "This is the museum. + My grandfather visited **it [= fifty years ago].**\n↓\nThis is the **museum which** my grandfather visited fifty years ago." }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 564,
+      "id": "08-069-q-217",
+      "type": "question",
+      "section_id": "069",
+      "number": "217",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Summer is the season ( ) students want to travel most.",
+      "options": ["① with whom", "② which", "③ where", "④ when"],
+      "ja": "夏は、学生たちが最も旅に出たくなる季節だ。",
+      "answer": "④",
+      "source_univ": "福岡大"
+    },
+    {
+      "order": 565,
+      "id": "08-069-e-217",
+      "type": "explanation",
+      "target_q": "08-069-q-217",
+      "title": "the season は「時」を表す",
+      "label": "◆関係副詞 when ― 先行詞は「時」",
+      "content": [],
+      "solution": [
+        { "text": "〈前置詞＋which〉 ＝ 関係副詞 という前提から、次のような関係を見抜く。" },
+        { "text": "Summer is the season. + Students want to travel **in the season** most.\n→ Summer is the **season in which [= when]** students want to travel most." }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 566,
+      "id": "08-069-q-218",
+      "type": "question",
+      "section_id": "069",
+      "number": "218",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "学生たちは講義に遅れた理由を私に説明した。\nThe students explained to me (for / late / reason / the / they / were / why) the lecture.",
+      "q_type": "ordering",
+      "ja": "学生たちは講義に遅れた理由を私に説明した。",
+      "answer": "the reason why they were late for",
+      "source_univ": "立命館大"
+    },
+    {
+      "order": 567,
+      "id": "08-069-e-218",
+      "type": "explanation",
+      "target_q": "08-069-q-218",
+      "title": "「…した理由」 the reason why ...",
+      "label": "◆関係副詞 why ― 先行詞は the reason 「理由」",
+      "content": [],
+      "solution": [
+        { "text": "the reason 「理由」 を先行詞に選び、関係副詞 why を使って、they were late for the lecture 「（彼らが）講義に遅れた」 を続ける。" },
+        { "text": "〈前置詞＋which〉 ＝ 関係副詞 という前提から、 the reason why ... は the reason for which ... でも表すことができる。" },
+        { "text": "The students explained to me the reason. + They were late for the lecture **for the reason.**\n↓\nThe students explained to me the **reason for which [= why]** they were late for the lecture." }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "be late for A 「A に遅れる」" },
+        { "tag": "重要", "text": "explain A to B = explain to B A 「B に A を説明する」 → 670" }
+      ]
+    },
+    {
+      "order": 568,
+      "id": "08-069-q-219",
+      "type": "question",
+      "section_id": "069",
+      "number": "219",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "このようにして子どもたちは母語を習得する。\n(children / how / this / their native language / is / learn).",
+      "q_type": "ordering",
+      "ja": "このようにして子どもたちは母語を習得する。",
+      "answer": "This is how children learn their",
+      "source_univ": "中央大"
+    },
+    {
+      "order": 569,
+      "id": "08-069-e-219",
+      "type": "explanation",
+      "target_q": "08-069-q-219",
+      "title": "「このようにして…」 This is how ...",
+      "label": "◆how SV 「…するやり方／…する様子」―関係副詞 how の用法",
+      "content": [
+        { "note": "→ 整理して覚える 017" },
+        { "text": "関係副詞 how に SV を続けて 「…するやり方／…する様子」 という意味の名詞節を作ることができる。 〈how SV〉 は名詞節の働きをする。" },
+        { "text": "関係副詞 how に children(S) learn(V) their native language(O) を続けて、名詞節 how children learn their native language を完成させる。" },
+        { "text": "本問は 「これが子どもたちが母語を習得するやり方だ」 が直訳。 This is how SV は 「このようにして…／こんなふうに…する」 という意味の一種の慣用表現として覚えよう。" },
+        { "text": "本問は This is **the way** children learn their native language. と表現することもできる （→左頁の 整理して覚える 017 ）。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 570,
+      "id": "08-069-s-017",
+      "type": "summary_box",
+      "target_s": "069",
+      "number": "017",
+      "title": "「…するやり方／…する様子」の表し方",
+      "content": [
+        { "tag": "(1)", "en": "how SV", "note": "→ 219" },
+        { "tag": "(2)", "en": "the way SV", "note": "→ 220" },
+        { "tag": "(3)", "en": "the way in which SV", "text": "関係副詞の代わりに 〈前置詞 in + which〉 を用いた表現。", "note": "→ 221" },
+        { "tag": "△注意", "text": "the way と関係副詞 how を一緒に用いて (×) the way how SV という表現はできない。" },
+        { "tag": "△注意", "text": "the way that SV という表現もある。この that は関係副詞の一種と理解すればよい。" }
+      ]
+    },
+    {
+      "order": 571,
+      "id": "08-069-q-220",
+      "type": "question",
+      "section_id": "069",
+      "number": "220",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "私に対する彼らの口のきき方が嫌だった。\nI (by / irritated / spoke / the / they / was / way) to me.",
+      "q_type": "ordering",
+      "ja": "私に対する彼らの口のきき方が嫌だった。",
+      "answer": "was irritated by the way they spoke",
+      "source_univ": "立命館大"
+    },
+    {
+      "order": 572,
+      "id": "08-069-e-220",
+      "type": "explanation",
+      "target_q": "08-069-q-220",
+      "title": "",
+      "label": "◆the way SV は how SV と同意表現。",
+      "content": [
+        { "text": "「私に対する彼の口のきき方」 は 〈the way SV〉 を用いて、 the way they spoke to me と表す。 (×) the way how they spoke to me とはしない。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "be irritated by A 「A に怒る／いらいらする」" }
+      ]
+    },
+    {
+      "order": 573,
+      "id": "08-069-q-221",
+      "type": "question",
+      "section_id": "069",
+      "number": "221",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "An important aspect of computer languages is the way ( ) they handle data items and structures.",
+      "options": ["① for which", "② for that", "③ in which", "④ in whom"],
+      "ja": "コンピューター言語の重要な側面は、それがデータ項目とデータ構造を扱う方法だ。",
+      "answer": "③",
+      "source_univ": "会津大"
+    },
+    {
+      "order": 574,
+      "id": "08-069-e-221",
+      "type": "explanation",
+      "target_q": "08-069-q-221",
+      "title": "",
+      "label": "◆the way in which SV 「…するやり方／…する様子」",
+      "content": [
+        { "text": "関係副詞の代わりに 〈前置詞 in + 関係代名詞〉 を用いた表現。" },
+        { "text": "本問は ... is the way they handle data items and structures. や、 ... is how they handle data items and structures. と表現することもできる。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 575,
+      "id": "08-069-q-222",
+      "type": "question",
+      "section_id": "069",
+      "number": "222",
+      "level": "advanced",
+      "is_frequent": true,
+      "en": "It was less than a hundred meters (we / from / were / where / standing) to the oak tree.",
+      "q_type": "ordering",
+      "ja": "私たちが立っていたところから樫の木まで100メートルもなかった。",
+      "answer": "from where we were standing",
+      "source_univ": "明海大"
+    },
+    {
+      "order": 576,
+      "id": "08-069-e-222",
+      "type": "explanation",
+      "target_q": "08-069-q-222",
+      "title": "",
+      "label": "◆関係副詞の先行詞の省略",
+      "content": [
+        { "text": "関係副詞 where, when, why の先行詞は省略される場合がある。その結果、 where SV (→ 222 ), when SV, why SV (→ 223 ) は名詞節になることによる。" },
+        { "label": "Summer is when students want to travel most. → 217", "text": "→ 先行詞 the season の省略。 when 節は補語になる名詞節。" },
+        { "label": "The students explained to me why they were late for the lecture. → 218", "text": "→ 先行詞 the reason の省略。 why 節は目的語になる名詞節。" },
+        { "text": "全体を 〈It is + 距離 + from A to B〉 「A から B まで…（の距離が）ある」 でまとめる。 from A の A にあたる部分 「私たちが立っていたところ」 を関係副詞 where を使って where we were standing と名詞節で表現する。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "It is + 距離 + from A to B 「A から B まで…（の距離が）ある」" }
+      ]
+    },
+    {
+      "order": 577,
+      "id": "08-069-q-223",
+      "type": "question",
+      "section_id": "069",
+      "number": "223",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "He has been in hospital for two weeks. That's ( ) he can't come today.",
+      "options": ["① because", "② how", "③ why", "④ the way"],
+      "ja": "彼は2週間入院しています。そういうわけで，彼は今日は来られません。",
+      "answer": "③",
+      "source_univ": "東京電機大"
+    },
+    {
+      "order": 578,
+      "id": "08-069-e-223",
+      "type": "explanation",
+      "target_q": "08-069-q-223",
+      "title": "",
+      "label": "◆That is why SV ― 先行詞 the reason の省略",
+      "content": [
+        { "note": "→ 整理して覚える 018" },
+        { "text": "「入院中（理由）」 → 「欠席する（結果）」 という文意にふさわしいのは ③ why を用いた That's why ... だけ。先行詞 the reason が省略された形であることを、左頁の 整理して覚える 018 で確認。" },
+        { "tag": "△注意", "text": "〈理由を述べて → 結果を述べる〉 には That is why SV を用い、 〈結果を述べて → 理由を述べる〉 には That is because SV 「その理由は…だからだ／なぜなら…だから（前の文の理由）」 を用いる。両者を混同しないように注意。" },
+        { "en": "He has been in hospital for two weeks. That is why he can't come today.", "ja": "「彼は2週間入院しています。そういうわけで，彼は今日は来られません」 〈理由 → 結果〉" },
+        { "en": "He can't come today. That is because he has been in hospital for two weeks.", "ja": "「彼は今日は来られません。なぜなら2週間入院しているからです」 〈結果 → 理由〉" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 579,
+      "id": "08-069-s-018",
+      "type": "summary_box",
+      "target_s": "069",
+      "number": "018",
+      "title": "「それが…する理由だ／そういうわけで…」の表し方",
+      "content": [
+        { "text": "前の文で理由を述べて、その結果を述べる表現。" },
+        { "tag": "(1)", "en": "That is the reason why SV" },
+        { "tag": "(2)", "en": "That is why SV", "text": "＊先行詞 the reason を省略した表現。", "note": "→ 223" },
+        { "tag": "(3)", "en": "That is the reason SV", "text": "＊関係副詞 why を省略した表現。" },
+        { "tag": "△注意", "text": "That の代わりに This / It を用いる場合もある。" }
+      ]
+    },
+    {
+      "order": 580,
+      "type": "section_header",
+      "section_id": "070",
+      "title": "関係詞の非制限用法"
+    },
+    {
+      "order": 581,
+      "id": "08-070-c-026",
+      "type": "confirmation_box",
+      "target_s": "070",
+      "number": "026",
+      "title": "関係詞の非制限用法",
+      "content": [
+        { "text": "関係詞の前にコンマをつけて、先行詞を補足的に説明する用法を 「非制限用法」 と呼ぶ。" },
+        { "tag": "(1)", "text": "非制限用法で用いる関係代名詞は、 who (→ 225 ) 、 which (→ 224 ) のみ。前置詞＋whom (→ 226 ) 、前置詞＋which (→ 227 ) のみ。関係代名詞 that, what (→ Section 071 p.117 ) は非制限用法では使えない。" },
+        { "tag": "(2)", "text": "目的格の関係代名詞 (whom, which) は、非制限用法では省略できない。" },
+        { "tag": "(3)", "text": "非制限用法で用いる関係副詞は where (→ 228 ) 、 when (→ 227 ) のみ。関係副詞 why, how は非制限用法では使えない。" }
+      ]
+    },
+    {
+      "order": 582,
+      "id": "08-070-q-224",
+      "type": "question",
+      "section_id": "070",
+      "number": "224",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "He lent me The Lord of the Rings, ( ) I found very interesting.",
+      "options": ["① that", "② which", "③ what", "④ where"],
+      "ja": "彼は『ロード・オブ・ザ・リング』を貸してくれたが，私はそれをとてもおもしろいと思った。",
+      "answer": "②",
+      "source_univ": "東北工業大"
+    },
+    {
+      "order": 583,
+      "id": "08-070-e-224",
+      "type": "explanation",
+      "target_q": "08-070-q-224",
+      "title": "空所の後ろに欠けているものは？",
+      "label": "◆非制限用法の which",
+      "content": [],
+      "solution": [
+        { "text": "空所の前のコンマに注目。他動詞 found の目的語が欠けているので、非制限用法の目的格の関係代名詞が空所に入ると考える。 The Lord of the Rings を先行詞とする非制限用法の目的格の関係代名詞 ② which を選ぶ。" },
+        { "text": "〈find O C〉 は 「（実際にやってみて） O は C であるとわかる」 という意味。 I found The Lord of the Rings very interesting. という文が前提。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① that と ③ what は非制限用法では使えないので不可。" }
+      ]
+    },
+    {
+      "order": 584,
+      "id": "08-070-q-225",
+      "type": "question",
+      "section_id": "070",
+      "number": "225",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Soseki Natsume, ( ) wrote Kokoro and Botchan, was born in 1867.",
+      "options": ["① whom", "② who", "③ of which", "④ whose"],
+      "ja": "夏目漱石は，『こころ』と『坊っちゃん』を書いたが，1867年に生まれた。",
+      "answer": "②",
+      "source_univ": "福山大学"
+    },
+    {
+      "order": 585,
+      "id": "08-070-e-225",
+      "type": "explanation",
+      "target_q": "08-070-q-225",
+      "title": "空所の後ろに欠けているものは？",
+      "label": "◆非制限用法の who",
+      "content": [],
+      "solution": [
+        { "text": "空所の前のコンマに注目。述語動詞 wrote の主語が欠けているので、非制限用法の主格の関係代名詞 ② who を選ぶ。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 586,
+      "id": "08-070-q-226",
+      "type": "question",
+      "section_id": "070",
+      "number": "226",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The movie star, ( ) Mary wrote a letter, never answered.",
+      "options": ["① who", "② whose", "③ to whom", "④ that"],
+      "ja": "その映画スターは，メアリーが手紙を書き送った相手だが，一度も返事をよこさなかった。",
+      "answer": "③",
+      "source_univ": "名古屋学院大"
+    },
+    {
+      "order": 587,
+      "id": "08-070-e-226",
+      "type": "explanation",
+      "target_q": "08-070-q-226",
+      "title": "the movie star と Mary wrote a letter の関係は？",
+      "label": "◆非制限用法の 〈前置詞＋whom〉",
+      "content": [],
+      "solution": [
+        { "text": "write a letter to A は 「A に手紙を書き送る」 という意味。 Mary wrote a letter to the movie star. という文を想定すれば文意が通るので、 ③ to whom を選ぶ。" },
+        { "text": "The movie star never answered. + Mary wrote a letter to him [= the movie star].\n↓\nThe movie star, **to whom** Mary wrote a letter, never answered." }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 588,
+      "id": "08-070-q-227",
+      "type": "question",
+      "section_id": "070",
+      "number": "227",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The winter of 1999, ( ) I was preparing for the entrance examination, is still clear in my memory.",
+      "q_type": "completion",
+      "ja": "1999年の冬、私は入学試験の準備をしていたが，その冬のことは私の記憶の中でまだ鮮明だ。",
+      "answer": "in which / when",
+      "source_univ": "福岡大"
+    },
+    {
+      "order": 589,
+      "id": "08-070-e-227",
+      "type": "explanation",
+      "target_q": "08-070-q-227",
+      "title": "the winter of 1999 と I was preparing for the entrance examination の関係は？",
+      "label": "◆非制限用法の 〈前置詞＋which〉 / 関係副詞 when",
+      "content": [],
+      "solution": [
+        { "text": "I was preparing for the entrance examination in the winter of 1999 という文を想定すれば文意が通るので、 ② which を in which か when に訂正する。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "which が正しいとすれば、他動詞 prepare の目的語になり、 「1999年の冬を準備する」 という明らかに不自然な意味になる。" },
+        { "tag": "重要", "text": "prepare for A 「A の（ための）準備をする」 cf. prepare A 「A を準備する」" }
+      ]
+    },
+    {
+      "order": 590,
+      "id": "08-070-q-228",
+      "type": "question",
+      "section_id": "070",
+      "number": "228",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "He bought a cottage in the countryside, ( ) he spent the last days of his life.",
+      "options": ["① which", "② when", "③ where", "④ why"],
+      "ja": "彼は田舎の別荘を買い，そこで晩年を過ごした。",
+      "answer": "③",
+      "source_univ": "明治大"
+    },
+    {
+      "order": 591,
+      "id": "08-070-e-228",
+      "type": "explanation",
+      "target_q": "08-070-q-228",
+      "title": "a cottage in ... と he spent the last days of his life の関係は？",
+      "label": "◆非制限用法の where",
+      "content": [],
+      "solution": [
+        { "text": "空所の前のコンマと選択肢から、空所には非制限用法の関係詞が入ることがわかる。" },
+        { "text": "文章が成立する He spent the last days of his life **at a cottage in the countryside.** を前提とすれば、 He bought a cottage in the countryside, **where [= at which]** he spent the last days of his life. という文ができるので、 ③ where が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 592,
+      "id": "08-070-q-229",
+      "type": "question",
+      "section_id": "070",
+      "number": "229",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Tom has three daughters, all ( ) live in different cities in Japan.",
+      "options": ["① of who", "② of whom", "③ who", "④ whom"],
+      "ja": "トムには3人の娘がいるが，3人とも日本の別々の都市に住んでいる。",
+      "answer": "②",
+      "source_univ": "金城学院大"
+    },
+    {
+      "order": 593,
+      "id": "08-070-e-229",
+      "type": "explanation",
+      "target_q": "08-068-q-229",
+      "title": "all に注目： 「その3人の娘が全員…」",
+      "label": "◆非制限用法の all of whom",
+      "content": [
+        { "text": "非制限用法で 〈数量代名詞＋of whom / of which〉 という表現が用いられることがある。 「数量代名詞」 には all, most, many, much, some, both, either, neither, none などが用いられる。" },
+        { "en": "I have two books, **both of which** [= the two books] difficult. を前提にして考える。", "ja": "「私は2冊本を持っているが，その両方も難しいと思った」" },
+        { "text": "＊I found **both of them** [= the two books] difficult. を前提にして考える。" },
+        { "text": "先行詞は three daughters で、 「その3人の娘が全員…」 という内容を非制限用法の **all of whom** ... で表現していることを見抜く。 all of whom は関係詞節内で主語の働きをしている。" },
+        { "text": "Tom has three daughters. + All of them [= the three daughters] live in different cities in Japan.\n↓\nTom has three daughters, **all of whom** live in different cities in Japan." }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 594,
+      "id": "08-070-q-230",
+      "type": "question",
+      "section_id": "070",
+      "number": "230",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "They spoke only English and French, neither of ( ) she understood.",
+      "options": ["① what", "② which", "③ whose", "④ that"],
+      "ja": "彼らは英語とフランス語しか話さなかったが，どちらも彼女は理解できなかった。",
+      "answer": "②",
+      "source_univ": "亜細亜大"
+    },
+    {
+      "order": 595,
+      "id": "08-070-e-230",
+      "type": "explanation",
+      "target_q": "08-070-q-230",
+      "title": "先行詞は何か",
+      "label": "◆非制限用法の neither of which",
+      "content": [
+        { "text": "先行詞は English and French で、 「英語とフランス語のどちらも…ない」 という内容を非制限用法の **neither of which** ... で表現していることを見抜く。 ② which を選ぶ。関係詞節内で目的語の働きをしている。" },
+        { "text": "They spoke only English and French. + She understood **neither of them** [= English and French].\n↓\nThey spoke only English and French, **neither of which** she understood." }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "関係代名詞 what は非制限用法では使えないので ① what は不可 (→ まずは確認 026 p.113)。関係代名詞 that の前に前置詞をつけることはできないので ④ that は不可。関係代名詞 whose は 〈先行詞＋whose＋名詞〉 という語順になるので ③ whose は不可。" }
+      ]
+    },
+    {
+      "order": 596,
+      "id": "08-070-q-231",
+      "type": "question",
+      "section_id": "070",
+      "number": "231",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "He learned to speak fluent Japanese in only one year, ( ) surprised me.",
+      "options": ["① that", "② who", "③ which", "④ it"],
+      "ja": "彼はたった1年で流暢な日本語を話せるようになったが，それには私も驚いた。",
+      "answer": "③",
+      "source_univ": "昭和大"
+    },
+    {
+      "order": 597,
+      "id": "08-070-e-231",
+      "type": "explanation",
+      "target_q": "08-070-q-231",
+      "title": "先行詞は何か",
+      "label": "◆非制限用法の which ― 先行詞が前の文の内容の全部",
+      "content": [
+        { "text": "非制限用法の関係代名詞 which には、前の文の内容の全部 (→ 231 ) 、または一部 (→ 232 ) を先行詞とする用法がある。" },
+        { "text": "空所の前のコンマに注目。述語動詞 surprised の主語が欠けているので、非制限用法の主格の関係代名詞が入ると考える。前の文の内容の全部を先行詞とする ③ which を関係詞節の主語だと考えれば、 「彼がたった1年で流暢な日本語を話せるようになったことが私を驚かせた」 という文章が成立する。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "関係代名詞 that は非制限用法では使えないので ① that は不可。関係代名詞 who の先行詞は 「人」 だが、 「人」 にあたる名詞が空所の前にないので ② who は不可。④ it を用いる場合は、 ..., and it surprised me. と接続詞を入れれば正しい英語になる。" }
+      ]
+    },
+    {
+      "order": 598,
+      "id": "08-070-q-232",
+      "type": "question",
+      "section_id": "070",
+      "number": "232",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "She tried to swim across the river, ( ) was impossible to do.",
+      "options": ["① that", "② which", "③ on which", "④ where"],
+      "ja": "彼女は泳いでその川を渡ろうとしたが，それは不可能だった。",
+      "answer": "②",
+      "source_univ": "鶴見大"
+    },
+    {
+      "order": 599,
+      "id": "08-070-e-232",
+      "type": "explanation",
+      "target_q": "08-070-q-232",
+      "title": "先行詞は何か",
+      "label": "◆非制限用法の which ― 先行詞が前の文の一部の内容",
+      "content": [
+        { "text": "空所の前にコンマと選択肢から、空所には非制限用法の関係詞が入るとわかる。述語動詞 was の主語が欠けているので、非制限用法の主格の関係代名詞 ② which を入れて、 「泳いでその川を渡ることは不可能だった」 という文意を成立させる。本問の先行詞は前の文の一部である名詞句の to swim across the river。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "関係代名詞 that は非制限用法では使えないので ① that は不可。 〈前置詞＋関係代名詞〉 や関係副詞も主語に用いることはできないので、 ③ on which と ④ where は不可。" }
+      ]
+    },
+    {
+      "order": 600,
+      "id": "08-070-q-233",
+      "type": "question",
+      "section_id": "070",
+      "number": "233",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "Please come at noon, ( ) I will be back in my office.",
+      "options": ["① by its time", "② by time", "③ by which time", "④ during"],
+      "ja": "正午にいらしてください。そのころには私はオフィスに戻っていますので。",
+      "answer": "③",
+      "source_univ": "西南学院大"
+    },
+    {
+      "order": 601,
+      "id": "07-070-e-233",
+      "type": "explanation",
+      "target_q": "08-070-q-233",
+      "title": "",
+      "label": "◆非制限用法の 〈which + 名詞〉",
+      "content": [
+        { "text": "関係代名詞 which が名詞を伴い 〈which + 名詞 ...〉 という形になり、非制限用法で用いられることがある（関係代名詞が名詞を修飾する形容詞的働きをするため、この which は 「関係形容詞」 と呼ばれる）。前に前置詞を伴って、 〈(前置詞) + which + 名詞〉 の形になることが多い。先行詞には (1) 「人以外」 (→ 233 ) 、 (2) 「前の文の内容の全部」 (→例1)、 (3) 「前の文の内容の一部」 (→例2) の場合がある。" },
+        { "label": "(例1)", "en": "The bus may be late, **in which case** you should take a taxi.", "ja": "「バスが遅れるかもしれないが，その場合は (= in that case) タクシーを拾うべきだ」", "text": "→ in which case の先行詞は前の文の内容の全部 (The bus may be late) 。" },
+        { "label": "(例2)", "en": "I was told not to use the map, **which advice** I followed.", "ja": "「その地図は使うなと言われ，そのアドバイス (= that advice) に従った」", "text": "→ which advice の先行詞は前の文の内容の一部 (not to use the map) 。" },
+        { "text": "③ by which time を選ぶと、先行詞は noon となって、 「その時までに (= by that time, = by noon) 」 という文意が成立する。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "コンマと副詞(句)を文をつなげることはできないので、 ① by its time と ② by time は不可。前置詞の後ろに文は来ないので ④ during は不可。" }
+      ]
+    },
+    {
+      "order": 602,
+      "type": "section_header",
+      "section_id": "071",
+      "title": "関係代名詞 what の用法"
+    },
+    {
+      "order": 603,
+      "id": "08-071-c-027",
+      "type": "confirmation_box",
+      "target_s": "071",
+      "number": "027",
+      "title": "関係代名詞 what の用法",
+      "content": [
+        { "tag": "(1)", "text": "関係代名詞 what は the thing(s) which に相当する表現で、「…すること［もの］」という意味になる。先行詞なしで使うことに注意。" },
+        { "tag": "(2)", "text": "what が導く名詞節 (= what 節) 内で主語、補語、他動詞の目的語、前置詞の目的語となる。" },
+        { "tag": "(3)", "text": "what が導く名詞節は、文全体の中で主語、補語、他動詞の目的語、前置詞の目的語となる。what 節が主語になる場合は三人称単数扱いをするのが原則。" },
+        { "tag": "△注意", "text": "(2) の「節内での what の働き」と (3) の「文全体での what 節の働き」の両方をきちんと捉えること。" }
+      ]
+    },
+    {
+      "order": 604,
+      "id": "08-071-q-234",
+      "type": "question",
+      "section_id": "071",
+      "number": "234",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "( ) matters most to him is where he works after graduation.",
+      "options": ["① The thing", "② When", "③ What", "④ How"],
+      "ja": "彼にとって一番大事なのは、卒業後どこで働くかということだ。",
+      "answer": "③",
+      "source_univ": "愛知県立大"
+    },
+    {
+      "order": 605,
+      "id": "08-071-e-234",
+      "type": "explanation",
+      "target_q": "08-071-q-234",
+      "title": "どこまでが文の主語か",
+      "label": "◆関係代名詞 what の用法―節内で主語、what 節は主語",
+      "content": [],
+      "solution": [
+        { "text": "空所に ③ What を入れれば、What matters most to him は名詞節で、文全体の主語となる。意味は「彼にとって一番大事なこと」となる。" },
+        { "text": "what 節内は What(S) matters(V) most to him という構造で、what は節内で主語。" },
+        { "text": "where he works after graduation は疑問副詞 where が導く間接疑問の句で、文全体の補語。", "note": "→ Section 125 (p.207)" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 606,
+      "id": "08-071-q-235",
+      "type": "question",
+      "section_id": "071",
+      "number": "235",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "彼について私が本当に考えていることはどうも言いたくない。\nI'd (I / not / rather / really / say / think / what) about him.",
+      "q_type": "ordering",
+      "ja": "彼について私が本当に考えていることはどうも言いたくない。",
+      "answer": "rather not say what I really think",
+      "source_univ": "創価大"
+    },
+    {
+      "order": 607,
+      "id": "08-071-e-235",
+      "type": "explanation",
+      "target_q": "08-071-q-235",
+      "title": "「彼について私が本当に考えていること」を what を使って表す",
+      "label": "◆関係代名詞 what の用法―節内で他動詞の目的語、what 節は他動詞の目的語",
+      "content": [],
+      "solution": [
+        { "text": "「私は…はどうも言いたくない」を I'd rather not say でまとめ、say の目的語として、 what で導かれる名詞節「彼について私が本当に考えていること」を置く。" },
+        { "text": "節内は what(O) I(S) really think(V) about him で、what は他動詞 think の目的語。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "would rather not do 「（むしろ）…したくない」", "note": "→ 58" }
+      ]
+    },
+    {
+      "order": 608,
+      "id": "08-071-q-236",
+      "type": "question",
+      "section_id": "071",
+      "number": "236",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "A large portion of ( ) the Japanese eat every day is imported from other countries.",
+      "options": ["① what", "② that", "③ which", "④ where"],
+      "ja": "日本人が毎日食べるものの太半は、外国から輸入されている。",
+      "answer": "①",
+      "source_univ": "法政大"
+    },
+    {
+      "order": 609,
+      "id": "08-071-e-236",
+      "type": "explanation",
+      "target_q": "08-071-q-236",
+      "title": "前置詞 of の後ろに来るのは名詞に相当する表現",
+      "label": "◆関係代名詞 what の用法―節内で他動詞の目的語、what 節は前置詞の目的語",
+      "content": [],
+      "solution": [
+        { "text": "a large portion of A 「A の大半」の A に関係代名詞 what で始まる名詞節を作る。" },
+        { "text": "what 節内は what(O) the Japanese(S) eat(V) every day という構造で、what は他動詞 eat の目的語。what 節 the Japanese eat every day は前置詞 of の目的語になる名詞節。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 610,
+      "id": "08-071-q-237",
+      "type": "question",
+      "section_id": "071",
+      "number": "237",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "I sent my brother living in the countryside ( ) little money I had at that time.",
+      "options": ["① what", "② where", "③ which", "④ whom"],
+      "ja": "私は田舎に住む弟［兄］に、その時持っていたなし崩しのお金を送った。",
+      "answer": "①",
+      "source_univ": "津田塾大"
+    },
+    {
+      "order": 611,
+      "id": "08-071-e-237",
+      "type": "explanation",
+      "target_q": "08-071-q-237",
+      "title": "what little money S have 「（少ないが）…するすべての（名詞）」",
+      "label": "◆〈what + 名詞 ...〉",
+      "content": [
+        { "text": "what が名詞を伴い、 〈what + 名詞 ...〉 の形で「…するすべての（名詞）」 (= all the + 名詞 + that ...) という意味を持つことがある。" },
+        { "en": "I will give you what information I have.", "ja": "「私が持っているすべての情報を君にあげよう」", "text": "→ I will give you all the information that I have. と同意。" }
+      ],
+      "solution": [
+        { "tag": "△注意", "text": "〈what little + 名詞〉 「（少ないが）…するすべての（名詞）」とする場合も多い。" },
+        { "text": "① を選び、what little money 「なけなしのお金（少ないが持っているすべてのお金）」の意味を完成させる。what little money I had at that time は他動詞 send (本問では sent) の目的語になる名詞節。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "what little money S have 「S の持っているなけなしのお金」" }
+      ]
+    },
+    {
+      "order": 612,
+      "type": "section_header",
+      "section_id": "072",
+      "title": "関係代名詞 what を用いた慣用表現"
+    },
+    {
+      "order": 613,
+      "id": "08-072-q-238",
+      "type": "question",
+      "section_id": "072",
+      "number": "238",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Without American influences, Japanese culture would not be ( ) it is today.",
+      "options": ["① that", "② what", "③ when", "④ which"],
+      "ja": "アメリカの影響がなければ、日本文化は今日の姿になっていないだろう。",
+      "answer": "②",
+      "source_univ": "関西学院大"
+    },
+    {
+      "order": 614,
+      "id": "08-072-e-238",
+      "type": "explanation",
+      "target_q": "08-072-q-238",
+      "title": "what S is 「今の S」 の S (の姿・有り様)",
+      "label": "◆what S is 「今の S」 の S (の姿・有り様)",
+      "content": [],
+      "solution": [
+        { "text": "what S is 「今の S」 は、節内では what が is の補語になっている。「S がある今の状態」といった意味を表している。" },
+        { "text": "what it [= Japanese culture] is today 「今日の日本文化（の姿）」は文全体の補語となる名詞節。" },
+        { "text": "本問は without A 「もし A がなければ」 (→ 102) を用いた仮定法。主節に would が使われていることに注意。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 615,
+      "id": "08-072-q-239",
+      "type": "question",
+      "section_id": "072",
+      "number": "239",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "This town is very different from ( ) it was twenty years ago.",
+      "options": ["① that", "② what", "③ when", "④ which"],
+      "ja": "この町は20年前と大きく異なっている。",
+      "answer": "②",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 616,
+      "id": "08-072-e-239",
+      "type": "explanation",
+      "target_q": "08-072-q-239",
+      "title": "what S used to be / what S was[were] 「昔［以前］の S」 の S (の姿・有り様)",
+      "label": "◆what S was[were] 「昔［以前］の S」 の S (の姿・有り様)",
+      "content": [],
+      "solution": [
+        { "text": "what S used to be / what S was[were] 「昔の S」 は、 what S is 「今の S」 の is を used to be / was[were] に置きかえたものと理解する。" },
+        { "text": "what it [= this town] was twenty years ago 「この町の20年前の姿」は前置詞 from の目的語になる名詞節。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "text": "次の表現も覚えておこう。\n□ what S will be 「将来［未来］の S」 の S (の姿・有り様)\n□ what S should be [ought to be] 「S のあるべき姿／S の理想像」" }
+      ]
+    },
+    {
+      "order": 617,
+      "id": "08-072-q-240",
+      "type": "question",
+      "section_id": "072",
+      "number": "240",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Words (the translator / facts / are / what / to) are to the scientist.",
+      "q_type": "ordering",
+      "ja": "翻訳者にとっての言葉は、科学者にとっての事実と同じである。",
+      "answer": "are to the translator what facts",
+      "source_univ": "明海大"
+    },
+    {
+      "order": 618,
+      "id": "08-072-e-240",
+      "type": "explanation",
+      "target_q": "08-072-q-240",
+      "title": "A is to B what C is to D. 「A と B の関係は C と D の関係と同じである」",
+      "label": "◆A is to B what C is to D.",
+      "content": [],
+      "solution": [
+        { "text": "「B にとっての A は、D にとっての C (がそうであるもの) にあたる」 が直訳。" },
+        { "tag": "(注)", "text": "What C is to D, A is to B. という語順になる場合もある。" },
+        { "en": "What flowers are to city streets, smiles are to humanity.", "ja": "「笑顔と人間性の関係は、花と街路の関係と同じである」" },
+        { "text": "what の代わりに接続詞 as を用いた A is to B as C is to D. も同意表現。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 619,
+      "id": "08-072-q-241",
+      "type": "question",
+      "section_id": "072",
+      "number": "241",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "John is ( ) is called a man of culture.",
+      "options": ["① that", "② what", "③ which", "④ who"],
+      "ja": "ジョンはいわゆる文化人だ。",
+      "answer": "②",
+      "source_univ": "関東学院大"
+    },
+    {
+      "order": 620,
+      "id": "08-072-e-241",
+      "type": "explanation",
+      "target_q": "08-072-q-241",
+      "title": "what is called A 「いわゆる A」",
+      "label": "◆what is called A 「いわゆる A」",
+      "content": [],
+      "solution": [
+        { "text": "what is called a man of culture 「いわゆる文化人」は文全体の補語となる名詞節。" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "(×) ..., what is called, a man of culture のように、what is called を独立した表現と考えて、前後にコンマを打つ間違いに注意。" },
+        { "tag": "▶", "text": "what we[you / they] call A も同意表現。what is called A は what we[you / they] call A の受動態。" }
+      ]
+    },
+    {
+      "order": 621,
+      "id": "08-072-q-242",
+      "type": "question",
+      "section_id": "072",
+      "number": "242",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "It was cold, and ( ) was worse, the heater broke down.",
+      "options": ["① what", "② but", "③ whatever", "④ that"],
+      "ja": "寒かったし、さらに悪いことには、暖房器具も壊れた。",
+      "answer": "①",
+      "source_univ": "大阪学院大"
+    },
+    {
+      "order": 622,
+      "id": "08-072-e-242",
+      "type": "explanation",
+      "target_q": "08-072-q-242",
+      "title": "what is worse 「さらに悪いことには」",
+      "label": "◆what is worse 「さらに悪いことには」",
+      "content": [],
+      "solution": [
+        { "text": "what is worse 「さらに悪いことには」 は、前文の内容を受けて、それよりも悪い内容を付け加える表現。" },
+        { "text": "本問では、過去のことを表しているので、 what was worse と過去形になっている。" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "what is worse には接続詞の働きはないので、 (×) It was cold, what was worse, the heater broke down. とはならないことに注意。本問のように接続詞 and が必要となる。" }
+      ]
+    },
+    {
+      "order": 623,
+      "id": "08-072-q-243",
+      "type": "question",
+      "section_id": "072",
+      "number": "243",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "He is a famous scholar, and ( ) is more, he is a talented poet.",
+      "options": ["① what", "② who", "③ which", "④ that"],
+      "ja": "彼は有名な学者であり、その上、才能ある詩人でもある。",
+      "answer": "①",
+      "source_univ": "関東学院大"
+    },
+    {
+      "order": 624,
+      "id": "08-072-e-243",
+      "type": "explanation",
+      "target_q": "08-072-q-243",
+      "title": "what is more 「その上／さらに」",
+      "label": "◆what is more 「その上／さらに」",
+      "content": [],
+      "solution": [
+        { "text": "新しい（より重要な）情報を追加する表現。 what is more という短縮形で用いることが多い。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 625,
+      "type": "section_header",
+      "section_id": "073",
+      "title": "連鎖関係代名詞節"
+    },
+    {
+      "order": 626,
+      "id": "08-073-q-244",
+      "type": "question",
+      "section_id": "073",
+      "number": "244",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "There was no objection from the man ( ) I thought was sure to protest.",
+      "options": ["① who", "② whom", "③ of whom", "④ by whom"],
+      "ja": "必ず異議を唱えるだろうと思った男性からは、何の反対もなかった。",
+      "answer": "①",
+      "source_univ": "桜美林大"
+    },
+    {
+      "order": 627,
+      "id": "08-073-e-244",
+      "type": "explanation",
+      "target_q": "08-073-q-244",
+      "title": "空所のあとの I thought とその直後の was に注目",
+      "label": "◆連鎖関係代名詞節 ― the man who I thought was ...",
+      "content": [
+        { "text": "関係代名詞 (who, which, that, what) の直後に I think や I believe などの 〈S + V〉 が入り込んだように見える形を 「連鎖関係代名詞節」 と呼ぶ。" }
+      ],
+      "solution": [
+        { "text": "空所のあとに I thought があり、そのすぐ後ろに was が続くことに注目する。 the man who was sure to ... の主格の関係代名詞 who のあとに I thought が入り込んだように見える連鎖関係代名詞節であることを見抜く。" },
+        { "text": "節内の述語動詞 was の主語にあたる主格の関係代名詞 ① who を用いるのが正しい。文の構造を以下の図式で確認しよう。\nThere was no objection from **the man.**\n+ **I thought** he [= the man] was sure to protest.\n→ There was no objection from the **man who I thought was** sure to protest." }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "他動詞 thought の目的語が欠けているように見えるせいで、 ② whom を正解にするミスが多い。" }
+      ]
+    },
+    {
+      "order": 628,
+      "id": "08-073-q-245",
+      "type": "question",
+      "section_id": "073",
+      "number": "245",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I'll always (best / do / for / is / I think / what) everybody.",
+      "q_type": "ordering",
+      "ja": "私は，みんなのために最善だと私が思うことをいつでもするつもりだ。",
+      "answer": "do what I think is best",
+      "source_univ": "東京医科大"
+    },
+    {
+      "order": 629,
+      "id": "08-073-e-245",
+      "type": "explanation",
+      "target_q": "08-073-q-245",
+      "title": "I think をどこに入れるか",
+      "label": "◆連鎖関係代名詞節 ― what I think is best ...",
+      "content": [],
+      "solution": [
+        { "text": "I think S is best for everybody. 「S がみんなに最善だと私は思う」 を前提にして、連鎖関係代名詞の what I think is best for everybody 「みんなのために最善だと私が思うこと」 を完成させる。主語 S にあたる部分に関係代名詞 what を用いて、 do の目的語になる 「…すること」 という節を作る。" },
+        { "text": "I'll always do the thing. + I think it [= the thing] is best for everybody.\n→ I'll always do **what I think is best** for everybody." }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 630,
+      "type": "section_header",
+      "section_id": "074",
+      "title": "関係代名詞として使われる as, than, but の用法"
+    },
+    {
+      "order": 631,
+      "id": "08-074-q-246",
+      "type": "question",
+      "section_id": "074",
+      "number": "246",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "Such a plan (you / as / would / proposed / which) never succeed.",
+      "q_type": "ordering",
+      "ja": "あなたが提案したような計画では決してうまくいかないだろう。（1語不要）",
+      "answer": "as you proposed would",
+      "source_univ": "法政大"
+    },
+    {
+      "order": 632,
+      "id": "08-074-e-246",
+      "type": "explanation",
+      "target_q": "08-074-q-246",
+      "title": "such と as に注目",
+      "label": "◆関係代名詞の as ― 先行詞が such ...",
+      "content": [
+        { "text": "先行詞が **such ...** や **the same ...** の場合は、関係代名詞の as 「…のような」 を用いる。" },
+        { "en": "such friends as will help me", "ja": "「私を助けてくれるような友人」", "text": "（as は主格の関係代名詞）" },
+        { "en": "the same book as [that] I am fond of", "ja": "「私が好きなのと同じ本」", "text": "（as は目的格の関係代名詞）" }
+      ],
+      "solution": [
+        { "tag": "△注意", "text": "先行詞が the same ... の場合は、関係代名詞に that を用いてもよい。" },
+        { "text": "先行詞が such a plan なので、関係代名詞 as を用いて、 Such a plan as you proposed 「あなたが提案したような計画」 を完成させる。この as は目的格の関係代名詞。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 633,
+      "id": "08-074-q-247",
+      "type": "question",
+      "section_id": "074",
+      "number": "247",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "(Naomi / the case / as / often / is / with), she got up very early.",
+      "q_type": "ordering",
+      "ja": "ナオミにとってはいつものことだが、彼女はとても早く起きた。",
+      "answer": "As is often the case with",
+      "source_univ": "北海道医療大"
+    },
+    {
+      "order": 634,
+      "id": "08-074-e-247",
+      "type": "explanation",
+      "target_q": "08-074-q-247",
+      "title": "as is often the case with A",
+      "label": "◆非制限用法の as ― 先行詞が「あとの文の内容」",
+      "content": [
+        { "text": "非制限用法の which と同様に、非制限用法の as は 「前の文の内容」 を先行詞にすることがある。ただし、先行詞となる文よりも前に as 節が置かれて、結果的に先行詞は 「あとの文の内容」 になることが多い。" },
+        { "en": "He was defeated, **as [which]** was expected.", "ja": "「予想していたように、彼は敗北した」" },
+        { "tag": "≒", "en": "As was expected, he was defeated.", "text": "as は主格の関係代名詞で、 he was defeated が先行詞。" }
+      ],
+      "solution": [
+        { "text": "**as is (often) the case with A** 「（A には）よくあることだが」 、 **as is usual (with A)** 「（A には）いつものことだが」 などの慣用表現で用いられることが多い。" },
+        { "tag": "▶", "en": "Naomi got up very early, as is often the case with her." }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 635,
+      "id": "08-074-q-248",
+      "type": "question",
+      "section_id": "074",
+      "number": "248",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "There is (has / rule / exceptions / but / no / some).",
+      "q_type": "ordering",
+      "ja": "例外のない規則など存在しない。",
+      "answer": "no rule but has some",
+      "source_univ": "岩手医科大"
+    },
+    {
+      "order": 636,
+      "id": "08-074-e-248",
+      "type": "explanation",
+      "target_q": "08-074-q-248",
+      "title": "no と but に注目",
+      "label": "◆否定を含む語を先行詞にする関係代名詞 but",
+      "content": [
+        { "text": "先行詞が 〈否定を含む語句〉 の場合に、関係代名詞 but を用いることがある。この but も否定の意味を持つので、文全体は 「二重否定」 (→ Section 134 (p. 221)) になる。" }
+      ],
+      "solution": [
+        { "en": "There is no one **but** makes mistakes.", "ja": "「ミスをしない人はいない」" },
+        { "tag": "→", "en": "There is no one **that doesn't** make mistakes.", "text": "と同意。" },
+        { "text": "否定を含む no rule を先行詞にして、否定を持つ関係代名詞 but を用いる。" },
+        { "tag": "▶", "text": "There is no rule that doesn't have some exceptions. が主格。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 637,
+      "id": "08-074-q-249",
+      "type": "question",
+      "section_id": "074",
+      "number": "249",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "Pets should not be given more food ( ) they need. Otherwise, they will gain too much weight.",
+      "options": ["① which", "② that", "③ than", "④ what"],
+      "ja": "ペットには必要以上の食べ物を与えるべきではない。さもなければ、体重が増えすぎてしまうだろう。",
+      "answer": "③",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 638,
+      "id": "08-074-e-249",
+      "type": "explanation",
+      "target_q": "08-074-q-249",
+      "title": "than は関係代名詞",
+      "label": "◆比較級を含む語句を先行詞にする関係代名詞 than",
+      "content": [
+        { "text": "先行詞が 〈比較級を含む語句〉 の場合に、関係代名詞 than を用いる。" }
+      ],
+      "solution": [
+        { "text": "この than は目的格の関係代名詞。他動詞 need の目的語が欠けていて、先行詞 more food がその欠けた語にあたる。" },
+        { "en": "He has more money **than** is necessary for a comfortable life.", "ja": "「彼は快適な生活に必要なよりも多くのお金を持っている」" },
+        { "text": "＊この than は主格の関係代名詞。述語動詞 is の主語が欠けていて、先行詞 more money がその欠けた主語にあたる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 639,
+      "type": "section_header",
+      "section_id": "075",
+      "title": "前置詞＋関係代名詞＋to do"
+    },
+    {
+      "order": 640,
+      "id": "08-075-d-011",
+      "type": "deep_dive",
+      "target_s": "075",
+      "number": "011",
+      "title": "名詞＋前置詞＋whom / which to do",
+      "content": [
+        { "text": "〈名詞＋前置詞＋whom / which to do〉 の表現は、以下のような変形プロセスで理解すればよい。" },
+        { "tag": "(例1)", "en": "I am looking for a partner with whom to work.", "ja": "「私は一緒に働くパートナーを探している」" },
+        { "text": "I work with a partner. 「私はパートナーと一緒に働く」 (文)\n→ a partner with whom I work 「私が一緒に働くパートナー」 (関係詞節)\n→ a partner with whom **to work** 「一緒に働く（ための）パートナー」\n＊I work が to work に変わったものと考える。" },
+        { "tag": "(例2)", "en": "Wealth is just a means by which to enjoy life.", "ja": "「富とは人生を楽しむための手段にすぎない」" },
+        { "text": "You enjoy life by a means. 「あなたは（ある）手段で人生を楽しむ」 (文)\n→ a means by which you enjoy life 「あなたが人生を楽しむ（ための）手段」\n→ a means by which **to enjoy life** 「人生を楽しむ（ための）手段」\n＊you enjoy life が to enjoy life に変わったものと考える。" }
+      ]
+    },
+    {
+      "order": 641,
+      "id": "08-075-q-250",
+      "type": "question",
+      "section_id": "075",
+      "number": "250",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "(a) Mary needs a well-equipped office to work in.\n(b) Mary needs a well-equipped office ( ) ( ) to work.",
+      "q_type": "completion",
+      "ja": "(a) (b) メアリーには十分に備品が整ったオフィスが必要だ。",
+      "answer": "in which",
+      "source_univ": "山梨大"
+    },
+    {
+      "order": 642,
+      "id": "08-075-e-250",
+      "type": "explanation",
+      "target_q": "08-075-q-250",
+      "title": "名詞＋前置詞＋whom / which to do 「…するための（名詞）」",
+      "label": "◆〈名詞＋前置詞＋whom / which to do〉 の用法",
+      "content": [],
+      "solution": [
+        { "text": "〈名詞＋前置詞＋whom / which to do〉 が直前の名詞を修飾する用法がある。" },
+        { "tag": "(a)", "text": "の to work in は形容詞用法の不定詞で、名詞 office を修飾している (→ 118 ) 。 (b) の in to work も名詞 office を修飾している。" },
+        { "text": "She works in an office. 「彼女はオフィスで働く」 (文)\n→ an office in which she works 「彼女が働くオフィス」\n→ an office in which **to work** 「働く（ための）オフィス」\n＊she works が to work に変わったものと考える。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 643,
+      "type": "section_header",
+      "section_id": "076",
+      "title": "whoever, whatever, whichever の用法"
+    },
+    {
+      "order": 644,
+      "id": "08-076-c-028",
+      "type": "confirmation_box",
+      "target_s": "076",
+      "number": "028",
+      "title": "whoever, whatever, whichever と、それが導く名詞節の文全体での働き",
+      "content": [
+        { "text": "「節内での働き」 と 「文全体での働き」 の両方を区別して考えること。" },
+        { "tag": "(1)", "en": "whoever, whichever, whatever", "text": "自体は、それらが導く名詞節内で主語・補語・目的語になる。" },
+        { "tag": "(2)", "en": "whoever, whichever, whatever", "text": "が導く名詞節は、文全体の中で主語、補語、目的語になる。" },
+        { "tag": "△注意", "text": "whomever は節内で目的語のときに使われるが、現代英語では whomever となるべき場合でも whoever を用いることが非常に多い。" }
+      ]
+    },
+    {
+      "order": 645,
+      "id": "08-076-q-251",
+      "type": "question",
+      "section_id": "076",
+      "number": "251",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "You should give this CD to ( ) wants it.",
+      "options": ["① who", "② whom", "③ whoever", "④ whomever"],
+      "ja": "この CD は，だれでもそれをほしがっている人にあげるべきです。",
+      "answer": "③",
+      "source_univ": "東京家政学院大"
+    },
+    {
+      "order": 646,
+      "id": "08-076-e-251",
+      "type": "explanation",
+      "target_q": "08-076-q-251",
+      "title": "空所のあとの wants に注目",
+      "label": "◆名詞節を導く whoever 「…する人はだれでも」 (= anyone who)",
+      "content": [],
+      "solution": [
+        { "text": "空所に入るのは wants の主語。 ③ whoever 「…する人はだれでも」 で文章が通る。本問の whoever は節内で主語。 whoever wants it 「だれでもそれをほしがっている人」 は前置詞 to の目的語となる名詞節。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 647,
+      "id": "08-076-q-252",
+      "type": "question",
+      "section_id": "076",
+      "number": "252",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Jane always agrees with ( ) her sister tells her to do.",
+      "options": ["① wherever", "② whatever", "③ whenever", "④ whichever"],
+      "ja": "ジェーンは姉［妹］がやれと言うことには何でも常に同意する。",
+      "answer": "②",
+      "source_univ": "独協大"
+    },
+    {
+      "order": 648,
+      "id": "08-076-e-252",
+      "type": "explanation",
+      "target_q": "08-076-q-252",
+      "title": "前置詞 with の目的語となる名詞節を作る",
+      "label": "◆名詞節を導く whatever 「…するものは［こと］は何でも」 (= anything that)",
+      "content": [],
+      "solution": [
+        { "text": "② whatever を入れると、「彼女の姉がやれという［こと］は何でも」という文章が成立する。本問の whatever は節内で他動詞 do の目的語。 whatever her sister tells her to do は前置詞 with の目的語となる名詞節。" },
+        { "text": "whichever では「姉がやれという［こと］はどちらでも」という意味になり不自然。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 649,
+      "id": "08-076-q-253",
+      "type": "question",
+      "section_id": "076",
+      "number": "253",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) you do, don't use your left hand to offer or take things when you're in Indonesia.",
+      "options": ["① Whichever", "② However", "③ Whatever", "④ Anything"],
+      "ja": "インドネシアにいるときは，何をするにしても，ものを差し出したり，受け取ったりするために，左手を使ってはいけません。",
+      "answer": "③",
+      "source_univ": "法政大"
+    },
+    {
+      "order": 650,
+      "id": "08-076-e-253",
+      "type": "explanation",
+      "target_q": "08-076-q-253",
+      "title": "譲歩を表す副詞節 「何を…しても」 を作る",
+      "label": "◆副詞節を導く whatever 「何を［が］…しても」 (= no matter what)",
+      "content": [
+        { "text": "whoever, whatever, whichever は、それぞれ no matter who, no matter what, no matter which を用いて 〈譲歩〉 の意味を表す副詞節を作ることができる。" }
+      ],
+      "solution": [
+        { "text": "③ Whatever を入れれば、「あなたが何を［こと］をするにしても」という譲歩の意味になる。本問の Whatever は節内で他動詞 do の目的語。 Whatever you do 「何をすることにしても」 は副詞節なので、文全体の主語や目的語にはならない。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① Whichever では「あなたがどちらを…しても」という意味になり不自然。" },
+        { "tag": "プラス", "text": "whatever と whichever は次のような違いがあるが、\nwhatever 「何でも／何が［を］…しても」 は、特に選択肢を意識しない。\nwhichever 「どちらでも／どちらが［を］…しても」 は、限られた範囲における選択肢を意識している。" }
+      ]
+    },
+    {
+      "order": 651,
+      "id": "08-076-q-254",
+      "type": "question",
+      "section_id": "076",
+      "number": "254",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "She always (what / kept / matter / happened / smiling / no).",
+      "q_type": "ordering",
+      "ja": "何が起ころうとも，彼女はほほえみを絶やさなかった。",
+      "answer": "kept smiling no matter what happened",
+      "source_univ": "桜美林大"
+    },
+    {
+      "order": 652,
+      "id": "08-076-e-254",
+      "type": "explanation",
+      "target_q": "08-076-q-254",
+      "title": "no, matter, what に注目",
+      "label": "◆副詞節を導く no matter what 「何を［が］…しても」",
+      "content": [],
+      "solution": [
+        { "text": "「何が起ころうとも」を副詞節 no matter what happened で表す。 Whatever happened と書きかえることができる。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "keep (on) doing 「…し続ける」" }
+      ]
+    },
+    {
+      "order": 653,
+      "id": "08-076-q-255",
+      "type": "question",
+      "section_id": "076",
+      "number": "255",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "We are in a difficult position ( ) decision we make.",
+      "options": ["① what", "② whoever", "③ where", "④ whichever"],
+      "ja": "どちらの決定をしようとも，私たちは苦しい立場にある。",
+      "answer": "④",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 654,
+      "id": "08-076-e-255",
+      "type": "explanation",
+      "target_q": "08-076-q-255",
+      "title": "空所のあとの名詞を導く (whichever + 名詞) 「どちらの(名詞)を…しても」",
+      "label": "◆副詞節を導く whichever 「どちらの（名詞）を［が］…しても」",
+      "content": [
+        { "text": "whatever と whichever は後ろに名詞を伴い、 〈譲歩〉 の意味の副詞節を導くことがある。\n(whatever + 名詞) 「どの（種類の）（名詞）を［が］…しても」 (= no matter what + 名詞)\n(whichever + 名詞) 「どちらの（名詞）を［が］…しても」 (= no matter whichever + 名詞)" }
+      ],
+      "solution": [
+        { "text": "空所のあとの名詞 decision に注目。選択肢の中で後ろに名詞を伴い、副詞節を導くことができるのは ④ whichever だけ。 whichever decision we make で 「どちらの決定をしても」 という 〈譲歩〉 の意味を表す副詞節となる。 whichever decision は節内で他動詞 make の目的語。" },
+        { "tag": "▶", "text": "本問は ... no matter which decision we make. と書きかえられる。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "text": "〈whatever + 名詞〉 と 〈whichever + 名詞〉 は名詞節を導くこともある。\nI will accept whatever decision you make.\n「君が行うどのような決定でも私は受け入れる」\n〈whichever + 名詞〉 「どちらの（名詞）でも」\nI will accept whichever decision you make.\n「君が行うどちらの決定でも私は受け入れる」\n＊whatever 節と whichever 節は名詞節なので、他動詞 accept の目的語。" }
+      ]
+    },
+    {
+      "order": 655,
+      "type": "section_header",
+      "section_id": "077",
+      "title": "wherever, whenever, however の用法"
+    },
+    {
+      "order": 656,
+      "id": "08-077-q-256",
+      "type": "question",
+      "section_id": "077",
+      "number": "256",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "彼はどこに行っても新しい友人を作るようだ。\nHe (friends / make / new / seems / to / wherever / he / goes).",
+      "q_type": "ordering",
+      "ja": "彼はどこに行っても新しい友人を作るようだ。",
+      "answer": "seems to make new friends wherever he",
+      "source_univ": "追手門学院大"
+    },
+    {
+      "order": 657,
+      "id": "08-077-e-256",
+      "type": "explanation",
+      "target_q": "08-077-q-256",
+      "title": "「どこに行っても」 を wherever を使って表す",
+      "label": "◆wherever SV 「…するところならどこでも／どこに［で］…しても」",
+      "content": [
+        { "text": "wherever SV は 「…するところならどこでも」 (= at any place where) という意味の副詞節。本問のように 「どこに［で］…しても」 という 〈譲歩〉 の意味の副詞節になり、 no matter where SV に書きかえられる。" },
+        { "en": "You can sit wherever you like.", "ja": "「好きなところならどこにでも座ってよい」" }
+      ],
+      "solution": [
+        { "text": "「彼はどこに行っても」 を、 wherever が導く副詞節 wherever he goes で表す。本問は no matter where he goes. と書きかえられる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 658,
+      "id": "08-077-q-257",
+      "type": "question",
+      "section_id": "077",
+      "number": "257",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Tim accompanies his five-year-old daughter ( ) she has to go somewhere.",
+      "options": ["① whatever", "② whomever", "③ whichever", "④ whenever"],
+      "ja": "5歳の娘がどこかに行く必要があるときはいつでも、ティムは彼女に付き添っていく。",
+      "answer": "④",
+      "source_univ": "獨協大"
+    },
+    {
+      "order": 659,
+      "id": "08-077-e-257",
+      "type": "explanation",
+      "target_q": "08-077-q-257",
+      "title": "",
+      "label": "◆whenever SV 「…するときはいつでも／いつ…しても」",
+      "content": [
+        { "text": "whenever SV は 「…するときはいつでも」 (= at any time when) という意味の副詞節。 「いつ…しても」 という 〈譲歩〉 の意味の副詞節になり、 no matter when SV で書きかえられる。" },
+        { "en": "I will meet you whenever you come.", "ja": "「あなたがいつ来てもお会いしましょう」" },
+        { "tag": "▶", "text": "＊whenever you come は 〈譲歩〉 の意味なので、 no matter when you come と書きかえられる。" }
+      ],
+      "solution": [
+        { "text": "④ whenever を選ぶと文章が成立する。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "空所のあとに she(S) has to go (V) somewhere という構造になっている。欠けた名詞要素はないので、関係代名詞を用いた ① whatever, ② whomever, ③ whichever は不可。" }
+      ]
+    },
+    {
+      "order": 660,
+      "id": "08-077-q-258",
+      "type": "question",
+      "section_id": "077",
+      "number": "258",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ), you should always check your answers again.",
+      "options": ["① However easy the test is", "② However the test is easy", "③ Whatever easy the test is", "④ Whatever the test is easy"],
+      "ja": "どんなにテストが簡単でも、常に答えの見直しをするべきです。",
+      "answer": "①",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 661,
+      "id": "08-077-e-258",
+      "type": "explanation",
+      "target_q": "08-077-q-258",
+      "title": "easy の位置は？",
+      "label": "◆however + 形容詞［副詞］ + SV 「どんなに（形容詞［副詞］）で…しても」",
+      "content": [
+        { "text": "〈however + 形容詞［副詞］ + SV〉 は 「どんなに … でも」 という意味の 〈譲歩〉 の副詞節。 no matter how ... で書きかえ可能。" },
+        { "en": "However hard I studied, I got bad grades.", "ja": "「どんなに一生懸命勉強しても、成績は悪かった」" }
+      ],
+      "solution": [
+        { "tag": "△注意", "text": "however が導く副詞節は 〈譲歩〉 の意味なので no matter how ... で書きかえ可能。" },
+        { "text": "① However easy the test is だけが正しい語順の副詞節。形容詞 easy の位置に注意。" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "② However the test is easy という語順が最も多い。 〈どんなに簡単でも〉 という意味を作るのなら、 however と easy を離してはいけない。" }
+      ]
+    },
+    {
+      "order": 662,
+      "id": "08-077-q-259",
+      "type": "question",
+      "section_id": "077",
+      "number": "259",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "どんなに健康に自信があっても，年に一度は健康診断を受けることが勧められている。\n(how / no / are / you / about / confident / matter) your health, you are advised to have a medical check-up once a year.",
+      "q_type": "ordering",
+      "ja": "どんなに健康に自信があっても，年に一度は健康診断を受けることが勧められている。",
+      "answer": "no matter how confident you are",
+      "source_univ": "日本大"
+    },
+    {
+      "order": 663,
+      "id": "08-077-e-259",
+      "type": "explanation",
+      "target_q": "08-077-q-259",
+      "title": "confident の位置に注意",
+      "label": "◆no matter how + 形容詞［副詞］ + SV 「どんなに（形容詞［副詞］）で…しても」",
+      "content": [],
+      "solution": [
+        { "text": "「どんなに健康に自信があっても」 を 〈no matter how + 形容詞 + SV〉 の語順で、 no matter how confident you are about your health として表す。" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "no matter how が導く副詞節は 〈譲歩〉 の意味なので however ... で書きかえ可能。" },
+        { "tag": "△注意", "text": "(×) No matter how you are confident about your health とする語順の誤りが非常に多い。 「どんなに自信があっても」 という意味を作るのだから、 no matter how (＝ however) と confident を離してはいけない。" }
+      ]
+    }
+  ]
+}

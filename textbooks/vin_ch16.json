@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "source": "vin4",
+    "field": "grammar",
+    "chapter_id": "16",
+    "chapter_title": "話法"
+  },
+  "items": [
+    {
+      "order": 1301,
+      "type": "section_header",
+      "section_id": "142",
+      "title": "話法の転換"
+    },
+    {
+      "order": 1302,
+      "id": "16-142-c-044",
+      "type": "confirmation_box",
+      "target_s": "142",
+      "number": "044",
+      "title": "直接話法と間接話法、および話法の転換の基本ルール",
+      "content": [
+        { "tag": "(1)", "text": "直接話法は、だれかの発言をそのまま相手に伝えるもの。間接話法は、だれかの発言を自分の言葉に直して伝えるもの。" },
+        { "tag": "(2)", "text": "直接話法を間接話法に転換するときは、「時制の一致」（左頁 まずは確認 045 参照）により動詞の時制が変わる。また話者の視点が変わるので、人称代名詞や副詞を適切なものに代える必要がある。" },
+        { "tag": "(3)", "label": "話法の転換のルール", "items": [
+          { "text": "a. 人称代名詞の転換：話者の視点から適切な人称代名詞に代える。" },
+          { "text": "b. 時制の転換：伝達動詞が過去の場合、時制の一致が適用される。" },
+          { "text": "c. 指示代名詞や副詞表現の転換：伝達動詞が過去の場合、以下のように変わる。ただし文脈によって例外もあるので、文の意味を考えて適切な表現を選ぶこと。" }
+        ]},
+        { "label": "語句の変化例", "text": "this → that, these → those, here → there,\nnow → then, today → that day,\ntonight → that night,\nyesterday → the day before / the previous day,\nlast week → the week before / the previous week,\ntomorrow → the next [following] day,\nnext week → the next [following] week,\n... ago → ... before" }
+      ]
+    },
+    {
+      "order": 1303,
+      "id": "16-142-c-045",
+      "type": "confirmation_box",
+      "target_s": "142",
+      "number": "045",
+      "title": "時制の一致",
+      "content": [
+        { "text": "英語では主節の動詞が過去になると、原則として従属節の動詞も〈現在→過去〉、〈現在完了・過去→過去完了〉のように変わる。このようなルールを「時制の一致」と呼ぶ。" },
+        { "label": "例1", "en": "She says that she wants to work part-time.", "ja": "「彼女はアルバイトをしたいと言っている」", "text": "（主節と従属節の動詞は現在形：says、wants）" },
+        { "tag": "↓", "en": "She said that she wanted to work part-time.", "ja": "「彼女はアルバイトをしたいと言った」", "text": "（主節の動詞 says を過去形 said にすると、従属節の動詞も過去形 wanted に変わる）" },
+        { "tag": "△注意", "text": "時制の一致で助動詞が過去形に変わる場合にも注意。" },
+        { "en": "I think that he will come soon.", "ja": "「彼はすぐ来るだろうと私は思っている」" },
+        { "tag": "↓", "en": "I thought that he would come soon.", "ja": "「彼はすぐ来るだろうと私は思った」", "text": "＊think → thought の変化に伴い、will come → would come と変化する。" }
+      ]
+    },
+    {
+      "order": 1304,
+      "id": "16-142-q-520",
+      "type": "question",
+      "section_id": "142",
+      "number": "520",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "(a) He said to her, \"You may be able to answer this question.\"\n(b) He ( ) her that ( ) ( ) be able to answer that question.",
+      "q_type": "completion",
+      "ja": "(a) 彼は彼女に、「君ならこの質問に答えられるかもしれない」と言った。(b) 彼は、彼女ならその質問に答えられるかもしれないと彼女に言った。",
+      "answer": "told, she might",
+      "source_univ": "山梨大"
+    },
+    {
+      "order": 1305,
+      "id": "16-142-e-520",
+      "type": "explanation",
+      "target_q": "16-142-q-520",
+      "title": "平叙文の話法の転換",
+      "label": "◆平叙文の話法の転換",
+      "content": [
+        { "text": "平叙文の話法の転換では、直接話法を間接話法にするときには、発話内容を that 節を使って伝える。" },
+        { "tag": "(1)", "label": "伝達動詞が say だけのとき", "text": "S say, \"...\" → S say that ... 「S は…と言う」" },
+        { "tag": "(2)", "label": "伝達動詞 say のあとに to A が続くとき", "text": "S say to A, \"...\" → S tell A that ... 「S は A に…と言う」" },
+        { "tag": "△注意", "text": "間接話法で S say to A that ... とするのは一般的ではない。" }
+      ],
+      "solution": [
+        { "text": "直接話法の伝達動詞が said to her なので、間接話法の伝達動詞は told her that ... にする。" },
+        { "text": "人称代名詞 You は she に、時制の一致を適用して、助動詞は may を might に変える。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1306,
+      "id": "16-142-q-521",
+      "type": "question",
+      "section_id": "142",
+      "number": "521",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "(a) My mother said to me, \"Don't talk to wolves in the woods.\"\n(b) My mother told ( ) in the woods.",
+      "options": [
+        "① me to speak not wolves",
+        "② not to me talk to wolves",
+        "③ me not to talk to wolves",
+        "④ to me not to speak wolves"
+      ],
+      "ja": "(a) 「森でオオカミに話しかけてはいけません」と母は私に言った。(b) 森でオオカミに話しかけないように母は私に言った。",
+      "answer": "③",
+      "source_univ": "北里大"
+    },
+    {
+      "order": 1307,
+      "id": "16-142-e-521",
+      "type": "explanation",
+      "target_q": "16-142-q-521",
+      "title": "命令文の話法の転換",
+      "label": "◆命令文の話法の転換",
+      "content": [
+        { "text": "命令文の話法の転換では、直接話法を間接話法に変えるときには、伝達動詞 tell に to 不定詞を続けて命令の内容を表現する。" },
+        { "tag": "(1)", "label": "命令文のとき", "text": "S say (to A), \"Do ...\" → S tell A to do ... 「S は A に…するように言う」" },
+        { "tag": "(2)", "label": "否定の命令文のとき", "text": "S say (to A), \"Don't do ...\" → S tell A not to do ... 「S は A に…しないように言う」" }
+      ],
+      "solution": [
+        { "text": "Don't から始まる命令文なので、間接話法は S tell A not to do ... を用いる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1308,
+      "id": "16-142-q-522",
+      "type": "question",
+      "section_id": "142",
+      "number": "522",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "(a) He said to us, \"Please don't wait for me if I am late.\"\n(b) He asked us ( ) ( ) wait for him if he was late.",
+      "q_type": "completion",
+      "ja": "(a) 彼は私たちに「もし私が遅れたら私を待たないでください」と言った。(b) 彼は私たちにもし彼が遅れたら待たないようにと言った。",
+      "answer": "not to",
+      "source_univ": "岐阜女子大"
+    },
+    {
+      "order": 1309,
+      "id": "16-142-e-522",
+      "type": "explanation",
+      "target_q": "16-142-q-522",
+      "title": "please がついた命令文の話法の転換",
+      "label": "◆please がついた命令文の話法の転換",
+      "content": [
+        { "text": "please がついた命令文の話法の転換では、直接話法を間接話法に替えるときには、伝達動詞に〈依頼〉を表す ask を使い、to 不定詞で依頼の内容を表現する。" },
+        { "tag": "(1)", "label": "肯定の依頼", "text": "S say (to A), \"Please do ...\" → S ask A to do ... 「S は A に…してくださいと言う」" },
+        { "tag": "(2)", "label": "否定の依頼", "text": "S say (to A), \"Please don't do ...\" → S ask A not to do ... 「S は A に…しないでくださいと言う」" }
+      ],
+      "solution": [
+        { "text": "Please don't から始まる否定の依頼を表す命令文なので、間接話法は S ask A not to do ... を用いる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1310,
+      "id": "16-142-q-523",
+      "type": "question",
+      "section_id": "142",
+      "number": "523",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "(a) He said to us, \"Let's go for a drive.\"\n(b) He ( ) that ( ) ( ) go for a drive.",
+      "q_type": "completion",
+      "ja": "(a) 「ドライブに行こう」と彼は私たちに言った。(b) 私たちがドライブに行くことを彼は提案した。",
+      "answer": "suggested[proposed], we should",
+      "source_univ": "大阪教育大"
+    },
+    {
+      "order": 1311,
+      "id": "16-142-e-523",
+      "type": "explanation",
+      "target_q": "16-142-q-523",
+      "title": "勧誘や提案を表す文の話法の転換",
+      "label": "◆勧誘や提案を表す文の話法の転換",
+      "content": [
+        { "text": "勧誘や提案を表す Let's do .... や、Shall we do ...? を用いた文を間接話法にすると、伝達動詞には〈提案〉を表す suggest [propose] が用いられ、 S suggest [propose] that we (should) do ... となる。" },
+        { "tag": "→", "note": "577" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "go for a drive 「ドライブに出かける」" }
+      ]
+    },
+    {
+      "order": 1312,
+      "id": "16-142-q-524",
+      "type": "question",
+      "section_id": "142",
+      "number": "524",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "(a) He said to me, \"Are you busy?\"\n(b) He ( ) me ( ) ( ) ( ) busy.",
+      "q_type": "completion",
+      "ja": "(a) 彼は、「忙しいですか」と私に言った。(b) 彼は、忙しいかどうか私に尋ねた。",
+      "answer": "asked, if[whether] I was",
+      "source_univ": "愛媛大"
+    },
+    {
+      "order": 1313,
+      "id": "16-142-e-524",
+      "type": "explanation",
+      "target_q": "16-142-q-524",
+      "title": "疑問詞のない疑問文の話法の転換 ― 疑問詞のない疑問文",
+      "label": "◆疑問詞のない疑問文の話法の転換",
+      "content": [
+        { "text": "疑問詞のない疑問文を間接話法にすると、 〈S ask A if [whether] ...〉 「S は A に…かどうか尋ねる」 となる。 whether / if は 「…かどうか」 という意味の接続詞。" },
+        { "tag": "→", "note": "274, 275" },
+        { "text": "if [whether] 節内は平叙文の語順になる。" }
+      ],
+      "solution": [
+        { "text": "疑問詞のない疑問文なので He asked me if [whether] ... とする。人称代名詞 you は I に、時制は 「時制の一致」 を適用して、 are を was に変える。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1314,
+      "id": "16-142-q-525",
+      "type": "question",
+      "section_id": "142",
+      "number": "525",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "(a) He said to me, \"Where does she live?\"\n(b) He ( ) me ( ) she ( ).",
+      "q_type": "completion",
+      "ja": "(a) 彼は、「彼女はどこに住んでいますか」と私に言った。(b) 彼は、彼女がどこに住んでいるのか私に尋ねた。",
+      "answer": "asked, where, lived",
+      "source_univ": "大阪教育大"
+    },
+    {
+      "order": 1315,
+      "id": "16-142-e-525",
+      "type": "explanation",
+      "target_q": "16-142-q-525",
+      "title": "疑問詞のある疑問文の話法の転換 ― 疑問詞のある疑問文",
+      "label": "◆疑問詞のある疑問文の話法の転換",
+      "content": [
+        { "text": "疑問詞のある疑問文を間接話法にすると、 〈S ask A + 疑問詞 ...〉 「S は A に…かと尋ねる」 となる。疑問詞節内は平叙文の語順になる。" }
+      ],
+      "solution": [
+        { "text": "疑問詞のある疑問文なので He asked me where ... とする。時制は 「時制の一致」 を適用して、 live を lived に変える。" }
+      ],
+      "appendix": []
+    }
+  ]
+}

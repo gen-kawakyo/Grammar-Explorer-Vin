@@ -1,0 +1,739 @@
+{
+  "metadata": {
+    "source": "vin4",
+    "field": "grammar",
+    "chapter_id": "06",
+    "chapter_title": "動名詞"
+  },
+  "items": [
+    {
+      "order": 410,
+      "type": "section_header",
+      "section_id": "053",
+      "title": "動名詞の基本用法"
+    },
+    {
+      "order": 411,
+      "id": "06-053-c-017",
+      "type": "confirmation_box",
+      "target_s": "053",
+      "number": "017",
+      "title": "動名詞の基本用法",
+      "content": [
+        { "text": "動名詞 doing 「…すること」は名詞と同じような働きをし、(1) 主語、(2) 補語、(3) 他動詞の目的語、(4) 前置詞の目的語になる。" },
+        { "tag": "(1)", "label": "主語", "text": "→ 155" },
+        { "tag": "(2)", "label": "補語", "en": "My hobby is collecting old foreign stamps.", "ja": "「私の趣味は古い海外の切手を集めることだ」", "text": "collecting ... が文の補語（C）になっている。" },
+        { "tag": "(3)", "label": "他動詞の目的語", "text": "→ 155, 158" },
+        { "tag": "(4)", "label": "前置詞の目的語", "text": "→ 156, 157" }
+      ]
+    },
+    {
+      "order": 412,
+      "id": "06-053-q-155",
+      "type": "question",
+      "section_id": "053",
+      "number": "155",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "(for / the bus / missing / half / waiting / means) an hour.",
+      "q_type": "ordering",
+      "ja": "そのバスに乗り遅れると30分待つことになる。",
+      "answer": "Missing the bus means waiting for half",
+      "source_univ": "拓殖大"
+    },
+    {
+      "order": 413,
+      "id": "06-053-e-155",
+      "type": "explanation",
+      "target_q": "06-053-q-155",
+      "title": "missing, waiting の2つが動名詞",
+      "label": "◆動名詞―主語、他動詞の目的語",
+      "content": [
+        { "text": "missing と waiting が動名詞。動詞 means でこの2つをつないで、missing means waiting 「逃す（乗り遅れる）ことは待つことを意味する」という文の骨格を作る。" }
+      ],
+      "solution": [
+        { "text": "missing the bus 「そのバスに乗り遅れること」を主語に、waiting for half an hour 「30分待つこと」を他動詞 means の目的語として文を完成させる。" },
+        { "text": "動名詞（句）が主語になる場合は三人称単数扱いをする。よって述語動詞は means となる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 414,
+      "id": "06-053-q-156",
+      "type": "question",
+      "section_id": "053",
+      "number": "156",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "He is fond of ( ) soccer.",
+      "options": ["① to play", "② play", "③ playing", "④ played"],
+      "ja": "彼はサッカーをするのが好きだ。",
+      "answer": "③",
+      "source_univ": "駒澤大"
+    },
+    {
+      "order": 415,
+      "id": "06-053-e-156",
+      "type": "explanation",
+      "target_q": "06-053-q-156",
+      "title": "前置詞のあとには名詞の働きをする語句がくる",
+      "label": "◆動名詞―前置詞の目的語",
+      "content": [
+        { "text": "前置詞のあとには名詞の働きをする語句が来るのが原則。前置詞 of の目的語に用いられるのは、動名詞 ③ playing だけ。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "不定詞 ① to play は前置詞の目的語になれない。", "note": "→ まずは確認 012 (p.068)" }
+      ]
+    },
+    {
+      "order": 416,
+      "id": "06-053-q-157",
+      "type": "question",
+      "section_id": "053",
+      "number": "157",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "When I had dinner with Tom, I got angry at ( ) on his cell phone throughout the meal.",
+      "options": ["① he talks", "② he talked", "③ his talking", "④ he talking"],
+      "ja": "トムと食事をしたとき、その間ずっと彼が携帯電話で話していたことに私は腹を立てた。",
+      "answer": "③",
+      "source_univ": "大東文化大"
+    },
+    {
+      "order": 417,
+      "id": "06-053-e-157",
+      "type": "explanation",
+      "target_q": "06-053-q-157",
+      "title": "動名詞が表す行為の主語を所有格で表す",
+      "label": "◆動名詞の意味上の主語",
+      "content": [
+        { "text": "動名詞の意味上の主語は、名詞や代名詞の所有格あるいは目的格で表し、動名詞の前に置く。" }
+      ],
+      "solution": [
+        { "text": "前置詞 at の目的語になれるのは、③ his talking 「彼が話すこと」だけ。所有格 his は動名詞 talking の意味上の主語。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "前置詞のあとに文（SV）を続けることはできないので ① he talks と ② he talked は不可。動名詞の意味上の主語を主格で表すことはできないので ④ he talking は不可。" }
+      ]
+    },
+    {
+      "order": 418,
+      "id": "06-053-q-158",
+      "type": "question",
+      "section_id": "053",
+      "number": "158",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "Her expression shows that she (child / like / treated / dislikes / being / a).",
+      "q_type": "ordering",
+      "ja": "彼女の表情から、彼女は子ども扱いされるのが嫌いなのだとわかる。",
+      "answer": "dislikes being treated like a child",
+      "source_univ": "活水女子大"
+    },
+    {
+      "order": 419,
+      "id": "06-053-e-158",
+      "type": "explanation",
+      "target_q": "06-053-q-158",
+      "title": "「子ども扱いされる」は受動態",
+      "label": "◆受動態の動名詞 (being done)",
+      "content": [
+        { "text": "受動態の動名詞は being done 「…されること」という形になる。" }
+      ],
+      "solution": [
+        { "text": "dislike 「…を嫌う」は動名詞を目的語にとる (→ Section 143 (p.239))。dislike の目的語として「子ども扱いされること」を動名詞で表して続ける。" },
+        { "text": "「子ども扱いされること＝子どものように扱われること」と考え、受動態の動名詞で表し、being treated like a child とする。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 420,
+      "id": "06-053-q-159",
+      "type": "question",
+      "section_id": "053",
+      "number": "159",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "彼は20年前に有名な俳優だったことを誇りにしている。\nHe is proud (been / proud / 20 years ago / having / of / is / he / a well-known actor).",
+      "q_type": "ordering",
+      "ja": "彼は20年前に有名な俳優だったことを誇りにしている。",
+      "answer": "of having been a well-known actor 20 years ago",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 421,
+      "id": "06-053-e-159",
+      "type": "explanation",
+      "target_q": "06-053-q-159",
+      "title": "2つの出来事の時間のずれを表す",
+      "label": "◆完了動名詞 (having done)",
+      "content": [
+        { "text": "述語動詞が表す時よりも前のことを動名詞で表すときは having done を用いる。この形は「完了動名詞」と呼ばれる。" }
+      ],
+      "solution": [
+        { "text": "「誇りにしている（現在）」と「20年前に有名な俳優だった（過去）」とは、時がずれていることに注目。述語動詞 is よりも前のことなので完了動名詞 having been で表す。" },
+        { "tag": "≒", "en": "He is proud that he was a well-known actor 20 years ago." }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 422,
+      "id": "06-053-q-160",
+      "type": "question",
+      "section_id": "053",
+      "number": "160",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "I am ashamed ( ) kind to the old woman on the train.",
+      "options": ["① not of having been", "② of having been not", "③ of having not been", "④ of not having been"],
+      "ja": "電車の中で、老婦人に親切にしなかったことを私は恥じている。",
+      "answer": "④",
+      "source_univ": "日本女子大"
+    },
+    {
+      "order": 423,
+      "id": "06-053-e-160",
+      "type": "explanation",
+      "target_q": "06-053-q-160",
+      "title": "「…しなかったこと」",
+      "label": "◆動名詞の否定形 (not doing / not having done)",
+      "content": [
+        { "text": "動名詞の否定形は、動名詞の直前に not や never を置き、not doing 「…しないこと」 / not having done 「…しなかったこと」という語順になる。" }
+      ],
+      "solution": [
+        { "text": "④ of not having been が正しい語順。「恥じている（現在）」と「親切にしなかった（過去）」とは、時がずれていることから完了動名詞となっていることを確認しよう。 → 159" },
+        { "tag": "≒", "en": "I am ashamed that I was not kind to the old woman on the train." }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 424,
+      "type": "section_header",
+      "section_id": "054",
+      "title": "「…してもむだである」の表現"
+    },
+    {
+      "order": 425,
+      "id": "06-054-q-161",
+      "type": "question",
+      "section_id": "054",
+      "number": "161",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "彼女にそれをするなと言ってもむだである。（1語不要）\nIt is (do / to / use / no / telling / useless / not / her) it.",
+      "q_type": "ordering",
+      "ja": "彼女にそれをするなと言ってもむだである。",
+      "answer": "no use telling her not to do",
+      "source_univ": "摂南大"
+    },
+    {
+      "order": 426,
+      "id": "06-054-e-161",
+      "type": "explanation",
+      "target_q": "06-054-q-161",
+      "title": "",
+      "label": "◆It is no use [good] doing 「…してもむだである」",
+      "content": [],
+      "solution": [
+        { "text": "「彼女にそれをするなと言う」は tell A not to do 「A に…しないように言う」を用いて表し、「言ってもむだである」は It is no use doing を用いて表す。" },
+        { "text": "与えられた日本語を useless を使って表すと、It is useless to tell her not to do it. となる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 427,
+      "id": "06-054-q-162",
+      "type": "question",
+      "section_id": "054",
+      "number": "162",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The line is dead. There is no use ( ) to use the phone.",
+      "options": ["① trying", "② be trying", "③ to try", "④ have to try"],
+      "ja": "回線が切れている。電話を使おうとしてもむだだよ。",
+      "answer": "①",
+      "source_univ": "福島大"
+    },
+    {
+      "order": 428,
+      "id": "06-054-e-162",
+      "type": "explanation",
+      "target_q": "06-054-q-162",
+      "title": "",
+      "label": "◆There is no use [point / sense / good] (in) doing 「…してもむだである」",
+      "content": [],
+      "solution": [
+        { "text": "この表現は動名詞の前に in が入ることもある。本問は前置詞 in を省略したパターン。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 429,
+      "id": "06-054-q-163",
+      "type": "question",
+      "section_id": "054",
+      "number": "163",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "There is no point ( ) an expensive personal computer if you never use it.",
+      "options": ["① with having", "② to have", "③ in having", "④ for having"],
+      "ja": "使うことがまったくないのなら、高価なパソコンを持っていてもむだである。",
+      "answer": "③",
+      "source_univ": "九州産業大"
+    },
+    {
+      "order": 430,
+      "id": "06-054-e-163",
+      "type": "explanation",
+      "target_q": "06-054-q-163",
+      "title": "",
+      "label": "◆There is no point [use / sense / good] (in) doing 「…してもむだである」",
+      "content": [],
+      "solution": [
+        { "text": "本問は前置詞 in を省略しないパターン。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 431,
+      "type": "section_header",
+      "section_id": "055",
+      "title": "前置詞 to のあとに動名詞を続ける表現"
+    },
+    {
+      "order": 432,
+      "id": "06-055-q-164",
+      "type": "question",
+      "section_id": "055",
+      "number": "164",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "I look forward to (see) you in Japan sometime soon.",
+      "q_type": "error_correction",
+      "ja": "近いうちに日本であなたに会えるのを楽しみに待っています。",
+      "answer": "see → seeing",
+      "source_univ": "神奈川大"
+    },
+    {
+      "order": 433,
+      "id": "06-055-e-164",
+      "type": "explanation",
+      "target_q": "06-055-q-164",
+      "title": "",
+      "label": "◆look forward to A / doing 「A を／…することを楽しみに待つ」",
+      "content": [
+        { "text": "前置詞 to の目的語に名詞や動名詞を用いる表現では、前置詞 to の後ろに動詞の原形を続けて to do としてしまう誤りに注意。" }
+      ],
+      "solution": [
+        { "text": "look forward to の前置詞 to のあとには動名詞が続く。 ② to see を to seeing に訂正。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "④ の sometime soon は「近いうちに／近々」という意味。sometimes 「ときどき」と混同しないように注意。" }
+      ]
+    },
+    {
+      "order": 434,
+      "id": "06-055-q-165",
+      "type": "question",
+      "section_id": "055",
+      "number": "165",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "She is not used to ( ) formal letters.",
+      "options": ["① write", "② writing", "③ writes", "④ written"],
+      "ja": "彼女は公式な手紙を書くことに慣れていない。",
+      "answer": "②",
+      "source_univ": "名古屋工業大"
+    },
+    {
+      "order": 435,
+      "id": "06-055-e-165",
+      "type": "explanation",
+      "target_q": "06-055-q-165",
+      "title": "",
+      "label": "◆be used [accustomed] to A / doing 「A に／…することに慣れている」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "△注意", "text": "used to do 「（以前は）よく…したものだ／（以前は）…だった（が今は…ではない）」や be used to do 「…するために使われる」との違いについては 整理して覚える 005 (p.047) を参照。" }
+      ]
+    },
+    {
+      "order": 436,
+      "id": "06-055-q-166",
+      "type": "question",
+      "section_id": "055",
+      "number": "166",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "私は人前で話すのには不慣れです。（1語不要）\nI'm (in / not / public / speaking / to / accustomed / speak).",
+      "q_type": "ordering",
+      "ja": "私は人前で話すのには不慣れです。",
+      "answer": "not accustomed to speaking in public",
+      "source_univ": "立正大"
+    },
+    {
+      "order": 437,
+      "id": "06-055-e-166",
+      "type": "explanation",
+      "target_q": "06-055-q-166",
+      "title": "",
+      "label": "◆be accustomed [used] to A / doing 「A に／…することに慣れている」",
+      "content": [],
+      "solution": [
+        { "text": "be accustomed to のあとには動名詞が続くので、be accustomed to speaking となる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 438,
+      "id": "06-055-q-167",
+      "type": "question",
+      "section_id": "055",
+      "number": "167",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "She did not object ( ) late at night.",
+      "options": ["① me work", "② to me work", "③ to my working", "④ my working"],
+      "ja": "彼女は、私が夜遅くまで働くことに反対しなかった。",
+      "answer": "③",
+      "source_univ": "芝浦工業大"
+    },
+    {
+      "order": 439,
+      "id": "06-055-e-167",
+      "type": "explanation",
+      "target_q": "06-055-q-167",
+      "title": "",
+      "label": "◆object to A / doing 「A に／…することに反対する」",
+      "content": [],
+      "solution": [
+        { "text": "to doing の形になる ③ が正解。my は動名詞 working の意味上の主語。 → 157" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 440,
+      "id": "06-055-q-168",
+      "type": "question",
+      "section_id": "055",
+      "number": "168",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "When it comes ( ), John is definitely the best in class.",
+      "options": ["① for run", "② for running", "③ to run", "④ to running"],
+      "ja": "走ることとなると、ジョンは間違いなくクラスで一番だ。",
+      "answer": "④",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 441,
+      "id": "06-055-e-168",
+      "type": "explanation",
+      "target_q": "06-055-q-168",
+      "title": "",
+      "label": "◆when it comes to A / doing 「（話題が）A に／…することになると」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "△注意", "text": "when it comes to A / doing で過去のことについて言及する場合は、when it came to A / doing となる点に注意せよ。\nWhen it came to running, John was definitely the best in class.\n「走ることとなると、ジョンは間違いなくクラスで一番だった」" }
+      ]
+    },
+    {
+      "order": 442,
+      "id": "06-055-q-169",
+      "type": "question",
+      "section_id": "055",
+      "number": "169",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "What do you say ( ) tennis on Sunday?",
+      "options": ["① about play", "② to play", "③ to playing", "④ for playing"],
+      "ja": "日曜日にテニスをしませんか。",
+      "answer": "③",
+      "source_univ": "埼玉医科大"
+    },
+    {
+      "order": 443,
+      "id": "06-055-e-169",
+      "type": "explanation",
+      "target_q": "06-055-q-169",
+      "title": "",
+      "label": "◆What do you say to A / doing ? 「（誘って）A はどうですか／…しませんか」",
+      "content": [],
+      "solution": [
+        { "text": "How about A / doing ? や What about A / doing ? でも同じ意味を表すことができる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 444,
+      "type": "section_header",
+      "section_id": "056",
+      "title": "(in) doing を用いる表現"
+    },
+    {
+      "order": 445,
+      "id": "06-056-q-170",
+      "type": "question",
+      "section_id": "056",
+      "number": "170",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "He (all / answering / difficulty / had / questions / the) asked by the students.",
+      "q_type": "ordering",
+      "ja": "彼は学生の質問すべてに答えるのに苦労した。",
+      "answer": "had difficulty answering all the questions",
+      "source_univ": "京都女子大"
+    },
+    {
+      "order": 446,
+      "id": "06-056-e-170",
+      "type": "explanation",
+      "target_q": "06-056-q-170",
+      "title": "",
+      "label": "◆have difficulty [trouble] (in) doing 「…するのに苦労する」",
+      "content": [],
+      "solution": [
+        { "text": "all the questions 「質問すべて」の語順に注意。(×) the all questions の語順は不可。", "note": "→ しっかり理解 024 (p.315)" },
+        { "text": "asked by the students は過去分詞句で、questions を後ろから修飾している。", "note": "→ 182" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 447,
+      "id": "06-056-q-171",
+      "type": "question",
+      "section_id": "056",
+      "number": "171",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "People often have great ( ) my handwriting.",
+      "options": ["① reading to trouble", "② reading trouble", "③ trouble reading", "④ trouble to read"],
+      "ja": "人々は私の手書きの字を読むのにしばしば四苦八苦している。",
+      "answer": "③",
+      "source_univ": "明星大"
+    },
+    {
+      "order": 448,
+      "id": "06-056-e-171",
+      "type": "explanation",
+      "target_q": "06-056-q-171",
+      "title": "",
+      "label": "◆have trouble [difficulty] (in) doing 「…するのに苦労する」",
+      "content": [],
+      "solution": [
+        { "text": "この表現の trouble と difficulty は不可算名詞で、本問のように、苦労の度合いを示すために直前に great / a lot of / a little / little / no などの形容詞が入る場合も多い。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 449,
+      "id": "06-056-q-172",
+      "type": "question",
+      "section_id": "056",
+      "number": "172",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "They are very busy ( ) their homework, aren't they?",
+      "options": ["① doing", "② to do", "③ to doing", "④ being done"],
+      "ja": "彼らは宿題を片付けるのに大忙しですね。",
+      "answer": "①",
+      "source_univ": "芝浦工業大"
+    },
+    {
+      "order": 450,
+      "id": "06-056-e-172",
+      "type": "explanation",
+      "target_q": "06-056-q-172",
+      "title": "",
+      "label": "◆be busy (in) doing 「…するのに忙しい」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "プラス", "text": "be busy with A 「A で忙しい」という表現もある。本問は They are very busy with their homework としてもよい。" }
+      ]
+    },
+    {
+      "order": 451,
+      "id": "06-056-q-173",
+      "type": "question",
+      "section_id": "056",
+      "number": "173",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I usually (hours / my / doing / spend / two / homework).",
+      "q_type": "ordering",
+      "ja": "私はいつも宿題をするのに2時間を費やす。",
+      "answer": "spend two hours doing my homework",
+      "source_univ": "駒澤大"
+    },
+    {
+      "order": 452,
+      "id": "06-056-e-173",
+      "type": "explanation",
+      "target_q": "06-056-q-173",
+      "title": "目的語に時間表現が来る",
+      "label": "◆spend A (in) doing 「…するのに A（時間）を使う」",
+      "content": [],
+      "solution": [
+        { "text": "spend A (in) doing は「時間を使う」ことを表す表現で、目的語 A の部分には時間を表す表現が来ることに注意。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 453,
+      "type": "section_header",
+      "section_id": "057",
+      "title": "その他の動名詞を用いた表現"
+    },
+    {
+      "order": 454,
+      "id": "06-057-q-174",
+      "type": "question",
+      "section_id": "057",
+      "number": "174",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "There is ( ) when John will show up.",
+      "options": ["① telling not", "② no telling", "③ not telling", "④ not to tell"],
+      "ja": "いつジョンが現れるかわからない。（←いつジョンが現れるかを判断することはできない。）",
+      "answer": "②",
+      "source_univ": "中央大"
+    },
+    {
+      "order": 455,
+      "id": "06-057-e-174",
+      "type": "explanation",
+      "target_q": "06-057-q-174",
+      "title": "",
+      "label": "◆There is no doing 「…できない」",
+      "content": [
+        { "tag": "≒", "text": "It is impossible to do / You [We] cannot do / No one can do" }
+      ],
+      "solution": [
+        { "text": "本問は It is impossible to tell when John will show up. と書きかえられる。when John will show up は tell の目的語になっている。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 456,
+      "id": "06-057-q-175",
+      "type": "question",
+      "section_id": "057",
+      "number": "175",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "It (for / smoking / saying / goes / bad / without / is / that) one's health.",
+      "q_type": "ordering",
+      "ja": "喫煙が健康に悪いことは言うまでもない。",
+      "answer": "goes without saying that smoking is bad for",
+      "source_univ": "東洋大"
+    },
+    {
+      "order": 457,
+      "id": "06-057-e-175",
+      "type": "explanation",
+      "target_q": "06-057-q-175",
+      "title": "",
+      "label": "◆It goes without saying that SV … 「…は言うまでもない」",
+      "content": [
+        { "tag": "≒", "text": "Needless to say, SV …", "note": "→ 151" }
+      ],
+      "solution": [
+        { "text": "本問は Needless to say, smoking is ... と書きかえられる。", "note": "→ 151" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 458,
+      "id": "06-057-q-176",
+      "type": "question",
+      "section_id": "057",
+      "number": "176",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "She didn't mean to make him feel like ( ).",
+      "options": ["① cried", "② cry", "③ crying", "④ to cry"],
+      "ja": "彼女は、彼を泣きたい気分にさせるつもりはなかった。",
+      "answer": "③",
+      "source_univ": "立命館大"
+    },
+    {
+      "order": 459,
+      "id": "06-057-e-176",
+      "type": "explanation",
+      "target_q": "06-057-q-176",
+      "title": "",
+      "label": "◆feel like doing 「…したい気がする」",
+      "content": [
+        { "tag": "≒", "text": "feel inclined to do / want to do / would like to do" }
+      ],
+      "solution": [
+        { "text": "本問は … to make him feel inclined to cry. と書きかえられる。make him feel like … は make A do 「A に … させる」を用いた表現。", "note": "→ 555" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 460,
+      "id": "06-057-q-177",
+      "type": "question",
+      "section_id": "057",
+      "number": "177",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "( ), she smiled quietly to herself.",
+      "options": ["① On hearing the news", "② To hearing the news", "③ With the news hearing", "④ Of hearing the news"],
+      "ja": "そのニュースを聞くとすぐに、彼女はひとり静かに笑った。",
+      "answer": "①",
+      "source_univ": "福岡大"
+    },
+    {
+      "order": 461,
+      "id": "06-057-e-177",
+      "type": "explanation",
+      "target_q": "06-057-q-177",
+      "title": "",
+      "label": "◆on doing 「…するとすぐに」",
+      "content": [
+        { "tag": "≒", "text": "as soon as SV …", "note": "→ 283" }
+      ],
+      "solution": [
+        { "text": "本問は As soon as she heard the news, … と書きかえられる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 462,
+      "id": "06-057-q-178",
+      "type": "question",
+      "section_id": "057",
+      "number": "178",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) trying to make a decision, it is important to keep a proper sense of priority.",
+      "options": ["① At", "② By", "③ During", "④ In"],
+      "ja": "決断をしようとするときには、何を優先すべきかの正しい感覚を保つことが重要だ。",
+      "answer": "④",
+      "source_univ": "青山学院大"
+    },
+    {
+      "order": 463,
+      "id": "06-057-e-178",
+      "type": "explanation",
+      "target_q": "06-057-q-178",
+      "title": "",
+      "label": "◆in doing 「…するときは」",
+      "content": [
+        { "tag": "≒", "text": "when SV …", "note": "→ 276" }
+      ],
+      "solution": [
+        { "text": "本問は When you [we] try to make a decision … と書きかえられる。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "③ の前置詞 during に動名詞を続けて (×) during doing … とは言えないことに注意せよ。", "note": "→ しっかり理解 016 (p.159)" }
+      ]
+    }
+  ]
+}
