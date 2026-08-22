@@ -102,6 +102,14 @@
             border-radius: 6px;
         }
 
+        .reading-writing-box {
+            background: #F5F3FF;
+            border: 1px solid #DDD6FE;
+            padding: 1rem;
+            margin: 1.5rem 0;
+            border-radius: 8px;
+        }
+
         .eng-text { font-family: 'Times New Roman', serif; font-size: 1.05rem; font-weight: 500; color: #1E293B; line-height: 1.4; }
         .ja-text { font-size: 0.85rem; color: #64748B; line-height: 1.4; }
         .supp-text { font-size: 12px; font-weight: 700; color: #475569; }
@@ -660,7 +668,7 @@
                     // Tab filter
                     if (currentTab === 'question' && i.type !== 'question') return false;
                     if (currentTab === 'explanation' && i.type !== 'explanation') return false;
-                    if (currentTab === 'summary' && !['summary_box', 'grammar_term', 'deep_dive', 'confirmation_box'].includes(i.type)) return false;
+                    if (currentTab === 'summary' && !['summary_box', 'grammar_term', 'deep_dive', 'confirmation_box', 'for_reading_and_writing'].includes(i.type)) return false;
 
                     if (search) {
                         const text = JSON.stringify(i).toLowerCase();
@@ -677,7 +685,7 @@
                     // Tab filter
                     if (currentTab === 'question' && i.type !== 'question') return false;
                     if (currentTab === 'explanation' && i.type !== 'explanation') return false;
-                    if (currentTab === 'summary' && !['summary_box', 'grammar_term', 'deep_dive', 'confirmation_box'].includes(i.type)) return false;
+                    if (currentTab === 'summary' && !['summary_box', 'grammar_term', 'deep_dive', 'confirmation_box', 'for_reading_and_writing'].includes(i.type)) return false;
 
                     if (search) {
                         const text = JSON.stringify(i).toLowerCase();
@@ -705,7 +713,7 @@
                         const expl = filtered.find(e => e.type === 'explanation' && e.target_q === q.id);
                         if (expl) displayList.push(expl);
                     });
-                    const others = filtered.filter(i => ['summary_box', 'grammar_term', 'deep_dive', 'confirmation_box'].includes(i.type));
+                    const others = filtered.filter(i => ['summary_box', 'grammar_term', 'deep_dive', 'confirmation_box', 'for_reading_and_writing'].includes(i.type));
                     displayList.push(...others);
                 } else {
                     displayList.push(...filtered.filter(i => i.type !== 'section_header'));
@@ -765,7 +773,9 @@
                                 <div class="flex justify-between items-center mb-1">
                                     <div class="flex gap-1">
                                         ${item.label ? `<span class="tb-tag">${item.label}</span>` : ''}
-                                        ${item.is_basic ? `<span class="tb-tag text-blue-500">基本</span>` : ''}
+                                        ${(item.level === 'basic' || item.is_basic) ? `<span class="tb-tag text-blue-500">基本</span>` : ''}
+                                        ${item.level === 'advanced' ? `<span class="tb-tag text-red-500">発展</span>` : ''}
+                                        ${item.is_frequent ? `<span class="tb-tag text-red-500">FREQ</span>` : ''}
                                     </div>
                                     <button onclick="jumpToExplanationPopup('${item.id}', event)" class="jump-btn to-expl"><i data-lucide="help-circle" class="w-3 h-3"></i> 解説</button>
                                 </div>
@@ -805,28 +815,41 @@
                         ${renderDetails(item, ['term'])}
                     </div>`;
                     break;
+                case 'for_reading_and_writing':
                 case 'deep_dive':
                 case 'summary_box':
                 case 'confirmation_box':
-                    let boxColorClass = item.type === 'deep_dive' ? 'deep-dive' : (item.type === 'confirmation_box' ? 'check-box' : 'summary-box');
+                    let boxColorClass = 'summary-box';
                     let boxIcon = 'layers';
                     let boxIconClass = 'bg-slate-700 shadow-slate-100';
-                    if (item.type === 'deep_dive') {
+                    let badgeLabel = '';
+
+                    if (item.type === 'for_reading_and_writing') {
+                        boxColorClass = 'reading-writing-box';
+                        boxIcon = 'pen-tool';
+                        boxIconClass = 'bg-indigo-700 shadow-indigo-100';
+                        badgeLabel = '読解・英作文';
+                    } else if (item.type === 'deep_dive') {
+                        boxColorClass = 'deep-dive';
                         boxIcon = 'zoom-in';
                         boxIconClass = 'bg-teal-700 shadow-teal-100';
                     } else if (item.type === 'confirmation_box') {
+                        boxColorClass = 'check-box';
                         boxIcon = 'check-square';
                         boxIconClass = 'bg-rose-700 shadow-rose-100';
                     }
 
                     // Enlarged box index details mapping text-[11px] -> text-sm
                     html = `<div class="${boxColorClass}">
-                        <div class="flex items-center gap-2 mb-2">
-                            <div class="w-6 h-6 ${boxIconClass} text-white rounded flex items-center justify-center shrink-0">
-                                <i data-lucide="${boxIcon}" class="w-3.5 h-3.5"></i>
+                        <div class="flex items-center justify-between mb-2">
+                            <div class="flex items-center gap-2">
+                                <div class="w-6 h-6 ${boxIconClass} text-white rounded flex items-center justify-center shrink-0">
+                                    <i data-lucide="${boxIcon}" class="w-3.5 h-3.5"></i>
+                                </div>
+                                ${item.number ? `<span class="font-mono text-sm font-black bg-slate-100 text-slate-800 px-2.5 py-0.5 rounded shrink-0">${item.number}</span>` : ''}
+                                <h4 class="serif font-black text-slate-800 tracking-tight text-sm">${item.title || ''}</h4>
                             </div>
-                            ${item.number ? `<span class="font-mono text-sm font-black bg-slate-100 text-slate-800 px-2.5 py-0.5 rounded shrink-0">${item.number}</span>` : ''}
-                            <h4 class="serif font-black text-slate-800 tracking-tight text-sm">${item.title || ''}</h4>
+                            ${badgeLabel ? `<span class="text-[9px] font-black text-indigo-700 bg-indigo-100/80 px-2 py-0.5 rounded uppercase tracking-wider">${badgeLabel}</span>` : ''}
                         </div>
                         ${renderDetails(item, ['title'])}
                     </div>`;
