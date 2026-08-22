@@ -319,6 +319,11 @@
                     try {
                         const parsed = JSON.parse(re.target.result);
                         const fileItems = parsed.entries || parsed.items || parsed.nodes || [];
+                        if (parsed.metadata && parsed.metadata.chapter_id) {
+                            fileItems.forEach(it => {
+                                if (!it.chapter_id) it.chapter_id = parsed.metadata.chapter_id;
+                            });
+                        }
                         mergedItems.push(...fileItems);
                         if (parsed.metadata) {
                             mergedMetadata = Object.assign(mergedMetadata, parsed.metadata);
@@ -443,6 +448,9 @@
                         const fileItems = d.entries || d.items || d.nodes || [];
                         fileItems.forEach(item => {
                             item.chapter_num = num;
+                            if (d.metadata && d.metadata.chapter_id) {
+                                item.chapter_id = d.metadata.chapter_id;
+                            }
                         });
                         mergedItems.push(...fileItems);
                         if (d.metadata) {
@@ -458,8 +466,8 @@
 
                     rawData = {
                         metadata: {
-                            chapter_id: nums.length > 1 ? `合体` : lastMeta.chapter_id,
-                            chapter_title: nums.length > 1 ? `${nums.length}章合体中` : lastMeta.chapter_title
+                            chapter_id: nums.length > 1 ? `合体` : (lastMeta.chapter_id || String(nums[0]).padStart(2, '0')),
+                            chapter_title: nums.length > 1 ? `${nums.length}章合体中` : (lastMeta.chapter_title || CHAPTER_TITLES[nums[0]] || `Chapter ${nums[0]}`)
                         },
                         entries: Array.from(uniqueMap.values())
                     };
@@ -533,10 +541,11 @@
             document.getElementById('drop-zone').classList.add('hidden');
             
             const currentCh = activeChapters[0] || 1;
-            const chTitle = CHAPTER_TITLES[currentCh] || 'Dataset';
+            const metaChId = (rawData && rawData.metadata && rawData.metadata.chapter_id) ? rawData.metadata.chapter_id : String(currentCh).padStart(2, '0');
+            const metaChTitle = (rawData && rawData.metadata && rawData.metadata.chapter_title) ? rawData.metadata.chapter_title : (CHAPTER_TITLES[currentCh] || 'Dataset');
             const label = document.getElementById('chapter-label');
             if (label) {
-                label.innerText = `CH ${currentCh} ${chTitle}`;
+                label.innerText = `CH ${metaChId} ${metaChTitle}`;
             }
             
             // Selecting chapters resets any selected section
@@ -590,7 +599,8 @@
 
         function renderOutline(area) {
             const currentCh = activeChapters[0] || 1;
-            const chTitle = CHAPTER_TITLES[currentCh] || 'Dataset';
+            const metaChId = (rawData && rawData.metadata && rawData.metadata.chapter_id) ? rawData.metadata.chapter_id : String(currentCh).padStart(2, '0');
+            const metaChTitle = (rawData && rawData.metadata && rawData.metadata.chapter_title) ? rawData.metadata.chapter_title : (CHAPTER_TITLES[currentCh] || 'Dataset');
             
             const sections = items.filter(i => {
                 if (i.type !== 'section_header') return false;
@@ -618,7 +628,7 @@
                             <div class="text-[12px] font-mono font-black ${selectedSectionId === s.section_id ? 'bg-blue-600 text-white shadow-sm' : 'bg-sky-50 text-sky-900 border border-sky-100/50'} px-2.5 py-0.5 rounded">SEC ${s.section_id}</div>
                             ${qRange ? `<div class="text-[12px] font-mono font-black text-slate-700 uppercase tracking-tight bg-slate-100 border border-slate-200/50 px-1.5 rounded">${qRange}</div>` : ''}
                         </div>
-                        <span class="text-[9px] font-mono font-black text-gray-400 bg-gray-100 px-1.5 py-0.5 rounded">CH ${s.chapter_num || currentCh}</span>
+                        <span class="text-[9px] font-mono font-black text-gray-400 bg-gray-100 px-1.5 py-0.5 rounded">CH ${s.chapter_id || metaChId}</span>
                     </div>
                     <div class="font-bold text-[14px] serif leading-tight text-slate-800">${s.title}</div>
                 </div>
@@ -636,7 +646,7 @@
                 <div class="flex justify-between items-center">
                     <div class="flex items-center gap-2">
                         <i data-lucide="compass" class="w-4 h-4 text-blue-700"></i>
-                        <span class="text-xs font-black text-slate-800 tracking-tight">セクション選択（第${currentCh}章: ${chTitle}）</span>
+                        <span class="text-xs font-black text-slate-800 tracking-tight">セクション選択（CH ${metaChId}: ${metaChTitle}）</span>
                     </div>
                     <span class="bg-white border border-slate-200 text-[9px] font-black px-2 py-0.5 rounded text-slate-500">
                         セクション数: ${sections.length}
@@ -741,11 +751,13 @@
                 `;
             } else if (activeChapters.length > 0) {
                 const count = activeChapters.length;
+                const metaChId = (rawData && rawData.metadata && rawData.metadata.chapter_id) ? rawData.metadata.chapter_id : String(activeChapters[0]).padStart(2, '0');
+                const metaChTitle = (rawData && rawData.metadata && rawData.metadata.chapter_title) ? rawData.metadata.chapter_title : (CHAPTER_TITLES[activeChapters[0]] || 'Dataset');
                 activeFocusBanner = `
                 <div class="mb-4 p-3 bg-slate-50 border border-slate-100 rounded-xl flex items-center justify-between shadow-sm">
                     <div class="flex items-center gap-2">
                         <span class="text-[9px] font-mono font-black bg-slate-800 text-white px-2 py-0.5 rounded">ALL CH FOCUS</span>
-                        <span class="text-xs font-bold text-slate-600">${count === 1 ? `第 ${activeChapters[0]} 章` : `複数章合体中 (${activeChapters.join(', ')} 章)`}</span>
+                        <span class="text-xs font-bold text-slate-600">${count === 1 ? `CH ${metaChId}: ${metaChTitle}` : `複数章合体中 (${activeChapters.join(', ')} 章)`}</span>
                     </div>
                 </div>
                 `;
@@ -775,7 +787,7 @@
                                         ${item.label ? `<span class="tb-tag">${item.label}</span>` : ''}
                                         ${(item.level === 'basic' || item.is_basic) ? `<span class="tb-tag text-blue-500">基本</span>` : ''}
                                         ${item.level === 'advanced' ? `<span class="tb-tag text-red-500">発展</span>` : ''}
-                                        ${item.is_frequent ? `<span class="tb-tag text-red-500">FREQ</span>` : ''}
+                                        ${item.is_frequent ? `<span class="tb-tag text-emerald-600">頻出</span>` : ''}
                                     </div>
                                     <button onclick="jumpToExplanationPopup('${item.id}', event)" class="jump-btn to-expl"><i data-lucide="help-circle" class="w-3 h-3"></i> 解説</button>
                                 </div>
