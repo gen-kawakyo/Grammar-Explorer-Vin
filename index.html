@@ -206,34 +206,23 @@
         </div>
         <div class="flex items-center gap-1.5">
             <select id="ss-selector" onchange="changeTextbook(this.value)" class="text-xs font-black text-slate-700 bg-slate-50 border border-slate-200 px-2 py-1 rounded outline-none cursor-pointer">
-                <option value="1">CH 1</option>
-                <option value="2">CH 2</option>
-                <option value="3">CH 3</option>
-                <option value="4">CH 4</option>
-                <option value="5">CH 5</option>
-                <option value="6">CH 6</option>
-                <option value="7">CH 7</option>
-                <option value="8">CH 8</option>
-                <option value="9">CH 9</option>
-                <option value="10">CH 10</option>
-                <option value="11">CH 11</option>
-                <option value="12">CH 12</option>
-                <option value="13">CH 13</option>
-                <option value="14">CH 14</option>
-                <option value="15">CH 15</option>
-                <option value="16">CH 16</option>
-                <option value="17">CH 17</option>
-                <option value="18">CH 18</option>
-                <option value="19">CH 19</option>
-                <option value="20">CH 20</option>
-                <option value="21">CH 21</option>
-                <option value="22">CH 22</option>
-                <option value="23">CH 23</option>
-                <option value="24">CH 24</option>
-                <option value="25">CH 25</option>
-                <option value="26">CH 26</option>
-                <option value="27">CH 27</option>
-                <option value="28">CH 28</option>
+                <option value="1">CH 01: 時制</option>
+                <option value="2">CH 02: 受動態</option>
+                <option value="3">CH 03: 助動詞</option>
+                <option value="4">CH 04: 仮定法</option>
+                <option value="5">CH 05: 不定詞</option>
+                <option value="6">CH 06: 動名詞</option>
+                <option value="7">CH 07: 分詞</option>
+                <option value="8">CH 08: 関係詞</option>
+                <option value="9">CH 09: 接続詞</option>
+                <option value="10">CH 10: 前置詞</option>
+                <option value="11">CH 11: 比較</option>
+                <option value="12">CH 12: 主語と述語動詞の一致</option>
+                <option value="13">CH 13: 疑問文</option>
+                <option value="14">CH 14: 否定</option>
+                <option value="15">CH 15: 語順（倒置）・省略・強調</option>
+                <option value="16">CH 16: 話法</option>
+                <option value="17">CH 17: 動詞の語法</option>
             </select>
             <div id="chapter-label" class="text-[9px] font-black text-gray-400 bg-gray-50 px-2. py-1 rounded uppercase tracking-wider truncate max-w-[80px]">
                 No Data
@@ -345,58 +334,102 @@
                         };
                         items = rawData.entries || [];
                         
-                        // Treat as manual custom load
-                        activeChapters = [];
+                        if (mergedMetadata && (mergedMetadata.chapter_id || mergedMetadata.chapter_title)) {
+                            const chNum = parseInt(mergedMetadata.chapter_id) || 1;
+                            updateChapterSelectorOption(chNum, mergedMetadata);
+                            activeChapters = [chNum];
+                        } else {
+                            activeChapters = [];
+                        }
                         selectedChaptersToLoad = [];
                         isMultiSelectMode = false;
                         
                         initApp();
+                        updateChapterSelectionUI();
                     }
                 };
                 reader.readAsText(file);
             }
         }
 
-        const CHAPTER_TITLES = {
-            1: "時制",
-            2: "受動態",
-            3: "助動詞",
-            4: "仮定法",
-            5: "不定詞",
-            6: "動名詞",
-            7: "分詞",
-            8: "比較",
-            9: "関係詞",
-            10: "接続詞",
-            11: "前置詞",
-            12: "主語と動詞の一致・話法",
-            13: "否定",
-            14: "疑問・強調・倒置・省略",
-            15: "動詞の語法",
-            16: "形容詞・副詞の語法",
-            17: "名詞・代名詞の語法",
-            18: "動詞を中心とするイディオム",
-            19: "形容詞・副詞を中心とするイディオム",
-            20: "名詞を中心とするイディオム",
-            21: "前置詞を含むイディオム",
-            22: "会話表現",
-            23: "語彙・ボキャブラリー",
-            24: "発音",
-            25: "アクセント",
-            26: "文構造・重要文型",
-            27: "前置詞・群前置詞",
-            28: "総合問題"
+        let chapterMetadataMap = {
+            1: { chapter_id: "01", chapter_title: "時制" },
+            2: { chapter_id: "02", chapter_title: "受動態" },
+            3: { chapter_id: "03", chapter_title: "助動詞" },
+            4: { chapter_id: "04", chapter_title: "仮定法" },
+            5: { chapter_id: "05", chapter_title: "不定詞" },
+            6: { chapter_id: "06", chapter_title: "動名詞" },
+            7: { chapter_id: "07", chapter_title: "分詞" },
+            8: { chapter_id: "08", chapter_title: "関係詞" },
+            9: { chapter_id: "09", chapter_title: "接続詞" },
+            10: { chapter_id: "10", chapter_title: "前置詞" },
+            11: { chapter_id: "11", chapter_title: "比較" },
+            12: { chapter_id: "12", chapter_title: "主語と述語動詞の一致" },
+            13: { chapter_id: "13", chapter_title: "疑問文" },
+            14: { chapter_id: "14", chapter_title: "否定" },
+            15: { chapter_id: "15", chapter_title: "語順（倒置）・省略・強調" },
+            16: { chapter_id: "16", chapter_title: "話法" },
+            17: { chapter_id: "17", chapter_title: "動詞の語法" }
         };
+
+        function updateChapterSelectorOption(num, meta) {
+            const selector = document.getElementById('ss-selector');
+            if (!selector || !meta) return;
+            chapterMetadataMap[num] = meta;
+            const chId = meta.chapter_id !== undefined ? String(meta.chapter_id).padStart(2, '0') : String(num).padStart(2, '0');
+            const chTitle = meta.chapter_title || `Chapter ${num}`;
+            const labelText = `CH ${chId}: ${chTitle}`;
+
+            let opt = selector.querySelector(`option[value="${num}"]`);
+            if (opt) {
+                opt.textContent = labelText;
+            } else {
+                opt = document.createElement('option');
+                opt.value = num;
+                opt.textContent = labelText;
+                let inserted = false;
+                for (let i = 0; i < selector.options.length; i++) {
+                    if (parseInt(selector.options[i].value) > num) {
+                        selector.insertBefore(opt, selector.options[i]);
+                        inserted = true;
+                        break;
+                    }
+                }
+                if (!inserted) selector.appendChild(opt);
+            }
+        }
 
         function populateChapterSelector() {
             const selector = document.getElementById('ss-selector');
             if (!selector) return;
             selector.innerHTML = '';
-            for (let num = 1; num <= 28; num++) {
+            for (let num = 1; num <= 17; num++) {
                 const opt = document.createElement('option');
                 opt.value = num;
-                opt.textContent = `CH ${num}: ${CHAPTER_TITLES[num] || ('Chapter ' + num)}`;
+                const meta = chapterMetadataMap[num];
+                if (meta) {
+                    const chId = meta.chapter_id !== undefined ? String(meta.chapter_id).padStart(2, '0') : String(num).padStart(2, '0');
+                    opt.textContent = `CH ${chId}: ${meta.chapter_title || ('Chapter ' + num)}`;
+                } else {
+                    opt.textContent = `CH ${String(num).padStart(2, '0')}`;
+                }
                 selector.appendChild(opt);
+            }
+        }
+
+        function fetchAllChapterMetadata() {
+            for (let num = 1; num <= 28; num++) {
+                fetch(`textbooks/vin_ch${num}.json`)
+                    .then(res => {
+                        if (res.ok) return res.json();
+                        return null;
+                    })
+                    .then(data => {
+                        if (data && data.metadata) {
+                            updateChapterSelectorOption(num, data.metadata);
+                        }
+                    })
+                    .catch(() => {});
             }
         }
 
@@ -408,6 +441,7 @@
         // Auto-load if default files exist
         window.addEventListener('DOMContentLoaded', () => {
             populateChapterSelector();
+            fetchAllChapterMetadata();
             let ssNum = getQueryParam('ch') || getQueryParam('ss') || '1';
             let chaptersToLoad = [];
             ssNum.split(',').forEach(item => {
@@ -455,6 +489,7 @@
                         mergedItems.push(...fileItems);
                         if (d.metadata) {
                             lastMeta = Object.assign(lastMeta, d.metadata);
+                            updateChapterSelectorOption(num, d.metadata);
                         }
                     });
 
@@ -464,13 +499,13 @@
                         uniqueMap.set(itemId, item);
                     });
 
-                    rawData = {
-                        metadata: {
-                            chapter_id: nums.length > 1 ? `合体` : (lastMeta.chapter_id || String(nums[0]).padStart(2, '0')),
-                            chapter_title: nums.length > 1 ? `${nums.length}章合体中` : (lastMeta.chapter_title || CHAPTER_TITLES[nums[0]] || `Chapter ${nums[0]}`)
-                        },
-                        entries: Array.from(uniqueMap.values())
-                    };
+                        rawData = {
+                            metadata: {
+                                chapter_id: nums.length > 1 ? `合体` : (lastMeta.chapter_id || (chapterMetadataMap[nums[0]] && chapterMetadataMap[nums[0]].chapter_id) || String(nums[0]).padStart(2, '0')),
+                                chapter_title: nums.length > 1 ? `${nums.length}章合体中` : (lastMeta.chapter_title || (chapterMetadataMap[nums[0]] && chapterMetadataMap[nums[0]].chapter_title) || `Chapter ${nums[0]}`)
+                            },
+                            entries: Array.from(uniqueMap.values())
+                        };
                     items = rawData.entries || [];
                     initApp(keepTab);
                     updateChapterSelectionUI();
@@ -541,8 +576,8 @@
             document.getElementById('drop-zone').classList.add('hidden');
             
             const currentCh = activeChapters[0] || 1;
-            const metaChId = (rawData && rawData.metadata && rawData.metadata.chapter_id) ? rawData.metadata.chapter_id : String(currentCh).padStart(2, '0');
-            const metaChTitle = (rawData && rawData.metadata && rawData.metadata.chapter_title) ? rawData.metadata.chapter_title : (CHAPTER_TITLES[currentCh] || 'Dataset');
+            const metaChId = (rawData && rawData.metadata && rawData.metadata.chapter_id) ? rawData.metadata.chapter_id : ((chapterMetadataMap[currentCh] && chapterMetadataMap[currentCh].chapter_id) || String(currentCh).padStart(2, '0'));
+            const metaChTitle = (rawData && rawData.metadata && rawData.metadata.chapter_title) ? rawData.metadata.chapter_title : ((chapterMetadataMap[currentCh] && chapterMetadataMap[currentCh].chapter_title) || 'Dataset');
             const label = document.getElementById('chapter-label');
             if (label) {
                 label.innerText = `CH ${metaChId} ${metaChTitle}`;
@@ -599,8 +634,8 @@
 
         function renderOutline(area) {
             const currentCh = activeChapters[0] || 1;
-            const metaChId = (rawData && rawData.metadata && rawData.metadata.chapter_id) ? rawData.metadata.chapter_id : String(currentCh).padStart(2, '0');
-            const metaChTitle = (rawData && rawData.metadata && rawData.metadata.chapter_title) ? rawData.metadata.chapter_title : (CHAPTER_TITLES[currentCh] || 'Dataset');
+            const metaChId = (rawData && rawData.metadata && rawData.metadata.chapter_id) ? rawData.metadata.chapter_id : ((chapterMetadataMap[currentCh] && chapterMetadataMap[currentCh].chapter_id) || String(currentCh).padStart(2, '0'));
+            const metaChTitle = (rawData && rawData.metadata && rawData.metadata.chapter_title) ? rawData.metadata.chapter_title : ((chapterMetadataMap[currentCh] && chapterMetadataMap[currentCh].chapter_title) || 'Dataset');
             
             const sections = items.filter(i => {
                 if (i.type !== 'section_header') return false;
@@ -751,8 +786,8 @@
                 `;
             } else if (activeChapters.length > 0) {
                 const count = activeChapters.length;
-                const metaChId = (rawData && rawData.metadata && rawData.metadata.chapter_id) ? rawData.metadata.chapter_id : String(activeChapters[0]).padStart(2, '0');
-                const metaChTitle = (rawData && rawData.metadata && rawData.metadata.chapter_title) ? rawData.metadata.chapter_title : (CHAPTER_TITLES[activeChapters[0]] || 'Dataset');
+                const metaChId = (rawData && rawData.metadata && rawData.metadata.chapter_id) ? rawData.metadata.chapter_id : ((chapterMetadataMap[activeChapters[0]] && chapterMetadataMap[activeChapters[0]].chapter_id) || String(activeChapters[0]).padStart(2, '0'));
+                const metaChTitle = (rawData && rawData.metadata && rawData.metadata.chapter_title) ? rawData.metadata.chapter_title : ((chapterMetadataMap[activeChapters[0]] && chapterMetadataMap[activeChapters[0]].chapter_title) || 'Dataset');
                 activeFocusBanner = `
                 <div class="mb-4 p-3 bg-slate-50 border border-slate-100 rounded-xl flex items-center justify-between shadow-sm">
                     <div class="flex items-center gap-2">
