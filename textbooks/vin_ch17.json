@@ -1,0 +1,5087 @@
+{
+  "metadata": {
+    "source": "vin4",
+    "field": "usage",
+    "chapter_id": "17",
+    "chapter_title": "動詞の語法"
+  },
+  "items": [
+    {
+      "order": 1316,
+      "type": "section_header",
+      "section_id": "143",
+      "title": "目的語として動名詞をあとに続ける動詞"
+    },
+    {
+      "order": 1317,
+      "id": "17-143-s-043",
+      "type": "summary_box",
+      "target_s": "143",
+      "number": "043",
+      "title": "目的語として不定詞ではなく動名詞をあとに続けるおもな動詞",
+      "content": [
+        { "tag": "□", "en": "admit doing", "ja": "「…したことを認める」" },
+        { "tag": "□", "en": "avoid doing", "ja": "「…することを避ける」", "note": "→ 526" },
+        { "tag": "□", "en": "consider doing", "ja": "「…することをよく考える」", "note": "→ 527" },
+        { "tag": "□", "en": "deny doing", "ja": "「…することを否定する／…しないと言う」", "note": "→ 528" },
+        { "tag": "□", "en": "discuss doing", "ja": "「…することを話し合う」" },
+        { "tag": "□", "en": "dislike doing", "ja": "「…することを嫌う」" },
+        { "tag": "□", "en": "end up doing", "ja": "「最終的に…することになる」" },
+        { "tag": "□", "en": "enjoy doing", "ja": "「…することを楽しむ」", "note": "→ 529" },
+        { "tag": "□", "en": "escape doing", "ja": "「…することを逃れる」" },
+        { "tag": "□", "en": "finish doing", "ja": "「…することを終える」", "note": "→ 530" },
+        { "tag": "□", "en": "give up doing", "ja": "「…することをあきらめる」", "note": "→ 531" },
+        { "tag": "□", "en": "imagine doing", "ja": "「…することを想像する」" },
+        { "tag": "□", "en": "mind doing", "ja": "「…することをいやだと思う」", "note": "→ 532" },
+        { "tag": "□", "en": "miss doing", "ja": "「…しそこなう」" },
+        { "tag": "□", "en": "postpone [put off] doing", "ja": "「…することを延期する」" },
+        { "tag": "□", "en": "practice doing", "ja": "「…することを練習する」" },
+        { "tag": "□", "en": "recommend doing", "ja": "「…することを勧める」" },
+        { "tag": "□", "en": "resist doing", "ja": "「…することに抵抗する」" },
+        { "tag": "□", "en": "stop [quit] doing", "ja": "「…することをやめる」", "note": "→ 533" },
+        { "tag": "□", "en": "suggest doing", "ja": "「…することを提案する」", "note": "→ 661" }
+      ]
+    },
+    {
+      "order": 1318,
+      "id": "17-143-q-526",
+      "type": "question",
+      "section_id": "143",
+      "number": "526",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "It might be wise of you to avoid ( ) abroad next year.",
+      "options": ["① studying", "② studying in", "③ to study", "④ to study in"],
+      "q_type": "multiple_choice",
+      "ja": "来年の留学は避けたほうがあなたにとって賢明かもしれない。",
+      "answer": "①",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 1319,
+      "id": "17-143-e-526",
+      "type": "explanation",
+      "target_q": "17-143-q-526",
+      "title": "",
+      "label": "◆avoid doing 「…することを避ける」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "study abroad で「留学する」という意味。abroad は副詞なので、②の前置詞 in は不要。" }
+      ]
+    },
+    {
+      "order": 1320,
+      "id": "17-143-q-527",
+      "type": "question",
+      "section_id": "143",
+      "number": "527",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "If you are the kind of person who suffers from stress, you should consider (to take / taking) more time to relax.",
+      "q_type": "error_correction",
+      "ja": "あなたがストレスに苦しむタイプの人間なら、リラックスする時間をもっととることを考慮すべきだ。",
+      "answer": "taking",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 1321,
+      "id": "17-143-e-527",
+      "type": "explanation",
+      "target_q": "17-143-q-527",
+      "title": "",
+      "label": "◆consider doing 「…することをよく考える」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "〈the kind of person + 関係代名詞節〉「…するタイプの人」" },
+        { "tag": "重要", "text": "suffer from A 「Aに苦しむ」", "note": "→ 934" }
+      ]
+    },
+    {
+      "order": 1322,
+      "id": "17-143-q-528",
+      "type": "question",
+      "section_id": "143",
+      "number": "528",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "My brother denied ( ) my model plane, even though he was the only person who was in my room at that time.",
+      "options": ["① to breaking", "② to break", "③ having broken", "④ being broken"],
+      "q_type": "multiple_choice",
+      "ja": "その時の部屋にいたのは兄［弟］だけだったにもかかわらず、彼は僕の模型飛行機を壊したことを否定した。",
+      "answer": "③",
+      "source_univ": "関西学院大"
+    },
+    {
+      "order": 1323,
+      "id": "17-143-e-528",
+      "type": "explanation",
+      "target_q": "17-143-q-528",
+      "title": "",
+      "label": "◆deny doing 「…することを否定する／…しないと言う」",
+      "content": [],
+      "solution": [
+        { "text": "deny having done は「…したことを否定する／…しなかったと言う」という意味。having done は完了動名詞。", "note": "→ 159" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1324,
+      "id": "17-143-q-529",
+      "type": "question",
+      "section_id": "143",
+      "number": "529",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "My friend had a nice time in England and enjoyed ( ) a different culture.",
+      "options": ["① experiencing", "② experiences", "③ of experiencing", "④ to experience"],
+      "q_type": "multiple_choice",
+      "ja": "私の友人はイギリスで楽しい時間を過ごし、異文化体験を楽しんだ。",
+      "answer": "①",
+      "source_univ": "成城大"
+    },
+    {
+      "order": 1325,
+      "id": "17-143-e-529",
+      "type": "explanation",
+      "target_q": "17-143-q-529",
+      "title": "",
+      "label": "◆enjoy doing 「…することを楽しむ」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1326,
+      "id": "17-143-q-530",
+      "type": "question",
+      "section_id": "143",
+      "number": "530",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Have you finished ( ) your essay?",
+      "options": ["① to write", "② writing", "③ to have written", "④ to be writing"],
+      "q_type": "multiple_choice",
+      "ja": "レポートは書き終えましたか。",
+      "answer": "②",
+      "source_univ": "明治大"
+    },
+    {
+      "order": 1327,
+      "id": "17-143-e-530",
+      "type": "explanation",
+      "target_q": "17-143-q-530",
+      "title": "",
+      "label": "◆finish doing 「…することを終える」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1328,
+      "id": "17-143-q-531",
+      "type": "question",
+      "section_id": "143",
+      "number": "531",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "After several frustrating weeks, Masao finally gave up (to try / trying) to teach his wife how to drive.",
+      "q_type": "error_correction",
+      "ja": "数週間いらいらして過ごしたあと、マサオはついに妻に車の運転の仕方を教えようとするのをあきらめた。",
+      "answer": "trying",
+      "source_univ": "早稲田大"
+    },
+    {
+      "order": 1329,
+      "id": "17-143-e-531",
+      "type": "explanation",
+      "target_q": "17-143-q-531",
+      "title": "",
+      "label": "◆give up doing 「…することをあきらめる」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1330,
+      "id": "17-143-q-532",
+      "type": "question",
+      "section_id": "143",
+      "number": "532",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Would you mind ( ) the window for me? I feel a little cold.",
+      "options": ["① close", "② to close", "③ closed", "④ closing"],
+      "q_type": "multiple_choice",
+      "ja": "窓を閉めていただけませんか。少し寒いので。",
+      "answer": "④",
+      "source_univ": "拓殖大"
+    },
+    {
+      "order": 1331,
+      "id": "17-143-e-532",
+      "type": "explanation",
+      "target_q": "17-143-q-532",
+      "title": "",
+      "label": "◆mind doing 「…することをいやだと思う」",
+      "content": [
+        { "text": "mind は動名詞を目的語にとる。Would[Do] you mind doing ...? は「…することをあなたはいやだと思いますか」が直訳。「(どうか)…していただけませんか」という意味の丁寧な依頼表現として覚えよう。答え方は 1346 参照。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "プラス", "label": "Would[Do] you mind my[me] doing ...?", "text": "「(私が)…してもいいですか」という意味の許可を求める表現。my[me] は動名詞の意味上の主語。", "note": "→ 157" }
+      ]
+    },
+    {
+      "order": 1332,
+      "id": "17-143-q-533",
+      "type": "question",
+      "section_id": "143",
+      "number": "533",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "The doctor has advised me not to eat eggs anymore, so I've stopped ( ) them.",
+      "options": ["① to have bought", "② buying", "③ for buying", "④ to buy"],
+      "q_type": "multiple_choice",
+      "ja": "医者がこれ以上卵を食べないようにと忠告したので、私は卵を買うのをやめた。",
+      "answer": "②",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 1333,
+      "id": "17-143-e-533",
+      "type": "explanation",
+      "target_q": "17-143-q-533",
+      "title": "",
+      "label": "◆stop doing 「…することをやめる」",
+      "content": [
+        { "text": "stop は後ろに不定詞を続けることもできる。stop to do で「…するために立ち止まる」という意味。後ろに続く to do は目的語ではなく、副詞用法の不定詞で「目的」の意味 (→ 119)。\nHe stopped talking to her. 「彼女と話すのをやめた」\nHe stopped to talk to her. 「彼女と話すために立ち止まった」" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "④ to buy を選ぶと、「買うために立ち止まった」という意味になり、文意が通らない。" }
+      ]
+    },
+    {
+      "order": 1334,
+      "type": "section_header",
+      "section_id": "144",
+      "title": "目的語として不定詞をあとに続ける動詞"
+    },
+    {
+      "order": 1335,
+      "id": "17-144-s-044",
+      "type": "summary_box",
+      "target_s": "144",
+      "number": "044",
+      "title": "目的語として動名詞ではなく不定詞をあとに続けるおもな動詞",
+      "content": [
+        { "tag": "□", "en": "afford to do", "ja": "「…する余裕がある」", "note": "→ 534" },
+        { "tag": "□", "en": "attempt to do", "ja": "「…しようと試みる」" },
+        { "tag": "□", "en": "decide to do", "ja": "「…することに決める」", "note": "→ 535" },
+        { "tag": "□", "en": "demand to do", "ja": "「…することを要求する」" },
+        { "tag": "□", "en": "expect to do", "ja": "「…するつもりである」", "note": "→ 536" },
+        { "tag": "□", "en": "fail to do", "ja": "「…することを怠る／…しそこなう」", "note": "→ 537" },
+        { "tag": "□", "en": "hope [wish / desire] to do", "ja": "「…することを望む」", "note": "→ 538" },
+        { "tag": "□", "en": "learn to do", "ja": "「…することを身につける」" },
+        { "tag": "□", "en": "manage to do", "ja": "「なんとか…する」" },
+        { "tag": "□", "en": "offer to do", "ja": "「…することを提案する」" },
+        { "tag": "□", "en": "plan to do", "ja": "「…することを計画する」" },
+        { "tag": "□", "en": "prepare to do", "ja": "「…することを準備する」" },
+        { "tag": "□", "en": "pretend to do", "ja": "「…するふりをする」", "note": "→ 539" },
+        { "tag": "□", "en": "promise to do", "ja": "「…することを約束する」" },
+        { "tag": "□", "en": "refuse to do", "ja": "「…することを拒む」", "note": "→ 540" },
+        { "tag": "□", "en": "seek to do", "ja": "「…しようと努める」" },
+        { "text": "なお、以下の動詞は自動詞だが、似た形をとるので、ここで覚えよう。" },
+        { "tag": "□", "en": "hesitate to do", "ja": "「…することをためらう」" },
+        { "tag": "□", "en": "tend to do", "ja": "「…する傾向がある」" }
+      ]
+    },
+    {
+      "order": 1336,
+      "id": "17-144-q-534",
+      "type": "question",
+      "section_id": "144",
+      "number": "534",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "How much can you ( ) to spend on your vacation?",
+      "options": ["① invest", "② account", "③ afford", "④ contribute"],
+      "q_type": "multiple_choice",
+      "ja": "休暇のためにどれだけのお金を使う余裕がありますか。",
+      "answer": "③",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 1337,
+      "id": "17-144-e-534",
+      "type": "explanation",
+      "target_q": "17-144-q-534",
+      "title": "",
+      "label": "◆afford to do 「…する余裕がある」",
+      "content": [
+        { "text": "afford は不定詞や名詞を目的語にとり、can [could] を伴って否定文や疑問文で用いるのが一般的。\nWe couldn't afford to go on a vacation. 「休暇を取る余裕はなかった」" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1338,
+      "id": "17-144-q-535",
+      "type": "question",
+      "section_id": "144",
+      "number": "535",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "My grandfather was hospitalized so I decided ( ) as often as possible.",
+      "options": ["① visiting him", "② him visited", "③ to visit him", "④ visit him"],
+      "q_type": "multiple_choice",
+      "ja": "祖父が入院したので、私はできるだけ頻繁にお見舞いに行こうと決めた。",
+      "answer": "③",
+      "source_univ": "法政大"
+    },
+    {
+      "order": 1339,
+      "id": "17-144-e-535",
+      "type": "explanation",
+      "target_q": "17-144-q-535",
+      "title": "",
+      "label": "◆decide to do 「…することに決める」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1340,
+      "id": "17-144-q-536",
+      "type": "question",
+      "section_id": "144",
+      "number": "536",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I expect (entering / to enter) a famous university in the USA in the spring.",
+      "q_type": "error_correction",
+      "ja": "春にはアメリカの有名大学に入学するつもりだ。",
+      "answer": "to enter",
+      "source_univ": "立正大"
+    },
+    {
+      "order": 1341,
+      "id": "17-144-e-536",
+      "type": "explanation",
+      "target_q": "17-144-q-536",
+      "title": "",
+      "label": "◆expect to do 「…するつもりである」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1342,
+      "id": "17-144-q-537",
+      "type": "question",
+      "section_id": "144",
+      "number": "537",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Ken has never failed ( ) a birthday present to his mother.",
+      "options": ["① of giving", "② for giving", "③ to give", "④ give"],
+      "q_type": "multiple_choice",
+      "ja": "ケンは母親には必ず誕生日プレゼントをあげてきた。",
+      "answer": "③",
+      "source_univ": "桜美林大"
+    },
+    {
+      "order": 1343,
+      "id": "17-144-e-537",
+      "type": "explanation",
+      "target_q": "17-144-q-537",
+      "title": "",
+      "label": "◆fail to do 「…することを怠る／…しそこなう」",
+      "content": [
+        { "text": "fail to do 「…することを怠る／…しそこなう」は、否定語句とともに用いると二重否定 (→ Section 134 (p. 221)) の意味となって、「必ず…する」(←…しないことはない) という肯定の意味になる。\nHe never fails to call her every morning. 「彼は毎朝、必ず彼女に電話する」" }
+      ],
+      "solution": [
+        { "text": "本問の has never failed to give ... も、「…をあげないことは決してなかった」から、「必ず…をあげてきた」という意味になる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1344,
+      "id": "17-144-q-538",
+      "type": "question",
+      "section_id": "144",
+      "number": "538",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "I hope ( ) to Hawaii next month.",
+      "options": ["① going", "② to go", "③ with going", "④ for going"],
+      "q_type": "multiple_choice",
+      "ja": "来月ハワイに行きたいと思う。",
+      "answer": "②",
+      "source_univ": "神戸山手大"
+    },
+    {
+      "order": 1345,
+      "id": "17-144-e-538",
+      "type": "explanation",
+      "target_q": "17-144-q-538",
+      "title": "",
+      "label": "◆hope to do 「…することを望む」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1346,
+      "id": "17-144-q-539",
+      "type": "question",
+      "section_id": "144",
+      "number": "539",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I could tell David was only ( ) to read because his book was upside down.",
+      "options": ["① deceiving", "② behaving", "③ pretending", "④ acting"],
+      "q_type": "multiple_choice",
+      "ja": "デイビッドの本がさかさまだったので、私には彼が読むふりをしているだけだとわかった。",
+      "answer": "③",
+      "source_univ": "徳島文理大"
+    },
+    {
+      "order": 1347,
+      "id": "17-144-e-539",
+      "type": "explanation",
+      "target_q": "17-144-q-539",
+      "title": "",
+      "label": "◆pretend to do 「…するふりをする」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "① deceive 「(人)をだます」、② behave 「ふるまう」、④ act 「行動する」は、いずれも目的語に不定詞をとる用法はない。" },
+        { "tag": "重要", "text": "can tell (that) SV 「…ということがわかる」" }
+      ]
+    },
+    {
+      "order": 1348,
+      "id": "17-144-q-540",
+      "type": "question",
+      "section_id": "144",
+      "number": "540",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The number of young people who are ( ) to make their pension and national health insurance payments is on the rise.",
+      "options": ["① discharging", "② excluding", "③ refusing", "④ rejecting"],
+      "q_type": "multiple_choice",
+      "ja": "年金と国民健康保険の支払いを拒む若者の数が増えている。",
+      "answer": "③",
+      "source_univ": "東科大"
+    },
+    {
+      "order": 1349,
+      "id": "17-144-e-540",
+      "type": "explanation",
+      "target_q": "17-144-q-540",
+      "title": "",
+      "label": "◆refuse to do 「…することを拒む」",
+      "content": [],
+      "solution": [
+        { "text": "先行詞が young people で who are ... insurance payments が関係代名詞節。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "④ reject 「…を拒絶する」は目的語に不定詞をとらない。" }
+      ]
+    },
+    {
+      "order": 1350,
+      "type": "section_header",
+      "section_id": "145",
+      "title": "目的語が動名詞と不定詞で意味が変わる動詞"
+    },
+    {
+      "order": 1351,
+      "id": "17-145-s-045",
+      "type": "summary_box",
+      "target_s": "145",
+      "number": "045",
+      "title": "目的語が動名詞と不定詞で意味が変わる動詞",
+      "content": [
+        { "tag": "□", "en": "remember doing", "ja": "「（過去に）…したことを覚えている」", "note": "→ 541" },
+        { "tag": "□", "en": "remember to do", "ja": "「…することを覚えている／忘れずに…する」", "note": "→ 542" },
+        { "tag": "□", "en": "forget doing", "ja": "「（過去に）…したことを忘れる」", "note": "→ 543" },
+        { "tag": "□", "en": "forget to do", "ja": "「…するのを忘れる」", "note": "→ 544" },
+        { "tag": "□", "en": "regret doing", "ja": "「…したことを後悔する」", "note": "→ 545" },
+        { "tag": "□", "en": "regret to do", "ja": "「残念ながら…する」", "note": "→ 546" },
+        { "tag": "□", "en": "try doing", "ja": "「（実際に）…してみる」" },
+        { "tag": "□", "en": "try to do", "ja": "「…しようとする」", "note": "→ 547" },
+        { "tag": "□", "en": "mean doing", "ja": "「…することを意味する／（結果として）…することになる」" },
+        { "tag": "□", "en": "mean to do", "ja": "「…するつもりである」", "note": "→ 548" },
+        { "tag": "□", "en": "need doing", "ja": "「…されることが必要である」 (= need to be done / want doing)", "note": "→ 549, 550, 551" },
+        { "tag": "□", "en": "need to do", "ja": "「…することが必要である」" },
+        { "tag": "□", "en": "go on doing", "ja": "「…し続ける」", "note": "→ 552" },
+        { "tag": "□", "en": "go on to do", "ja": "「続けて…する／次に…する」", "note": "→ 553" }
+      ]
+    },
+    {
+      "order": 1352,
+      "id": "17-145-q-541",
+      "type": "question",
+      "section_id": "145",
+      "number": "541",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "She remembered the teacher ( ) it.",
+      "options": ["① talk about", "② talking about", "③ to talk about", "④ talks about"],
+      "q_type": "multiple_choice",
+      "ja": "先生がそのことについて話したのを彼女は覚えていた。",
+      "answer": "②",
+      "source_univ": "福島大"
+    },
+    {
+      "order": 1353,
+      "id": "17-145-e-541",
+      "type": "explanation",
+      "target_q": "17-145-q-541",
+      "title": "",
+      "label": "◆remember doing 「（過去に）…したことを覚えている」",
+      "content": [],
+      "solution": [
+        { "text": "the teacher は動名詞 talking の意味上の主語。", "note": "→ 157" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1354,
+      "id": "17-145-q-542",
+      "type": "question",
+      "section_id": "145",
+      "number": "542",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Remember ( ) your books back to the library by the end of the week.",
+      "options": ["① take", "② taking", "③ to be taking", "④ to take"],
+      "q_type": "multiple_choice",
+      "ja": "週末までに本を図書館に返すのを忘れないように。",
+      "answer": "④",
+      "source_univ": "神奈川大"
+    },
+    {
+      "order": 1355,
+      "id": "17-145-e-542",
+      "type": "explanation",
+      "target_q": "17-145-q-542",
+      "title": "",
+      "label": "◆remember to do 「…することを覚えている／忘れずに…する」",
+      "content": [],
+      "solution": [
+        { "text": "「本を返す」のはこれからすることなので、 ④ to take が正解。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "② taking を選ぶと remember doing 「（過去に）…したことを覚えている」という表現になるが、文意が通らないので不可。" }
+      ]
+    },
+    {
+      "order": 1356,
+      "id": "17-145-q-543",
+      "type": "question",
+      "section_id": "145",
+      "number": "543",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "I'll never forget ( ) the beautiful sea from the hill on my last trip.",
+      "options": ["① see", "② to see", "③ seeing", "④ seen"],
+      "q_type": "multiple_choice",
+      "ja": "この前の旅行で、丘から美しい海を見たことを私は決して忘れないだろう。",
+      "answer": "③",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 1357,
+      "id": "17-145-e-543",
+      "type": "explanation",
+      "target_q": "17-145-q-543",
+      "title": "",
+      "label": "◆forget doing 「（過去に）…したことを忘れる」",
+      "content": [],
+      "solution": [
+        { "text": "on my last trip 「この前の旅行で」から、「美しい海を見た」のは過去のことだと判断する。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1358,
+      "id": "17-145-q-544",
+      "type": "question",
+      "section_id": "145",
+      "number": "544",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "I forgot ( ) by the supermarket and so have nothing to eat now.",
+      "options": ["① to stop", "② stopping", "③ to have stopped", "④ having stopped"],
+      "q_type": "multiple_choice",
+      "ja": "スーパーに立ち寄るのを忘れたので、今は食べるものが何もない。",
+      "answer": "①",
+      "source_univ": "松山大"
+    },
+    {
+      "order": 1359,
+      "id": "17-145-e-544",
+      "type": "explanation",
+      "target_q": "17-145-q-544",
+      "title": "",
+      "label": "◆forget to do 「…するのを忘れる」",
+      "content": [
+        { "text": "forget to do は「やるべきことをやり忘れる」という意味。本問は「スーパーに立ち寄るべきだったのに、寄り忘れた」という文意なので、 ① to stop が正解。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "② stopping を選ぶと forget doing 「（過去に）…したことを忘れる」という表現になるが、「スーパーに立ち寄ったのに、その記憶を忘れた」という内容は and 以下とつながらないため不可。" },
+        { "tag": "重要", "text": "stop by (A) 「（Aに）立ち寄る」" }
+      ]
+    },
+    {
+      "order": 1360,
+      "id": "17-145-q-545",
+      "type": "question",
+      "section_id": "145",
+      "number": "545",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I regret ( ) him my dictionary. I cannot do my work without it.",
+      "options": ["① lent", "② to lend", "③ lending", "④ to have lent"],
+      "q_type": "multiple_choice",
+      "ja": "私は彼に辞書を貸したことを後悔している。それなしでは自分の仕事ができない。",
+      "answer": "③",
+      "source_univ": "関西学院大"
+    },
+    {
+      "order": 1361,
+      "id": "17-145-e-545",
+      "type": "explanation",
+      "target_q": "17-145-q-545",
+      "title": "",
+      "label": "◆regret doing 「…したことを後悔する」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1362,
+      "id": "17-145-q-546",
+      "type": "question",
+      "section_id": "145",
+      "number": "546",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I regret ( ) that I cannot join your team.",
+      "options": ["① saying", "② to say", "③ say", "④ said"],
+      "q_type": "multiple_choice",
+      "ja": "残念ながら私はあなたのチームには参加できません。",
+      "answer": "②",
+      "source_univ": "高崎経済大"
+    },
+    {
+      "order": 1363,
+      "id": "17-145-e-546",
+      "type": "explanation",
+      "target_q": "17-145-q-546",
+      "title": "",
+      "label": "◆regret to do 「残念ながら…する」",
+      "content": [],
+      "solution": [
+        { "text": "I regret to say (that) ... 「申し上げにくいのですが…／残念ながら…」は、依頼や招待などを丁寧に断るときに用いる慣用表現として覚えよう。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1364,
+      "id": "17-145-q-547",
+      "type": "question",
+      "section_id": "145",
+      "number": "547",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "彼は彼女に自分が勇気のあるところを印象づけようとした。\nHe (with / impress / the girl / tried / to) his courage.",
+      "q_type": "ordering",
+      "ja": "彼は彼女に自分が勇気のあるところを印象づけようとした。",
+      "answer": "tried to impress the girl with",
+      "source_univ": "駒澤大"
+    },
+    {
+      "order": 1365,
+      "id": "17-145-e-547",
+      "type": "explanation",
+      "target_q": "17-145-q-547",
+      "title": "",
+      "label": "◆try to do 「…しようとする」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "impress A with B 「A（人）に Bを印象づける」" }
+      ]
+    },
+    {
+      "order": 1366,
+      "id": "17-145-q-548",
+      "type": "question",
+      "section_id": "145",
+      "number": "548",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I'm sorry. I didn't mean ( ) on your foot.",
+      "options": ["① step", "② stepping", "③ to stepping", "④ to step"],
+      "q_type": "multiple_choice",
+      "ja": "ごめんなさい。あなたの足を踏むつもりはなかったんです。",
+      "answer": "④",
+      "source_univ": "中部大"
+    },
+    {
+      "order": 1367,
+      "id": "17-145-e-548",
+      "type": "explanation",
+      "target_q": "17-145-q-548",
+      "title": "",
+      "label": "◆mean to do 「…するつもりである」 (= intend to do)",
+      "content": [],
+      "solution": [
+        { "text": "mean doing は「…することを意味する」という意味。 ② stepping を選ぶと「足を踏むことを意味しなかった」という意味になり、文意が通らない。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1368,
+      "id": "17-145-q-549",
+      "type": "question",
+      "section_id": "145",
+      "number": "549",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "After playing with sand, your hands need ( ).",
+      "options": ["① to wash", "② washing", "③ being washed", "④ to be washing"],
+      "q_type": "multiple_choice",
+      "ja": "砂遊びのあとは、手洗いが必要だ。",
+      "answer": "②",
+      "source_univ": "日本大"
+    },
+    {
+      "order": 1369,
+      "id": "17-145-e-549",
+      "type": "explanation",
+      "target_q": "17-145-q-549",
+      "title": "",
+      "label": "◆need doing 「…されることが必要である」 (= need to be done / want doing)",
+      "content": [
+        { "text": "need に続く動名詞 doing は「…されること」という意味になる。" }
+      ],
+      "solution": [
+        { "text": "ここでの動名詞 washing は「洗うこと／手洗い」という名詞の意味で考えればよい。つまり「手洗いを必要とする」ということ。同じ意味を表すために need に不定詞を続ける場合は、「…される必要がある」となるので、 S need to be done (→ 550) としなければならない。本問も your hands need to be washed となる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1370,
+      "id": "17-145-q-550",
+      "type": "question",
+      "section_id": "145",
+      "number": "550",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "My watch loses ten minutes a day, so it needs ( ).",
+      "options": ["① being repaired", "② repaired", "③ to be repaired", "④ to repair"],
+      "q_type": "multiple_choice",
+      "ja": "私の時計は1日に10分遅れるので、修理の必要がある。",
+      "answer": "③",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 1371,
+      "id": "17-145-e-550",
+      "type": "explanation",
+      "target_q": "17-145-q-550",
+      "title": "",
+      "label": "◆need to be done 「…される必要がある」 (= need doing)",
+      "content": [],
+      "solution": [
+        { "text": "it (= my watch) と repair 「…を修理する」の関係から、 to be repaired 「(それは)修理される」となる。" },
+        { "text": "動名詞を用いると it needs repairing となる。", "note": "→ 549" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "lose A 「(時計が) A (の時間) 遅れる」" },
+        { "tag": "重要", "text": "a day 「1日につき」" }
+      ]
+    },
+    {
+      "order": 1372,
+      "id": "17-145-q-551",
+      "type": "question",
+      "section_id": "145",
+      "number": "551",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "If you intend to climb such a high mountain, these shoes want ( ).",
+      "options": ["① to repair", "② to have repaired", "③ repairing", "④ being repaired"],
+      "q_type": "multiple_choice",
+      "ja": "そんな高い山に登るつもりなら、この靴は修理が必要だ。",
+      "answer": "③",
+      "source_univ": "玉川大"
+    },
+    {
+      "order": 1373,
+      "id": "17-145-e-551",
+      "type": "explanation",
+      "target_q": "17-145-q-551",
+      "title": "",
+      "label": "◆want doing 「…されることが必要である」 (= need doing / need to be done)",
+      "content": [
+        { "text": "want doing は need doing (→ 549) や need to be done (→ 550) と同意。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1374,
+      "id": "17-145-q-552",
+      "type": "question",
+      "section_id": "145",
+      "number": "552",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "I told her to shut up but she ( ) on talking and talking.",
+      "options": ["① came", "② put", "③ tried", "④ went"],
+      "q_type": "multiple_choice",
+      "ja": "彼女に黙るように言ったが、彼女は延々としゃべり続けた。",
+      "answer": "④",
+      "source_univ": "東北学院大"
+    },
+    {
+      "order": 1375,
+      "id": "17-145-e-552",
+      "type": "explanation",
+      "target_q": "17-145-q-552",
+      "title": "",
+      "label": "◆go on doing 「…し続ける」 (= continue doing)",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1376,
+      "id": "17-145-q-553",
+      "type": "question",
+      "section_id": "145",
+      "number": "553",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "After he had given an explanation of the difficulties, he (suggest / went / ways / overcoming / on / of / to) them.",
+      "q_type": "ordering",
+      "ja": "問題点の説明をしたあと、続けて彼はそれらを乗り切る方法を提案した。",
+      "answer": "went on to suggest ways of overcoming",
+      "source_univ": "西南学院大"
+    },
+    {
+      "order": 1377,
+      "id": "17-145-e-553",
+      "type": "explanation",
+      "target_q": "17-145-q-553",
+      "title": "",
+      "label": "◆go on to do 「続けて…する／次に…する」",
+      "content": [
+        { "text": "go on to do は「何かをやり終えて、次に別のことに移る」という意味。" }
+      ],
+      "solution": [
+        { "text": "本問の went on to suggest ... は「続けて彼は…を提案した」という意味。 went on overcoming (→ 552) は「乗り切り続けた」という意味だが、文意が不自然なので不可。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1378,
+      "type": "section_header",
+      "section_id": "146",
+      "title": "使役動詞（let / make / have）の語法"
+    },
+    {
+      "order": 1379,
+      "id": "17-146-q-554",
+      "type": "question",
+      "section_id": "146",
+      "number": "554",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Mary's father will not ( ) her do any part-time work until after her exams are over.",
+      "options": ["① allow", "② consent", "③ let", "④ permit"],
+      "q_type": "multiple_choice",
+      "ja": "メアリーの父は、試験が終わるまでは彼女にアルバイトをさせるつもりはない。",
+      "answer": "③",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 1380,
+      "id": "17-146-e-554",
+      "type": "explanation",
+      "target_q": "17-146-q-554",
+      "title": "",
+      "label": "◆let A do 「A に…させる／A が…するのを許す」",
+      "content": [
+        { "text": "let A do は「A に…させる／A が…するのを許す」という意味。 A と原形不定詞 do (→ Section 050 (p. 079)) には「A が…する」という能動の関係がある。" }
+      ],
+      "solution": [
+        { "text": "問題文に原形不定詞 do があることに注目して、使役動詞 ③ let を選ぶ。 let her do any part-time work は「彼女がアルバイトをする」という能動の関係が成立する。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① allow, ④ permit は let に近い意味だが、使役動詞 allow [permit] A to do (→ 566) という形で用いる。 ② consent は、 consent to A 「A に同意する」 や consent to do 「…することに同意する」 といった形で用いる。" }
+      ]
+    },
+    {
+      "order": 1381,
+      "id": "17-146-q-555",
+      "type": "question",
+      "section_id": "146",
+      "number": "555",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Mr. Jones ( ) the students repeat the same phrase without looking at their textbooks.",
+      "options": ["① got", "② forced", "③ ordered", "④ made"],
+      "q_type": "multiple_choice",
+      "ja": "ジョーンズ先生は生徒たちに、教科書を見ずに同じフレーズを繰り返させた。",
+      "answer": "④",
+      "source_univ": "北里大"
+    },
+    {
+      "order": 1382,
+      "id": "17-146-e-555",
+      "type": "explanation",
+      "target_q": "17-146-q-555",
+      "title": "",
+      "label": "◆make A do 「A に（無理やり）…させる」",
+      "content": [
+        { "text": "make A do は「A に（無理やり）…させる」という意味。 A と do には「A が…する」という能動の関係がある。" }
+      ],
+      "solution": [
+        { "text": "問題文で原形不定詞 repeat があることに注目して、使役動詞 ④ made を選ぶ。 made the students repeat ... は「生徒たちが…を繰り返す」という能動の関係が成立する。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① の get, ② の force, ③ の order は、それぞれ get A to do 「A に…させる」 (→ 560), force A to do 「A に（無理やり）…させる」 (→ 570), order A to do 「A に…するように命じる」 (→ 整理して覚える 046 (p. 251)) という形で用いる。" }
+      ]
+    },
+    {
+      "order": 1383,
+      "id": "17-146-q-556",
+      "type": "question",
+      "section_id": "146",
+      "number": "556",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "ジェーンのような誠実な人が約束を破ったのはなぜだと思いますか。\n(an honest person / do / like Jane / made / what / you think) break her promise?",
+      "q_type": "ordering",
+      "ja": "ジェーンのような誠実な人が約束を破ったのはなぜだと思いますか。",
+      "answer": "What do you think made an honest person like Jane",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 1384,
+      "id": "17-146-e-556",
+      "type": "explanation",
+      "target_q": "17-146-q-556",
+      "title": "",
+      "label": "◆S make A do 「S（もの・事）が原因で A は…する」",
+      "content": [],
+      "solution": [
+        { "text": "「ジェーンのような誠実な人が約束を破ったのはなぜか」を、主語に what を使うことを想定して「何がジェーンに約束を破らせたか」というように読みかえて、 What made an honest person like Jane break her promise? と表す。" },
+        { "text": "What made A do ...? は「何が原因で A は…したのか」という意味。 Why did A do ...? 「なぜ A は…したのか」と同じ意味になる。" },
+        { "text": "(×) What do you think what ... の語順は不可。", "note": "→ 457" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1385,
+      "id": "17-146-q-557",
+      "type": "question",
+      "section_id": "146",
+      "number": "557",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Because my mother was sick in bed, she had me ( ) the dishes after dinner.",
+      "options": ["① wash", "② washed", "③ have washed", "④ to wash"],
+      "q_type": "multiple_choice",
+      "ja": "母は病気で寝ていたので、夕食後の皿洗いを私にやらせた。",
+      "answer": "①",
+      "source_univ": "成城大"
+    },
+    {
+      "order": 1386,
+      "id": "17-146-e-557",
+      "type": "explanation",
+      "target_q": "17-146-q-557",
+      "title": "",
+      "label": "◆have A do 「A に…させる／A に…してもらう」",
+      "content": [
+        { "text": "have A do は「A（専門家や目下の人など）に…させる／A に…してもらう」という意味。 A と do には「A が…する」という能動の関係がある。" }
+      ],
+      "solution": [
+        { "text": "me と選択肢の wash 「…を洗う」との関係を「私が皿を洗う」という能動の関係と考えて ① wash を選ぶと、 have A do の表現になり、「私に皿を洗わせる」という意味になる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1387,
+      "id": "17-146-q-558",
+      "type": "question",
+      "section_id": "146",
+      "number": "558",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "We are going to have the house ( ) this weekend.",
+      "options": ["① to be painted", "② to paint", "③ painted", "④ painting"],
+      "q_type": "multiple_choice",
+      "ja": "私たちは今週末に家を塗装してもらうことになっている。",
+      "answer": "③",
+      "source_univ": "玉川大"
+    },
+    {
+      "order": 1388,
+      "id": "17-146-e-558",
+      "type": "explanation",
+      "target_q": "17-146-q-558",
+      "title": "",
+      "label": "◆have A done 「A を…してもらう」〈使役〉",
+      "content": [
+        { "text": "have A done には、① 「〈使役〉 A を…してもらう」、② 「〈被害〉 A を…される」、③ 「〈完了〉 A を…してしまう」の3つの意味がある。すべて A と done には「A が…される」という受動の関係がある。" }
+      ],
+      "solution": [
+        { "text": "the house と paint 「…を塗装する」との関係を「家が塗装される」という受動の関係と考えて ③ painted を選ぶと、 have A done の表現で「家を塗装してもらう」という使役の意味になる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1389,
+      "id": "17-146-q-559",
+      "type": "question",
+      "section_id": "146",
+      "number": "559",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The bus was so crowded that I ( ) while I was on it.",
+      "options": [
+        "① had my foot stepped on",
+        "② had my foot to be stepped on",
+        "③ had to be stepped on my foot",
+        "④ was stepped on my foot"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "バスはとても混んでいたので、乗っている間に足を踏まれた。",
+      "answer": "①",
+      "source_univ": "青山学院大"
+    },
+    {
+      "order": 1390,
+      "id": "17-146-e-559",
+      "type": "explanation",
+      "target_q": "17-146-q-559",
+      "title": "",
+      "label": "◆have A done 「A を…される」〈被害〉",
+      "content": [],
+      "solution": [
+        { "text": "my foot と step on A 「A を踏む」との関係を「足が踏まれる」という受動の関係だと考えて ① had my foot stepped on を選ぶと、 have A done の表現で、「足を踏まれた」という被害の意味になる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1391,
+      "type": "section_header",
+      "section_id": "147",
+      "title": "get の語法"
+    },
+    {
+      "order": 1392,
+      "id": "17-147-q-560",
+      "type": "question",
+      "section_id": "147",
+      "number": "560",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "I don't know how I can get my children ( ) their homework.",
+      "options": ["① did", "② do", "③ done", "④ to do"],
+      "q_type": "multiple_choice",
+      "ja": "どうすれば子どもたちに宿題をさせることができるのか、私にはわからない。",
+      "answer": "④",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 1393,
+      "id": "17-147-e-560",
+      "type": "explanation",
+      "target_q": "17-147-q-560",
+      "title": "",
+      "label": "◆get A to do 「A に（説得して）…させる／A に…してもらう」",
+      "content": [
+        { "text": "get A to do は「A に（説得して）…させる／A に…してもらう」という意味。 A と to do には「A が…する」という能動の関係がある。" }
+      ],
+      "solution": [
+        { "text": "④ to do を選ぶと、 get A to do 「A に（説得して）…させる」という使役的表現になり、「子どもたちが宿題をする」という能動の関係が成立する。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1394,
+      "id": "17-147-q-561",
+      "type": "question",
+      "section_id": "147",
+      "number": "561",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Could you give me a ride to the station tomorrow morning? I must get my car ( ) at the garage.",
+      "options": ["① repair", "② repairing", "③ repaired", "④ to repair"],
+      "q_type": "multiple_choice",
+      "ja": "明日の朝、駅まで車に乗せてもらえませんか。私の車は工場で修理してもらわないといけないので。",
+      "answer": "③",
+      "source_univ": "東京理科大"
+    },
+    {
+      "order": 1395,
+      "id": "17-147-e-561",
+      "type": "explanation",
+      "target_q": "17-147-q-561",
+      "title": "",
+      "label": "◆get A done 「A を…してもらう」〈使役〉",
+      "content": [
+        { "text": "get A done は have A done (→ 558) と同様に、① 「〈使役〉 A を…してもらう」、② 「〈被害〉 A を…される」、③ 「〈完了〉 A を…してしまう」の3つの意味がある。すべて、 A と done には「A が…される」という受動の関係がある。" }
+      ],
+      "solution": [
+        { "text": "my car と repair の関係を「車が修理される」という受動の関係と考えて ③ repaired を選ぶと、 get A done の表現で「車を修理してもらう」という使役の意味になる。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "give A a ride to B 「A（人）を B（場所）まで車で送る」" }
+      ]
+    },
+    {
+      "order": 1396,
+      "id": "17-147-q-562",
+      "type": "question",
+      "section_id": "147",
+      "number": "562",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "A lazy student stood in front of his stern teacher and said, \"I'm sorry. I could not get the homework ( ) by the deadline.\"",
+      "options": ["① be done", "② done", "③ to do", "④ doing"],
+      "q_type": "multiple_choice",
+      "ja": "ある怠惰な生徒が、厳格な教師の前に立ち、「すみません。期限までに宿題をすることができませんでした」と言った。",
+      "answer": "②",
+      "source_univ": "秋田県立大"
+    },
+    {
+      "order": 1397,
+      "id": "17-147-e-562",
+      "type": "explanation",
+      "target_q": "17-147-q-562",
+      "title": "",
+      "label": "◆get A done 「A を…してしまう」〈完了〉",
+      "content": [],
+      "solution": [
+        { "text": "② done を選ぶと、 get A done の表現で、「宿題をしてしまう」という完了の意味になり、「宿題がされる」という受動の関係が成立する。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1398,
+      "type": "section_header",
+      "section_id": "148",
+      "title": "SVO+do の形をとる知覚動詞（see / hear / feel など）の語法"
+    },
+    {
+      "order": 1399,
+      "id": "17-148-q-563",
+      "type": "question",
+      "section_id": "148",
+      "number": "563",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "I was sitting in my car, and I saw a strange man (to enter / enter) the building and then a little later run out again.",
+      "q_type": "error_correction",
+      "ja": "私は車の中に座っていて、見知らぬ男がその建物に入っていき、少ししてからまた飛び出してくるのを目撃した。",
+      "answer": "enter",
+      "source_univ": "神奈川歯科大"
+    },
+    {
+      "order": 1400,
+      "id": "17-148-e-563",
+      "type": "explanation",
+      "target_q": "17-148-q-563",
+      "title": "",
+      "label": "◆see A do 「A が…するのを見る」",
+      "content": [
+        { "text": "知覚動詞は目的語のあとに原形不定詞を用い、〈SVO + do〉の形をとる。 see A do は「A が…するのを見る」という意味。 A と do には「A が…する」という能動の関係がある。" }
+      ],
+      "solution": [
+        { "text": "本問で see A do の do にあたるのは、 enter と run 。よって、 ③ を enter にする。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1401,
+      "id": "17-148-q-564",
+      "type": "question",
+      "section_id": "148",
+      "number": "564",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "When I fell, I felt something ( ) wrong with my foot.",
+      "options": ["① goes", "② has gone", "③ go", "④ will go"],
+      "q_type": "multiple_choice",
+      "ja": "転んだときに、足がどこかおかしくなるのを感じた。",
+      "answer": "③",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 1402,
+      "id": "17-148-e-564",
+      "type": "explanation",
+      "target_q": "17-148-q-564",
+      "title": "",
+      "label": "◆feel A do 「A が…するのを感じる」",
+      "content": [
+        { "text": "feel A do は「A が…するのを感じる」という意味。 A と do には「A が…する」という能動の関係がある。 go wrong 「（計画などが）うまくいかない」 → 583" }
+      ],
+      "solution": [
+        { "text": "本問で原形不定詞にあたるのは ③ go だけ。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1403,
+      "type": "section_header",
+      "section_id": "149",
+      "title": "SVO to do の形をとる動詞"
+    },
+    {
+      "order": 1404,
+      "id": "17-149-s-046",
+      "type": "summary_box",
+      "target_s": "149",
+      "number": "046",
+      "title": "SVO to do の形で用いるおもな動詞",
+      "content": [
+        { "text": "O と to do の間には「O が…する」という能動の意味関係が成立する。" },
+        { "tag": "□", "en": "advise A to do", "ja": "「A に…するように忠告する」", "note": "→ 565" },
+        { "tag": "□", "en": "allow [permit] A to do", "ja": "「A が…することを許す」", "note": "→ 566" },
+        { "tag": "□", "en": "ask A to do", "ja": "「A に…するように頼む」", "note": "→ 567" },
+        { "tag": "□", "en": "cause A to do", "ja": "「A が…する原因となる」", "note": "→ 568" },
+        { "tag": "□", "en": "enable A to do", "ja": "「A が…することを可能にする」", "note": "→ 571" },
+        { "tag": "□", "en": "encourage A to do", "ja": "「A が…するように励ます［勧める］」", "note": "→ 572" },
+        { "tag": "□", "en": "expect A to do", "ja": "「A が…することを期待する」", "note": "→ 573" },
+        { "tag": "□", "en": "force [compel / oblige] A to do", "ja": "「A に（無理やり）…させる」", "note": "→ 569, 570" },
+        { "tag": "□", "en": "get A to do", "ja": "「A に…させる／A に…してもらう」", "note": "→ 560" },
+        { "tag": "□", "en": "help A (to) do", "ja": "「A が…するのを手伝う」", "note": "→ 660" },
+        { "tag": "□", "en": "invite A to do", "ja": "「A に…するように勧める」" },
+        { "tag": "□", "en": "order A to do", "ja": "「A に…するように命じる」" },
+        { "tag": "□", "en": "persuade [convince] A to do", "ja": "「A を説得して…させる」", "note": "→ 574" },
+        { "tag": "□", "en": "remind A to do", "ja": "「A に…することを気づかせる／思い出させる」", "note": "→ 664" },
+        { "tag": "□", "en": "request A to do", "ja": "「A に…するように懇願する」" },
+        { "tag": "□", "en": "require A to do", "ja": "「A に…するように要求する」", "note": "→ 575" },
+        { "tag": "□", "en": "tell A to do", "ja": "「A に…するように言う」" },
+        { "tag": "□", "en": "want [would like] A to do", "ja": "「A に…してほしい（と思う）」", "note": "→ 576" },
+        { "tag": "□", "en": "warn A to do", "ja": "「A に…するように警告する」" }
+      ]
+    },
+    {
+      "order": 1405,
+      "id": "17-149-r-011",
+      "type": "for_reading_and_writing",
+      "target_s": "149",
+      "number": "011",
+      "title": "語法を覚えるメリット（その①）",
+      "content": [
+        { "text": "565 に関して、もし次のような質問を受けたとしたら、皆さんはどう答えますか？\nQ The doctor advised me to go home and to go to bed. の、 to go home and to go to bed を副詞用法の不定詞（意味は「目的」）と考えて、「その医者は、家に帰って寝るために、私に忠告した。」という解釈はなぜだめなのですか。" },
+        { "text": "答えは、 整理して覚える 046 (p. 251) の冒頭にある通り、 S advise A to do という形は「A が…するように S が忠告する」 (→ to do の意味上の主語は A) という意味になると語法で決まっているからです。そのため「S が…するために S が A に忠告する」 (→ to do の意味上の主語は S) という意味の解釈はできないのです。" },
+        { "text": "このように、語法を覚えてしまえば、複数の解釈で無駄に迷うことはなくなります。そしてこれこそが語法を覚える最大のメリットなのです。なお、「S が…するために S が A に（〜するよう）忠告する」は、 S advise A (to do) in order to do ... などと表現できます。" }
+      ]
+    },
+    {
+      "order": 1406,
+      "id": "17-149-q-565",
+      "type": "question",
+      "section_id": "149",
+      "number": "565",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The doctor ( ) me to go home and to go to bed.",
+      "options": ["① suggested", "② said", "③ agreed", "④ advised"],
+      "q_type": "multiple_choice",
+      "ja": "その医者は、家に帰って寝るように私に忠告した。",
+      "answer": "④",
+      "source_univ": "徳島文理大"
+    },
+    {
+      "order": 1407,
+      "id": "17-149-e-565",
+      "type": "explanation",
+      "target_q": "17-149-q-565",
+      "title": "",
+      "label": "◆advise A to do 「A に…するように忠告する」",
+      "content": [],
+      "solution": [
+        { "text": "〈SVO to do〉 の形がとれるのは ④ advised だけ。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1408,
+      "id": "17-149-q-566",
+      "type": "question",
+      "section_id": "149",
+      "number": "566",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "He ( ) me to take a day off.",
+      "options": ["① admitted", "② allowed", "③ forgave", "④ let"],
+      "q_type": "multiple_choice",
+      "ja": "彼は私に休暇を1日取ることを許可してくれた。",
+      "answer": "②",
+      "source_univ": "日本大"
+    },
+    {
+      "order": 1409,
+      "id": "17-149-e-566",
+      "type": "explanation",
+      "target_q": "17-149-q-566",
+      "title": "",
+      "label": "◆allow [permit] A to do 「A が…することを許す」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "take A off 「A（の期間）休暇を取る」" }
+      ]
+    },
+    {
+      "order": 1410,
+      "id": "17-149-q-567",
+      "type": "question",
+      "section_id": "149",
+      "number": "567",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "I asked the waitress (bring / to bring) me a cup of tea, but she brought me coffee.",
+      "q_type": "error_correction",
+      "ja": "ウェイトレスに紅茶を1杯持ってくるよう頼んだが、彼女はコーヒーを持ってきた。",
+      "answer": "to bring",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 1411,
+      "id": "17-149-e-567",
+      "type": "explanation",
+      "target_q": "17-149-q-567",
+      "title": "",
+      "label": "◆ask A to do 「A に…するように頼む」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1412,
+      "id": "17-149-q-568",
+      "type": "question",
+      "section_id": "149",
+      "number": "568",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "What on earth ( ) you to change your mind so suddenly?",
+      "options": ["① caused", "② made", "③ let", "④ had"],
+      "q_type": "multiple_choice",
+      "ja": "いったいなぜそんなに突然あなたは気が変わったんだ。",
+      "answer": "①",
+      "source_univ": "九州産業大"
+    },
+    {
+      "order": 1413,
+      "id": "17-149-e-568",
+      "type": "explanation",
+      "target_q": "17-149-q-568",
+      "title": "",
+      "label": "◆cause A to do 「A が…する原因となる」",
+      "content": [
+        { "text": "S cause O to do 「S は O が…する原因となる」は、「S が原因で（その結果）O は…する」「S が O に…させる」という因果関係を表す。 S make O do (→ 556) と同意。" }
+      ],
+      "solution": [
+        { "text": "本問は「何があなたが気持ちを変える原因となったか」→「なぜあなたは気が変わったのか」という文章。 = What on earth made you change your mind so suddenly?" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1414,
+      "id": "17-149-q-569",
+      "type": "question",
+      "section_id": "149",
+      "number": "569",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Illness ( ) him to resign.",
+      "options": ["① compelled", "② forwarded", "③ made", "④ was prevented"],
+      "q_type": "multiple_choice",
+      "ja": "彼は病気で退職せざるを得なかった。",
+      "answer": "①",
+      "source_univ": "杏林大"
+    },
+    {
+      "order": 1415,
+      "id": "17-149-e-569",
+      "type": "explanation",
+      "target_q": "17-149-q-569",
+      "title": "",
+      "label": "◆compel [force / oblige] A to do 「A に（無理やり）…させる」",
+      "content": [
+        { "text": "S compel [force / oblige] O to do 「S は O に（無理やり）…させる」は、「S が原因で（その結果）O は…せざるを得なくなる」という状況で用いる。" }
+      ],
+      "solution": [
+        { "text": "「病気が彼を退職させた→病気が原因で彼は退職せざるを得なくなった」という意味。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1416,
+      "id": "17-149-q-570",
+      "type": "question",
+      "section_id": "149",
+      "number": "570",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "私たちの旅行は、台風で延期になった。\n(forced / to / our trip / the typhoon / put off / us).",
+      "q_type": "ordering",
+      "ja": "私たちの旅行は、台風で延期になった。",
+      "answer": "The typhoon forced us to put off our trip",
+      "source_univ": "西南学院大"
+    },
+    {
+      "order": 1417,
+      "id": "17-149-e-570",
+      "type": "explanation",
+      "target_q": "17-149-q-570",
+      "title": "",
+      "label": "◆force [compel / oblige] A to do 「A に（無理やり）…させる」",
+      "content": [],
+      "solution": [
+        { "text": "与えられた日本語を「台風は私たちに（無理やり）旅行を延期させた」と読みかえて、主語を the typhoon にして force A to do を使って表す。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "put off A / put A off 「A を延期する」 (= postpone A)", "note": "→ 854" }
+      ]
+    },
+    {
+      "order": 1418,
+      "id": "17-149-q-571",
+      "type": "question",
+      "section_id": "149",
+      "number": "571",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "この新しい顕微鏡で、私たちは信じられないほど小さい物体の詳細な観察ができる。\nThis new (incredibly small / microscope / observe / objects / enables / in / to / us) great detail.",
+      "q_type": "ordering",
+      "ja": "この新しい顕微鏡で、私たちは信じられないほど小さい物体の詳細な観察ができる。",
+      "answer": "microscope enables us to observe incredibly small objects in",
+      "source_univ": "中央大"
+    },
+    {
+      "order": 1419,
+      "id": "17-149-e-571",
+      "type": "explanation",
+      "target_q": "17-149-q-571",
+      "title": "",
+      "label": "◆enable A to do 「A が…することを可能にする」",
+      "content": [],
+      "solution": [
+        { "text": "書き出しが This new とあるので、主語として This new microscope を想定し、「（この新しい顕微鏡は）私たちが…を観察することを可能にする」という内容を enable A to do を用いて表す。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "in detail 「詳細に」", "note": "→ 1194" }
+      ]
+    },
+    {
+      "order": 1420,
+      "id": "17-149-q-572",
+      "type": "question",
+      "section_id": "149",
+      "number": "572",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "単語のつづりがわからないときはいつでも辞書を引くようにと先生がおっしゃった。\nOur teacher (a dictionary / are / consult / encouraged / of / to / uncertain / us / we / whenever) the spelling of a word.",
+      "q_type": "ordering",
+      "ja": "単語のつづりがわからないときはいつでも辞書を引くようにと先生がおっしゃった。",
+      "answer": "encouraged us to consult a dictionary whenever we are uncertain of",
+      "source_univ": "関西学院大"
+    },
+    {
+      "order": 1421,
+      "id": "17-149-e-572",
+      "type": "explanation",
+      "target_q": "17-149-q-572",
+      "title": "",
+      "label": "◆encourage A to do 「A が…するように励ます［勧める］」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "consult a dictionary 「辞書を引く」" },
+        { "tag": "重要", "text": "be uncertain of [about] A 「A に確信［自信］がない」" }
+      ]
+    },
+    {
+      "order": 1422,
+      "id": "17-149-q-573",
+      "type": "question",
+      "section_id": "149",
+      "number": "573",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "The bus was late again! I had ( ) it to arrive at 6 o'clock.",
+      "options": ["① waited", "② hoped", "③ expected", "④ liked"],
+      "q_type": "multiple_choice",
+      "ja": "またバスが遅れた！ 6時に到着すると思っていたのだが。",
+      "answer": "③",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 1423,
+      "id": "17-149-e-573",
+      "type": "explanation",
+      "target_q": "17-149-q-573",
+      "title": "",
+      "label": "◆expect A to do 「A に…することを期待する」",
+      "content": [],
+      "solution": [
+        { "text": "問題文の it (= the bus) と to arrive に注目する。 〈SVO to do〉 の形がとれるのは ③ の expect と ④ の like 。 like の場合、 O には原則として、「人」を用いる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1424,
+      "id": "17-149-s-047",
+      "type": "summary_box",
+      "target_s": "149",
+      "number": "047",
+      "title": "expect の語法",
+      "content": [
+        { "tag": "□", "en": "expect to do", "ja": "「…するつもりである」", "note": "→ 536" },
+        { "tag": "□", "en": "expect A to do", "ja": "「A に…することを期待する」", "note": "→ 573" },
+        { "tag": "□", "en": "expect A from [of] B", "ja": "「B（人）に A を期待する」" },
+        { "en": "The school expects a lot of its students.", "ja": "「その学校は生徒に多くのことを期待している」" }
+      ]
+    },
+    {
+      "order": 1425,
+      "id": "17-149-q-574",
+      "type": "question",
+      "section_id": "149",
+      "number": "574",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "We all tried to ( ) her to dance.",
+      "options": ["① argue", "② persuade", "③ claim", "④ make"],
+      "q_type": "multiple_choice",
+      "ja": "私たちはみな、彼女を説得して踊らせようとした。",
+      "answer": "②",
+      "source_univ": "青山学院大"
+    },
+    {
+      "order": 1426,
+      "id": "17-149-e-574",
+      "type": "explanation",
+      "target_q": "17-149-q-574",
+      "title": "",
+      "label": "◆persuade A to do 「A（人）を説得して…させる」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "① argue with A 「A と論争する」, argue about A 「A について論争する」, argue that SV 「…だと主張する」", "note": "→ 1067" },
+        { "tag": "選択肢", "text": "③ claim that SV 「…だと主張する」, claim to do 「…すると主張する」" },
+        { "tag": "選択肢", "text": "④ make を用いると、 make her dance 「彼女に（無理やり）踊らせる」となる。", "note": "→ 555" }
+      ]
+    },
+    {
+      "order": 1427,
+      "id": "17-149-s-048",
+      "type": "summary_box",
+      "target_s": "149",
+      "number": "048",
+      "title": "persuade の語法",
+      "content": [
+        { "tag": "□", "en": "persuade A to do", "ja": "「A（人）を説得して…させる」 (= convince A to do)", "note": "→ 574" },
+        { "tag": "□", "en": "persuade A into doing", "ja": "「A を説得して…させる」" },
+        { "tag": "□", "en": "persuade A out of doing", "ja": "「A を説得して…することをやめさせる」" },
+        { "tag": "□", "en": "persuade A of B", "ja": "「A に B を確信させる」 (= convince A of B)", "note": "→ 整理して覚える 064 (p. 270)" }
+      ]
+    },
+    {
+      "order": 1428,
+      "id": "17-149-q-575",
+      "type": "question",
+      "section_id": "149",
+      "number": "575",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "In many countries, drivers are ( ) to wear seatbelts at all times.",
+      "options": ["① required", "② fined", "③ exposed", "④ compared"],
+      "q_type": "multiple_choice",
+      "ja": "多くの国では、運転手は常にシートベルトの着用を義務づけられている。",
+      "answer": "①",
+      "source_univ": "愛知大"
+    },
+    {
+      "order": 1429,
+      "id": "17-149-e-575",
+      "type": "explanation",
+      "target_q": "17-149-q-575",
+      "title": "",
+      "label": "◆require A to do 「（法律や規則などが）A（人）に…するように要求する」",
+      "content": [],
+      "solution": [
+        { "text": "require A to do の受動態である A is required to do は「（法律や規則で）A（人）は…しなければならない／…する義務がある」 (= A have to do) ← 「…することを要求されている」という意味になる。\n(例) You are required to take many exams at university. 「大学では多くの試験を受けなければならない」 (= You have to take many exams at university.)" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "② fine A for B [doing] は「A（人）に Bの［…した］ことで罰金を科す」という意味。受動態は A is fined for B [doing] となる。", "note": "→ 696" },
+        { "tag": "選択肢", "text": "③ expose A to B は「A を B（危険・不快な物）にさらす」という意味。受動態は A is exposed to B となる (→ 1153) 。この to は前置詞。" },
+        { "tag": "選択肢", "text": "④ compare A to B は「A と B を比べる／A を B に例える」という意味。受動態は A is compared to B となる。この to は前置詞。" }
+      ]
+    },
+    {
+      "order": 1430,
+      "id": "17-149-s-049",
+      "type": "summary_box",
+      "target_s": "149",
+      "number": "049",
+      "title": "require の語法",
+      "content": [
+        { "tag": "□", "en": "require that S (should) do", "ja": "「S が…することを要求する／必要とする」", "note": "→ 整理して覚える 050 (p. 256)" },
+        { "tag": "□", "en": "require doing", "ja": "「…することを必要とする」" },
+        { "tag": "□", "en": "require A to do", "ja": "「（法律や規則などが）A（人）に…するように要求する」", "note": "→ 575" },
+        { "tag": "□", "en": "require A of B", "ja": "「A を B（人）に要求する」" }
+      ]
+    },
+    {
+      "order": 1431,
+      "id": "17-149-q-576",
+      "type": "question",
+      "section_id": "149",
+      "number": "576",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "Her parents don't want ( ) married.",
+      "options": ["① that she gets", "② her get", "③ her to get", "④ that she got"],
+      "q_type": "multiple_choice",
+      "ja": "彼女の両親は彼女に結婚してほしいとは思っていない。",
+      "answer": "③",
+      "source_univ": "法政大"
+    },
+    {
+      "order": 1432,
+      "id": "17-149-e-576",
+      "type": "explanation",
+      "target_q": "17-149-q-576",
+      "title": "",
+      "label": "◆want [would like] A to do 「A に…してほしい（と思う）」",
+      "content": [],
+      "solution": [
+        { "text": "③ her to get を入れると want A to do の形になる。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "(×) want that SV ... という使い方はできないので、 ①, ④ は不可。" }
+      ]
+    },
+    {
+      "order": 1433,
+      "id": "17-149-r-012",
+      "type": "for_reading_and_writing",
+      "target_s": "149",
+      "number": "012",
+      "title": "語法を覚えるメリット（その②）",
+      "content": [
+        { "text": "want の主な語法は次の4つです。(×) want that SV とは言えないことに注意。" },
+        { "tag": "□", "en": "want A", "ja": "「A をほしい」" },
+        { "tag": "□", "en": "want to do", "ja": "「…したい」" },
+        { "tag": "□", "en": "want A to do", "ja": "「A に…してほしい」" },
+        { "tag": "□", "en": "want doing", "ja": "「（物が）…されることが必要である」", "note": "→ 551" },
+        { "text": "この4つの語法を覚えたら want の解釈で迷うことはなくなります。語法を覚えれば、解釈に迷わないので、英文の内容を正確に理解することができるのです。さらには、英文読解で want が見えた瞬間、上記4通りの後続形を予測できるようになります。後に続く表現を予測できれば、その表現を探して視線が移動するので、自然と英文を読むスピードも上がることになるのです。\n「後続する形が予想できる」というのはリスニングでも威力を発揮します。want の音が聞こえたら、「次に A / to do / A to do / doing の音のどれかがが聞こえるはず！」という有限の可能性だけを検討すればよいのです。「次に何が聞こえるかまったくわからない！」という無限個の可能性があある状況よりもずっと心に余裕が生まれるため、その分リスニングの内容理解の方に注意を向けることが可能になります。このように、語法を覚えることはリスニング力の向上にも効果があります。リスニングが苦手な人は、「語法の暗記（＝音にも注目）」という作業も学習メニューに組み込んでみてください。" }
+      ]
+    },
+    {
+      "order": 1434,
+      "type": "section_header",
+      "section_id": "150",
+      "title": "SV that S (should) do の形をとる動詞"
+    },
+    {
+      "order": 1435,
+      "id": "17-150-s-050",
+      "type": "summary_box",
+      "target_s": "150",
+      "number": "050",
+      "title": "後ろに that 節を続け、that 節内では動詞の原形や should を用いる動詞",
+      "content": [
+        { "tag": "□", "en": "advise that S (should) do ...", "ja": "「…することを助言する」" },
+        { "tag": "□", "en": "ask that S (should) do ...", "ja": "「…することを頼む」" },
+        { "tag": "□", "en": "command that S (should) do ...", "ja": "「…することを命令する」" },
+        { "tag": "□", "en": "demand that S (should) do ...", "ja": "「…することを要求する」" },
+        { "tag": "□", "en": "insist that S (should) do ...", "ja": "「…することを要求する」", "note": "→ 579" },
+        { "tag": "□", "en": "order that S (should) do ...", "ja": "「…することを命令する」", "note": "→ 578" },
+        { "tag": "□", "en": "propose that S (should) do ...", "ja": "「…することを提案する」", "note": "→ 577" },
+        { "tag": "□", "en": "recommend that S (should) do ...", "ja": "「…することを勧める」", "note": "→ 580" },
+        { "tag": "□", "en": "request that S (should) do ...", "ja": "「…することを懇願する」" },
+        { "tag": "□", "en": "require that S (should) do ...", "ja": "「…することを要求する」", "note": "→ 整理して覚える 049 (p. 255)" },
+        { "tag": "□", "en": "suggest that S (should) do ...", "ja": "「…することを提案する」", "note": "→ 577" }
+      ]
+    },
+    {
+      "order": 1436,
+      "id": "17-150-q-577",
+      "type": "question",
+      "section_id": "150",
+      "number": "577",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I suggested ( ) more careful.",
+      "options": ["① her to be", "② that she were", "③ for her be", "④ that she be"],
+      "q_type": "multiple_choice",
+      "ja": "私は彼女に、もっと注意したらどうかと提案した。",
+      "answer": "④",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 1437,
+      "id": "17-150-e-577",
+      "type": "explanation",
+      "target_q": "17-150-q-577",
+      "title": "",
+      "label": "◆suggest [propose] that S (should) do 「…することを提案する」",
+      "content": [],
+      "solution": [
+        { "text": "主節が過去時制の suggested でも、 that 節内は原形の be を用いていることに注意。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "label": "suggest が「…を示唆する／ほのめかす」という意味の場合", "text": "that 節内では主語に応じた形の動詞（直説法）を用いる。\nHer attitude suggested that she was worried. (×) ... she (should) be worried\n「彼女の態度は彼女が心配していることを示唆した→彼女の態度からすると彼女は心配しているようだった」\n時制の一致で that 節内の動詞が過去形の was を用いている点に注意。" },
+        { "tag": "選択肢", "text": "suggest は (×) suggest A to do の形はとらない (→ 662) ので、 ① は不可。" }
+      ]
+    },
+    {
+      "order": 1438,
+      "id": "17-150-q-578",
+      "type": "question",
+      "section_id": "150",
+      "number": "578",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The teacher ordered that every student ( ) a study plan for the summer vacation.",
+      "options": ["① had made", "② has made", "③ make", "④ to make"],
+      "q_type": "multiple_choice",
+      "ja": "先生はどの生徒も夏休みの学習計画をたてるように命じた。",
+      "answer": "③",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 1439,
+      "id": "17-150-e-578",
+      "type": "explanation",
+      "target_q": "17-150-q-578",
+      "title": "",
+      "label": "◆order that S (should) do 「…することを命令する」",
+      "content": [],
+      "solution": [
+        { "text": "主節が過去時制の ordered でも、 that 節内は原形の make を用いていることに注意。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1440,
+      "id": "17-150-s-051",
+      "type": "summary_box",
+      "target_s": "150",
+      "number": "051",
+      "title": "order の語法",
+      "content": [
+        { "tag": "□", "en": "order A to do", "ja": "「A に…するように命じる」", "note": "→ 整理して覚える 046 (p. 251)" },
+        { "tag": "□", "en": "order that S (should) do", "ja": "「…することを命令する」", "note": "→ 578" },
+        { "tag": "□", "en": "order A from B", "ja": "「A（品物）を B（店・場所）に注文する」", "note": "→ 1026" }
+      ]
+    },
+    {
+      "order": 1441,
+      "id": "17-150-q-579",
+      "type": "question",
+      "section_id": "150",
+      "number": "579",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "母は僕の部屋をぜひ一度見たいと言った。\nMy mother (have / should / she / that / insisted / look / a) at my room.",
+      "q_type": "ordering",
+      "ja": "母は僕の部屋をぜひ一度見たいと言った。",
+      "answer": "insisted that she should have a look",
+      "source_univ": "関西外国語大"
+    },
+    {
+      "order": 1442,
+      "id": "17-150-e-579",
+      "type": "explanation",
+      "target_q": "17-150-q-579",
+      "title": "",
+      "label": "◆insist that S (should) do 「…することを要求する」",
+      "content": [],
+      "solution": [
+        { "text": "「母は私の部屋を見ることを要求した」ということなので、 insist that S should do の形を用いて、 My mother insisted that she should have a look at my room. と並べればよい。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "label": "insist が「（事実であることを）主張する」という意味の場合", "text": "that 節内では主語に応じた形の動詞（直説法）を用いる。\n「彼は無罪だと主張した」\n(○) He insisted that he was innocent.\n(×) He insisted that he (should) be innocent.\n時制の一致で that 節内の動詞が過去形の was を用いている点に注意。" }
+      ]
+    },
+    {
+      "order": 1443,
+      "id": "17-150-q-580",
+      "type": "question",
+      "section_id": "150",
+      "number": "580",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I recommended that he ( ) on time to the interview.",
+      "options": ["① come", "② comes", "③ will come", "④ would come"],
+      "q_type": "multiple_choice",
+      "ja": "私は、面接には時間通りに来るよう、彼に勧めた。",
+      "answer": "①",
+      "source_univ": "芝浦工業大"
+    },
+    {
+      "order": 1444,
+      "id": "17-150-e-580",
+      "type": "explanation",
+      "target_q": "17-150-q-580",
+      "title": "",
+      "label": "◆recommend that S (should) do 「…することを勧める」",
+      "content": [],
+      "solution": [
+        { "text": "主節が過去時制の recommended でも、 that 節内は原形の come を用いていることに注意。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1445,
+      "id": "17-150-s-052",
+      "type": "summary_box",
+      "target_s": "150",
+      "number": "052",
+      "title": "recommend の語法",
+      "content": [
+        { "tag": "□", "en": "recommend doing", "ja": "「…することを勧める」", "note": "→ 整理して覚える 043 (p. 239)" },
+        { "tag": "□", "en": "recommend that S (should) do", "ja": "「…することを勧める」", "note": "→ 580" },
+        { "tag": "□", "en": "recommend A to B", "ja": "「A を B（相手）に勧める」" },
+        { "en": "The teacher recommended this book to all her students.", "ja": "「先生はこの本を全生徒に勧めた」" }
+      ]
+    },
+    {
+      "order": 1446,
+      "type": "section_header",
+      "section_id": "151",
+      "title": "SVC の形をとる動詞"
+    },
+    {
+      "order": 1447,
+      "id": "17-151-s-053",
+      "type": "summary_box",
+      "target_s": "151",
+      "number": "053",
+      "title": "SVC の形をとる動詞",
+      "content": [
+        { "tag": "□", "en": "feel", "ja": "「…の感じがする」", "text": "feel good 「気分が良い」", "note": "→ 582" },
+        { "tag": "□", "en": "look", "ja": "「…のように見える」", "text": "look pale 「顔色が悪い」" },
+        { "tag": "□", "en": "seem [appear]", "ja": "「…のように思われる［見える］」", "text": "seem happy 「幸せそうだ」" },
+        { "tag": "□", "en": "sound", "ja": "「…のように聞こえる［思われる］」", "text": "sound good 「良いように聞こえる」" },
+        { "tag": "□", "en": "taste", "ja": "「…な味がする」", "text": "taste sweet 「甘い味がする」" },
+        { "tag": "□", "en": "smell", "ja": "「…のにおいがする」", "text": "smell good 「いいにおいがする」" },
+        { "tag": "□", "en": "lie", "ja": "「…の状態にある［ままである］」", "text": "lie open 「（本などが）開いて置いてある」" },
+        { "tag": "□", "en": "remain [stay]", "ja": "「…のままである」", "text": "remain silent 「黙ったままである」", "note": "→ 581" },
+        { "tag": "□", "en": "become [get / grow]", "ja": "「…になる」", "text": "become clear 「明らかになる」" },
+        { "tag": "□", "en": "go", "ja": "「（悪い状態）になる」", "text": "go bad 「腐る」", "note": "→ 583" },
+        { "tag": "□", "en": "turn", "ja": "「…になる」", "text": "turn pale 「顔色が悪くなる」" },
+        { "tag": "□", "en": "prove [turn out]", "ja": "「…とわかる／…と判明する」", "text": "prove (to be) wrong 「誤りだとわかる」" }
+      ]
+    },
+    {
+      "order": 1448,
+      "id": "17-151-q-581",
+      "type": "question",
+      "section_id": "151",
+      "number": "581",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "After the car hit the boy, he ( ) unconscious for two days.",
+      "options": ["① remained", "② remembered", "③ removed", "④ rescued"],
+      "q_type": "multiple_choice",
+      "ja": "その少年は車にはねられてから2日間意識不明のままだった。",
+      "answer": "①",
+      "source_univ": "センター試験"
+    },
+    {
+      "order": 1449,
+      "id": "17-151-e-581",
+      "type": "explanation",
+      "target_q": "17-151-q-581",
+      "title": "",
+      "label": "◆remain unconscious 「意識がないままである」",
+      "content": [
+        { "text": "remain C 「C のままである」 の補語 C には、形容詞・名詞・分詞などが来る。" }
+      ],
+      "solution": [
+        { "text": "本問では形容詞 unconscious を補語として用いている。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "label": "〈remain + 場所〉", "text": "「（場所）に居残る／とどまる (= stay)」という意味。\nremain at home 「家にいる」、remain in Japan 「日本に滞在する」" }
+      ]
+    },
+    {
+      "order": 1450,
+      "id": "17-151-q-582",
+      "type": "question",
+      "section_id": "151",
+      "number": "582",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "この薬を飲めば、あなたは数日で気分が良くなるでしょう。\n(better / make / medicine / will / this / feel / you) in a few days.",
+      "q_type": "ordering",
+      "ja": "この薬を飲めば、あなたは数日で気分が良くなるでしょう。",
+      "answer": "This medicine will make you feel better",
+      "source_univ": "札幌大"
+    },
+    {
+      "order": 1451,
+      "id": "17-151-e-582",
+      "type": "explanation",
+      "target_q": "17-151-q-582",
+      "title": "",
+      "label": "◆feel better 「気分が良くなる」",
+      "content": [],
+      "solution": [
+        { "text": "本問では形容詞 good / well の比較級 better を feel の補語として用いている。" },
+        { "text": "「この薬があなたを気分良くさせる」という内容を、 make A do 「（もの・事が原因で）A は…する」 (→ 556) を用いて表す。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1452,
+      "id": "17-151-q-583",
+      "type": "question",
+      "section_id": "151",
+      "number": "583",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "何がうまくいかなかったのか私には正確に説明できない。\nI cannot explain exactly what has ( ) ( ).",
+      "q_type": "completion",
+      "ja": "何がうまくいかなかったのか私には正確に説明できない。",
+      "answer": "gone wrong",
+      "source_univ": "関西学院大"
+    },
+    {
+      "order": 1453,
+      "id": "17-151-e-583",
+      "type": "explanation",
+      "target_q": "17-151-q-583",
+      "title": "",
+      "label": "◆go wrong 「（計画などが）うまくいかない」",
+      "content": [
+        { "text": "go C 「C（悪い状態）になる」の補語 C には通例、好ましくない状態を表す形容詞などが来る。 go bad 「腐る」、go bankrupt 「倒産する」" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1454,
+      "id": "17-151-q-584",
+      "type": "question",
+      "section_id": "151",
+      "number": "584",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Her dreams have ( ) true.",
+      "options": ["① turned", "② come", "③ gotten", "④ gone"],
+      "q_type": "multiple_choice",
+      "ja": "彼女の夢は実現した。",
+      "answer": "②",
+      "source_univ": "九州国際大"
+    },
+    {
+      "order": 1455,
+      "id": "17-151-e-584",
+      "type": "explanation",
+      "target_q": "17-151-q-584",
+      "title": "",
+      "label": "◆come true 「（夢などが）実現する／本当になる」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "プラス", "text": "come true は「夢」を主語にして「夢が実現する」という意味。「夢を実現する」は realize a dream (→ 608) と表現する。" }
+      ]
+    },
+    {
+      "order": 1456,
+      "type": "section_header",
+      "section_id": "152",
+      "title": "自動詞と間違えやすい他動詞"
+    },
+    {
+      "order": 1457,
+      "id": "17-152-s-055",
+      "type": "summary_box",
+      "target_s": "152",
+      "number": "055",
+      "title": "marry の語法",
+      "content": [
+        { "tag": "□", "en": "marry A", "ja": "「A と結婚する」", "note": "→ 588" },
+        { "en": "Will you marry me?", "ja": "「私と結婚してくださいませんか」" },
+        { "tag": "□", "en": "get married (to A)", "ja": "「(A と) 結婚する」", "text": "← 〈動作〉を表す" },
+        { "en": "We got married ten years ago.", "ja": "「私たちは10年前に結婚した」" },
+        { "tag": "□", "en": "be married (to A)", "ja": "「(A と) 結婚している」", "text": "← 〈状態〉を表す", "note": "→ 589" },
+        { "en": "We have been married for ten years.", "ja": "「私たちは結婚して10年です」" }
+      ]
+    },
+    {
+      "order": 1458,
+      "id": "17-152-q-585",
+      "type": "question",
+      "section_id": "152",
+      "number": "585",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "The baby ( ) her mother.",
+      "options": ["① looks", "② resembles to", "③ looks after", "④ resembles"],
+      "q_type": "multiple_choice",
+      "ja": "その赤ちゃんは母親に似ている。",
+      "answer": "④",
+      "source_univ": "東京歯科大"
+    },
+    {
+      "order": 1459,
+      "id": "17-152-e-585",
+      "type": "explanation",
+      "target_q": "17-152-q-585",
+      "title": "",
+      "label": "◆resemble A 「A に似ている」",
+      "content": [
+        { "text": "resemble は他動詞。 (×) resemble to A という誤りに注意。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "① の look は 〈look + 形容詞〉 か、 〈look like + 名詞〉 ならば「…のように見える」という意味になる。 He looks happy. 「彼は幸せそうに見える」, He looks like an adult. 「彼は大人のように見える」 ③ look after A 「A の世話をする／A の面倒を見る」", "note": "→ 948" }
+      ]
+    },
+    {
+      "order": 1460,
+      "id": "17-152-q-586",
+      "type": "question",
+      "section_id": "152",
+      "number": "586",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "With a huge smile, Catherine waved her hand happily as she (approached to me / approached me).",
+      "q_type": "error_correction",
+      "ja": "キャサリンは満面の笑みを浮かべて、私に近づきながらうれしそうに手を振った。",
+      "answer": "approached me",
+      "source_univ": "麗澤大"
+    },
+    {
+      "order": 1461,
+      "id": "17-152-e-586",
+      "type": "explanation",
+      "target_q": "17-152-q-586",
+      "title": "",
+      "label": "◆approach A 「A に近づく」",
+      "content": [
+        { "text": "approach は他動詞。 (×) approach to A という誤りに注意。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1462,
+      "id": "17-152-q-587",
+      "type": "question",
+      "section_id": "152",
+      "number": "587",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "We ( ) the matter far into the night.",
+      "options": ["① discussed", "② discussed about", "③ discussed on", "④ discussed over"],
+      "q_type": "multiple_choice",
+      "ja": "私たちは夜遅くまでその件について話し合った。",
+      "answer": "①",
+      "source_univ": "成城大"
+    },
+    {
+      "order": 1463,
+      "id": "17-152-e-587",
+      "type": "explanation",
+      "target_q": "17-152-q-587",
+      "title": "",
+      "label": "◆discuss A 「A について話し合う」",
+      "content": [
+        { "text": "discuss は他動詞。 (×) discuss about A という誤りに注意。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1464,
+      "id": "17-152-q-588",
+      "type": "question",
+      "section_id": "152",
+      "number": "588",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "Although Mary and I are from different ethnic backgrounds, I have decided to (marry with her / marry her).",
+      "q_type": "error_correction",
+      "ja": "メアリーと私は民族的背景は異なるが、私は彼女と結婚することに決めた。",
+      "answer": "marry her",
+      "source_univ": "中京大"
+    },
+    {
+      "order": 1465,
+      "id": "17-152-e-588",
+      "type": "explanation",
+      "target_q": "17-152-q-588",
+      "title": "",
+      "label": "◆marry A 「A と結婚する」",
+      "content": [
+        { "text": "marry は他動詞。 (×) marry with[to] A という誤りに注意。 marry の語法については左頁の 整理して覚える 055 参照。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1466,
+      "id": "17-152-q-589",
+      "type": "question",
+      "section_id": "152",
+      "number": "589",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "ケイトと結婚してどれぐらいになりますか。（1語不足）\n(been / have / how / Kate / long / married / you)?",
+      "q_type": "ordering",
+      "ja": "ケイトと結婚してどれぐらいになりますか。",
+      "answer": "How long have you been married to Kate",
+      "source_univ": "中央大"
+    },
+    {
+      "order": 1467,
+      "id": "17-152-e-589",
+      "type": "explanation",
+      "target_q": "17-152-q-589",
+      "title": "",
+      "label": "◆be married (to A) 「(Aと) 結婚している」",
+      "content": [],
+      "solution": [
+        { "text": "「どのくらいの期間ケイトと結婚しているか」という内容を、疑問詞 how long (→ 452) を用いて表現する。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1468,
+      "id": "17-152-s-054",
+      "type": "summary_box",
+      "target_s": "152",
+      "number": "054",
+      "title": "自動詞と間違えやすい他動詞",
+      "content": [
+        { "tag": "□", "en": "accompany A", "ja": "「A と一緒に行く」 (= go with A)" },
+        { "tag": "□", "en": "answer A", "ja": "「A（質問）に答える／A（人・手紙）に返信する」 (= reply to A)" },
+        { "tag": "□", "en": "approach A", "ja": "「A に近づく」 (= move nearer to A)", "note": "→ 586" },
+        { "tag": "□", "en": "attend A", "ja": "「A（会議・授業など）に出席する／A（学校・教会など）に通う」 (= go to A)" },
+        { "tag": "□", "en": "discuss A", "ja": "「A について話し合う」 (= talk about A)", "note": "→ 587" },
+        { "tag": "□", "en": "enter A", "ja": "「A（建物・部屋など）に入る」 (= go [come] into A)" },
+        { "tag": "□", "en": "inhabit A", "ja": "「A に住んでいる」 (= live in A)" },
+        { "tag": "□", "en": "leave A", "ja": "「A を去る」" },
+        { "tag": "□", "en": "marry A", "ja": "「A と結婚する」", "note": "→ 588" },
+        { "tag": "□", "en": "mention A", "ja": "「A に言及する」 (= refer to A)" },
+        { "tag": "□", "en": "obey A", "ja": "「A に従う」" },
+        { "tag": "□", "en": "oppose A", "ja": "「A に反対する」 (= object to A)" },
+        { "tag": "□", "en": "reach A", "ja": "「A に到着する」 (= arrive at [in] A / get to A)" },
+        { "tag": "□", "en": "resemble A", "ja": "「A に似ている」 (= take after A)", "note": "→ 585" },
+        { "tag": "□", "en": "search A", "ja": "「A（場所）を捜す／調べる」" },
+        { "tag": "□", "en": "survive A", "ja": "「A（事故・災害など）を切り抜けて生き残る／A より長生きする」" }
+      ]
+    },
+    {
+      "order": 1469,
+      "type": "section_header",
+      "section_id": "153",
+      "title": "他動詞と間違えやすい自動詞"
+    },
+    {
+      "order": 1470,
+      "id": "17-153-q-590",
+      "type": "question",
+      "section_id": "153",
+      "number": "590",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "She hopes to work for a travel agency after she ( ) college.",
+      "options": ["① graduates from", "② graduated from", "③ has graduated", "④ graduates"],
+      "q_type": "multiple_choice",
+      "ja": "大学卒業後、彼女は旅行代理店で働くことを希望している。",
+      "answer": "①",
+      "source_univ": "奥羽大"
+    },
+    {
+      "order": 1471,
+      "id": "17-153-e-590",
+      "type": "explanation",
+      "target_q": "17-153-q-590",
+      "title": "",
+      "label": "◆graduate from A 「A を卒業する」",
+      "content": [],
+      "solution": [
+        { "text": "after she graduates from college は時を表す副詞節。時を表す副詞節 (→ Section 008 (p. 029)) は未来の内容でも現在時制を用いるので、現在形 ① graduates from が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1472,
+      "id": "17-153-q-591",
+      "type": "question",
+      "section_id": "153",
+      "number": "591",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "When I realized I was wrong, I apologized ( ).",
+      "options": ["① him my mistake", "② him for my mistake", "③ to him my mistake", "④ to him for my mistake"],
+      "q_type": "multiple_choice",
+      "ja": "私は自分が間違っていることに気づいて、彼に自分の間違いを謝罪した。",
+      "answer": "④",
+      "source_univ": "東京電機大"
+    },
+    {
+      "order": 1473,
+      "id": "17-153-e-591",
+      "type": "explanation",
+      "target_q": "17-153-q-591",
+      "title": "",
+      "label": "◆apologize to A for B 「B のことで A に謝罪する」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1474,
+      "id": "17-153-q-592",
+      "type": "question",
+      "section_id": "153",
+      "number": "592",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "彼女が仕事のことで不満を言うのを聞いたことがありますか。\nHave (about / complain / ever heard / her / her job / you)?",
+      "q_type": "ordering",
+      "ja": "彼女が仕事のことで不満を言うのを聞いたことがありますか。",
+      "answer": "you ever heard her complain about her job",
+      "source_univ": "愛知みずほ大"
+    },
+    {
+      "order": 1475,
+      "id": "17-153-e-592",
+      "type": "explanation",
+      "target_q": "17-153-q-592",
+      "title": "",
+      "label": "◆complain to A about[of] B 「B について A に文句を言う」",
+      "content": [],
+      "solution": [
+        { "text": "本問では不満を言う相手が明示されていないので、 to A の部分が省略されている。" },
+        { "text": "「彼女が不満を言うのを聞く」という内容は hear A do (→ 143) を用いて表す。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1476,
+      "id": "17-153-s-056",
+      "type": "summary_box",
+      "target_s": "153",
+      "number": "056",
+      "title": "他動詞と間違えやすい自動詞",
+      "content": [
+        { "tag": "□", "en": "agree with A", "ja": "「A（人・意見・考え）に賛成する」", "note": "→ 905" },
+        { "tag": "□", "en": "apologize to A for B", "ja": "「B のことで A に謝罪する」", "note": "→ 591" },
+        { "tag": "□", "en": "argue with A about [over] B", "ja": "「B について A と口論する」" },
+        { "tag": "□", "en": "arrive at [in] A", "ja": "「A に到着する」", "note": "→ 912" },
+        { "tag": "□", "en": "attend to A", "ja": "「A に注意を払う／A を処理する」" },
+        { "tag": "□", "en": "complain to A about [of] B", "ja": "「B について A に文句を言う」", "note": "→ 592" },
+        { "tag": "□", "en": "decide on A", "ja": "「（多くの選択肢の中から）A に決める／A を選ぶ」" },
+        { "tag": "□", "en": "get to A", "ja": "「A に到着する」", "note": "→ 911" },
+        { "tag": "□", "en": "graduate from A", "ja": "「A を卒業する」", "note": "→ 590" },
+        { "tag": "□", "en": "leave for A", "ja": "「A（場所）に向かって出発する」", "note": "→ 1032" },
+        { "tag": "□", "en": "long for A", "ja": "「A を切望する」" },
+        { "tag": "□", "en": "object to A", "ja": "「A に反対する」", "note": "→ 167" },
+        { "tag": "□", "en": "participate in A", "ja": "「A に参加する」", "note": "→ 1040" },
+        { "tag": "□", "en": "reach for A", "ja": "「A を取ろうと手を伸ばす」" },
+        { "tag": "□", "en": "return to A", "ja": "「A に戻る」" },
+        { "tag": "□", "en": "search for A", "ja": "「A を捜し求める」", "note": "→ 950" }
+      ]
+    },
+    {
+      "order": 1477,
+      "type": "section_header",
+      "section_id": "154",
+      "title": "SVOO の形をとる注意すべき動詞"
+    },
+    {
+      "order": 1478,
+      "id": "17-154-q-593",
+      "type": "question",
+      "section_id": "154",
+      "number": "593",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The new software program will ( ) us a lot of time and labor.",
+      "options": ["① give", "② get", "③ save", "④ make"],
+      "q_type": "multiple_choice",
+      "ja": "新しいソフトウェアプログラムを使えば、私たちは多くの時間と労力を省けるだろう。",
+      "answer": "③",
+      "source_univ": "桜美林大"
+    },
+    {
+      "order": 1479,
+      "id": "17-154-e-593",
+      "type": "explanation",
+      "target_q": "17-154-q-593",
+      "title": "",
+      "label": "◆save AB 「A から B（労力・時間・お金）を省く」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1480,
+      "id": "17-154-q-594",
+      "type": "question",
+      "section_id": "154",
+      "number": "594",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "その事故で自分の車は大破したので、店で修理してもらうのにかなり費用がかさんだ。\nIt (a lot of money / cost / me / my car / repaired / to have) at the shop because it was heavily damaged in the accident.",
+      "q_type": "ordering",
+      "ja": "その事故で自分の車は大破したので、店で修理してもらうのにかなり費用がかさんだ。",
+      "answer": "cost me a lot of money to have my car repaired",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 1481,
+      "id": "17-154-e-594",
+      "type": "explanation",
+      "target_q": "17-154-q-594",
+      "title": "",
+      "label": "◆cost AB 「A に B（金額・費用）がかかる／A に B（損失・犠牲）を払わせる」",
+      "content": [
+        { "text": "形式主語 It と真主語 to に不定詞を用いた、 It costs A B to do. 「A（人）が…するのに B（金額・費用）がかかる」という形で頻出する。動詞 cost の活用は cost-cost-cost。" }
+      ],
+      "solution": [
+        { "text": "「（私の車を）修理してもらう」は have A done 「A を…してもらう」 (→ 558) で表す。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1482,
+      "id": "17-154-q-595",
+      "type": "question",
+      "section_id": "154",
+      "number": "595",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "It took me (for five hours to finish / five hours to finish) this homework, so I could not go to the video shop to return my overdue DVDs.",
+      "q_type": "error_correction",
+      "ja": "この宿題を終えるのに5時間かかったので、返却期限の過ぎているDVDをビデオ店に返しに行くことができなかった。",
+      "answer": "five hours to finish",
+      "source_univ": "東京薬科大"
+    },
+    {
+      "order": 1483,
+      "id": "17-154-e-595",
+      "type": "explanation",
+      "target_q": "17-154-q-595",
+      "title": "",
+      "label": "◆take AB 「A に B（時間・労力）がかかる」",
+      "content": [
+        { "text": "形式主語 It と真主語 to に不定詞を用いた、 It takes A B to do. 「A（人）が…するのに B（時間・労力）がかかる」という形で頻出する。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1484,
+      "id": "17-154-q-596",
+      "type": "question",
+      "section_id": "154",
+      "number": "596",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "その商品をお届けするのが少しでも遅れれば、私たちは大いに迷惑を被ることになる。\nAny (cause / delay / delivering / in / the goods / will) us a lot of trouble.",
+      "q_type": "ordering",
+      "ja": "その商品をお届けするのが少しでも遅れれば、私たちは大いに迷惑を被ることになる。",
+      "answer": "delay in delivering the goods will cause",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 1485,
+      "id": "17-154-e-596",
+      "type": "explanation",
+      "target_q": "17-154-q-596",
+      "title": "",
+      "label": "◆cause AB 「A に B（苦痛・損害）をもたらす」",
+      "content": [],
+      "solution": [
+        { "text": "「…が私たちに多くの迷惑をもたらす」という内容を cause A B を用いて表す。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "a delay in doing 「…することの遅れ」" }
+      ]
+    },
+    {
+      "order": 1486,
+      "id": "17-154-q-597",
+      "type": "question",
+      "section_id": "154",
+      "number": "597",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "私が成功したのは彼女の助言のおかげだ。\nIt is (advice / her / I / my / owe / that / to) success.",
+      "q_type": "ordering",
+      "ja": "私が成功したのは彼女の助言のおかげだ。",
+      "answer": "to her advice that I owe my",
+      "source_univ": "立命館大"
+    },
+    {
+      "order": 1487,
+      "id": "17-154-e-597",
+      "type": "explanation",
+      "target_q": "17-154-q-597",
+      "title": "",
+      "label": "◆owe AB 「A に B（お金）を借りている／A に B（恩義）を負っている」 (= owe B to A)",
+      "content": [
+        { "text": "owe B to A は「B は A のおかげである」という意味で用いることが多い。" }
+      ],
+      "solution": [
+        { "text": "「私の成功は彼女の助言のおかげである」は、 owe B to A 「B は A のおかげである」を用いて、 I owe my success to her advice. と表せる。" },
+        { "text": "副詞句 to her advice を強調構文の It is と that で挟んで強調すると、 It is to her advice that I owe my success. となる (→ Section 140 (p. 229))。\nI owe my success to her advice. → It is to her advice that I owe my success." }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1488,
+      "id": "17-154-s-057",
+      "type": "summary_box",
+      "target_s": "154",
+      "number": "057",
+      "title": "SVOO の形をとる注意すべき動詞",
+      "content": [
+        { "tag": "□", "en": "afford AB", "ja": "「A に B を与える」" },
+        { "tag": "□", "en": "allow AB", "ja": "「A に B（お金・時間・食べもの）を与える」" },
+        { "tag": "□", "en": "cause AB", "ja": "「A に B（苦痛・損害）をもたらす」", "note": "→ 596" },
+        { "tag": "□", "en": "charge AB", "ja": "「A に B（金額）を請求する」" },
+        { "tag": "□", "en": "cost AB", "ja": "「A に B（金額・費用）がかかる／A に B（損失・犠牲）を払わせる」", "note": "→ 594" },
+        { "tag": "□", "en": "deny AB", "ja": "「A に B（要求されたもの）を与えない」" },
+        { "tag": "□", "en": "leave AB", "ja": "「A に B を残しておく」" },
+        { "tag": "□", "en": "lend AB", "ja": "「A に B を（無料で）貸す」" },
+        { "tag": "□", "en": "offer AB", "ja": "「A に B を提供する」" },
+        { "tag": "□", "en": "owe AB", "ja": "「A に B（お金）を借りている／A に B（恩義）を負っている」 (= owe B to A)", "note": "→ 597" },
+        { "tag": "□", "en": "save AB", "ja": "「A から B（労力・時間・お金）を省く」", "note": "→ 593" },
+        { "tag": "□", "en": "spare AB", "ja": "「A に B を取っておく／A に B（時間）を割く」" },
+        { "tag": "□", "en": "take AB", "ja": "「A に B（時間・労力）がかかる」", "note": "→ 595" },
+        { "tag": "□", "en": "wish AB", "ja": "「A に B（幸運・成功）を祈る」" }
+      ]
+    },
+    {
+      "order": 1489,
+      "type": "section_header",
+      "section_id": "155",
+      "title": "SVOO の形をとる do の用法"
+    },
+    {
+      "order": 1490,
+      "id": "17-155-q-598",
+      "type": "question",
+      "section_id": "155",
+      "number": "598",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "A change of air will ( ) her good.",
+      "options": ["① effect", "② give", "③ allow", "④ do"],
+      "q_type": "multiple_choice",
+      "ja": "気分転換が彼女のためには良いでしょう。",
+      "answer": "④",
+      "source_univ": "名城大"
+    },
+    {
+      "order": 1491,
+      "id": "17-155-e-598",
+      "type": "explanation",
+      "target_q": "17-155-q-598",
+      "title": "",
+      "label": "◆do A good 「A のためになる」 (= do good to A)",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1492,
+      "id": "17-155-q-599",
+      "type": "question",
+      "section_id": "155",
+      "number": "599",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "Drinking and smoking will ( ) you great harm.",
+      "options": ["① have", "② be", "③ do", "④ help"],
+      "q_type": "multiple_choice",
+      "ja": "飲酒と喫煙は体に大きな害をもたらす。",
+      "answer": "③",
+      "source_univ": "つくば国際大"
+    },
+    {
+      "order": 1493,
+      "id": "17-155-e-599",
+      "type": "explanation",
+      "target_q": "17-155-q-599",
+      "title": "",
+      "label": "◆do A harm 「A の害になる」 (= do harm to A)",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1494,
+      "id": "17-155-q-600",
+      "type": "question",
+      "section_id": "155",
+      "number": "600",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Could you ( ) me a favor and take out the garbage?",
+      "options": ["① call", "② carry", "③ do", "④ take"],
+      "q_type": "multiple_choice",
+      "ja": "お願いがあるのですが、ゴミを出してもらえますでしょうか。",
+      "answer": "③",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 1495,
+      "id": "17-155-e-600",
+      "type": "explanation",
+      "target_q": "17-155-q-600",
+      "title": "",
+      "label": "◆do A a favor 「A のお願いを聞き入れる」",
+      "content": [
+        { "text": "Could [Would] you do me a favor? = May I ask a favor of you? = May I ask you a favor? 「お願いを聞いていただけますでしょうか」という形で頻出する。", "note": "→ 1075, 1349" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1496,
+      "type": "section_header",
+      "section_id": "156",
+      "title": "意外な意味を持つ自動詞"
+    },
+    {
+      "order": 1497,
+      "id": "17-156-q-601",
+      "type": "question",
+      "section_id": "156",
+      "number": "601",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The latest computers with new software are ( ) well now.",
+      "options": ["① selling", "② sold", "③ to be sold", "④ to sell"],
+      "q_type": "multiple_choice",
+      "ja": "新しいソフトが入った最新のコンピューターは、現在よく売れている。",
+      "answer": "①",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 1498,
+      "id": "17-156-e-601",
+      "type": "explanation",
+      "target_q": "17-156-q-601",
+      "title": "",
+      "label": "◆sell 「売れる」",
+      "content": [
+        { "text": "自動詞の sell は well / badly を伴い、「売れ行きが良い／悪い」という意味になる。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1499,
+      "id": "17-156-q-602",
+      "type": "question",
+      "section_id": "156",
+      "number": "602",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "Some day you will realize that honesty ( ).",
+      "options": ["① buys", "② pays", "③ gives", "④ sells"],
+      "q_type": "multiple_choice",
+      "ja": "正直は割に合うということに、いつかあなたも気づくでしょう。",
+      "answer": "②",
+      "source_univ": "中央大"
+    },
+    {
+      "order": 1500,
+      "id": "17-156-e-602",
+      "type": "explanation",
+      "target_q": "17-156-q-602",
+      "title": "",
+      "label": "◆pay 「割に合う／利益を生む」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1501,
+      "id": "17-156-q-603",
+      "type": "question",
+      "section_id": "156",
+      "number": "603",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "Any dictionary ( ) as long as it is an English dictionary.",
+      "options": ["① will do", "② should go", "③ may use", "④ can run"],
+      "q_type": "multiple_choice",
+      "ja": "英語の辞書でありさえすれば、どんな辞書でもかまいません。",
+      "answer": "①",
+      "source_univ": "明治大"
+    },
+    {
+      "order": 1502,
+      "id": "17-156-e-603",
+      "type": "explanation",
+      "target_q": "17-156-q-603",
+      "title": "",
+      "label": "◆do 「間に合う／役立つ／十分である」",
+      "content": [
+        { "text": "自動詞 do は will [would] do の形で「間に合う／役立つ／十分である」という意味になる。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1503,
+      "id": "17-156-s-058",
+      "type": "summary_box",
+      "target_s": "156",
+      "number": "058",
+      "title": "意外な意味を持つ自動詞",
+      "content": [
+        { "tag": "□", "en": "count", "ja": "「価値がある／重要である」", "text": "cf. count for nothing 「無価値である／重要ではない」" },
+        { "tag": "□", "en": "do", "ja": "「間に合う／役立つ／十分である」", "note": "→ 603" },
+        { "tag": "□", "en": "last", "ja": "「ある期間続く／ある期間長持ちする」" },
+        { "tag": "□", "en": "matter", "ja": "「重要である」", "note": "→ 669" },
+        { "tag": "□", "en": "pay", "ja": "「割に合う／利益を生む」", "note": "→ 602", "text": "cf. pay off 「（計画・努力などが）実を結ぶ／うまく行く」" },
+        { "tag": "□", "en": "sell", "ja": "「売れる」", "note": "→ 601" }
+      ]
+    },
+    {
+      "order": 1504,
+      "type": "section_header",
+      "section_id": "157",
+      "title": "意外な意味を持つ他動詞"
+    },
+    {
+      "order": 1505,
+      "id": "17-157-s-059",
+      "type": "summary_box",
+      "target_s": "157",
+      "number": "059",
+      "title": "意外な意味を持つ他動詞",
+      "content": [
+        { "tag": "□", "en": "book A", "ja": "「A（座席・部屋・切符）を予約する」" },
+        { "tag": "□", "en": "command a view of A", "ja": "「（場所が）A（景色）を見渡す」", "note": "→ 607" },
+        { "tag": "□", "en": "consult A", "ja": "「A（専門家）に意見を求める／（医者）に診てもらう／（辞書）を引く」", "note": "→ 606" },
+        { "tag": "□", "en": "cover A", "ja": "「A（出費）をまかなう／（事件）を報道する」" },
+        { "tag": "□", "en": "fail A", "ja": "「A（人）の役に立たない」" },
+        { "tag": "□", "en": "fire A", "ja": "「A（人）を解雇する」" },
+        { "tag": "□", "en": "meet A", "ja": "「A（要求・期待）を満たす」" },
+        { "tag": "□", "en": "miss A", "ja": "「A が（い）ないのを寂しく思う／A を懐かしく思う」", "note": "→ 609" },
+        { "tag": "□", "en": "read", "ja": "「（本・掲示など）…と読める／…と書いてある」", "note": "→ 604" },
+        { "tag": "□", "en": "realize A", "ja": "「A（夢・希望・目的など）を実現する」", "note": "→ 608" },
+        { "tag": "□", "en": "run A", "ja": "「A（店・会社など）を経営する」", "text": "cf. run the risk of doing 「…する危険［恐れ］がある」" },
+        { "tag": "□", "en": "see A", "ja": "「A（医者など）に診てもらう」", "note": "→ 606" },
+        { "tag": "□", "en": "stand A", "ja": "「A をがまんする／A に耐える」", "note": "→ 605" }
+      ]
+    },
+    {
+      "order": 1506,
+      "id": "17-157-q-604",
+      "type": "question",
+      "section_id": "157",
+      "number": "604",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "There was a notice board. It ( ) \"Keep off the grass.\"",
+      "options": ["① looked", "② read", "③ saw", "④ wrote"],
+      "q_type": "multiple_choice",
+      "ja": "掲示板があり、そこには「芝生立ち入り禁止」と書いてあった。",
+      "answer": "②",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 1507,
+      "id": "17-157-e-604",
+      "type": "explanation",
+      "target_q": "17-157-q-604",
+      "title": "",
+      "label": "◆read 「（本・掲示など）…と読める／…と書いてある」",
+      "content": [
+        { "text": "他動詞の read は「…と読める」という意味。 read as follows ... 「…のように書いてある」という用法もあり、この場合は自動詞。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "プラス", "label": "say にも「（本・掲示などに）…と書いてある」という意味がある。 → 619", "text": "The road sign says \"No parking.\"\n「道路標識には『駐車禁止』と書いてある」" }
+      ]
+    },
+    {
+      "order": 1508,
+      "id": "17-157-q-605",
+      "type": "question",
+      "section_id": "157",
+      "number": "605",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "I can't ( ) this noise any longer.",
+      "options": ["① draw", "② loose", "③ note", "④ stand"],
+      "q_type": "multiple_choice",
+      "ja": "これ以上この騒音には耐えられない。",
+      "answer": "④",
+      "source_univ": "金沢工業大"
+    },
+    {
+      "order": 1509,
+      "id": "17-157-e-605",
+      "type": "explanation",
+      "target_q": "17-157-q-605",
+      "title": "",
+      "label": "◆stand A 「A をがまんする／A に耐える」",
+      "content": [
+        { "text": "他動詞の stand は「…をがまんする」という意味。否定文の cannot [can't] stand A [doing] 「A［…すること］をがまんできない」という形で用いるのが原則。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1510,
+      "id": "17-157-q-606",
+      "type": "question",
+      "section_id": "157",
+      "number": "606",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "If you have a bad headache, go and ( ) the doctor.",
+      "options": ["① take a look at", "② examined by", "③ see", "④ meet"],
+      "q_type": "multiple_choice",
+      "ja": "頭痛がひどいなら、医者に行って診てもらいなさい。",
+      "answer": "③",
+      "source_univ": "岩手医科大"
+    },
+    {
+      "order": 1511,
+      "id": "17-157-e-606",
+      "type": "explanation",
+      "target_q": "17-157-q-606",
+      "title": "",
+      "label": "◆see A 「A（医者など）に診てもらう」",
+      "content": [
+        { "text": "see a doctor は「医者に診てもらう」という意味。 consult a doctor という言い方もある。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1512,
+      "id": "17-157-q-607",
+      "type": "question",
+      "section_id": "157",
+      "number": "607",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "This hill ( ) a fine view of the Kanto Plains.",
+      "options": ["① sees", "② looks", "③ appears", "④ commands"],
+      "q_type": "multiple_choice",
+      "ja": "この丘からは、関東平野の見晴らしが良い。",
+      "answer": "④",
+      "source_univ": "岡山商科大"
+    },
+    {
+      "order": 1513,
+      "id": "17-157-e-607",
+      "type": "explanation",
+      "target_q": "17-157-q-607",
+      "title": "",
+      "label": "◆command a view of A 「（場所が）A（景色）を見渡す」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1514,
+      "id": "17-157-q-608",
+      "type": "question",
+      "section_id": "157",
+      "number": "608",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "\"Why did Jack quit his job?\"\n\"He wanted to ( ) his dream of opening his own cafe.\"",
+      "options": ["① come true", "② increase", "③ make sure", "④ realize"],
+      "q_type": "multiple_choice",
+      "ja": "「どうしてジャックは仕事を辞めたのですか」「自分の喫茶店を開くという夢を実現したかったからです」",
+      "answer": "④",
+      "source_univ": "センター試験"
+    },
+    {
+      "order": 1515,
+      "id": "17-157-e-608",
+      "type": "explanation",
+      "target_q": "17-157-q-608",
+      "title": "",
+      "label": "◆realize A 「A（夢・希望・目的など）を実現する」",
+      "content": [
+        { "text": "「…が実現する」は come true (→ 584) を、「A を実現する」は realize A を用いる。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1516,
+      "id": "17-157-q-609",
+      "type": "question",
+      "section_id": "157",
+      "number": "609",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "\"Why have you decided to live in the country?\"\n\"Because of the air pollution. I really ( ) clean, fresh air.\"",
+      "options": ["① keep", "② avoid", "③ make", "④ miss"],
+      "q_type": "multiple_choice",
+      "ja": "「どうして田舎に住むことにしたのですか」「大気汚染のせいですよ。きれいで新鮮な空気が本当に恋しいんです」",
+      "answer": "④",
+      "source_univ": "桜美林大"
+    },
+    {
+      "order": 1517,
+      "id": "17-157-e-609",
+      "type": "explanation",
+      "target_q": "17-157-q-609",
+      "title": "",
+      "label": "◆miss A 「A が（い）ないのを寂しく思う／A を懐かしく思う」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1518,
+      "id": "17-157-s-060",
+      "type": "summary_box",
+      "target_s": "157",
+      "number": "060",
+      "title": "miss A の意味",
+      "content": [
+        { "text": "miss A の意味はよく狙われる。次のものを覚えておこう。" },
+        { "tag": "(1)", "en": "miss A", "ja": "「A を懐かしく思う」", "note": "→ 609" },
+        { "tag": "(2)", "en": "miss A", "ja": "「A が（い）ないのを寂しく思う」", "text": "I'll miss you badly. 「君がいないととても寂しくなるよ」" },
+        { "tag": "(3)", "en": "miss A", "ja": "「A（電車・バスなど）に乗り遅れる」", "text": "He missed the last flight. 「彼は最終便に乗り遅れた」" },
+        { "tag": "(4)", "en": "miss A", "ja": "「A を免れる」", "text": "We narrowly missed death. 「かろうじて死を免れた」" }
+      ]
+    },
+    {
+      "order": 1519,
+      "type": "section_header",
+      "section_id": "158",
+      "title": "自動詞と他動詞で意味と活用を混同しやすい動詞"
+    },
+    {
+      "order": 1520,
+      "id": "17-158-q-610",
+      "type": "question",
+      "section_id": "158",
+      "number": "610",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "Mary ( ) many different kinds of flowers in her garden.",
+      "options": ["① raises", "② rises", "③ is rising", "④ rose"],
+      "q_type": "multiple_choice",
+      "ja": "メアリーは自分の庭でたくさんの異なる種類の花を育てている。",
+      "answer": "①",
+      "source_univ": "城西大"
+    },
+    {
+      "order": 1521,
+      "id": "17-158-e-610",
+      "type": "explanation",
+      "target_q": "17-158-q-610",
+      "title": "",
+      "label": "◆raise A 「A を上げる／A を育てる」",
+      "content": [],
+      "solution": [
+        { "text": "目的語 many different kinds of flowers があるので、他動詞の ① raises が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1522,
+      "id": "17-158-q-611",
+      "type": "question",
+      "section_id": "158",
+      "number": "611",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "The temperature will (raise / rise) to 38 degrees Celsius, and it will be very uncomfortable this afternoon.",
+      "q_type": "error_correction",
+      "ja": "気温は摂氏38度まで上昇し、非常に過ごしにくい午後になるでしょう。",
+      "answer": "rise",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 1523,
+      "id": "17-158-e-611",
+      "type": "explanation",
+      "target_q": "17-158-q-611",
+      "title": "",
+      "label": "◆rise 「上がる」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1524,
+      "id": "17-158-s-061",
+      "type": "summary_box",
+      "target_s": "158",
+      "number": "061",
+      "title": "自動詞 rise 「上がる」 と 他動詞 raise 「…を上げる／…を育てる」 の活用",
+      "content": [
+        { "label": "自動詞 rise 「上がる」", "note": "→ 611", "text": "原形: rise / 過去形: rose / 過去分詞: risen / 現在分詞: rising" },
+        { "label": "他動詞 raise 「…を上げる／…を育てる」", "note": "→ 610", "text": "原形: raise / 過去形: raised / 過去分詞: raised / 現在分詞: raising" }
+      ]
+    },
+    {
+      "order": 1525,
+      "id": "17-158-q-612",
+      "type": "question",
+      "section_id": "158",
+      "number": "612",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "This time tomorrow, she will ( ) on the beach.",
+      "options": ["① be laying", "② lay", "③ be lying", "④ lie"],
+      "q_type": "multiple_choice",
+      "ja": "明日の今ごろは、彼女はビーチに寝そべっているだろう。",
+      "answer": "③",
+      "source_univ": "いわき明星大"
+    },
+    {
+      "order": 1526,
+      "id": "17-158-e-612",
+      "type": "explanation",
+      "target_q": "17-158-q-612",
+      "title": "",
+      "label": "◆lie 「横になる」",
+      "content": [],
+      "solution": [
+        { "text": "目的語にあたる語がないので、自動詞 lie の未来進行形 (→ 6) を作る ③ be lying が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1527,
+      "id": "17-158-s-062",
+      "type": "summary_box",
+      "target_s": "158",
+      "number": "062",
+      "title": "自動詞 lie 「横になる」、他動詞 lay 「…を横たえる」 と 自動詞 lie 「うそをつく」 の活用",
+      "content": [
+        { "label": "自動詞 lie 「横になる」", "note": "→ 612", "text": "原形: lie / 過去形: lay / 過去分詞: lain / 現在分詞: lying" },
+        { "label": "他動詞 lay 「…を横たえる」", "note": "→ 613", "text": "原形: lay / 過去形: laid / 過去分詞: laid / 現在分詞: laying" },
+        { "label": "自動詞 lie 「うそをつく」", "text": "原形: lie / 過去形: lied / 過去分詞: lied / 現在分詞: lying" }
+      ]
+    },
+    {
+      "order": 1528,
+      "id": "17-158-q-613",
+      "type": "question",
+      "section_id": "158",
+      "number": "613",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "He ( ) himself on the sofa and quickly fell asleep.",
+      "options": ["① lied", "② lay", "③ lain", "④ laid"],
+      "q_type": "multiple_choice",
+      "ja": "彼はソファに身を横たえ、すぐに眠りに落ちた。",
+      "answer": "④",
+      "source_univ": "茨城キリスト教大"
+    },
+    {
+      "order": 1529,
+      "id": "17-158-e-613",
+      "type": "explanation",
+      "target_q": "17-158-q-613",
+      "title": "",
+      "label": "◆lay A 「A を横たえる」",
+      "content": [],
+      "solution": [
+        { "text": "fell asleep の fell (fall の過去形) に注目すれば、過去の出来事だとわかる。再帰代名詞 himself が目的語になる (→ 757) ので、他動詞 lay の過去形 ④ laid を選ぶ。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1530,
+      "type": "section_header",
+      "section_id": "159",
+      "title": "say / tell / speak / talk の区別"
+    },
+    {
+      "order": 1531,
+      "id": "17-159-q-614",
+      "type": "question",
+      "section_id": "159",
+      "number": "614",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "Jennifer ( ) her own work experience in India.",
+      "options": ["① spoke for", "② talked about", "③ said", "④ told"],
+      "q_type": "multiple_choice",
+      "ja": "ジェニファーはインドでの彼女の実務経験について語った。",
+      "answer": "②",
+      "source_univ": "甲南大"
+    },
+    {
+      "order": 1532,
+      "id": "17-159-e-614",
+      "type": "explanation",
+      "target_q": "17-159-q-614",
+      "title": "",
+      "label": "◆talk [speak] about A 「A について話す」",
+      "content": [
+        { "text": "ある話題 A について話す場合は talk [speak] about A を用いる。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "③ said を選ぶと say A の形になるが、 A には実際に発話される言葉が来るので、「『インドでの実務経験』と言った」という不自然な意味になり、不可。 ④ told は「人」を目的語にとるので不可。" }
+      ]
+    },
+    {
+      "order": 1533,
+      "id": "17-159-q-615",
+      "type": "question",
+      "section_id": "159",
+      "number": "615",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "You're always free to ( ) \"No!\"",
+      "options": ["① hear", "② say", "③ speak", "④ tell"],
+      "q_type": "multiple_choice",
+      "ja": "あなたはいつでも自由に「いいえ！」と言えるのですよ。",
+      "answer": "②",
+      "source_univ": "慶應義塾大"
+    },
+    {
+      "order": 1534,
+      "id": "17-159-e-615",
+      "type": "explanation",
+      "target_q": "17-159-q-615",
+      "title": "",
+      "label": "◆say (to A), \"...\" 「（A に）『…』と言う」",
+      "content": [
+        { "text": "say だけは発言内容を目的語にとることができる。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "be free to do 「自由に…できる」" }
+      ]
+    },
+    {
+      "order": 1535,
+      "id": "17-159-q-616",
+      "type": "question",
+      "section_id": "159",
+      "number": "616",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "I cannot ( ) you how lucky I was to have a chance to see that painting.",
+      "options": ["① tell", "② talk", "③ speak", "④ say"],
+      "q_type": "multiple_choice",
+      "ja": "あのお絵を見る機会に恵まれて私がどれだけ運が良かったか、あなたに伝えることができません。",
+      "answer": "①",
+      "source_univ": "星薬科大"
+    },
+    {
+      "order": 1536,
+      "id": "17-159-e-616",
+      "type": "explanation",
+      "target_q": "17-159-q-616",
+      "title": "",
+      "label": "◆tell AB 「A（人）に B（情報）を伝える／教える」",
+      "content": [
+        { "text": "tell だけは後ろに目的語 A と B を2つ続けて、「A（人）に B（情報）を伝える／教える」という形を作ることができる。" }
+      ],
+      "solution": [
+        { "text": "本問は B に how で始まる名詞節 how lucky ... that painting が来ている。", "note": "→ Section 125 (p. 207)" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1537,
+      "id": "17-159-q-617",
+      "type": "question",
+      "section_id": "159",
+      "number": "617",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I heard somebody ( ) Lydia about the news, and I noticed that it upset her.",
+      "options": ["① talked", "② tell", "③ say", "④ saying"],
+      "q_type": "multiple_choice",
+      "ja": "私はだれかがリディアにそのニュースについて話すのを聞き、そのことで彼女が動揺したのに気がついた。",
+      "answer": "②",
+      "source_univ": "徳島文理大"
+    },
+    {
+      "order": 1538,
+      "id": "17-159-e-617",
+      "type": "explanation",
+      "target_q": "17-159-q-617",
+      "title": "",
+      "label": "◆tell A about B 「A（人）に B（話題）について話す」",
+      "content": [
+        { "text": "相手に対して何かの話題に関して話す（＝情報を与える）という状況では tell A about B という形を用いる。" }
+      ],
+      "solution": [
+        { "text": "hear A do 「A が…するのを聞く」 (→ 143) の形を用いており、 tell は原形不定詞。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1539,
+      "id": "17-159-q-618",
+      "type": "question",
+      "section_id": "159",
+      "number": "618",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "The nurse ( ) enter the room because the patient was in critical condition.",
+      "options": ["① said us not to", "② talked us not to", "③ told to us not to", "④ told us not to"],
+      "q_type": "multiple_choice",
+      "ja": "患者が危篤状態なので、部屋には入らないようにと看護師は私たちに告げた。",
+      "answer": "④",
+      "source_univ": "鹿児島大"
+    },
+    {
+      "order": 1540,
+      "id": "17-159-e-618",
+      "type": "explanation",
+      "target_q": "17-159-q-618",
+      "title": "",
+      "label": "◆tell A to do 「A（人）に…するように言う」",
+      "content": [
+        { "text": "後ろに目的語と to do を続けることができるのは tell だけ。" }
+      ],
+      "solution": [
+        { "text": "tell A not to do 「A（人）に…しないように言う」。 not の位置に注意。", "note": "→ 129" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1541,
+      "id": "17-159-q-619",
+      "type": "question",
+      "section_id": "159",
+      "number": "619",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "The newspaper ( ) it was going to rain.",
+      "options": ["① said", "② spoke", "③ talked", "④ told"],
+      "q_type": "multiple_choice",
+      "ja": "新聞には、雨になると書いてあった。",
+      "answer": "①",
+      "source_univ": "関西学院大"
+    },
+    {
+      "order": 1542,
+      "id": "17-159-e-619",
+      "type": "explanation",
+      "target_q": "17-159-q-619",
+      "title": "",
+      "label": "◆say (that) SV 「…と言う／…と書いてある」",
+      "content": [
+        { "text": "直後に目的語として that 節をとれるのは say だけ。本問のように「（本・掲示などに）…と書いてある／（ラジオ・天気予報が）…と言う」という意味になることもある。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1543,
+      "id": "17-159-q-620",
+      "type": "question",
+      "section_id": "159",
+      "number": "620",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "Alex has ( ) his parents into allowing him to travel alone for six months around the Northern Hemisphere.",
+      "options": ["① persuaded", "② persuaded to", "③ talked", "④ talked to"],
+      "q_type": "multiple_choice",
+      "ja": "アレックスは両親を説得して、6か月間、北半球をひとりで旅行することを許してもらった。",
+      "answer": "③",
+      "source_univ": "北里大"
+    },
+    {
+      "order": 1544,
+      "id": "17-159-e-620",
+      "type": "explanation",
+      "target_q": "17-159-q-620",
+      "title": "",
+      "label": "◆talk A into doing 「A（人）を説得して…させる」",
+      "content": [
+        { "text": "talk を他動詞として用いた表現。この場合の talk は persuade と同意。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "①, ② の persuade は persuade A to do (→ 574) / persuade A into doing 「A を説得して…させる」 (→ 整理して覚える 048 (p. 255)) の形ならば可。" }
+      ]
+    },
+    {
+      "order": 1545,
+      "id": "17-159-q-621",
+      "type": "question",
+      "section_id": "159",
+      "number": "621",
+      "level": "advanced",
+      "is_frequent": false,
+      "text": "彼女は夫を説きふせてたばこをやめさせた。",
+      "en": "She (of / talked / out / smoking / her husband).",
+      "q_type": "ordering",
+      "ja": "彼女は夫を説きふせてたばこをやめさせた。",
+      "answer": "talked her husband out of smoking",
+      "source_univ": "松山大"
+    },
+    {
+      "order": 1546,
+      "id": "17-159-e-621",
+      "type": "explanation",
+      "target_q": "17-159-q-621",
+      "title": "",
+      "label": "◆talk A out of doing 「A（人）を説得して…することをやめさせる」",
+      "content": [
+        { "text": "talk A into doing 「A（人）を説得して…させる」 (→ 620) と、反対の意味になる talk A out of doing 「A（人）を説得して…することをやめさせる」 も頻出。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1547,
+      "id": "17-159-q-622",
+      "type": "question",
+      "section_id": "159",
+      "number": "622",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I try to ( ) politely to my teachers.",
+      "options": ["① hear", "② say", "③ speak", "④ tell"],
+      "q_type": "multiple_choice",
+      "ja": "私は先生たちには礼儀正しく話すよう努めている。",
+      "answer": "③",
+      "source_univ": "慶應義塾大"
+    },
+    {
+      "order": 1548,
+      "id": "17-159-e-622",
+      "type": "explanation",
+      "target_q": "17-159-q-622",
+      "title": "",
+      "label": "◆speak to A 「A（人）に話す」",
+      "content": [],
+      "solution": [
+        { "text": "空所の直後に副詞 politely、前置詞句 to my teachers が来ている。目的語がないので、他動詞は入らない。よって、自動詞 ③ speak が正解。 speak to A 「A に話す」に副詞がついた形。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "目的語がないので他動詞 ① hear, ② say, ④ tell はすべて不可。" }
+      ]
+    },
+    {
+      "order": 1549,
+      "id": "17-159-s-063",
+      "type": "summary_box",
+      "target_s": "159",
+      "number": "063",
+      "title": "say / tell / speak / talk の区別",
+      "content": [
+        { "tag": "(1)", "label": "say は原則として他動詞で「発言内容」を目的語にとる。さらに that 節や wh- 節を目的語にとることもある。ただし、「人」を目的語にとることはない。", "items": [
+          { "tag": "□", "en": "say A (to B)", "ja": "「（B に）A（言葉）を言う」", "appendix": [ { "tag": "△注意", "text": "A には yes / no / hello / goodbye などの実際に発話される言葉が来る。" } ] },
+          { "tag": "□", "en": "say (to A), \"...\"", "ja": "「（A に）『…』と言う」", "note": "→ 615", "appendix": [ { "tag": "△注意", "text": "発言内容そのものを目的語にとるのは say だけ。" } ] },
+          { "tag": "□", "en": "say (that) SV / wh- 節", "ja": "「…と言う」", "note": "→ 619", "appendix": [ { "tag": "△注意", "text": "直後に目的語として that 節が続くのは say だけ。" } ] }
+        ]},
+        { "tag": "(2)", "label": "tell は原則として他動詞で「人」を目的語にとる。", "items": [
+          { "tag": "□", "en": "tell AB", "ja": "「A（人）に B（情報）を伝える／教える」", "note": "→ 616", "appendix": [ { "tag": "△注意", "text": "目的語を2つ続けられるのは tell だけ。" } ] },
+          { "tag": "□", "en": "tell A about B", "ja": "「A（人）に B（話題）について話す」", "note": "→ 617" },
+          { "tag": "□", "en": "tell A that SV / wh- 節", "ja": "「A（人）に…と言う」" },
+          { "tag": "□", "en": "tell A to do", "ja": "「A（人）に…するように言う」", "note": "→ 618", "appendix": [ { "tag": "△注意", "text": "後ろに目的語と to do を続けることができるのは tell だけ。" } ] }
+        ]},
+        { "tag": "(3)", "label": "speak は原則として自動詞で「話す／演説する」という意味。", "items": [
+          { "tag": "□", "en": "speak to A about B", "ja": "「A（人）に B（話題）について話す［話し合う］」", "note": "→ 614, 622" },
+          { "tag": "□", "en": "speak A", "ja": "「A（言語）を話す」", "appendix": [ { "tag": "△注意", "text": "他動詞として用いる場合は、 speak English 「英語を話す」など「言語」を目的語にとる。" } ] }
+        ]},
+        { "tag": "(4)", "label": "talk は原則として自動詞で「話す／話し合う」という意味。", "items": [
+          { "tag": "□", "en": "talk to [with] A about B", "ja": "「A（人）と B（話題）について話す［話し合う］」", "note": "→ 614" },
+          { "tag": "□", "en": "talk A into doing", "ja": "「A（人）を説得して…させる」", "note": "→ 620" },
+          { "tag": "□", "en": "talk A out of doing", "ja": "「A（人）を説得して…することをやめさせる」", "note": "→ 621", "appendix": [ { "tag": "△注意", "text": "他動詞として用いる場合は、上の2つの形で頻出。" } ] }
+        ]}
+      ]
+    },
+    {
+      "order": 1550,
+      "type": "section_header",
+      "section_id": "160",
+      "title": "remind A of B の形をとる動詞"
+    },
+    {
+      "order": 1551,
+      "id": "17-160-s-064",
+      "type": "summary_box",
+      "target_s": "160",
+      "number": "064",
+      "title": "remind A of B の形をとる動詞",
+      "content": [
+        { "tag": "□", "en": "convince A of B", "ja": "「A（人）に B を確信させる」" },
+        { "tag": "□", "en": "inform A of B", "ja": "「A（人）に B を知らせる」", "note": "→ 625" },
+        { "tag": "□", "en": "persuade A of B", "ja": "「A（人）に B を確信させる」", "note": "→ 整理して覚える 048 (p. 255)" },
+        { "tag": "□", "en": "remind A of B", "ja": "「A（人）に B を思い出させる」", "note": "→ 623" },
+        { "tag": "□", "en": "suspect A of B", "ja": "「A（人）に B（犯罪・悪事）の嫌疑をかける」", "note": "→ 626" },
+        { "tag": "□", "en": "warn A of B", "ja": "「A（人）に B を警告する」" }
+      ]
+    },
+    {
+      "order": 1552,
+      "id": "17-160-q-623",
+      "type": "question",
+      "section_id": "160",
+      "number": "623",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "(a) I never look at this picture without remembering the days when I lived in California.\n(b) This picture ( ) me of the days when I lived in California.",
+      "q_type": "completion",
+      "ja": "(a) (b) この写真を見るといつも、カリフォルニアで暮らした日々を思い出す。",
+      "answer": "reminds",
+      "source_univ": "中央大"
+    },
+    {
+      "order": 1553,
+      "id": "17-160-e-623",
+      "type": "explanation",
+      "target_q": "17-160-q-623",
+      "title": "",
+      "label": "◆remind A of B 「A に B を思い出させる」",
+      "content": [],
+      "solution": [
+        { "text": "(a) は二重否定の never do ... without doing 〜 「…すると必ず〜する」 (→ 492) を用いている。「カリフォルニアで暮らした日々を思い出さずに、この写真を見ることは決してない」が直訳。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1554,
+      "id": "17-160-q-624",
+      "type": "question",
+      "section_id": "160",
+      "number": "624",
+      "level": "standard",
+      "is_frequent": false,
+      "text":"彼女はこの詩を読むといつも母のことを思い出す。",
+      "en": "(this poem / being / her mother / she cannot read / of / without / reminded).",
+      "q_type": "ordering",
+      "ja": "彼女はこの詩を読むといつも母のことを思い出す。",
+      "answer": "She cannot read this poem without being reminded of her mother",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 1555,
+      "id": "17-160-e-624",
+      "type": "explanation",
+      "target_q": "17-160-q-624",
+      "title": "",
+      "label": "◆A is reminded of B 「A は B を思い出す」",
+      "content": [],
+      "solution": [
+        { "text": "remind A of B 「A に B を思い出させる」の受動態は、 A is reminded of B 「A は B を思い出す」となる。" },
+        { "text": "cannot do ... without doing 〜 「…すると必ず〜する」は二重否定の表現 (→ 492) 。「母のことを思い出さずに、彼女はこの詩を読むことはできない」が直訳。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1556,
+      "id": "17-160-q-625",
+      "type": "question",
+      "section_id": "160",
+      "number": "625",
+      "level": "standard",
+      "is_frequent": false,
+      "text":"私たちは喜んでその仕事の手伝いをすると彼に伝えました。",
+      "en": "We informed (help him / him / of / our willingness / to / with) the work.",
+      "q_type": "ordering",
+      "ja": "私たちは喜んでその仕事の手伝いをすると彼に伝えました。",
+      "answer": "him of our willingness to help him with",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 1557,
+      "id": "17-160-e-625",
+      "type": "explanation",
+      "target_q": "17-160-q-625",
+      "title": "",
+      "label": "◆inform A of B 「A に B を知らせる」",
+      "content": [
+        { "text": "inform A about B という表現も使われる。 tell A about B (→ 617) と同意。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "willingness to do 「快く…すること」" },
+        { "tag": "重要", "text": "help A with B 「A の B を手伝う」", "note": "→ 658" }
+      ]
+    },
+    {
+      "order": 1558,
+      "id": "17-160-q-626",
+      "type": "question",
+      "section_id": "160",
+      "number": "626",
+      "level": "advanced",
+      "is_frequent": false,
+      "text":"彼が友人からお金を盗んだのではないかと疑うことになろうとは、思いもよらなかった。",
+      "en": "It never occurred to me to (from / him / money / of / stealing / suspect) his friend.",
+      "q_type": "ordering",
+      "ja": "彼が友人からお金を盗んだのではないかと疑うことになろうとは、思いもよらなかった。",
+      "answer": "suspect him of stealing money from",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 1559,
+      "id": "17-160-e-626",
+      "type": "explanation",
+      "target_q": "17-160-q-626",
+      "title": "",
+      "label": "◆suspect A of B [doing] 「A に B（犯罪・悪事）の嫌疑をかける／A が…したのではないかと疑う」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "It occurs to A to do 「…するという考えが A（人）の心に浮かぶ」", "note": "→ 921" }
+      ]
+    },
+    {
+      "order": 1560,
+      "id": "17-160-s-065",
+      "type": "summary_box",
+      "target_s": "160",
+      "number": "065",
+      "title": "suspect の語法",
+      "content": [
+        { "tag": "□", "en": "suspect A of B [doing]", "ja": "「A に B（犯罪・悪事）の嫌疑をかける／A が…したのではないかと疑う」", "note": "→ 626" },
+        { "tag": "□", "en": "suspect (that) SV", "ja": "「（どうも）…らしいと思う」", "note": "→ 653" }
+      ]
+    },
+    {
+      "order": 1561,
+      "type": "section_header",
+      "section_id": "161",
+      "title": "deprive A of B の形をとる動詞"
+    },
+    {
+      "order": 1562,
+      "id": "17-161-q-627",
+      "type": "question",
+      "section_id": "161",
+      "number": "627",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "If you violate a traffic law, the police may deprive you ( ) your driver's license.",
+      "options": ["① from", "② by", "③ of", "④ at"],
+      "q_type": "multiple_choice",
+      "ja": "道路交通法に違反すると、警察が運転免許証を取り上げる場合もある。",
+      "answer": "③",
+      "source_univ": "摂南大"
+    },
+    {
+      "order": 1563,
+      "id": "17-161-e-627",
+      "type": "explanation",
+      "target_q": "17-161-q-627",
+      "title": "",
+      "label": "◆deprive A of B 「A から B（地位・権利・能力など）を奪う」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "violate 「〜に違反する」" }
+      ]
+    },
+    {
+      "order": 1564,
+      "id": "17-161-q-628",
+      "type": "question",
+      "section_id": "161",
+      "number": "628",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "They robbed ( ) on his way home from the office.",
+      "options": ["① his money", "② his money of him", "③ him from his money", "④ him of his money"],
+      "q_type": "multiple_choice",
+      "ja": "彼らは、職場からの帰宅途中の彼から現金を奪った。",
+      "answer": "④",
+      "source_univ": "和光大"
+    },
+    {
+      "order": 1565,
+      "id": "17-161-e-628",
+      "type": "explanation",
+      "target_q": "17-161-q-628",
+      "title": "",
+      "label": "◆rob A of B 「A から B（お金・物品）を奪う」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "on one's way home from A 「A からの帰宅途中」" }
+      ]
+    },
+    {
+      "order": 1566,
+      "id": "17-161-q-629",
+      "type": "question",
+      "section_id": "161",
+      "number": "629",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Due to a bomb threat they cleared the stadium ( ) spectators.",
+      "options": ["① from", "② of", "③ off", "④ on"],
+      "q_type": "multiple_choice",
+      "ja": "爆弾が爆発する恐れがあったため、彼らは競技場から観客を避難させた。",
+      "answer": "②",
+      "source_univ": "青山学院大"
+    },
+    {
+      "order": 1567,
+      "id": "17-161-e-629",
+      "type": "explanation",
+      "target_q": "17-161-q-629",
+      "title": "",
+      "label": "◆clear A of B 「A（場所）から B を取り除く」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1568,
+      "id": "17-161-s-066",
+      "type": "summary_box",
+      "target_s": "161",
+      "number": "066",
+      "title": "deprive A of B の形をとる動詞",
+      "content": [
+        { "text": "この of は、「分離・剥奪」の意味で、 of B は「B を取り除く」となる。 A と B を逆にしないように注意すること。" },
+        { "tag": "□", "en": "clear A of B", "ja": "「A（場所）から B を取り除く」", "note": "→ 629" },
+        { "tag": "□", "en": "cure A of B", "ja": "「A（病人）から B（病気）を治す」" },
+        { "tag": "□", "en": "deprive A of B", "ja": "「A から B（地位・権利・能力など）を奪う」", "note": "→ 627" },
+        { "tag": "□", "en": "rid A of B", "ja": "「A から B を取り除く」" },
+        { "tag": "□", "en": "rob A of B", "ja": "「A から B（お金・物品）を奪う」", "note": "→ 628" },
+        { "tag": "□", "en": "strip A of B", "ja": "「A から B をはぎとる」" }
+      ]
+    },
+    {
+      "order": 1569,
+      "type": "section_header",
+      "section_id": "162",
+      "title": "prevent A from doing の形をとる動詞"
+    },
+    {
+      "order": 1570,
+      "id": "17-162-s-067",
+      "type": "summary_box",
+      "target_s": "162",
+      "number": "067",
+      "title": "prevent A from doing の形をとる動詞",
+      "content": [
+        { "tag": "□", "en": "ban A from doing", "ja": "「A が…するのを禁止する」" },
+        { "tag": "□", "en": "discourage A from doing", "ja": "「A に…するのをやめさせる／思いとどまらせる」", "note": "→ 634" },
+        { "tag": "□", "en": "hinder A from doing", "ja": "「A が…するのを妨げる／…できないようにする」" },
+        { "tag": "□", "en": "keep A from doing", "ja": "「A に…させない」", "note": "→ 632" },
+        { "tag": "□", "en": "prevent A from doing", "ja": "「A が…するのを妨げる」", "note": "→ 630" },
+        { "tag": "□", "en": "prohibit A from doing", "ja": "「A が…するのを禁止する」", "note": "→ 633" },
+        { "tag": "□", "en": "stop A from doing", "ja": "「A が…するのを止める／妨げる」", "note": "→ 631" }
+      ]
+    },
+    {
+      "order": 1571,
+      "id": "17-162-q-630",
+      "type": "question",
+      "section_id": "162",
+      "number": "630",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "交通事故のために彼らは時間通りにそこに着くことができなかった。\nThe traffic accident (from / there / prevented / getting / time / them / on).",
+      "q_type": "ordering",
+      "ja": "交通事故のために彼らは時間通りにそこに着くことができなかった。",
+      "answer": "prevented them from getting there on time",
+      "source_univ": "東京経済大"
+    },
+    {
+      "order": 1572,
+      "id": "17-162-e-630",
+      "type": "explanation",
+      "target_q": "17-162-q-630",
+      "title": "",
+      "label": "◆prevent A from doing 「A が…するのを妨げる」",
+      "content": [
+        { "text": "S prevent A from doing 「S は A が…するのを妨げる」は、「S が原因で（その結果）A は…することができなくなる」という状況で用いる。" }
+      ],
+      "solution": [
+        { "text": "本問は「交通事故は彼らが時間通りにそこに着くのを妨げた」が直訳。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "on time 「時間通りに」", "note": "→ 1207" }
+      ]
+    },
+    {
+      "order": 1573,
+      "id": "17-162-q-631",
+      "type": "question",
+      "section_id": "162",
+      "number": "631",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "Urgent business stopped Tom ( ) the big party for his parents' fiftieth wedding anniversary.",
+      "options": ["① attend", "② from attending", "③ to attend", "④ to have attend"],
+      "q_type": "multiple_choice",
+      "ja": "急な用事で、トムは両親の結婚50周年を祝う盛大なパーティーに参加できなかった。",
+      "answer": "②",
+      "source_univ": "武庫川女子大"
+    },
+    {
+      "order": 1574,
+      "id": "17-162-e-631",
+      "type": "explanation",
+      "target_q": "17-162-q-631",
+      "title": "",
+      "label": "◆stop A from doing 「A が…するのを止める／妨げる」",
+      "content": [
+        { "text": "S stop A from doing 「S は A が…するのを妨げる」も、「S が原因で（その結果）A は…することができなくなる」という状況で用いる。" }
+      ],
+      "solution": [
+        { "text": "本問は「急な用事はトムが両親の結婚50周年を祝う盛大なパーティーに参加するのを妨げた」が直訳。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1575,
+      "id": "17-162-q-632",
+      "type": "question",
+      "section_id": "162",
+      "number": "632",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "時間がなかったので、あなたに手紙を書くことができませんでした。（1語不足）\n(time / me / lack / writing / kept / of / you / to).",
+      "q_type": "ordering",
+      "ja": "時間がなかったので、あなたに手紙を書くことができませんでした。",
+      "answer": "Lack of time kept me from writing to you",
+      "source_univ": "西南学院大"
+    },
+    {
+      "order": 1576,
+      "id": "17-162-e-632",
+      "type": "explanation",
+      "target_q": "17-162-q-632",
+      "title": "",
+      "label": "◆keep A from doing 「A に…させない」",
+      "content": [
+        { "text": "S keep A from doing 「S は A に…させない」も、「S が原因で（その結果）A は…することができなくなる」という状況で用いる。" }
+      ],
+      "solution": [
+        { "text": "本問は「時間不足が私にあなたに手紙を書かせなかった」が直訳。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "write to A 「A（人）に手紙を書く」" }
+      ]
+    },
+    {
+      "order": 1577,
+      "id": "17-162-q-633",
+      "type": "question",
+      "section_id": "162",
+      "number": "633",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Tom is prohibited by his father ( ) cards.",
+      "options": ["① play", "② from playing", "③ playing", "④ from play"],
+      "q_type": "multiple_choice",
+      "ja": "トムはトランプ遊びを父親に禁じられている。",
+      "answer": "②",
+      "source_univ": "駒澤大"
+    },
+    {
+      "order": 1578,
+      "id": "17-162-e-633",
+      "type": "explanation",
+      "target_q": "17-162-q-633",
+      "title": "",
+      "label": "◆prohibit A from doing 「A が…するのを禁止する」",
+      "content": [],
+      "solution": [
+        { "text": "本問は prohibit A from doing の受動態 A is prohibited from doing 「A は…することを禁止されている」を用いている。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1579,
+      "id": "17-162-q-634",
+      "type": "question",
+      "section_id": "162",
+      "number": "634",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "My parents are trying to ( ) me from moving to London, but I'm planning to go anyway.",
+      "options": ["① discourage", "② recall", "③ observe", "④ relieve"],
+      "q_type": "multiple_choice",
+      "ja": "両親は私にロンドンへ引っ越すのを思いとどまらせようとしているが、私はそれでもやはり行くつもりでいる。",
+      "answer": "①",
+      "source_univ": "獨協大"
+    },
+    {
+      "order": 1580,
+      "id": "17-162-e-634",
+      "type": "explanation",
+      "target_q": "17-162-q-634",
+      "title": "",
+      "label": "◆discourage A from doing 「A に…するのをやめさせる／思いとどまらせる」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1581,
+      "type": "section_header",
+      "section_id": "163",
+      "title": "provide A with B の形をとる動詞"
+    },
+    {
+      "order": 1582,
+      "id": "17-163-s-068",
+      "type": "summary_box",
+      "target_s": "163",
+      "number": "068",
+      "title": "provide A with B の形をとる動詞",
+      "content": [
+        { "tag": "□", "en": "equip A with B", "ja": "「A に B（機器・備品など）を備え付ける」", "note": "→ 637" },
+        { "tag": "□", "en": "feed A with B", "ja": "「A（人・動物）に B（食べもの）を与える」" },
+        { "tag": "□", "en": "furnish A with B", "ja": "「A に B を供給する／A（家など）に B（家具など）を入れる」" },
+        { "tag": "□", "en": "present A with B", "ja": "「A に B（報告書など）を提出する／A に B を贈呈する」 (= present B to A)" },
+        { "tag": "□", "en": "provide A with B", "ja": "「A に B を供給する／与える」 (= provide B for [to] A)", "note": "→ 635" },
+        { "tag": "□", "en": "reward A with B", "ja": "「A に B（報酬など）を与える／A に B で報いる」" },
+        { "tag": "□", "en": "serve A with B", "ja": "「A に B を供給する／A（お客）に B（飲食物）を出す」" },
+        { "tag": "□", "en": "supply A with B", "ja": "「A に B を供給する」 (= supply B to A)", "note": "→ 636" }
+      ]
+    },
+    {
+      "order": 1583,
+      "id": "17-163-q-635",
+      "type": "question",
+      "section_id": "163",
+      "number": "635",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "On your arrival at the front desk, you will be ( ) your room key and meal tickets.",
+      "options": ["① provided", "② provided by", "③ provided with", "④ provided for"],
+      "q_type": "multiple_choice",
+      "ja": "受付に来られましたら、お部屋の鍵とお食事券をお渡しします。",
+      "answer": "③",
+      "source_univ": "杏林大"
+    },
+    {
+      "order": 1584,
+      "id": "17-163-e-635",
+      "type": "explanation",
+      "target_q": "17-163-q-635",
+      "title": "",
+      "label": "◆provide A with B 「A に B を供給する／与える」",
+      "content": [
+        { "text": "provide A with B の形をとる動詞については、 整理して覚える 068 参照。" }
+      ],
+      "solution": [
+        { "text": "本問は受動態の A is provided with B 「A は B を供給される／与えられる」を用いている。" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "provide A with B は provide B for [to] A としても同意。 A と B を逆にしないこと。\nprovide guests with a service = provide a service for [to] guests 「お客にサービスを提供する」" }
+      ]
+    },
+    {
+      "order": 1585,
+      "id": "17-163-q-636",
+      "type": "question",
+      "section_id": "163",
+      "number": "636",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "村のその小さな店には子どもたちに必要なものがそろっていた。\nThe small shop in the village (children / they / supplied / with / what / needed).",
+      "q_type": "ordering",
+      "ja": "村のその小さな店には子どもたちに必要なものがそろっていた。",
+      "answer": "supplied children with what they needed",
+      "source_univ": "中京大"
+    },
+    {
+      "order": 1586,
+      "id": "17-163-e-636",
+      "type": "explanation",
+      "target_q": "17-163-q-636",
+      "title": "",
+      "label": "◆supply A with B 「A に B を供給する」",
+      "content": [],
+      "solution": [
+        { "text": "supply A with B の B に、関係代名詞 what が導く名詞節 what they needed 「子どもたちに必要なもの」を入れる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1587,
+      "id": "17-163-q-637",
+      "type": "question",
+      "section_id": "163",
+      "number": "637",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "My computer is equipped with extras like a DVD player.",
+      "options": ["① supplied", "② stuck", "③ charged", "④ covered"],
+      "q_type": "multiple_choice",
+      "ja": "私のコンピューターには DVD プレーヤーのような追加の機能が備わっている。",
+      "answer": "①",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 1588,
+      "id": "17-163-e-637",
+      "type": "explanation",
+      "target_q": "17-163-q-637",
+      "title": "",
+      "label": "◆equip A with B 「A に B（機器・備品など）を備え付ける」",
+      "content": [],
+      "solution": [
+        { "text": "本問は受動態の A is equipped with B 「A には B が備わっている」を用いている。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1589,
+      "type": "section_header",
+      "section_id": "164",
+      "title": "blame A for B の形をとる動詞"
+    },
+    {
+      "order": 1590,
+      "id": "17-164-s-069",
+      "type": "summary_box",
+      "target_s": "164",
+      "number": "069",
+      "title": "blame A for B の形をとる動詞",
+      "content": [
+        { "tag": "□", "en": "admire A for B", "ja": "「B のことで A に敬服する」" },
+        { "tag": "□", "en": "blame A for B", "ja": "「B のことで A を非難する／B を A の責任にする」", "note": "→ 638" },
+        { "tag": "□", "en": "criticize A for B", "ja": "「B のことで A を非難する」" },
+        { "tag": "□", "en": "excuse A for B", "ja": "「B（不注意・遅刻など）について A を許す」", "note": "→ 641" },
+        { "tag": "□", "en": "forgive A for B", "ja": "「B（罪など）について A を許す」", "note": "→ 642" },
+        { "tag": "□", "en": "praise A for B", "ja": "「B のことで A をほめる」" },
+        { "tag": "□", "en": "punish A for B", "ja": "「B（悪事など）のことで A を罰する」" },
+        { "tag": "□", "en": "scold A for B", "ja": "「B の理由で A（子どもなど）をしかる」" },
+        { "tag": "□", "en": "thank A for B", "ja": "「B に対して A に感謝する」", "note": "→ 640" }
+      ]
+    },
+    {
+      "order": 1591,
+      "id": "17-164-q-638",
+      "type": "question",
+      "section_id": "164",
+      "number": "638",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "The actor blamed ( ) his poor acting in the movie.",
+      "options": ["① himself by", "② by himself", "③ himself for", "④ for himself"],
+      "q_type": "multiple_choice",
+      "ja": "その俳優は、その映画で下手な芝居をした自分を責めた。",
+      "answer": "③",
+      "source_univ": "名古屋工業大"
+    },
+    {
+      "order": 1592,
+      "id": "17-164-e-638",
+      "type": "explanation",
+      "target_q": "17-164-q-638",
+      "title": "",
+      "label": "◆blame A for B 「B のことで A を非難する／B を A の責任にする」",
+      "content": [
+        { "text": "blame A for B の同意表現に blame B on A がある。 A と B を逆にしないように注意。\nShe blamed the divorce on her husband. = She blamed her husband for the divorce. 「彼女は離婚を夫のせいにした」" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1593,
+      "id": "17-164-q-639",
+      "type": "question",
+      "section_id": "164",
+      "number": "639",
+      "level": "advanced",
+      "is_frequent": true,
+      "en": "The train driver has been accused ( ) causing death and bodily injury through professional negligence.",
+      "options": ["① by", "② for", "③ in", "④ of"],
+      "q_type": "multiple_choice",
+      "ja": "その列車の運転士は業務上過失致死傷罪に問われている。",
+      "answer": "④",
+      "source_univ": "中央大"
+    },
+    {
+      "order": 1594,
+      "id": "17-164-e-639",
+      "type": "explanation",
+      "target_q": "17-164-q-639",
+      "title": "",
+      "label": "◆accuse A of B [doing] 「B（犯罪・悪徳など）の［…したという］理由で A を訴える」",
+      "content": [
+        { "text": "accuse は blame と似た意味の動詞だが、 accuse A of B の形で用いられる。" }
+      ],
+      "solution": [
+        { "text": "本問は受動態の A is accused of doing 「A は…したという理由で訴えられる」を用いている。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "text": "似た意味の charge A with B [doing] 「B の［…した］かどで A を責める／訴える」も頻出。" }
+      ]
+    },
+    {
+      "order": 1595,
+      "id": "17-164-q-640",
+      "type": "question",
+      "section_id": "164",
+      "number": "640",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "あなたが私にしてくれたことについては、いくら感謝してもし足りません。\nI can (enough / for / never / thank / what / you) you've done for me.",
+      "q_type": "ordering",
+      "ja": "あなたが私にしてくれたことについては、いくら感謝してもし足りません。",
+      "answer": "never thank you enough for what",
+      "source_univ": "追手門学院大"
+    },
+    {
+      "order": 1596,
+      "id": "17-164-e-640",
+      "type": "explanation",
+      "target_q": "17-164-q-640",
+      "title": "",
+      "label": "◆thank A for B 「B に対して A に感謝する」",
+      "content": [],
+      "solution": [
+        { "text": "cannot [can't / can never] ... enough は、 cannot [can't] ... too much (→ 74) 「いくら…してもしすぎることはない」と同意。" },
+        { "text": "thank A for B の B に、関係詞節 what you've done for me 「あなたが私にしてくれたこと」が入る。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1597,
+      "id": "17-164-q-641",
+      "type": "question",
+      "section_id": "164",
+      "number": "641",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Please excuse me ( ) being late. I was caught in heavy traffic.",
+      "options": ["① for", "② from", "③ in", "④ with"],
+      "q_type": "multiple_choice",
+      "ja": "遅れて申し訳ありません。渋滞にあいました。",
+      "answer": "①",
+      "source_univ": "神戸医療未来大"
+    },
+    {
+      "order": 1598,
+      "id": "17-164-e-641",
+      "type": "explanation",
+      "target_q": "17-164-q-641",
+      "title": "",
+      "label": "◆excuse A for B 「B（不注意・遅刻など）について A を許す」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1599,
+      "id": "17-164-q-642",
+      "type": "question",
+      "section_id": "164",
+      "number": "642",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "私は彼のしたことが許せなかった。\nI (he / for / had / him / done / what / forgive / couldn't).",
+      "q_type": "ordering",
+      "ja": "私は彼のしたことが許せなかった。",
+      "answer": "couldn't forgive him for what he had done",
+      "source_univ": "東北学院大"
+    },
+    {
+      "order": 1600,
+      "id": "17-164-e-642",
+      "type": "explanation",
+      "target_q": "17-164-q-642",
+      "title": "",
+      "label": "◆forgive A for B 「B（罪など）について A を許す」",
+      "content": [],
+      "solution": [
+        { "text": "forgive A for B の B に、関係節 what he had done 「彼のしたこと」を入れる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1601,
+      "type": "section_header",
+      "section_id": "165",
+      "title": "regard A as B の形をとる動詞"
+    },
+    {
+      "order": 1602,
+      "id": "17-165-s-070",
+      "type": "summary_box",
+      "target_s": "165",
+      "number": "070",
+      "title": "regard A as B の形をとる動詞",
+      "content": [
+        { "text": "strike A as B 以外は、意味的に「A = B（A は B である）」の関係になることに注意。" },
+        { "tag": "□", "en": "accept A as B", "ja": "「A を B と認める」" },
+        { "tag": "□", "en": "consider A as B", "ja": "「A を B とみなす」" },
+        { "tag": "□", "en": "define A as B", "ja": "「A を B と定義する」" },
+        { "tag": "□", "en": "describe A as B", "ja": "「A を B と述べる」" },
+        { "tag": "□", "en": "identify A as B", "ja": "「A を B と認定する」" },
+        { "tag": "□", "en": "look on [upon] A as B", "ja": "「A を B とみなす／考える」", "note": "→ 644" },
+        { "tag": "□", "en": "recognize A as B", "ja": "「A を B と認める」" },
+        { "tag": "□", "en": "regard A as B", "ja": "「A を B とみなす」", "note": "→ 643" },
+        { "tag": "□", "en": "see A as B", "ja": "「A を B とみなす」" },
+        { "tag": "□", "en": "think of A as B", "ja": "「A を B とみなす」" },
+        { "tag": "□", "en": "view A as B", "ja": "「A を B とみなす」" },
+        { "tag": "□", "en": "strike A as B", "ja": "「A に（主語が）B であるという印象を与える」", "note": "→ 645" }
+      ]
+    },
+    {
+      "order": 1603,
+      "id": "17-165-q-643",
+      "type": "question",
+      "section_id": "165",
+      "number": "643",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "The man ( ) the situation as serious.",
+      "options": ["① thought", "② regarded", "③ looked", "④ told"],
+      "q_type": "multiple_choice",
+      "ja": "その男は状況が深刻だと思った。",
+      "answer": "②",
+      "source_univ": "流通科学大"
+    },
+    {
+      "order": 1604,
+      "id": "17-165-e-643",
+      "type": "explanation",
+      "target_q": "17-165-q-643",
+      "title": "",
+      "label": "◆regard A as B 「A を B とみなす」",
+      "content": [
+        { "text": "S regard A as B は、意味的に「A = B（A は B である）」の関係になる。 regard A as B の形をとる動詞については、 整理して覚える 070 参照。" }
+      ],
+      "solution": [
+        { "text": "本問は意味的に the situation = serious 「状況は深刻である」という関係が成立する。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① は thought of, ③ は looked on [upon] なら正解になる。", "note": "→ 整理して覚える 070" }
+      ]
+    },
+    {
+      "order": 1605,
+      "id": "17-165-q-644",
+      "type": "question",
+      "section_id": "165",
+      "number": "644",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "We are not related, but I ( ) upon him as a brother.",
+      "options": ["① see", "② look", "③ think", "④ regard"],
+      "q_type": "multiple_choice",
+      "ja": "私たちは親類ではないが、私が彼を兄弟のように思っている。",
+      "answer": "②",
+      "source_univ": "西南学院大"
+    },
+    {
+      "order": 1606,
+      "id": "17-165-e-644",
+      "type": "explanation",
+      "target_q": "17-165-q-644",
+      "title": "",
+      "label": "◆look on [upon] A as B 「A を B とみなす／考える」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1607,
+      "id": "17-165-q-645",
+      "type": "question",
+      "section_id": "165",
+      "number": "645",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "なぜだかはわからないが、乗客のだれ1人として言葉を発しないのは奇妙だという印象を私は受けた。\nI don't know why but it (as / me / none / strange / of / struck / that) the passengers uttered a word.",
+      "q_type": "ordering",
+      "ja": "なぜだかはわからないが、乗客のだれ1人として言葉を発しないのは奇妙だという印象を私は受けた。",
+      "answer": "struck me as strange that none of",
+      "source_univ": "立教大"
+    },
+    {
+      "order": 1608,
+      "id": "17-165-e-645",
+      "type": "explanation",
+      "target_q": "17-165-q-645",
+      "title": "",
+      "label": "◆strike A as B 「A に（主語が）B であるという印象を与える」",
+      "content": [
+        { "text": "S strike A as B は、意味的に「S = B（S は B である）」の関係になる。" }
+      ],
+      "solution": [
+        { "text": "本問の it は形式主語で、 that none of the passengers uttered a word が真主語。意味的に it = strange 「それは奇妙である」という関係が成立する。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1609,
+      "type": "section_header",
+      "section_id": "166",
+      "title": "take A to B の形をとる動詞"
+    },
+    {
+      "order": 1610,
+      "id": "17-166-q-646",
+      "type": "question",
+      "section_id": "166",
+      "number": "646",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "This train will ( ) you to the airport.",
+      "options": ["① accompany", "② overtake", "③ terminate", "④ take"],
+      "q_type": "multiple_choice",
+      "ja": "この電車に乗れば空港まで行けます。",
+      "answer": "④",
+      "source_univ": "日本大"
+    },
+    {
+      "order": 1611,
+      "id": "17-166-e-646",
+      "type": "explanation",
+      "target_q": "17-166-q-646",
+      "title": "",
+      "label": "◆take A to B 「（乗りもの・道が）A を B に連れて行く」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1612,
+      "id": "17-166-q-647",
+      "type": "question",
+      "section_id": "166",
+      "number": "647",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "About ten minutes' walk ( ) me to the post office.",
+      "options": ["① left", "② brought", "③ reached", "④ arrived"],
+      "q_type": "multiple_choice",
+      "ja": "10分ほど歩くと郵便局に着いた。",
+      "answer": "②",
+      "source_univ": "昭和大"
+    },
+    {
+      "order": 1613,
+      "id": "17-166-e-647",
+      "type": "explanation",
+      "target_q": "17-166-q-647",
+      "title": "",
+      "label": "◆bring A to B 「（乗りもの・道が）A を B に連れて来る［行く］」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1614,
+      "type": "section_header",
+      "section_id": "167",
+      "title": "「似合う／合う」の意味を表す動詞"
+    },
+    {
+      "order": 1615,
+      "id": "17-167-s-071",
+      "type": "summary_box",
+      "target_s": "167",
+      "number": "071",
+      "title": "「似合う／合う」の意味を表す動詞",
+      "content": [
+        { "text": "「似合う／合う」という意味を表す動詞は、〈主語〉がどういうもので、〈目的語〉に「人」と「もの」のどちらを使うかに注目して使い分けを覚える。" },
+        { "tag": "□", "en": "become A", "ja": "「（衣服・髪型などが）A（人）に似合う／（言動が）A（人）にふさわしい」" },
+        { "tag": "□", "en": "fit A", "ja": "「（大きさ・型などが）A（人・もの）に合う／（人・行動などが）A（地位・名前など）にふさわしい」" },
+        { "tag": "□", "en": "suit A", "ja": "「（服装・色などが）A（人）に似合う／（食べもの・気候などが）A（人）に適する」", "note": "→ 648" },
+        { "tag": "□", "en": "match A = go with A", "ja": "「（ものが）A（もの）に調和する／つり合う」", "note": "→ 649" },
+        { "tag": "□", "en": "agree with A", "ja": "「（環境・気候・食べものが）A（人の体質・性格）に調和する／合う」", "note": "→ 906" }
+      ]
+    },
+    {
+      "order": 1616,
+      "id": "17-167-q-648",
+      "type": "question",
+      "section_id": "167",
+      "number": "648",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "\"How do I like you in that uniform? You look great. It really ( ) you!\"",
+      "options": ["① winks", "② suits", "③ looks", "④ gets"],
+      "q_type": "multiple_choice",
+      "ja": "「そのユニフォームを着た君をどう思うかって？ 素敵だよ。すごく君に似合っている！」",
+      "answer": "②",
+      "source_univ": "明治大"
+    },
+    {
+      "order": 1617,
+      "id": "17-167-e-648",
+      "type": "explanation",
+      "target_q": "17-167-q-648",
+      "title": "",
+      "label": "◆suit A 「（服装・色などが）A（人）に似合う／（食べもの・気候などが）A（人）に適する」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1618,
+      "id": "17-167-q-649",
+      "type": "question",
+      "section_id": "167",
+      "number": "649",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "Which dressing goes with this kind of salad?",
+      "options": ["① matches", "② spoils", "③ decays", "④ destroys"],
+      "q_type": "multiple_choice",
+      "ja": "この種類のサラダにはどちらのドレッシングが合いますか。",
+      "answer": "①",
+      "source_univ": "明海大"
+    },
+    {
+      "order": 1619,
+      "id": "17-167-e-649",
+      "type": "explanation",
+      "target_q": "17-167-q-649",
+      "title": "",
+      "label": "◆go with A 「（ものが）A（もの）に調和する／つり合う」 (= match A)",
+      "content": [
+        { "text": "go with と match は主語と目的語の両方に「もの」が来ることに注意。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1620,
+      "type": "section_header",
+      "section_id": "168",
+      "title": "「貸し借り」の意味を表す動詞"
+    },
+    {
+      "order": 1621,
+      "id": "17-168-s-072",
+      "type": "summary_box",
+      "target_s": "168",
+      "number": "072",
+      "title": "「貸し借り」の意味を表す動詞",
+      "content": [
+        { "tag": "□", "en": "lend AB", "ja": "「A（人）に B（お金・もの）を貸す」 (= lend B to A)", "note": "→ 651" },
+        { "tag": "□", "en": "borrow A", "ja": "「A（お金・もの）を無料で借りる」", "note": "→ 650" },
+        { "tag": "□", "en": "use A", "ja": "「A（電話・トイレ）を借りる」" },
+        { "tag": "□", "en": "rent A", "ja": "「A（家・土地など）を有料で貸す／有料で借りる」" },
+        { "tag": "□", "en": "let A", "ja": "「A（家・土地など）を有料で貸す」" },
+        { "tag": "□", "en": "hire A", "ja": "「A（車・スペースなど）を有料で借りる／A（人）を雇う」" },
+        { "tag": "□", "en": "owe AB", "ja": "「A に B（お金）を借りている」 (= owe B to A)", "note": "→ 597" }
+      ]
+    },
+    {
+      "order": 1622,
+      "id": "17-168-q-650",
+      "type": "question",
+      "section_id": "168",
+      "number": "650",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "I ( ) money from my friend last week.",
+      "options": ["① rented", "② lent", "③ borrowed", "④ sent"],
+      "q_type": "multiple_choice",
+      "ja": "私は先週、友人から金を借りた。",
+      "answer": "③",
+      "source_univ": "甲南大"
+    },
+    {
+      "order": 1623,
+      "id": "17-168-e-650",
+      "type": "explanation",
+      "target_q": "17-168-q-650",
+      "title": "",
+      "label": "◆borrow A (from B) 「（B から）A（お金・もの）を（無料で）借りる」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "① rent A 「A（家・土地など）を有料で貸す／有料で借りる」, ② lend B to A 「A（人）に B（お金・もの）を貸す」" }
+      ]
+    },
+    {
+      "order": 1624,
+      "id": "17-168-q-651",
+      "type": "question",
+      "section_id": "168",
+      "number": "651",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "My friend ( ) me some money, which I paid back later on.",
+      "options": ["① lost", "② borrowed", "③ lent", "④ presented"],
+      "q_type": "multiple_choice",
+      "ja": "友人がいくらか金を貸してくれたが、私は後日、返金した。",
+      "answer": "③",
+      "source_univ": "芝浦工業大"
+    },
+    {
+      "order": 1625,
+      "id": "17-168-e-651",
+      "type": "explanation",
+      "target_q": "17-168-q-651",
+      "title": "",
+      "label": "◆lend AB 「A（人）に B（お金・もの）を貸す」 (= lend B to A)",
+      "content": [],
+      "solution": [
+        { "text": "空所のあとの me some money に注目。目的語を2つとるのは ③ の lend だけ。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1626,
+      "type": "section_header",
+      "section_id": "169",
+      "title": "「疑う」の意味を表す doubt と suspect"
+    },
+    {
+      "order": 1627,
+      "id": "17-169-s-073",
+      "type": "summary_box",
+      "target_s": "169",
+      "number": "073",
+      "title": "「疑う」の意味を表す doubt と suspect",
+      "content": [
+        { "text": "doubt は「信じていない」が原義。\n一方、suspect は「信じている」が原義。両者を混同しないように注意。" },
+        { "tag": "□", "en": "doubt (that) SV", "ja": "「…でないと思う」 (= don't think (that) SV)", "note": "→ 652" },
+        { "tag": "□", "en": "doubt whether [if] SV", "ja": "「…かどうか疑問に思う」" },
+        { "tag": "□", "en": "suspect (that) SV", "ja": "「（どうも）…らしいと思う」 (= think (that) SV)", "note": "→ 653" }
+      ]
+    },
+    {
+      "order": 1628,
+      "id": "17-169-q-652",
+      "type": "question",
+      "section_id": "169",
+      "number": "652",
+      "level": "advanced",
+      "is_frequent": true,
+      "en": "彼は試験に合格しなかったと私は思う。\nI ( ) he has passed the examination.",
+      "q_type": "completion",
+      "ja": "彼は試験に合格しなかったと私は思う。",
+      "answer": "doubt",
+      "source_univ": "福島大"
+    },
+    {
+      "order": 1629,
+      "id": "17-169-e-652",
+      "type": "explanation",
+      "target_q": "17-169-q-652",
+      "title": "",
+      "label": "◆doubt (that) SV 「…でないと思う」",
+      "content": [],
+      "solution": [
+        { "text": "空所のあとの that 節は「彼が試験に合格した」という肯定の意味を表していることに注目する。その that 節を否定するような動詞が空所に入ることになるから、「信じていない→…でないと思う」を表す doubt が正解となる。 doubt (that) SV = don't think (that) SV であることを確認しておこう。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "text": "doubt whether [if] SV 「…かどうか疑問に思う」" }
+      ]
+    },
+    {
+      "order": 1630,
+      "id": "17-169-q-653",
+      "type": "question",
+      "section_id": "169",
+      "number": "653",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "ひょっとして、ビルがお金を盗んだんじゃないか。",
+      "options": [
+        "① I doubt Bill robbed the money.",
+        "② I doubt Bill stole the money.",
+        "③ I suspect Bill stole the money.",
+        "④ I suspect Bill robbed the money."
+      ],
+      "q_type": "multiple_choice",
+      "ja": "ひょっとして、ビルがお金を盗んだんじゃないか。",
+      "answer": "③",
+      "source_univ": "國學院大"
+    },
+    {
+      "order": 1631,
+      "id": "17-169-e-653",
+      "type": "explanation",
+      "target_q": "17-169-q-653",
+      "title": "",
+      "label": "◆suspect (that) SV 「（どうも）…らしいと思う」",
+      "content": [],
+      "solution": [
+        { "text": "doubt (that) SV = don't think (that) SV と、 suspect (that) SV = think (that) SV であることをまずは確認しよう。" },
+        { "text": "選択肢 ①, ④ の rob の語法は誤っているので (rob の語法 選択肢 参照)、 ② と ③ を検討すればよい。 that 節の内容はどちらも「ビルがお金を盗んだ」という意味。 doubt 「…だと思わない」と suspect 「…だと思う」のどちらが正しい文意を完成させるかを考えて、 ③ の suspect を選ぶ。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "rob 「（金・物品など）を奪う」は、 rob A of B 「A から B（金・物品）を奪う」 (→ 628) という形で用いるので、 ①, ④ のように (×) robbed the money とはできない。" }
+      ]
+    },
+    {
+      "order": 1632,
+      "type": "section_header",
+      "section_id": "170",
+      "title": "consider の語法"
+    },
+    {
+      "order": 1633,
+      "id": "17-170-s-074",
+      "type": "summary_box",
+      "target_s": "170",
+      "number": "074",
+      "title": "consider の語法",
+      "content": [
+        { "tag": "□", "en": "consider doing", "ja": "「…することをよく考える」", "note": "→ 527" },
+        { "tag": "□", "en": "consider A (to be) B", "ja": "「A を B とみなす」", "note": "→ 654" },
+        { "tag": "□", "en": "consider A (as) B", "ja": "「A を B とみなす」", "note": "→ 整理して覚える 070 (p. 279)" },
+        { "en": "I consider him as a coward.", "ja": "「私は彼を臆病者だと思う」" },
+        { "tag": "□", "en": "consider (that) SV", "ja": "「…することをよく考える／…であることを考慮に入れる」" },
+        { "en": "You should consider (that) he is a minor.", "ja": "「彼が未成年であることを考慮すべきだ」" }
+      ]
+    },
+    {
+      "order": 1634,
+      "id": "17-170-q-654",
+      "type": "question",
+      "section_id": "170",
+      "number": "654",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "多くの人はビルを口数の少ない人だと思っている。\nMany consider (a / be / Bill / few words / man of / to).",
+      "q_type": "ordering",
+      "ja": "多くの人はビルを口数の少ない人だと思っている。",
+      "answer": "Bill to be a man of few words",
+      "source_univ": "東京経済大"
+    },
+    {
+      "order": 1635,
+      "id": "17-170-e-654",
+      "type": "explanation",
+      "target_q": "17-170-q-654",
+      "title": "",
+      "label": "◆consider A (to be) B 「A を B とみなす」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "a man of few words 「口数の少ない人」" }
+      ]
+    },
+    {
+      "order": 1636,
+      "type": "section_header",
+      "section_id": "171",
+      "title": "hope の語法"
+    },
+    {
+      "order": 1637,
+      "id": "17-171-s-075",
+      "type": "summary_box",
+      "target_s": "171",
+      "number": "075",
+      "title": "hope の語法",
+      "content": [
+        { "tag": "□", "en": "hope (that) SV", "ja": "「…であることを望む／願う」", "note": "→ 655" },
+        { "tag": "□", "en": "hope for A", "ja": "「A（もの・事）を望む／期待する」", "note": "→ 656" },
+        { "tag": "□", "en": "hope to do", "ja": "「…することを望む」", "note": "→ 538" },
+        { "tag": "□", "en": "hope for A to do", "ja": "「A が…することを望む」", "note": "→ 657" }
+      ]
+    },
+    {
+      "order": 1638,
+      "id": "17-171-q-655",
+      "type": "question",
+      "section_id": "171",
+      "number": "655",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Everyone ( ) that she manages to finish on time.",
+      "options": ["① hopes", "② wishes", "③ wonders", "④ helps"],
+      "q_type": "multiple_choice",
+      "ja": "彼女がなんとか時間通りに終えることを全員が望んでいる。",
+      "answer": "①",
+      "source_univ": "明治大"
+    },
+    {
+      "order": 1639,
+      "id": "17-171-e-655",
+      "type": "explanation",
+      "target_q": "17-171-q-655",
+      "title": "",
+      "label": "◆hope (that) SV 「…であることを望む／願う」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "② の wish に続く that 節では仮定法が用いられる (→ Section 034 (p. 059)) 。 ③ の wonder は、 wonder (that) SV で「…に驚く／…とは不思議だ」 (= be surprised (that) SV) という意味。本問では文意が通らない。 ④ の help は (×) help that SV という使い方はできない。 → Section 172 (p. 285)" }
+      ]
+    },
+    {
+      "order": 1640,
+      "id": "17-171-q-656",
+      "type": "question",
+      "section_id": "171",
+      "number": "656",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "私たちはあなたが早く回復なさることを願っています。\n(quick / are / we / hoping / for / recovery / your).",
+      "q_type": "ordering",
+      "ja": "私たちはあなたが早く回復なさることを願っています。",
+      "answer": "We are hoping for your quick recovery",
+      "source_univ": "川崎医療福祉大"
+    },
+    {
+      "order": 1641,
+      "id": "17-171-e-656",
+      "type": "explanation",
+      "target_q": "17-171-q-656",
+      "title": "",
+      "label": "◆hope for A 「A（もの・事）を望む／期待する」",
+      "content": [
+        { "text": "hope for A の形で「A（もの・事）を望む／期待する」という意味になる。 hope A というときは、 A には that 節だけが来ること注意。 → 655\n(○) We were hoping for good weather. 「私たちは好天を望んでいた」\n(×) We were hoping good weather." }
+      ],
+      "solution": [
+        { "text": "We are hoping for your quick recovery. は「私たちはあなたの早い回復を望んでいる」が直訳。(×) We are hoping your quick recovery. とは言えない。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1642,
+      "id": "17-171-q-657",
+      "type": "question",
+      "section_id": "171",
+      "number": "657",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "彼がプロジェクトについて何か新しいアイデアを思いついてくれることを、みんなが期待している。\nEveryone (him / hoping / come / is / for / to) up with some new ideas concerning the project.",
+      "q_type": "ordering",
+      "ja": "彼がプロジェクトについて何か新しいアイデアを思いついてくれることを、みんなが期待している。",
+      "answer": "is hoping for him to come",
+      "source_univ": "福岡大"
+    },
+    {
+      "order": 1643,
+      "id": "17-171-e-657",
+      "type": "explanation",
+      "target_q": "17-171-q-657",
+      "title": "",
+      "label": "◆hope for A to do 「A が…することを望む」",
+      "content": [
+        { "text": "hope for A to do は「A が…することを望む」という意味。 hope to do 「…することを望む」 (→ 538) の表現に、意味上の主語 for A が入り込んだ形だと理解すればよい。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "△注意", "text": "(×) hope A to do という形はない。(×) Everyone is hoping him to come ..." },
+        { "tag": "重要", "text": "come up with A 「A（考えなど）を思いつく」", "note": "→ 998" }
+      ]
+    },
+    {
+      "order": 1644,
+      "type": "section_header",
+      "section_id": "172",
+      "title": "help の語法"
+    },
+    {
+      "order": 1645,
+      "id": "17-172-s-076",
+      "type": "summary_box",
+      "target_s": "172",
+      "number": "076",
+      "title": "help の語法",
+      "content": [
+        { "tag": "□", "en": "help A with B", "ja": "「A（人）の B（仕事・動作）を手伝う」", "note": "→ 658" },
+        { "tag": "□", "en": "help (to) do", "ja": "「…するのに役立つ」", "note": "→ 659" },
+        { "tag": "□", "en": "help A (to) do", "ja": "「A（人）が…するのを手伝う」", "note": "→ 660" }
+      ]
+    },
+    {
+      "order": 1646,
+      "id": "17-172-q-658",
+      "type": "question",
+      "section_id": "172",
+      "number": "658",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "宿題を手伝ってくれませんか。\n(help / homework / me / my / with / would / you)?",
+      "q_type": "ordering",
+      "ja": "宿題を手伝ってくれませんか。",
+      "answer": "Would you help me with my homework",
+      "source_univ": "東京家政学院大"
+    },
+    {
+      "order": 1647,
+      "id": "17-172-e-658",
+      "type": "explanation",
+      "target_q": "17-172-q-658",
+      "title": "",
+      "label": "◆help A with B 「A（人）の B（仕事・動作）を手伝う」",
+      "content": [],
+      "solution": [
+        { "text": "help A (to) do (→ 660) を用いれば、 Would you help me (to) do my homework? となる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1648,
+      "id": "17-172-q-659",
+      "type": "question",
+      "section_id": "172",
+      "number": "659",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "大統領は、働きたい人たちの求職活動の支援を政府が行っていくと宣言した。\nThe president announced that the government would (find / for / those / help / jobs / wanted to work / who).",
+      "q_type": "ordering",
+      "ja": "大統領は、働きたい人たちの求職活動の支援を政府が行っていくと宣言した。",
+      "answer": "help find jobs for those who wanted to work",
+      "source_univ": "東京医科大"
+    },
+    {
+      "order": 1649,
+      "id": "17-172-e-659",
+      "type": "explanation",
+      "target_q": "17-172-q-659",
+      "title": "",
+      "label": "◆help (to) do 「…するのに役立つ」",
+      "content": [],
+      "solution": [
+        { "text": "語句に help があるので、「政府は、（働きたい人たちのために）職をさがすのに役立つ」と読みかえて、 help (to) do を使う。本問では help do を用いている。 help の直後に原形不定詞 find が続くことに注意。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1650,
+      "id": "17-172-q-660",
+      "type": "question",
+      "section_id": "172",
+      "number": "660",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "店員はその客が食品を車に運ぶのを手伝った。\nThe clerk (carry out / groceries / helped / his / the car / the customer / to).",
+      "q_type": "ordering",
+      "ja": "店員はその客が食品を車に運ぶのを手伝った。",
+      "answer": "helped the customer carry out his groceries to the car",
+      "source_univ": "龍谷大"
+    },
+    {
+      "order": 1651,
+      "id": "17-172-e-660",
+      "type": "explanation",
+      "target_q": "17-172-q-660",
+      "title": "",
+      "label": "◆help A (to) do 「A（人）が…するのを手伝う／…するのに役立つ」",
+      "content": [
+        { "text": "help A to do は to do だけでなく、原形不定詞 do を用いる場合がある。" }
+      ],
+      "solution": [
+        { "text": "本問は原形不定詞 carry を用いている。 The clerk helped the customer to carry とすると、「車に」の部分にあたる to the car の to が不足する。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "carry out A to B 「A を B（の所）まで運ぶ」" }
+      ]
+    },
+    {
+      "order": 1652,
+      "type": "section_header",
+      "section_id": "173",
+      "title": "suggest の語法"
+    },
+    {
+      "order": 1653,
+      "id": "17-173-q-661",
+      "type": "question",
+      "section_id": "173",
+      "number": "661",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Paul suggested ( ) a party for Vicky when she came back home.",
+      "options": ["① having", "② to have", "③ will have", "④ being having"],
+      "q_type": "multiple_choice",
+      "ja": "ヴィッキーが帰宅したら彼女のためにパーティーを開こうとポールは提案した。",
+      "answer": "①",
+      "source_univ": "名古屋工業大"
+    },
+    {
+      "order": 1654,
+      "id": "17-173-e-661",
+      "type": "explanation",
+      "target_q": "17-173-q-661",
+      "title": "",
+      "label": "◆suggest doing 「…することを提案する」",
+      "content": [],
+      "solution": [
+        { "text": "suggest は動名詞を目的語にとる。", "note": "→ 整理して覚える 043 (p. 239)" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1655,
+      "id": "17-173-q-662",
+      "type": "question",
+      "section_id": "173",
+      "number": "662",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "My teacher suggested ( ) go to see a doctor alone.",
+      "options": ["① her to", "② her", "③ her that she", "④ to her that she"],
+      "q_type": "multiple_choice",
+      "ja": "私の先生は彼女にひとりで医者に診てもらうように提案した。",
+      "answer": "④",
+      "source_univ": "高知大"
+    },
+    {
+      "order": 1656,
+      "id": "17-173-e-662",
+      "type": "explanation",
+      "target_q": "17-173-q-662",
+      "title": "",
+      "label": "◆suggest to A that S (should) do 「A に…することを提案する」",
+      "content": [
+        { "text": "suggest は、提案する内容を that 節で表して suggest (that) S (should) do 「…することを提案する」 (→ 577) という形をとる。さらに、提案する相手を to A で表し、 suggest to A that S (should) do 「A に…することを提案する」とすることができる。 that 節中の動詞は should do とするか、原形の do となることに注意。" }
+      ],
+      "solution": [
+        { "text": "主節が過去時制の suggested でも that 節内は原形の go を用いていることに注意。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "suggest は (×) suggest A to do や、 (×) suggest A that S (should) do の形はとらないので、 ① と ③ は不可。この形は誤りの選択肢として頻出するので注意が必要。" }
+      ]
+    },
+    {
+      "order": 1657,
+      "id": "17-173-s-077",
+      "type": "summary_box",
+      "target_s": "173",
+      "number": "077",
+      "title": "suggest の語法",
+      "content": [
+        { "tag": "□", "en": "suggest doing", "ja": "「…することを提案する」", "note": "→ 661" },
+        { "tag": "□", "en": "suggest that S (should) do", "ja": "「…することを提案する」", "note": "→ 577" },
+        { "tag": "□", "en": "suggest to A that S (should) do", "ja": "「A に…することを提案する」", "note": "→ 662" },
+        { "tag": "□", "en": "suggest that SV (動詞は直説法)", "ja": "「…を示唆する／ほのめかす」", "note": "→ 577" }
+      ]
+    },
+    {
+      "order": 1658,
+      "type": "section_header",
+      "section_id": "174",
+      "title": "remind の語法"
+    },
+    {
+      "order": 1659,
+      "id": "17-174-q-663",
+      "type": "question",
+      "section_id": "174",
+      "number": "663",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Will you ( ) me that we have an appointment tomorrow afternoon?",
+      "options": ["① recall", "② regret", "③ remember", "④ remind"],
+      "q_type": "multiple_choice",
+      "ja": "明日の午後に約束があることを（私が忘れていたら）注意していただけますか。",
+      "answer": "④",
+      "source_univ": "新潟医療福祉大"
+    },
+    {
+      "order": 1660,
+      "id": "17-174-e-663",
+      "type": "explanation",
+      "target_q": "17-174-q-663",
+      "title": "",
+      "label": "◆remind A that SV 「A に…ということを気づかせる／思い出させる」",
+      "content": [
+        { "text": "remind A that SV と remind A to do は、「A がやらなければならないことを忘れていたら注意する」という意味。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1661,
+      "id": "17-174-q-664",
+      "type": "question",
+      "section_id": "174",
+      "number": "664",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "先生は私たちに期限通りに宿題を提出するのを忘れないように念を押した。\nThe teacher (the / time / hand in / on / us / homework / to / reminded).",
+      "q_type": "ordering",
+      "ja": "先生は私たちに期限通りに宿題を提出するのを忘れないように念を押した。",
+      "answer": "reminded us to hand in the homework on time",
+      "source_univ": "兵庫医科大"
+    },
+    {
+      "order": 1662,
+      "id": "17-174-e-664",
+      "type": "explanation",
+      "target_q": "17-174-q-664",
+      "title": "",
+      "label": "◆remind A to do 「A に…することを気づかせる／思い出させる」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "hand in A / hand A in 「A を提出する」", "note": "→ 879" }
+      ]
+    },
+    {
+      "order": 1663,
+      "id": "17-174-s-078",
+      "type": "summary_box",
+      "target_s": "174",
+      "number": "078",
+      "title": "remind の語法",
+      "content": [
+        { "tag": "□", "en": "remind A of B", "ja": "「A に B を思い出させる」", "note": "→ 623" },
+        { "tag": "□", "en": "remind A that SV", "ja": "「A に…ということを気づかせる／思い出させる」", "note": "→ 663" },
+        { "tag": "□", "en": "remind A to do", "ja": "「A に…することを気づかせる／思い出させる」", "note": "→ 664, 整理して覚える 046 (p. 251)" }
+      ]
+    },
+    {
+      "order": 1664,
+      "type": "section_header",
+      "section_id": "175",
+      "title": "appreciate の語法"
+    },
+    {
+      "order": 1665,
+      "id": "17-175-q-665",
+      "type": "question",
+      "section_id": "175",
+      "number": "665",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "They all ( ) their host mothers' help and support.",
+      "options": ["① thanked", "② appreciated", "③ expressed", "④ obliged"],
+      "q_type": "multiple_choice",
+      "ja": "彼らは全員、それぞれのホームステイ先のお母さんたちからの助けと支えに感謝した。",
+      "answer": "②",
+      "source_univ": "青山学院大"
+    },
+    {
+      "order": 1666,
+      "id": "17-175-e-665",
+      "type": "explanation",
+      "target_q": "17-175-q-665",
+      "title": "",
+      "label": "◆appreciate A 「A（もの・事）をありがたく思う／感謝する」",
+      "content": [
+        { "text": "appreciate と thank はどちらも「感謝する」という意味だが、 appreciate の目的語は「もの・事」で、 thank の目的語は「人」 (→ 640) という違いがある。" }
+      ],
+      "solution": [
+        { "text": "= They all thanked their host mothers for their help and support." }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1667,
+      "id": "17-175-q-666",
+      "type": "question",
+      "section_id": "175",
+      "number": "666",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "現在厄介なことに直面しています。助けていただけると幸いです。\nWe're facing troubles now. I would (appreciate / could / if / it / you) assist us.",
+      "q_type": "ordering",
+      "ja": "現在厄介なことに直面しています。助けていただけると幸いです。",
+      "answer": "appreciate it if you could",
+      "source_univ": "センター試験"
+    },
+    {
+      "order": 1668,
+      "id": "17-175-e-666",
+      "type": "explanation",
+      "target_q": "17-175-q-666",
+      "title": "",
+      "label": "◆I would appreciate it if you would [could] do 「…していただけると幸いです」",
+      "content": [],
+      "solution": [
+        { "text": "相手に依頼をする非常に丁寧な表現。このままの形で覚えよう。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1669,
+      "type": "section_header",
+      "section_id": "176",
+      "title": "その他の重要な動詞の語法"
+    },
+    {
+      "order": 1670,
+      "id": "17-176-q-667",
+      "type": "question",
+      "section_id": "176",
+      "number": "667",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "I'd rather ( ) a map than tell someone how to get there.",
+      "options": ["① draw", "② paint", "③ strike", "④ write"],
+      "q_type": "multiple_choice",
+      "ja": "私はそこへの行き方を相手に口で伝えるよりは、むしろ地図を描きます。",
+      "answer": "①",
+      "source_univ": "日本大"
+    },
+    {
+      "order": 1671,
+      "id": "17-176-e-667",
+      "type": "explanation",
+      "target_q": "17-176-q-667",
+      "title": "",
+      "label": "◆draw A 「（ペンなどで線を引き）A（図形・地図など）を描く」",
+      "content": [
+        { "text": "draw A は、 draw a line 「線を引く」、 draw a picture 「絵を描く」のように使う。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1672,
+      "id": "17-176-s-079",
+      "type": "summary_box",
+      "target_s": "176",
+      "number": "079",
+      "title": "「書く・描く」を表す動詞",
+      "content": [
+        { "tag": "□", "en": "write A", "ja": "「A（文字・名前など）を書く」" },
+        { "tag": "□", "en": "draw A", "ja": "「（ペンなどで線を引き）A（図形・地図など）を描く」", "note": "→ 667" },
+        { "tag": "□", "en": "paint A", "ja": "「（絵の具を塗って）A（絵など）を描く」" }
+      ]
+    },
+    {
+      "order": 1673,
+      "id": "17-176-q-668",
+      "type": "question",
+      "section_id": "176",
+      "number": "668",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Do you mind ( ) the window?",
+      "options": ["① if I open", "② if you open", "③ to open", "④ your opening"],
+      "q_type": "multiple_choice",
+      "ja": "窓を開けてもいいですか。",
+      "answer": "①",
+      "source_univ": "岩手医科大"
+    },
+    {
+      "order": 1674,
+      "id": "17-176-e-668",
+      "type": "explanation",
+      "target_q": "17-176-q-668",
+      "title": "",
+      "label": "◆Do you mind if I do ...? / Would you mind if I did ...? 「私が…してもいいですか」",
+      "content": [
+        { "text": "Do you mind if I do ...? 「私が…してもいいですか」という意味の許可を求める表現。 Do [Would] you mind my [me] doing ...? (→ 532) と同意。" }
+      ],
+      "solution": [
+        { "text": "= Do you mind my [me] opening the window?" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1675,
+      "id": "17-176-q-669",
+      "type": "question",
+      "section_id": "176",
+      "number": "669",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "自分のしたことを他人に認めてもらおうともらうまいと問題ではない。\nIt (approve / doesn't / matter / may / others / whether) of your work or not.",
+      "q_type": "ordering",
+      "ja": "自分のしたことを他人に認めてもらおうともらうまいと問題ではない。",
+      "answer": "doesn't matter whether others may approve",
+      "source_univ": "日本大"
+    },
+    {
+      "order": 1676,
+      "id": "17-176-e-669",
+      "type": "explanation",
+      "target_q": "17-176-q-669",
+      "title": "",
+      "label": "◆It doesn't matter (to A) whether [if] SV 「…かどうかは（A にとって）重要ではない」",
+      "content": [
+        { "text": "自動詞 matter を用いた表現。 whether 節以外にも疑問詞節を用いることができる。\nIt doesn't matter what you wear. 「君がどんな服装をしようがかまわない」", "note": "→ 整理して覚える 058 (p. 265)" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "approve of A 「A を認める」", "note": "→ 923" }
+      ]
+    },
+    {
+      "order": 1677,
+      "id": "17-176-q-670",
+      "type": "question",
+      "section_id": "176",
+      "number": "670",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "娘は私に新しい DVD レコーダーの使い方を説明してくれた。\nMy daughter (use / to / explained / how / me / to) the new DVD recorder.",
+      "q_type": "ordering",
+      "ja": "娘は私に新しい DVD レコーダーの使い方を説明してくれた。",
+      "answer": "explained to me how to use",
+      "source_univ": "足利大"
+    },
+    {
+      "order": 1678,
+      "id": "17-176-e-670",
+      "type": "explanation",
+      "target_q": "17-176-q-670",
+      "title": "",
+      "label": "◆explain A to B = explain to B A 「B に A を説明する」",
+      "content": [],
+      "solution": [
+        { "text": "explain to B A の形を用いており、 A に名詞句 how to use ... (→ 115) が来ている。" },
+        { "text": "explain A to B の形の (×) My daughter explained how to use to me ... は、 use と use の目的語の the new DVD recorder が離れてしまうので不可。" },
+        { "text": "explain は SVOO の形をとることができない点がポイント。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1679,
+      "id": "17-176-q-671",
+      "type": "question",
+      "section_id": "176",
+      "number": "671",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "After a cup of coffee, I ( ) what his message really meant.",
+      "options": ["① became to realize", "② came realizing", "③ became realizing", "④ came to realize"],
+      "q_type": "multiple_choice",
+      "ja": "コーヒーを1杯飲んだあと、私には彼のメッセージの真意がわかってきた。",
+      "answer": "④",
+      "source_univ": "東京経済大"
+    },
+    {
+      "order": 1680,
+      "id": "17-176-e-671",
+      "type": "explanation",
+      "target_q": "17-176-q-671",
+      "title": "",
+      "label": "◆come to do 「…するようになる」",
+      "content": [
+        { "text": "come to do 「…するようになる」の do には、通例 know, believe, feel, think, like, realize などの状態を表す動詞が来る。 get to do も同意。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "③ become は become C で「（変化して）C の状態になる」という意味。補語の C には形容詞・名詞・分詞などが来る。 ① の (×) become to do という言い方はできない。誤りの選択肢として頻出するので注意。" }
+      ]
+    }
+  ]
+}
