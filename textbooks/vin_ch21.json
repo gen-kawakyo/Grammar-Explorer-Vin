@@ -1,0 +1,1267 @@
+{
+  "metadata": {
+    "source": "vin4",
+    "field": "usage",
+    "chapter_id": "21",
+    "chapter_title": "副詞の語法"
+  },
+  "items": [
+    {
+      "order": 2027,
+      "type": "section_header",
+      "section_id": "211",
+      "title": "on / out / over の用法"
+    },
+    {
+      "order": 2028,
+      "id": "21-211-q-813",
+      "type": "question",
+      "section_id": "211",
+      "number": "813",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "It was not clear in the instructions whether the light should be left ( ) or turned off before leaving the room.",
+      "options": ["① behind", "② on", "③ over", "④ out"],
+      "q_type": "multiple_choice",
+      "ja": "部屋を退室する際、照明はつけたままでいいのか、それとも消すべきなのか、指示書では明らかでなかった。",
+      "answer": "②",
+      "source_univ": "上智大"
+    },
+    {
+      "order": 2029,
+      "id": "21-211-e-813",
+      "type": "explanation",
+      "target_q": "21-211-q-813",
+      "title": "",
+      "label": "◆副詞 on 「（水道・ガス・テレビ・照明などが）ついて」",
+      "content": [
+        { "text": "on が副詞として使われ、「（水道・ガス・テレビ・照明などが）ついて」という意味になることがある。 The TV is on. 「テレビがついている」" }
+      ],
+      "solution": [
+        { "text": "本問は should leave the light on 「照明をつけたままする」の受動態 the light should be left on が用いられている。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "text": "off が副詞に用いられ、「（水道・ガス・テレビ・照明などが）止まって／消えて」という意味になることがある。\nMake sure all the lights are off. 「照明はすべて消すようにしなさい」" }
+      ]
+    },
+    {
+      "order": 2030,
+      "id": "21-211-q-814",
+      "type": "question",
+      "section_id": "211",
+      "number": "814",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "A couple of salespersons left messages while you were ( ).",
+      "options": ["① aside", "② out", "③ upon", "④ far"],
+      "q_type": "multiple_choice",
+      "ja": "あなたの外出中に、数名のセールスマンが伝言を残した。",
+      "answer": "②",
+      "source_univ": "神奈川大"
+    },
+    {
+      "order": 2031,
+      "id": "21-211-e-814",
+      "type": "explanation",
+      "target_q": "21-211-q-814",
+      "title": "",
+      "label": "◆副詞 out 「外出して／不在で」",
+      "content": [
+        { "text": "out は副詞で「外出して／不在で」という意味。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "プラス", "text": "out 「外へ（出て）」, get out 「外に出る」, eat out 「外食する」" }
+      ]
+    },
+    {
+      "order": 2032,
+      "id": "21-211-q-815",
+      "type": "question",
+      "section_id": "211",
+      "number": "815",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "After classes are ( ), Hiroshi usually hurries to the gym to play basketball.",
+      "options": ["① down", "② off", "③ on", "④ over"],
+      "q_type": "multiple_choice",
+      "ja": "ヒロシは授業が終わったあとはたいてい、バスケットボールをするために体育館へ急いで行く。",
+      "answer": "④",
+      "source_univ": "東北学院大"
+    },
+    {
+      "order": 2033,
+      "id": "21-211-e-815",
+      "type": "explanation",
+      "target_q": "21-211-q-815",
+      "title": "",
+      "label": "◆副詞 over 「終わって」",
+      "content": [
+        { "text": "over が副詞に用いられ「終わって」という意味になることがある。\nThe game is over. 「ゲームは終了した」" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 2034,
+      "type": "section_header",
+      "section_id": "212",
+      "title": "already / yet / still の用法"
+    },
+    {
+      "order": 2035,
+      "id": "21-212-q-816",
+      "type": "question",
+      "section_id": "212",
+      "number": "816",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Susan has ( ) arrived in London and will meet with her client on Friday afternoon.",
+      "options": ["① still", "② soon", "③ yet", "④ already"],
+      "q_type": "multiple_choice",
+      "ja": "スーザンはすでにロンドンに到着して、金曜日の午後には顧客と会うことになっている。",
+      "answer": "④",
+      "source_univ": "甲南大"
+    },
+    {
+      "order": 2036,
+      "id": "21-212-e-816",
+      "type": "explanation",
+      "target_q": "21-212-q-816",
+      "title": "already は完了を表す",
+      "label": "◆already 「すでに…した」",
+      "content": [
+        { "text": "already は「すでに…した」という完了の意味を表す。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "meet with A 「（正式に約束して）A と会う／会談する」" }
+      ]
+    },
+    {
+      "order": 2037,
+      "id": "21-212-q-817",
+      "type": "question",
+      "section_id": "212",
+      "number": "817",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Robert lost his watch yesterday and hasn't found it ( ).",
+      "options": ["① anymore", "② yet", "③ anyhow", "④ already"],
+      "q_type": "multiple_choice",
+      "ja": "ロバートは昨日、腕時計をなくし、まだ見つけていない。",
+      "answer": "②",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 2038,
+      "id": "21-212-e-817",
+      "type": "explanation",
+      "target_q": "21-212-q-817",
+      "title": "not ... yet は完了していないことを表す",
+      "label": "◆not ... yet 「まだ…していない」",
+      "content": [
+        { "text": "not ... yet は「まだ…していない」という、完了していない意味を表す。" }
+      ],
+      "solution": [
+        { "text": "「なくした時計をまだ見つけていない」という文意なので、 not とともに用いて「まだ…していない」の意味になる ② yet が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 2039,
+      "id": "21-212-q-818",
+      "type": "question",
+      "section_id": "212",
+      "number": "818",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "I was offered that job at the international company, but I ( ) can't believe it.",
+      "options": ["① hardly", "② seldom", "③ still", "④ yet"],
+      "q_type": "multiple_choice",
+      "ja": "私は国際的企業での仕事を提示されたが、まだそのことが信じられない。",
+      "answer": "③",
+      "source_univ": "学習院大"
+    },
+    {
+      "order": 2040,
+      "id": "21-212-e-818",
+      "type": "explanation",
+      "target_q": "21-212-q-818",
+      "title": "still は継続を表す",
+      "label": "◆still 「まだ／依然として／今でもなお」",
+      "content": [
+        { "text": "still は「まだ／依然として／今でもなお」という継続の意味を表す。 still と yet (→ 817) には「まだ」という同じ日本語訳を当てるが、 still は継続を、 yet は not ... yet で完了していないことを表す。両者を混同しないように注意。\nI still love you. 「まだ君を愛している」（←愛する気持ちが現在も継続している）" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "△注意", "text": "本問のように、否定の状態が継続していることを表す場合は〈still ＋否定語句〉という語順にする。〈否定語句＋ yet〉との語順の違いに注意。\nI still haven't finished my homework. = I haven't finished my homework yet. 「まだ宿題を終えていない」" }
+      ]
+    },
+    {
+      "order": 2041,
+      "type": "section_header",
+      "section_id": "213",
+      "title": "ago / before の用法"
+    },
+    {
+      "order": 2042,
+      "id": "21-213-q-819",
+      "type": "question",
+      "section_id": "213",
+      "number": "819",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "The accident happened three hours ( ).",
+      "options": ["① ago", "② since", "③ early", "④ before"],
+      "q_type": "multiple_choice",
+      "ja": "その事故は3時間前に起きた。",
+      "answer": "①",
+      "source_univ": "東京国際大"
+    },
+    {
+      "order": 2043,
+      "id": "21-213-e-819",
+      "type": "explanation",
+      "target_q": "21-213-q-819",
+      "title": "ago は過去時制で用いる",
+      "label": "◆... ago 「（今から）…前に」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "④ の ... before は「（過去のある時点から）…前に」という意味で、原則として過去完了とともに使う。たとえば、 He said that the accident had happened three hours before. 「その事故は3時間前に起きたと彼は言った」という使い方なら正しい。" }
+      ]
+    },
+    {
+      "order": 2044,
+      "id": "21-213-q-820",
+      "type": "question",
+      "section_id": "213",
+      "number": "820",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "In 1945, when he was born in the U.S.A., the war had ended only a few months (ago / before).",
+      "q_type": "error_correction",
+      "ja": "1945年に彼がアメリカで生まれたが、そのほんの数か月前に戦争が終わったところだった。",
+      "answer": "before",
+      "source_univ": "甲南大"
+    },
+    {
+      "order": 2045,
+      "id": "21-213-e-820",
+      "type": "explanation",
+      "target_q": "21-213-q-820",
+      "title": "before は過去完了とともに用いる",
+      "label": "◆... before 「（過去のある時点から）…前に」",
+      "content": [],
+      "solution": [
+        { "text": "④ を before にすれば、「戦争は彼が生まれた時点から数か月前に終わっていた」という文意に合う。 ③ の過去完了 had ended は、「彼が生まれた (he was born)」ときには、すでに「戦争が終わっていた (the war had ended)」ことを、すなわち、過去のある時点までの動作の完了を示している。", "note": "→ 11" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "④ の ago はそのままで、 ③ を過去形の ended にすると、「戦争は今から数か月前に終わった」という意味になり、ここでは文意が成立しない。" }
+      ]
+    },
+    {
+      "order": 2046,
+      "id": "21-213-q-821",
+      "type": "question",
+      "section_id": "213",
+      "number": "821",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I have never been to Liberty Tower ( ).",
+      "options": ["① prior", "② previous", "③ before", "④ ago"],
+      "q_type": "multiple_choice",
+      "ja": "以前にリバティータワーに行ったことはありません。",
+      "answer": "③",
+      "source_univ": "明治大"
+    },
+    {
+      "order": 2047,
+      "id": "21-213-e-821",
+      "type": "explanation",
+      "target_q": "21-213-q-821",
+      "title": "before を単独で用いると「以前」という意味になる",
+      "label": "◆単独で用いる副詞 before",
+      "content": [
+        { "text": "before は数詞などを伴わずに単独で用いると、漠然と「以前」という意味になる。その場合は、過去時制か、また現在完了・過去完了とともに用いることができる。 ago は単独で用いることはできない。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 2048,
+      "id": "21-213-s-103",
+      "type": "summary_box",
+      "target_s": "213",
+      "number": "103",
+      "title": "ago / before の用法",
+      "content": [
+        { "text": "... ago は「（今から）…前に」という意味で、原則として過去時制で用いる。", "note": "→ 819" },
+        { "text": "... before は「（過去のある時点から）…前に」という意味で、原則として過去完了とともに用いる。", "note": "→ 820" },
+        { "label": "【時制別の使い分け】", "items": [
+          { "tag": "・... ago", "text": "過去時制 (○) / 現在完了とともに (×) / 過去完了とともに (×)" },
+          { "tag": "・... before", "text": "過去時制 (×) / 現在完了とともに (×) / 過去完了とともに (○)" },
+          { "tag": "・before (単独で)", "text": "過去時制 (○) / 現在完了とともに (○) / 過去完了とともに (○)" }
+        ]}
+      ]
+    },
+    {
+      "order": 2049,
+      "type": "section_header",
+      "section_id": "214",
+      "title": "hardly / seldom / almost の用法"
+    },
+    {
+      "order": 2050,
+      "id": "21-214-q-822",
+      "type": "question",
+      "section_id": "214",
+      "number": "822",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "How can we get rid of this noise pollution? We can ( ) put up with it anymore.",
+      "options": ["① easily", "② surely", "③ hardly", "④ kindly"],
+      "q_type": "multiple_choice",
+      "ja": "どうすればこの騒音公害を一掃できますかね。これ以上はほとんどがまんできませんよ。",
+      "answer": "③",
+      "source_univ": "法政大"
+    },
+    {
+      "order": 2051,
+      "id": "21-214-e-822",
+      "type": "explanation",
+      "target_q": "21-214-q-822",
+      "title": "hardly[scarcely] は程度について用いる準否定語",
+      "label": "◆hardly[scarcely] 「ほとんど…ない」",
+      "note": "整理して覚える 104 (p. 350)",
+      "content": [
+        { "text": "hardly [scarcely] はものごとの程度について「ほとんど…ない」という意味を表す。本問のように can / could を伴って用いる場合が多い。 hardly のように、弱い否定の意味を表す語を「準否定語」と呼ぶ。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 2052,
+      "id": "21-214-q-823",
+      "type": "question",
+      "section_id": "214",
+      "number": "823",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "She ( ) calls her mother, because they always get into arguments about her marriage.",
+      "options": ["① always", "② often", "③ seldom", "④ sometimes"],
+      "q_type": "multiple_choice",
+      "ja": "自分の結婚のことでいつも口論になるので、彼女はめったに母親に電話をしない。",
+      "answer": "③",
+      "source_univ": "湘南工科大"
+    },
+    {
+      "order": 2053,
+      "id": "21-214-e-823",
+      "type": "explanation",
+      "target_q": "21-214-q-823",
+      "title": "seldom は頻度について用いる準否定語",
+      "label": "◆seldom [rarely] 「めったに…ない」",
+      "content": [
+        { "text": "seldom [rarely] は頻度について「めったに…ない」という意味を表す準否定語。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 2054,
+      "id": "21-214-q-824",
+      "type": "question",
+      "section_id": "214",
+      "number": "824",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Scarcely ( ) in the office knew what they were supposed to do when the alarm went off.",
+      "options": ["① everyone", "② no one", "③ anyone", "④ all of them"],
+      "q_type": "multiple_choice",
+      "ja": "警報機が鳴ったとき、オフィスにいたほとんどの人間は何をしなければならないのかわからなかった。",
+      "answer": "③",
+      "source_univ": "学習院大"
+    },
+    {
+      "order": 2055,
+      "id": "21-214-e-824",
+      "type": "explanation",
+      "target_q": "21-214-q-824",
+      "title": "",
+      "label": "◆〈hardly[scarcely] any ＋名詞〉「ほとんどの〈名詞〉が…ない」 (= 〈almost no ＋名詞〉 = 〈few / little ＋名詞〉)",
+      "content": [
+        { "text": "〈hardly [scarcely] any ＋名詞〉は数・量について「ほとんどの〈名詞〉が…ない」という意味を表す準否定の表現。 〈almost no ＋名詞〉と同意。" }
+      ],
+      "solution": [
+        { "text": "本問は Almost nobody [no one] ... と書きかえられる。" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "hardly [scarcely] any のあとには可算名詞（の複数形）と不可算名詞の両方が来る。\nhardly [scarcely] any books = almost no books = few books 「ほとんど本がない」\nhardly [scarcely] any snow = almost no snow = little snow 「ほとんど雪がない」" }
+      ]
+    },
+    {
+      "order": 2056,
+      "id": "21-214-q-825",
+      "type": "question",
+      "section_id": "214",
+      "number": "825",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "最近は忙しいので、ゴルフに行く機会がほとんどない。\nThese days I'm (busy / hardly / so / ever / I / that) have a chance to play golf.",
+      "q_type": "ordering",
+      "ja": "最近は忙しいので、ゴルフに行く機会がほとんどない。",
+      "answer": "so busy that I hardly ever",
+      "source_univ": "東京工科大"
+    },
+    {
+      "order": 2057,
+      "id": "21-214-e-825",
+      "type": "explanation",
+      "target_q": "21-214-q-825",
+      "title": "",
+      "label": "◆hardly[scarcely] ever 「めったに…ない」 (= seldom[rarely])",
+      "content": [
+        { "text": "hardly [scarcely] ever は頻度について「めったに…ない」という意味を表す準否定の表現。 seldom [rarely] (→ 823) と同意。" }
+      ],
+      "solution": [
+        { "text": "本問は ... I seldom [rarely] have a chance ... と書きかえられる。" },
+        { "text": "「私はとても忙しいので〜」は、「結果・程度」を表す so ... that 〜 (→ 306) を用いる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 2058,
+      "id": "21-214-q-826",
+      "type": "question",
+      "section_id": "214",
+      "number": "826",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I was ( ) involved in a car accident. I narrowly escaped being run over.",
+      "options": ["① mostly", "② most", "③ almost", "④ more"],
+      "q_type": "multiple_choice",
+      "ja": "私はもう少しで自動車事故に巻き込まれるところだった。かろうじて車にひかれるのを免れた。",
+      "answer": "③",
+      "source_univ": "玉川大"
+    },
+    {
+      "order": 2059,
+      "id": "21-214-e-826",
+      "type": "explanation",
+      "target_q": "21-214-q-826",
+      "title": "almost はまだ達していないことを表す",
+      "label": "◆〈almost ＋動詞〉「…しそうになる（しかし、実際は…していない）」",
+      "content": [
+        { "text": "〈almost ＋動詞〉は「（あやうく／もう少しで）…しそうになる（しかし、実際は…していない）」という意味になる。 almost の用法について、左頁の 整理して覚える 104 参照。" }
+      ],
+      "solution": [
+        { "text": "本問は narrowly escaped 「かろうじて免れた」とあるので、「事故に巻き込まれていなかった」という状況が成り立つ。したがって「…しそうになる（しかし、実際は…していない）」という意味の ③ almost が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 2060,
+      "id": "21-214-s-104",
+      "type": "summary_box",
+      "target_s": "214",
+      "number": "104",
+      "title": "almost の用法",
+      "content": [
+        { "label": "(1) 〈almost ＋形容詞〉「ほとんど…」", "en": "It is almost impossible to interview that famous celebrity.", "ja": "「あの有名人にインタビューをするのはほとんど不可能だ」" },
+        { "label": "(2) 〈almost ＋副詞〉「ほとんど…」", "en": "I almost always get up at six.", "ja": "「私はほとんどいつも6時に起きる」" },
+        { "label": "(3) 〈almost ＋動詞〉「（もう少しで）…しそうになる（しかし、実際は…していない）」", "note": "→ 826", "en": "He almost died yesterday.", "ja": "「彼は昨日あやうく死ぬところだった」" }
+      ]
+    },
+    {
+      "order": 2061,
+      "type": "section_header",
+      "section_id": "215",
+      "title": "名詞と間違えやすい副詞"
+    },
+    {
+      "order": 2062,
+      "id": "21-215-s-105",
+      "type": "summary_box",
+      "target_s": "215",
+      "number": "105",
+      "title": "名詞と間違えやすい副詞",
+      "content": [
+        { "tag": "□", "en": "upstairs", "ja": "「階上へ／2階へ」" },
+        { "tag": "□", "en": "downstairs", "ja": "「階下へ」" },
+        { "tag": "□", "en": "abroad [overseas]", "ja": "「海外へ」", "note": "→ 828" },
+        { "tag": "□", "en": "outdoors", "ja": "「屋外で」" },
+        { "tag": "□", "en": "indoors", "ja": "「屋内で」" },
+        { "tag": "□", "en": "home", "ja": "「家へ」", "note": "→ 827" },
+        { "tag": "□", "en": "downtown", "ja": "「繁華街へ」" },
+        { "tag": "□", "en": "next door", "ja": "「隣で」" }
+      ]
+    },
+    {
+      "order": 2063,
+      "id": "21-215-q-827",
+      "type": "question",
+      "section_id": "215",
+      "number": "827",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "My friends and I stayed behind after school to study until it was time for us to (go to home / go home).",
+      "q_type": "error_correction",
+      "ja": "友人たちと僕は、帰宅時間になるまで、放課後残って勉強した。",
+      "answer": "go home",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 2064,
+      "id": "21-215-e-827",
+      "type": "explanation",
+      "target_q": "21-215-q-827",
+      "title": "go home 「家に帰る」",
+      "label": "◆副詞 home 「家へ／家に」",
+      "content": [
+        { "text": "副詞 home は「家へ／家に」という意味。\nstay home 「家にいる」、 go home 「家に帰る（まだ帰宅していない）」、 come [get] home 「家に帰って来る」、 drive home 「車で家に帰る」\n名詞と間違えやすい副詞は左頁の 整理して覚える 105 参照。" }
+      ],
+      "solution": [
+        { "text": "原則、副詞の前に前置詞は置けないので、 (×) go to home を go home に訂正。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "stay behind 「（授業などのあとに）残る」" }
+      ]
+    },
+    {
+      "order": 2065,
+      "id": "21-215-q-828",
+      "type": "question",
+      "section_id": "215",
+      "number": "828",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "I have never traveled (in abroad / abroad), so I want to someday.",
+      "q_type": "error_correction",
+      "ja": "海外旅行の経験がないので、いつかしてみたい。",
+      "answer": "abroad",
+      "source_univ": "中央大"
+    },
+    {
+      "order": 2066,
+      "id": "21-215-e-828",
+      "type": "explanation",
+      "target_q": "21-215-q-828",
+      "title": "travel abroad 「海外へ旅行する」",
+      "label": "◆abroad 「海外へ／海外に」",
+      "content": [
+        { "text": "abroad は副詞で「海外へ／海外に」という意味。\nlive abroad 「海外で暮らす」、 go abroad 「海外へ行く」、 study abroad 「留学する」" }
+      ],
+      "solution": [
+        { "text": "原則、副詞の前に前置詞は置けないので、 (×) travel in abroad を travel abroad に訂正。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "text": "例外的に from abroad 「海外から」という表現は可能。\ngoods imported from abroad 「海外からの輸入品」" },
+        { "tag": "選択肢", "text": "③ は代不定詞 (→ 135) で want to (travel abroad)。 ④ someday は「いつか／そのうち」という意味の副詞。" }
+      ]
+    },
+    {
+      "order": 2067,
+      "type": "section_header",
+      "section_id": "216",
+      "title": "-ly がつくと意味が変わる副詞"
+    },
+    {
+      "order": 2068,
+      "id": "21-216-q-829",
+      "type": "question",
+      "section_id": "216",
+      "number": "829",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The musicians in the orchestra were very tired after playing (hardly / hard) all afternoon.",
+      "q_type": "error_correction",
+      "ja": "そのオーケストラの演奏家たちは、午後の間ずっと熱心に練習したあとで、とても疲れていた。",
+      "answer": "hard",
+      "source_univ": "立命館大"
+    },
+    {
+      "order": 2069,
+      "id": "21-216-e-829",
+      "type": "explanation",
+      "target_q": "21-216-q-829",
+      "title": "",
+      "label": "◆hard 「熱心に／必死に」、hardly 「ほとんど…ない」",
+      "note": "→ 822",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "③ after playing は前置詞 after と動名詞 playing を用いた表現。" }
+      ]
+    },
+    {
+      "order": 2070,
+      "id": "21-216-q-830",
+      "type": "question",
+      "section_id": "216",
+      "number": "830",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "The bus arrived (lately / late) on account of rain, so we missed the train we were supposed to take.",
+      "q_type": "error_correction",
+      "ja": "雨でバスが遅れて着いたので、私たちは乗るはずだった電車を逃した。",
+      "answer": "late",
+      "source_univ": "桜美林大"
+    },
+    {
+      "order": 2071,
+      "id": "21-216-e-830",
+      "type": "explanation",
+      "target_q": "21-216-q-830",
+      "title": "",
+      "label": "◆late 「遅く／遅れて」、lately 「最近／近ごろ」",
+      "content": [],
+      "solution": [
+        { "text": "late については 整理して覚える 101 (p. 341) も参照。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 2072,
+      "id": "21-216-q-831",
+      "type": "question",
+      "section_id": "216",
+      "number": "831",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "While I was driving home, I (near / nearly) hit a deer that suddenly appeared on the road.",
+      "q_type": "error_correction",
+      "ja": "車で帰宅する途中に、突然道路に現れたシカを危うくひきそうになった。",
+      "answer": "nearly",
+      "source_univ": "中京大"
+    },
+    {
+      "order": 2073,
+      "id": "21-216-e-831",
+      "type": "explanation",
+      "target_q": "21-216-q-831",
+      "title": "",
+      "label": "◆near 「近く(に)」、nearly 「ほとんど［もう少しで］（…しそうになる）」",
+      "content": [],
+      "solution": [
+        { "text": "nearly 「ほとんど［もう少しで］（…しそうになる）」は、 almost (→ 826) とほぼ同意。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 2074,
+      "id": "21-216-q-832",
+      "type": "question",
+      "section_id": "216",
+      "number": "832",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Polluted air drifts all over. It even rises ( ) above the earth.",
+      "options": ["① high", "② highly", "③ height", "④ tall"],
+      "q_type": "multiple_choice",
+      "ja": "汚染された空気がいたるところに漂っている。それは地表から高いところまで上昇さえする。",
+      "answer": "①",
+      "source_univ": "広島工業大"
+    },
+    {
+      "order": 2075,
+      "id": "21-216-e-832",
+      "type": "explanation",
+      "target_q": "21-216-q-832",
+      "title": "",
+      "label": "◆high 「高く」、highly 「非常に／大いにほめて」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 2076,
+      "id": "21-216-s-106",
+      "type": "summary_box",
+      "target_s": "216",
+      "number": "106",
+      "title": "-ly がつくと意味が変わる副詞",
+      "content": [
+        { "tag": "□", "text": "hard 「熱心に／必死に」 ― hardly 「ほとんど…ない」", "note": "→ 829" },
+        { "tag": "□", "text": "high 「高く」 ― highly 「非常に／大いにほめて」", "note": "→ 832" },
+        { "tag": "□", "text": "just 「ちょうど／ただ…だけ」 ― justly 「正しく／公正に」" },
+        { "tag": "□", "text": "late 「遅く／遅れて」 ― lately 「最近／近ごろ」", "note": "→ 830" },
+        { "tag": "□", "text": "most 「最も」 ― mostly 「主として／たいていは」" },
+        { "tag": "□", "text": "near 「近く（に）」 ― nearly 「ほとんど［もう少しで］（…しそうになる）／かろうじて（…せずにすむ）」", "note": "→ 831" },
+        { "tag": "□", "text": "pretty 「かなり／相当」 ― prettily 「きれいに／上品に」" },
+        { "tag": "□", "text": "sharp 「（時刻などのあとで）ちょうど」 ― sharply 「急に／鋭く／厳しく」" }
+      ]
+    },
+    {
+      "order": 2077,
+      "type": "section_header",
+      "section_id": "217",
+      "title": "意味・用法に注意すべき副詞"
+    },
+    {
+      "order": 2078,
+      "id": "21-217-q-833",
+      "type": "question",
+      "section_id": "217",
+      "number": "833",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "It was fortunate that his injuries were only slight.",
+      "options": [
+        "① If it was fortunate",
+        "② The fortunate is",
+        "③ Fortunately",
+        "④ If it was fortunately"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "彼のケガが軽いものだったのは幸運だった。",
+      "answer": "③",
+      "source_univ": "駒澤大"
+    },
+    {
+      "order": 2079,
+      "id": "21-217-e-833",
+      "type": "explanation",
+      "target_q": "21-217-q-833",
+      "title": "",
+      "label": "◆Fortunately = It is fortunate that ...",
+      "note": "文修飾の副詞 fortunately 「幸いなことに」, 整理して覚える 107",
+      "content": [
+        { "text": "文修飾の副詞は、文全体を修飾して話し手の判断や評価、反応や気持ちを表す。" }
+      ],
+      "solution": [
+        { "text": "Fortunately SV = It is fortunate that SV という、副詞から形容詞への書きかえも頻出。\nCertainly he will come. = It is certain that he will come. 「きっと彼は来る」" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 2080,
+      "id": "21-217-q-834",
+      "type": "question",
+      "section_id": "217",
+      "number": "834",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "You don't like this dress? Why don't you try something ( )?",
+      "options": ["① another", "② else", "③ more", "④ other"],
+      "q_type": "multiple_choice",
+      "ja": "あなたはこのドレスが気に入らないのですか。何か他のものを試してみてはいかがですか。",
+      "answer": "②",
+      "source_univ": "育英館大"
+    },
+    {
+      "order": 2081,
+      "id": "21-217-e-834",
+      "type": "explanation",
+      "target_q": "21-217-q-834",
+      "title": "",
+      "label": "◆something else 「何か他のもの」",
+      "note": "else 「その他の／その他に」",
+      "content": [
+        { "text": "else は something / anything / nothing / someone / anyone などのあとや、疑問詞のあとに続けて「その他の／その他に」という意味を表す。\nWho else was at the party? 「パーティーには他にだれがいましたか」" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 2082,
+      "id": "21-217-s-107",
+      "type": "summary_box",
+      "target_s": "217",
+      "number": "107",
+      "title": "おもな文修飾の副詞",
+      "content": [
+        { "tag": "□", "en": "certainly", "ja": "「確かに」", "note": "→ 833" },
+        { "tag": "□", "en": "possibly", "ja": "「ひょっとしたら」" },
+        { "tag": "□", "en": "apparently", "ja": "「どうやら…らしい」" },
+        { "tag": "□", "en": "fortunately [luckily]", "ja": "「幸いなことに」", "note": "→ 833" },
+        { "tag": "□", "en": "unfortunately", "ja": "「残念ながら」" }
+      ]
+    },
+    {
+      "order": 2083,
+      "id": "21-217-q-835",
+      "type": "question",
+      "section_id": "217",
+      "number": "835",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Mr. Suzuki recently ( ) exception to something his colleague said.",
+      "options": ["① takes", "② taken", "③ took", "④ will take"],
+      "q_type": "multiple_choice",
+      "ja": "鈴木さんは最近、同僚の言ったことに腹を立てた。",
+      "answer": "③",
+      "source_univ": "順天堂大"
+    },
+    {
+      "order": 2084,
+      "id": "21-217-e-835",
+      "type": "explanation",
+      "target_q": "21-217-q-835",
+      "title": "recently は現在時制では用いない",
+      "label": "◆recently 「最近／ついこの間」",
+      "content": [
+        { "text": "recently は過去時制か、現在完了・過去完了とともに用いる。原則として現在時制では用いない。 I have seen [saw] her recently. 「私は最近彼女と会いました」" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 2085,
+      "id": "21-217-q-836",
+      "type": "question",
+      "section_id": "217",
+      "number": "836",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The price of this suit is ( ) for our budget.",
+      "options": [
+        "① much too high",
+        "② too high much",
+        "③ high too much",
+        "④ too much high"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "私たちの予算からすると、このスーツの値段はあまりにも高すぎる。",
+      "answer": "①",
+      "source_univ": "甲南大"
+    },
+    {
+      "order": 2086,
+      "id": "21-217-e-836",
+      "type": "explanation",
+      "target_q": "21-217-q-836",
+      "title": "",
+      "label": "◆〈much too ＋形容詞［副詞］〉「あまりにも…すぎる」",
+      "content": [
+        { "text": "〈much too ＋形容詞［副詞］〉は「あまりにも…すぎる」という意味。この much は副詞で〈too ＋形容詞［副詞］〉を強調している。\nhigh 「とても高い」 → too high 「高すぎる」 → much too high 「あまりにも高すぎる」" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "プラス", "text": "形容詞の much は〈much ＋不可算名詞〉という形で用いる。副詞の too で修飾すると〈too much ＋不可算名詞〉という語順になる。 (→ 767)\nmuch money 「多くのお金」 → too much money 「多すぎるお金」" }
+      ]
+    },
+    {
+      "order": 2087,
+      "id": "21-217-q-837",
+      "type": "question",
+      "section_id": "217",
+      "number": "837",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "It was twenty years ago when she saw him ( ).",
+      "options": ["① at first", "② first", "③ firstly", "④ first-time"],
+      "q_type": "multiple_choice",
+      "ja": "彼女が彼と初めて会ったのは20年前のことだった。",
+      "answer": "②",
+      "source_univ": "中央大"
+    },
+    {
+      "order": 2088,
+      "id": "21-217-e-837",
+      "type": "explanation",
+      "target_q": "21-217-q-837",
+      "title": "",
+      "label": "◆first を含む紛らわしい語句の区別 ― first 「初めて」",
+      "content": [
+        { "text": "副詞 first には (1) 「（時間・順序などが）最初に」、 (2) 「（他の何よりも）まず第一に」 (= firstly)、 (3) 「初めて」 (= for the first time) という3つの意味がある。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "① at first 「最初は」 ⇔ at last 「ついに／ようやく」 (= finally), ③ firstly 「まず第一に」 (= in the first place / first of all / for a start), ④ first-time 「初めての」（形容詞） a first-time home buyer 「初めて家を購入する人」" }
+      ]
+    },
+    {
+      "order": 2089,
+      "id": "21-217-q-838",
+      "type": "question",
+      "section_id": "217",
+      "number": "838",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) I thought he was shy, but then I discovered he was just not interested in other people.",
+      "options": [
+        "① For the first time",
+        "② At first",
+        "③ Firstly",
+        "④ For a start"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "最初は彼のことを内気だと思ったが、そのあと、彼が単に他人に無関心だということがわかった。",
+      "answer": "②",
+      "source_univ": "甲南女子大"
+    },
+    {
+      "order": 2090,
+      "id": "21-217-e-838",
+      "type": "explanation",
+      "target_q": "21-217-q-838",
+      "title": "",
+      "label": "◆first を含む紛らわしい語句の区別 ― at first 「最初は」",
+      "content": [],
+      "solution": [
+        { "text": "at first は「最初は…。しかし、あとには〜」という「事態が変化・推移する」ニュアンスを含むので、本問のように but などの表現が続くことが多い。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① for the first time 「初めて」 (→ 1257), ③ firstly 「まず第一に」, ④ for a start 「まず第一に」" }
+      ]
+    },
+    {
+      "order": 2091,
+      "id": "21-217-q-839",
+      "type": "question",
+      "section_id": "217",
+      "number": "839",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "We must go now; ( ) we won't be in time for the concert.",
+      "options": ["① because", "② otherwise", "③ therefore", "④ unless"],
+      "q_type": "multiple_choice",
+      "ja": "そろそろ出かけなくては。そうしないと私たちはコンサートに間に合いません。",
+      "answer": "②",
+      "source_univ": "金沢学院大"
+    },
+    {
+      "order": 2092,
+      "id": "21-217-e-839",
+      "type": "explanation",
+      "target_q": "21-217-q-839",
+      "title": "",
+      "label": "◆otherwise 「そうでなければ」",
+      "content": [],
+      "solution": [
+        { "text": "「そろそろ出かけないと、間に合わない」という文意をくみ取って、 ② otherwise 「そうでなければ」を選ぶ。本問の otherwise は、 if we don't go now と書きかえられる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 2093,
+      "id": "21-217-q-840",
+      "type": "question",
+      "section_id": "217",
+      "number": "840",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "The bedroom is a bit too small, ( ) the house is satisfactory.",
+      "options": [
+        "① but instead",
+        "② but otherwise",
+        "③ now that",
+        "④ unless that"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "寝室が少し狭すぎるが、その他の点でその家は申し分ない。",
+      "answer": "②",
+      "source_univ": "早稲田大"
+    },
+    {
+      "order": 2094,
+      "id": "21-217-e-840",
+      "type": "explanation",
+      "target_q": "21-217-q-840",
+      "title": "",
+      "label": "◆otherwise 「その他の点では」 (= in every other way [respect])",
+      "content": [],
+      "solution": [
+        { "text": "本問の otherwise は「寝室が狭いことを除けば」という意味で用いられている。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 2095,
+      "id": "21-217-s-108",
+      "type": "summary_box",
+      "target_s": "217",
+      "number": "108",
+      "title": "副詞 otherwise の意味",
+      "content": [
+        { "text": "次の3つの意味・用法をしっかり覚えよう。この区別は下線部和訳問題でも頻出する。" },
+        { "label": "(1) 「（悪いことが起きることを示唆して）そうでなければ」", "note": "→ 839 (= if not so)", "items": [
+          { "text": "＊〈S V...; otherwise S V 〜〉という形で用いることが多い。" }
+        ]},
+        { "label": "(2) 「違った風に／別のやり方で」 (= differently)", "items": [
+          { "text": "＊〈S V otherwise〉という形で用いることが多い。" },
+          { "en": "I think otherwise.", "ja": "「私の考えは違う／私はそうは思わない」" }
+        ]},
+        { "label": "(3) 「（今述べたことを除いた）その他の点では」", "note": "→ 840 (= in every other way [respect])", "items": [
+          { "text": "＊〈S V..., but otherwise S V 〜〉という形で用いることが多い。" },
+          { "en": "The camera was expensive, but otherwise it was perfect.", "ja": "「そのカメラは高価だったが、その他の点では申し分なかった」" }
+        ]}
+      ]
+    },
+    {
+      "order": 2096,
+      "type": "section_header",
+      "section_id": "218",
+      "title": "文と文の論理関係を示す副詞：ディスコースマーカー"
+    },
+    {
+      "order": 2097,
+      "id": "21-218-q-841",
+      "type": "question",
+      "section_id": "218",
+      "number": "841",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Jane is rather dishonest; ( ), we should be careful about what she says.",
+      "options": ["① however", "② therefore", "③ meanwhile", "④ moreover"],
+      "q_type": "multiple_choice",
+      "ja": "ジェーンはかなり信用できない。だから、彼女の発言には注意すべきだ。",
+      "answer": "②",
+      "source_univ": "亜細亜大"
+    },
+    {
+      "order": 2098,
+      "id": "21-218-e-841",
+      "type": "explanation",
+      "target_q": "21-218-q-841",
+      "title": "therefore は結果を表す",
+      "label": "◆therefore 「したがって／その結果」",
+      "content": [
+        { "text": "ディスコースマーカーについては、次頁の しっかり理解 027 、 整理して覚える 109 参照。" }
+      ],
+      "solution": [
+        { "text": "「信用できない」→「発言に注意」という文意に合うのは、〈結果〉を表す ② therefore だけ。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① however 「しかしながら」〈逆接〉 (→ 842), ③ meanwhile 「その間に」, ④ moreover 「その上」〈追加〉 (→ 845)" }
+      ]
+    },
+    {
+      "order": 2099,
+      "id": "21-218-q-842",
+      "type": "question",
+      "section_id": "218",
+      "number": "842",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "At first glance the idea appears to be attractive; ( ), there are some problems to be solved.",
+      "options": [
+        "① therefore",
+        "② however",
+        "③ furthermore",
+        "④ in addition"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "一見するとその考えは魅力的に思える。しかし、解決すべき問題がいくつかある。",
+      "answer": "②",
+      "source_univ": "清泉女子大"
+    },
+    {
+      "order": 2100,
+      "id": "21-218-e-842",
+      "type": "explanation",
+      "target_q": "21-218-q-842",
+      "title": "however は逆接を表す",
+      "label": "◆however 「しかしながら」",
+      "content": [],
+      "solution": [
+        { "text": "「魅力的だと思うが、問題がある」という文意に合うのは、「しかしながら」という〈逆接〉を表す ② however だけ。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "③ furthermore 「さらに」〈追加〉 (→ 整理して覚える 109 (p. 358)), ④ in addition 「さらに」〈追加〉 (→ 整理して覚える 109 (p. 358))" }
+      ]
+    },
+    {
+      "order": 2101,
+      "id": "21-218-q-843",
+      "type": "question",
+      "section_id": "218",
+      "number": "843",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "It has snowed heavily for a week. Consequently, all the transportation in the city has stopped.",
+      "options": [
+        "① Unfortunately",
+        "② As a result",
+        "③ In the meantime",
+        "④ Nevertheless"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "1週間大雪が降った。その結果、市内のすべての交通機関が止まった。",
+      "answer": "②",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 2102,
+      "id": "21-218-e-843",
+      "type": "explanation",
+      "target_q": "21-218-q-843",
+      "title": "consequently は結果を表す",
+      "label": "◆consequently 「その結果／したがって」 (= as a result)",
+      "content": [],
+      "solution": [
+        { "text": "「1週間の大雪」→「交通機関の停止」という文意に合うのは、〈結果〉を表す ② As a result だけ。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① unfortunately 「残念ながら」は文修飾の副詞 (→ 整理して覚える 107 (p. 353)), ③ in the meantime 「その間に」, ④ nevertheless 「それにもかかわらず」〈逆接〉 (→ 844)" }
+      ]
+    },
+    {
+      "order": 2103,
+      "id": "21-218-q-844",
+      "type": "question",
+      "section_id": "218",
+      "number": "844",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Cathy was completely exhausted after the long business trip; ( ), she went to work early in the morning.",
+      "options": [
+        "① accordingly",
+        "② nevertheless",
+        "③ otherwise",
+        "④ therefore"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "キャシーは長期の出張で疲労困憊していた。それにもかかわらず、彼女は朝早く出勤した。",
+      "answer": "②",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 2104,
+      "id": "21-218-e-844",
+      "type": "explanation",
+      "target_q": "21-218-q-844",
+      "title": "nevertheless は逆接を表す",
+      "label": "◆nevertheless 「それにもかかわらず」",
+      "content": [],
+      "solution": [
+        { "text": "「疲労困憊」→「早朝出勤」という文意に合うのは、「それにもかかわらず」という〈逆接〉を表す ② nevertheless だけ。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① accordingly 「したがって」〈結果〉 (→ 整理して覚える 109 (p. 358)), ③ otherwise 「そうでなければ」 (→ 839), ④ therefore 「したがって」〈結果〉 (→ 841)" }
+      ]
+    },
+    {
+      "order": 2105,
+      "id": "21-218-q-845",
+      "type": "question",
+      "section_id": "218",
+      "number": "845",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Her new skirt was too expensive. Besides, it looked terrible.",
+      "options": ["① However", "② Moreover", "③ Otherwise", "④ Nearly"],
+      "q_type": "multiple_choice",
+      "ja": "彼女の新しいスカートは値段が高すぎた。その上、見た目もひどかった。",
+      "answer": "②",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 2106,
+      "id": "21-218-e-845",
+      "type": "explanation",
+      "target_q": "21-218-q-845",
+      "title": "besides は追加を表す",
+      "label": "◆besides 「その上／さらに」 (= moreover)",
+      "content": [],
+      "solution": [
+        { "text": "「値段が高すぎた」→「見た目がひどかった」という文意に合うのは、「その上」という〈追加〉を表す ② Moreover だけ。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "④ nearly 「ほとんど」 (→ 831)" }
+      ]
+    },
+    {
+      "order": 2107,
+      "id": "21-218-q-846",
+      "type": "question",
+      "section_id": "218",
+      "number": "846",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I like spring, especially at dawn.",
+      "options": [
+        "① above all",
+        "② for good",
+        "③ in fact",
+        "④ of course"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "私は春が好きだ。特に明け方が好きだ。",
+      "answer": "①",
+      "source_univ": "共立女子大"
+    },
+    {
+      "order": 2108,
+      "id": "21-218-e-846",
+      "type": "explanation",
+      "target_q": "21-218-q-846",
+      "title": "especially は特化を表す",
+      "label": "◆especially 「特に／とりわけ」 (= above all)",
+      "content": [],
+      "solution": [
+        { "text": "「春が好き」→「明け方が好き」という文意に合うのは、「特に」という〈特化〉を表す ① above all だけ。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "② for good 「永遠に」" }
+      ]
+    },
+    {
+      "order": 2109,
+      "id": "21-218-q-847",
+      "type": "question",
+      "section_id": "218",
+      "number": "847",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Because I didn't have enough time to go to Hawaii for my vacation, I went to Shikoku ( ).",
+      "options": ["① also", "② at least", "③ though", "④ instead"],
+      "q_type": "multiple_choice",
+      "ja": "休暇でハワイに行くだけの時間がなかったので、その代わりに四国に行った。",
+      "answer": "④",
+      "source_univ": "甲南大"
+    },
+    {
+      "order": 2110,
+      "id": "21-218-e-847",
+      "type": "explanation",
+      "target_q": "21-218-q-847",
+      "title": "instead は代用を表す",
+      "label": "◆instead 「その代わりに」",
+      "content": [],
+      "solution": [
+        { "text": "「ハワイに行く時間がなかった」→「四国に行った」という文意に合うのは、「その代わりに」という〈代用〉を表す ④ instead だけ。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 2111,
+      "id": "21-218-d-027",
+      "type": "deep_dive",
+      "target_s": "218",
+      "number": "027",
+      "title": "ディスコースマーカー",
+      "content": [
+        { "text": "文と文は、ある論理関係のもとにつながっている。 A と B という2つの文が、例えば、 〈A, but B〉 「A である。しかし B だ」のようにつながっている場合は、 A と B は逆接の関係であることを示している。" },
+        { "text": "論理関係を示す語句は、文の書き手の考え方を表している。例えば but 「しかし」であれば、書き手が前の話題に対して「逆」のことを述べようとするときに使われる。つまり、書き手が前の話題とは「逆」だと考えているから but を使うのである。このような、書き手の考え方が反映される論理関係を示す語句を「ディスコースマーカー」と呼ぶ。" },
+        { "text": "英文中には、書き手の考え方を示すディスコースマーカーが、たくさん埋め込まれている。すなわち、このディスコースマーカーに注意を払って文を読むことで、書き手が何をどのように伝えたいのかを知ることができる。つまり、ディスコースマーカーを手がかりにすれば、英文の論理展開を正確に理解することができるようになる。文法的には接続詞や副詞、副詞句が、ディスコースマーカーの役割を果たす。" },
+        { "text": "下の 整理して覚える 109 で代表的なディスコースマーカーを覚えておこう。" }
+      ]
+    },
+    {
+      "order": 2112,
+      "id": "21-218-s-109",
+      "type": "summary_box",
+      "target_s": "218",
+      "number": "109",
+      "title": "文と文の論理関係を示す表現",
+      "content": [
+        { "label": "① 逆接・対比・譲歩 (A ⇔ B)", "items": [
+          { "tag": "● 逆接など", "text": "□ but [接] 「しかし」, □ yet [接] 「しかし」, □ however [副] 「しかしながら」 (→ 842), \n□ on the contrary 「それどころか」, □ nevertheless [副] 「それにもかかわらず」 (→ 844), \n□ all the same 「それでもやはり」" },
+          { "tag": "● 対比など", "text": "□ whereas [接] 「…である一方」, □ while [接] 「…である一方」, □ on the other hand 「一方」, \n□ instead [副] 「その代わりに」 (→ 847)" },
+          { "tag": "● 譲歩など", "text": "□ although [接] 「…だけれども」, □ (even) though [接] 「…だけれども」, \n□ even if [接] 「たとえ…でも」, □ still [副] 「それでもなお」" }
+        ]},
+        { "label": "② 結果、原因・理由 (A → B)", "items": [
+          { "tag": "● 結果など", "text": "□ accordingly [副] 「したがって／その結果」, □ consequently [副] 「その結果（として）」 (→ 843), \n□ therefore [副] 「したがって」 (→ 841), □ thus [副] 「したがって／このようにして」, \n□ as a consequence 「その結果（として）」, □ as a result 「その結果（として）」 (→ 843),\n □ so [接] 「だから／そこで」" },
+          { "tag": "● 原因・理由など", "text": "□ as [接] 「…なので」, □ because [接] 「…なので」, □ since [接] 「…なので」, \n□ for [接] 「というのは…だからだ」, □ now (that) [接] 「いまや…なので」" }
+        ]},
+        { "label": "③ 追加、特化、言いかえ、列挙 (A = A')", "items": [
+          { "tag": "● 追加、特化、言いかえなど", "text": "□ also [副] 「…もまた」, □ as well 「同様に」, □ what is more 「さらに」, \n□ besides [moreover / furthermore] [副] 「さらに」 (→ 845), \n□ in addition 「さらに／その上」, □ above all 「とりわけ／特に」 (→ 846), \n□ for example [instance] 「たとえば」, □ in other words 「言いかえれば」, \n□ that is (to say) 「つまり」" },
+          { "tag": "● 列挙など", "text": "□ first (ly) [副] 「まず／第1に」, □ second (ly) [副] 「次に／第2に」, □ next [副] 「次に」, \n□ then [副] 「それから／次に」, □ first of all 「まず第1に」, □ in the beginning 「まず／最初に」, \n□ in the first place 「まず／最初に」, □ to begin with 「まず第1に」" }
+        ]}
+      ]
+    }
+  ]
+}

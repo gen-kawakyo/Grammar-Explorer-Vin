@@ -1,0 +1,1239 @@
+{
+  "metadata": {
+    "source": "vin4",
+    "field": "usage",
+    "chapter_id": "18",
+    "chapter_title": "名詞の語法"
+  },
+  "items": [
+    {
+      "order": 1681,
+      "type": "section_header",
+      "section_id": "177",
+      "title": "不可算名詞の用法"
+    },
+    {
+      "order": 1682,
+      "id": "18-177-s-080",
+      "type": "summary_box",
+      "target_s": "177",
+      "number": "080",
+      "title": "不可算名詞の用法",
+      "content": [
+        { "text": "英語の名詞には、可算名詞（数えられる名詞）と、不可算名詞（数えられない名詞）という区別がある。可算名詞には a / an をつけることができ、複数形がある。不可算名詞に a / an をつけることはできず、複数形もない。" },
+        { "label": "A. 不可算名詞（= 数えられない名詞）", "items": [
+          { "tag": "□", "en": "damage", "ja": "「損害／被害」", "note": "→ 677" },
+          { "tag": "□", "en": "fun", "ja": "「楽しみ」" },
+          { "tag": "□", "en": "harm", "ja": "「害」" },
+          { "tag": "□", "en": "progress", "ja": "「進歩／進行」", "note": "→ 678" },
+          { "tag": "□", "en": "traffic", "ja": "「交通（量）」", "note": "→ 679" },
+          { "tag": "□", "en": "wealth", "ja": "「富／財産」" },
+          { "tag": "□", "en": "weather", "ja": "「天気」" }
+        ]},
+        { "label": "B. 〈a piece of + 不可算名詞〉", "text": "以下の不可算名詞は、 a piece of A 「1つの A」、 two pieces of A 「2つの A」、 many pieces of A 「たくさんの A」のようにして数を表すことができる。2つ以上では複数形 pieces とすることに注意。", "items": [
+          { "tag": "□", "en": "advice", "ja": "「助言／忠告」", "note": "→ 672" },
+          { "tag": "□", "en": "baggage [luggage]", "ja": "「（旅行時の）手荷物」", "note": "→ 676" },
+          { "tag": "□", "en": "equipment", "ja": "「装置」" },
+          { "tag": "□", "en": "evidence", "ja": "「証拠」" },
+          { "tag": "□", "en": "furniture", "ja": "「家具」", "note": "→ 673" },
+          { "tag": "□", "en": "homework", "ja": "「宿題」", "note": "→ 675" },
+          { "tag": "□", "en": "housework", "ja": "「家事」" },
+          { "tag": "□", "en": "information", "ja": "「情報」", "note": "→ 674" },
+          { "tag": "□", "en": "knowledge", "ja": "「知識」" },
+          { "tag": "□", "en": "machinery", "ja": "「機械（類）」", "appendix": [ { "tag": "cf.", "text": "可算名詞 machine 「機械」" } ] },
+          { "tag": "□", "en": "news", "ja": "「知らせ」" },
+          { "tag": "□", "en": "poetry", "ja": "「詩」", "appendix": [ { "tag": "cf.", "text": "可算名詞 poem 「詩」" } ] },
+          { "tag": "□", "en": "scenery", "ja": "「景色」", "appendix": [ { "tag": "cf.", "text": "可算名詞 scene 「場面／光景」" } ] }
+        ]}
+      ]
+    },
+    {
+      "order": 1683,
+      "id": "18-177-q-672",
+      "type": "question",
+      "section_id": "177",
+      "number": "672",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "I wonder if anyone can give me (good advices / advice) about how to improve my English.",
+      "q_type": "error_correction",
+      "ja": "どうすれば英語が上達するか、だれか良いアドバイスをくれないかな。",
+      "answer": "advice",
+      "source_univ": "徳山大"
+    },
+    {
+      "order": 1684,
+      "id": "18-177-e-672",
+      "type": "explanation",
+      "target_q": "18-177-q-672",
+      "title": "",
+      "label": "◆不可算名詞 advice 「助言／忠告」",
+      "content": [],
+      "solution": [
+        { "text": "advice は不可算名詞。複数形の (×) advices という形はない。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① は wonder if SV 「…か（どうかな）と思う」 (→ 274), ④ は how to do 「…の仕方」 (→ 115)" },
+        { "tag": "重要", "text": "give A advice (about B) 「A に（B に関する）アドバイスをする」" }
+      ]
+    },
+    {
+      "order": 1685,
+      "id": "18-177-q-673",
+      "type": "question",
+      "section_id": "177",
+      "number": "673",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "We've just bought ( ), such as tables, chairs, etc.",
+      "options": [
+        "① a few new garden furniture",
+        "② some new garden furnitures",
+        "③ many new garden furnitures",
+        "④ some new garden furniture"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "私たちは、テーブルやイスなどの新しい庭園家具をいくつか購入したばかりだ。",
+      "answer": "④",
+      "source_univ": "亜細亜大"
+    },
+    {
+      "order": 1686,
+      "id": "18-177-e-673",
+      "type": "explanation",
+      "target_q": "18-177-q-673",
+      "title": "",
+      "label": "◆不可算名詞 furniture 「家具」",
+      "content": [],
+      "solution": [
+        { "text": "furniture は不可算名詞。複数形の (×) furnitures という形はない。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "可算名詞の「数が多い／数が少ない／数がほとんどない」は many / a few / few で表し、不可算名詞の「量が多い／量が少ない／量がほとんどない」は much / a little / little で表す。よって ① a few ... furniture は不可。" }
+      ]
+    },
+    {
+      "order": 1687,
+      "id": "18-177-q-674",
+      "type": "question",
+      "section_id": "177",
+      "number": "674",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "We got ( ) about the flight from the travel agency.",
+      "options": [
+        "① an information",
+        "② some information",
+        "③ some informations",
+        "④ some piece of information"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "私たちは旅行代理店からそのフライトに関する情報をいくつか入手した。",
+      "answer": "②",
+      "source_univ": "名古屋工業大"
+    },
+    {
+      "order": 1688,
+      "id": "18-177-e-674",
+      "type": "explanation",
+      "target_q": "18-177-q-674",
+      "title": "",
+      "label": "◆不可算名詞 information 「情報」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "information を数える場合は a piece of information, two pieces of information, many pieces of information などの形を用いる (→ 整理して覚える 080) 。 ④ は some pieces of information なら正解。" }
+      ]
+    },
+    {
+      "order": 1689,
+      "id": "18-177-q-675",
+      "type": "question",
+      "section_id": "177",
+      "number": "675",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I have done all ( ), and I'd like to take a short break.",
+      "options": [
+        "① a homework",
+        "② homeworks",
+        "③ my homework",
+        "④ homeworks of mine"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "もう宿題はすべて済ませてしまったので、少し休憩を取りたいと思う。",
+      "answer": "③",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 1690,
+      "id": "18-177-e-675",
+      "type": "explanation",
+      "target_q": "18-177-q-675",
+      "title": "",
+      "label": "◆不可算名詞 homework 「宿題」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1691,
+      "id": "18-177-q-676",
+      "type": "question",
+      "section_id": "177",
+      "number": "676",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "How ( ) can we take on the airplane with us?",
+      "options": [
+        "① many baggages",
+        "② many pieces of baggage",
+        "③ many pieces of baggages",
+        "④ many of baggages"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "荷物はいくつ飛行機内に持ち込めますか。",
+      "answer": "②",
+      "source_univ": "奥羽大"
+    },
+    {
+      "order": 1692,
+      "id": "18-177-e-676",
+      "type": "explanation",
+      "target_q": "18-177-q-676",
+      "title": "",
+      "label": "◆不可算名詞 baggage [luggage] 「（旅行時の）手荷物」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "△注意", "text": "baggage などの a piece of A の形で数える不可算名詞の数を尋ねる場合は、 How many pieces of A ...? 「いくつかの A…」という表現を用いる。" }
+      ]
+    },
+    {
+      "order": 1693,
+      "id": "18-177-q-677",
+      "type": "question",
+      "section_id": "177",
+      "number": "677",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The car crashed into a tree and suffered ( ).",
+      "options": [
+        "① a damage",
+        "② damages",
+        "③ some damage",
+        "④ some damages"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "その車は木に衝突して、いくらか損傷を受けた。",
+      "answer": "③",
+      "source_univ": "東北学院大"
+    },
+    {
+      "order": 1694,
+      "id": "18-177-e-677",
+      "type": "explanation",
+      "target_q": "18-177-q-677",
+      "title": "",
+      "label": "◆不可算名詞 damage 「損害／被害」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "△注意", "text": "複数形の damages は「損害賠償（金）」という意味で用いる。\npay A in damages 「損害賠償金として A（金額）を支払う」" }
+      ]
+    },
+    {
+      "order": 1695,
+      "id": "18-177-q-678",
+      "type": "question",
+      "section_id": "177",
+      "number": "678",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "He made an effort to become a professional golfer, but he made ( ) progress.",
+      "options": ["① a few", "② few", "③ a little", "④ little"],
+      "q_type": "multiple_choice",
+      "ja": "彼はプロゴルファーになるために努力したが、ほとんど上達しなかった。",
+      "answer": "④",
+      "source_univ": "帝京大"
+    },
+    {
+      "order": 1696,
+      "id": "18-177-e-678",
+      "type": "explanation",
+      "target_q": "18-177-q-678",
+      "title": "",
+      "label": "◆不可算名詞 progress 「進歩／進行」",
+      "content": [],
+      "solution": [
+        { "text": "progress は不可算名詞。不可算名詞は a few / few で修飾することはできない。よって、 ①②は不可。", "note": "→ 765, 766" },
+        { "text": "不可算名詞は a little 「（肯定的に）少し…がある」や little 「（否定的に）ほとんど…がない」で修飾することができる (→ 763, 764) 。本問は ④ little を選ぶと、「努力したが、ほとんど上達しなかった」という文意が成立する。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1697,
+      "id": "18-177-q-679",
+      "type": "question",
+      "section_id": "177",
+      "number": "679",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "That street always has ( ).",
+      "options": [
+        "① a busy traffic",
+        "② a lot of traffic",
+        "③ heavy traffics",
+        "④ many traffics"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "あの通りはいつも交通量が多い。",
+      "answer": "②",
+      "source_univ": "京都産業大"
+    },
+    {
+      "order": 1698,
+      "id": "18-177-e-679",
+      "type": "explanation",
+      "target_q": "18-177-q-679",
+      "title": "",
+      "label": "◆不可算名詞 traffic 「交通（量）」",
+      "content": [],
+      "solution": [
+        { "text": "traffic は不可算名詞。 (×) a traffic / traffics という形はない。 ①③④は不可。\nThere is a lot of [heavy] traffic on the road. 「その道路は交通量が多い」 (→ 1448)\nThere is little [light] traffic on the road. 「その道路は交通量が少ない」 (→ 1449)" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1699,
+      "type": "section_header",
+      "section_id": "178",
+      "title": "意外な意味を持つ不可算名詞 room"
+    },
+    {
+      "order": 1700,
+      "id": "18-178-q-680",
+      "type": "question",
+      "section_id": "178",
+      "number": "680",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "The evidence clearly shows that there is still ( ) for doubt about it.",
+      "options": ["① room", "② rooms", "③ a room", "④ the room"],
+      "q_type": "multiple_choice",
+      "ja": "その件についてはまだ疑いの余地がある、とその証拠がはっきりと示している。",
+      "answer": "①",
+      "source_univ": "中京大"
+    },
+    {
+      "order": 1701,
+      "id": "18-178-e-680",
+      "type": "explanation",
+      "target_q": "18-178-q-680",
+      "title": "",
+      "label": "◆不可算名詞 room 「余地／機会／可能性」",
+      "content": [
+        { "text": "room は可算名詞では「部屋」、不可算名詞では「余地／機会 (= chance) ／可能性 (= possibility)」という意味になる。\nThere is room for improvement [doubt / argument]. 「改良［疑い／議論］の余地がある」" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "There is room for A. 「A の余地がある」" }
+      ]
+    },
+    {
+      "order": 1702,
+      "id": "18-178-q-681",
+      "type": "question",
+      "section_id": "178",
+      "number": "681",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The square was destroyed to make room for university buildings.",
+      "options": ["① prepare for", "② create space for", "③ establish", "④ introduce"],
+      "q_type": "multiple_choice",
+      "ja": "大学の建物のためにスペースを空ける目的で、その広場が取り壊された。",
+      "answer": "②",
+      "source_univ": "亜細亜大"
+    },
+    {
+      "order": 1703,
+      "id": "18-178-e-681",
+      "type": "explanation",
+      "target_q": "18-178-q-681",
+      "title": "",
+      "label": "◆不可算名詞 room 「空間／場所／スペース」 (= space)",
+      "content": [
+        { "text": "不可算名詞 room には「空間／場所／スペース」 (= space) という意味もある。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "make room for A 「A のために場所［スペース］を空ける」" }
+      ]
+    },
+    {
+      "order": 1704,
+      "type": "section_header",
+      "section_id": "179",
+      "title": "慣用的に複数形を用いる表現"
+    },
+    {
+      "order": 1705,
+      "id": "18-179-s-081",
+      "type": "summary_box",
+      "target_s": "179",
+      "number": "081",
+      "title": "慣用的に複数形を用いる表現",
+      "content": [
+        { "tag": "□", "en": "change trains [buses / planes]", "ja": "「電車［バス／飛行機］を乗り換える」", "note": "→ 683" },
+        { "tag": "□", "en": "make friends (with A)", "ja": "「（A と）友だちになる」", "note": "→ 682" },
+        { "tag": "□", "en": "shake hands (with A)", "ja": "「（A と）握手する」" },
+        { "tag": "□", "en": "take turns (in) doing [to do]", "ja": "「交替で…する」", "note": "→ 684" }
+      ]
+    },
+    {
+      "order": 1706,
+      "id": "18-179-q-682",
+      "type": "question",
+      "section_id": "179",
+      "number": "682",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "Why don't you make ( ) with that girl? She is very nice.",
+      "options": ["① a friend", "② friend", "③ friends", "④ the friend"],
+      "q_type": "multiple_choice",
+      "ja": "あの女の子と友だちになったらどう？ 彼女はとてもいい子だよ。",
+      "answer": "③",
+      "source_univ": "東京医科大"
+    },
+    {
+      "order": 1707,
+      "id": "18-179-e-682",
+      "type": "explanation",
+      "target_q": "18-179-q-682",
+      "title": "",
+      "label": "◆make friends (with A) 「（A と）友だちになる」",
+      "content": [
+        { "text": "この表現では慣用的に複数形 friends を用いる。友だちになるには、自分と相手の最低2人が必要なので複数形を用いると理解する。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "プラス", "text": "be friends (with A) 「（A と）友だちである」" }
+      ]
+    },
+    {
+      "order": 1708,
+      "id": "18-179-q-683",
+      "type": "question",
+      "section_id": "179",
+      "number": "683",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Mr. Tanaka changed ( ) at Nagoya for Toyohashi.",
+      "options": ["① train", "② a train", "③ its train", "④ trains"],
+      "q_type": "multiple_choice",
+      "ja": "田中さんは、名古屋駅で豊橋行きの電車に乗り換えた。",
+      "answer": "④",
+      "source_univ": "愛知大"
+    },
+    {
+      "order": 1709,
+      "id": "18-179-e-683",
+      "type": "explanation",
+      "target_q": "18-179-q-683",
+      "title": "",
+      "label": "◆change trains [buses / planes] 「電車［バス／飛行機］を乗り換える」",
+      "content": [
+        { "text": "この表現で用いる「乗りもの」は慣用的に複数形になる。乗り換えるには、それまで乗っていたものと、これから乗るものの2つが必要なので複数形を用いると理解する。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1710,
+      "id": "18-179-q-684",
+      "type": "question",
+      "section_id": "179",
+      "number": "684",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "It's a long trip, so we should take ( ) driving, don't you think?",
+      "options": ["① handles", "② turns", "③ orders", "④ changes"],
+      "q_type": "multiple_choice",
+      "ja": "長旅なので、交替で運転するべきだと思いませんか。",
+      "answer": "②",
+      "source_univ": "共立女子大"
+    },
+    {
+      "order": 1711,
+      "id": "18-179-e-684",
+      "type": "explanation",
+      "target_q": "18-179-q-684",
+      "title": "",
+      "label": "◆take turns (in) doing [to do] 「交替で…する」",
+      "content": [
+        { "text": "この表現では慣用的に複数形 turns を用いる。交替で何かをするには複数のメンバーが必要なので複数形を用いると理解する。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "プラス", "label": "by turns", "text": "「代わる代わる／順番に」", "note": "→ 1203" }
+      ]
+    },
+    {
+      "order": 1712,
+      "type": "section_header",
+      "section_id": "180",
+      "title": "複数形で用いると特別な意味を持つ名詞"
+    },
+    {
+      "order": 1713,
+      "id": "18-180-q-685",
+      "type": "question",
+      "section_id": "180",
+      "number": "685",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The singer took great pains to improve her image.",
+      "options": [
+        "① hid herself from the public",
+        "② made a special effort",
+        "③ needed a lot of time",
+        "④ was criticized very sharply"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "その歌手はイメージアップをしようと大変な努力をした。",
+      "answer": "②",
+      "source_univ": "東京経済大"
+    },
+    {
+      "order": 1714,
+      "id": "18-180-e-685",
+      "type": "explanation",
+      "target_q": "18-180-q-685",
+      "title": "",
+      "label": "◆take (great) pains to do 「苦労して…する／…しようと努力する」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1715,
+      "id": "18-180-q-686",
+      "type": "question",
+      "section_id": "180",
+      "number": "686",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Don't forget to give my best ( ) to your parents when you go back home.",
+      "options": ["① regard", "② regards", "③ reward", "④ rewarding"],
+      "q_type": "multiple_choice",
+      "ja": "家に帰ったら、ご両親によろしくお伝えください。",
+      "answer": "②",
+      "source_univ": "九州産業大"
+    },
+    {
+      "order": 1716,
+      "id": "18-180-e-686",
+      "type": "explanation",
+      "target_q": "18-180-q-686",
+      "title": "",
+      "label": "◆give my (best) regards to A 「A によろしくお伝えください」",
+      "content": [
+        { "text": "Give my (best) regards to A. 「A によろしくお伝えください」という慣用表現で覚える。 regard は「尊敬／配慮」などの意味を持つが、この表現の regards は「（手紙・伝言で）よろしくというあいさつ」の意味。", "note": "→ 1336" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1717,
+      "id": "18-180-q-687",
+      "type": "question",
+      "section_id": "180",
+      "number": "687",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "\"Please give my best ( ) to your parents.\"\n\"Thanks, I will.\"",
+      "options": ["① cares", "② feelings", "③ promises", "④ wishes"],
+      "q_type": "multiple_choice",
+      "ja": "「ご両親によろしくお伝えください」「ありがとう、そうします」",
+      "answer": "④",
+      "source_univ": "学習院大"
+    },
+    {
+      "order": 1718,
+      "id": "18-180-e-687",
+      "type": "explanation",
+      "target_q": "18-180-q-687",
+      "title": "",
+      "label": "◆wishes 「（手紙・伝言で）よろしくというあいさつ」",
+      "content": [
+        { "text": "Give my (best) regards to A. (→ 686) という慣用表現で、 regards の代わりに wishes を用いた表現。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1719,
+      "id": "18-180-q-688",
+      "type": "question",
+      "section_id": "180",
+      "number": "688",
+      "level": "advanced",
+      "is_frequent": true,
+      "en": "Mary quarreled with her father a week ago. She is now barely ( ) with him.",
+      "options": [
+        "① on speaking terms",
+        "② on good feelings",
+        "③ in familiar relation",
+        "④ on bad conditions"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "メアリーは1週間前に父親と口論になった。今では彼とはほとんど口もきかない。",
+      "answer": "①",
+      "source_univ": "摂南大"
+    },
+    {
+      "order": 1720,
+      "id": "18-180-e-688",
+      "type": "explanation",
+      "target_q": "18-180-q-688",
+      "title": "",
+      "label": "◆be on ... terms (with A) 「（A と）…な間柄である」",
+      "content": [
+        { "text": "この表現の terms は「間柄／仲」の意味。\nbe on good [friendly / first-name] terms 「良い［親しい／（名前で呼び合うほど）ごく親しい］仲である」" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1721,
+      "id": "18-180-s-082",
+      "type": "summary_box",
+      "target_s": "180",
+      "number": "082",
+      "title": "複数形で用いると特別な意味を持つ名詞",
+      "content": [
+        { "tag": "□", "en": "arms", "ja": "「武器／兵器」" },
+        { "tag": "□", "en": "customs", "ja": "「関税／税関」" },
+        { "tag": "□", "en": "forces", "ja": "「軍事力／軍隊」" },
+        { "tag": "□", "en": "glasses", "ja": "「メガネ」" },
+        { "tag": "□", "en": "goods", "ja": "「商品／品物」" },
+        { "tag": "□", "en": "manners", "ja": "「行儀／作法」" },
+        { "tag": "□", "en": "means", "ja": "「収入／財産／手段／方法」", "note": "→ 689" },
+        { "tag": "□", "en": "ruins", "ja": "「廃墟／遺跡」" },
+        { "tag": "□", "en": "works", "ja": "「作品」" },
+        { "en": "a man of letters", "ja": "「文学者」（letters は「文学」の意味）" },
+        { "label": "● spirits 「気分」:", "items": [
+          { "tag": "□", "en": "be in ... spirits", "ja": "「…な気分である」" },
+          { "tag": "□", "en": "be in high [good / great] spirits", "ja": "「上機嫌である」" },
+          { "tag": "□", "en": "be in low [poor] spirits", "ja": "「意気消沈している」" }
+        ]},
+        { "label": "● terms 「間柄／仲」:", "items": [
+          { "tag": "□", "en": "be on ... terms (with A)", "ja": "「（A と）…な間柄である」", "note": "→ 688" }
+        ]},
+        { "label": "● regards [wishes] 「（手紙・伝言で）よろしくというあいさつ」:", "items": [
+          { "tag": "□", "en": "Give my (best) regards [wishes] to A.", "ja": "「A によろしくお伝えください」", "note": "→ 686, 687" }
+        ]},
+        { "label": "● airs 「気取った態度」:", "items": [
+          { "tag": "□", "en": "put on airs", "ja": "「気取る」" }
+        ]},
+        { "label": "● pains 「骨折り／苦労」:", "items": [
+          { "tag": "□", "en": "take pains to do", "ja": "「苦労して…する／…しようと努力する」", "note": "→ 685" }
+        ]}
+      ]
+    },
+    {
+      "order": 1722,
+      "id": "18-180-q-689",
+      "type": "question",
+      "section_id": "180",
+      "number": "689",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "Credit cards can be useful, but they encourage some people to live beyond their ( ).",
+      "options": ["① ability", "② means", "③ power", "④ ways"],
+      "q_type": "multiple_choice",
+      "ja": "クレジットカードは便利ではあるが、収入の範囲を超えた暮らしを助長する場合もある。",
+      "answer": "②",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 1723,
+      "id": "18-180-e-689",
+      "type": "explanation",
+      "target_q": "18-180-q-689",
+      "title": "",
+      "label": "◆means 「収入／財産」",
+      "content": [],
+      "solution": [
+        { "text": "live beyond one's means は「収入の範囲を超えた暮らしをする／分不相応な生活をする」という意味。この表現の means は「収入／財産」の意味。\nlive within one's means 「収入の範囲内で暮らす／分相応の生活をする」、 a person of means 「資産家」" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "means は「手段／方法」という意味では単複同形。\na means to an end 「目的のための手段」 ← この means は単数形。\nseveral means of communication 「いくつかの通信手段」 ← この means は複数形。" }
+      ]
+    },
+    {
+      "order": 1724,
+      "type": "section_header",
+      "section_id": "181",
+      "title": "意味の区別が紛らわしい名詞"
+    },
+    {
+      "order": 1725,
+      "id": "18-181-q-690",
+      "type": "question",
+      "section_id": "181",
+      "number": "690",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The mother made ( ) for her son to see the doctor at 3 o'clock.",
+      "options": [
+        "① a reservation",
+        "② a booking",
+        "③ an appointment",
+        "④ an opening"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "その母親は息子のために3時に医者の予約をとった。",
+      "answer": "③",
+      "source_univ": "佛教大"
+    },
+    {
+      "order": 1726,
+      "id": "18-181-e-690",
+      "type": "explanation",
+      "target_q": "18-181-q-690",
+      "title": "",
+      "label": "◆appointment 「人と会う約束／（医者や美容院などの）予約」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "make an appointment 「（医者や美容院などの）予約をする」" }
+      ]
+    },
+    {
+      "order": 1727,
+      "id": "18-181-q-691",
+      "type": "question",
+      "section_id": "181",
+      "number": "691",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Hello, I would like to make ( ) for a table for four tonight.",
+      "options": [
+        "① a keeping",
+        "② a visit",
+        "③ a reservation",
+        "④ an appointment"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "もしもし、今夜4人分の席を予約したいのですが。",
+      "answer": "③",
+      "source_univ": "東京工芸大"
+    },
+    {
+      "order": 1728,
+      "id": "18-181-e-691",
+      "type": "explanation",
+      "target_q": "18-181-q-691",
+      "title": "",
+      "label": "◆reservation 「（飛行機・ホテル・レストランなどの）予約」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "make a reservation 「予約する」" }
+      ]
+    },
+    {
+      "order": 1729,
+      "id": "18-181-q-692",
+      "type": "question",
+      "section_id": "181",
+      "number": "692",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "My son is in the ( ) of washing his hands many times a day.",
+      "options": ["① habit", "② manner", "③ custom", "④ taste"],
+      "q_type": "multiple_choice",
+      "ja": "私の息子は1日に何度も手を洗う習慣がある。",
+      "answer": "①",
+      "source_univ": "昭和大"
+    },
+    {
+      "order": 1730,
+      "id": "18-181-e-692",
+      "type": "explanation",
+      "target_q": "18-181-q-692",
+      "title": "",
+      "label": "◆habit 「個人の習慣」、custom 「社会の慣習」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "be in the habit of doing 「…する（個人的な）習慣がある／癖がある」" }
+      ]
+    },
+    {
+      "order": 1731,
+      "id": "18-181-q-693",
+      "type": "question",
+      "section_id": "181",
+      "number": "693",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "My brother's daughter Connie is my favorite ( ).",
+      "options": ["① aunt", "② cousin", "③ nephew", "④ niece"],
+      "q_type": "multiple_choice",
+      "ja": "兄［弟］の娘のコニーは私のお気に入りの姪だ。",
+      "answer": "④",
+      "source_univ": "湘南工科大"
+    },
+    {
+      "order": 1732,
+      "id": "18-181-e-693",
+      "type": "explanation",
+      "target_q": "18-181-q-693",
+      "title": "",
+      "label": "◆cousin 「いとこ」、nephew 「甥（おい）」、niece 「姪（めい）」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1733,
+      "id": "18-181-s-083",
+      "type": "summary_box",
+      "target_s": "181",
+      "number": "083",
+      "title": "意味の区別が紛らわしい名詞",
+      "content": [
+        { "tag": "□", "text": "flock 「羊や鳥の群れ」 ― herd 「牛や馬の群れ」 ― school 「魚やクジラの群れ」" },
+        { "tag": "□", "text": "cousin 「いとこ」 ― nephew 「甥（おい）」 ― niece 「姪（めい）」", "note": "→ 693" },
+        { "tag": "□", "text": "surgeon 「外科医」 ― physician 「内科医」" },
+        { "tag": "□", "text": "shadow 「（光が物にさえぎられてできる）影」 ― shade 「（木陰のように日光が当たらない）陰、物陰」\n(例) sit in the shade of a tree 「木陰に座る」" },
+        { "tag": "□", "text": "habit 「個人の習慣」 ― custom 「社会の慣習」", "note": "→ 692" },
+        { "tag": "□", "text": "weather 「特定の日の天気」 ― climate 「年間を通じての気候」" },
+        { "tag": "□", "text": "view 「（ある場所から見える）見晴らし／眺め」\n― scenery 「（山・森・湖などの美しい）景色／風景」〈不可算名詞〉\n― scene 「場面／現場／（印象的な）景色」\n― sight 「視力／視野／（複数形で）名所」 ― landscape 「（陸地の）風景」" },
+        { "tag": "□", "text": "appointment 「人と会う約束／（医者や美容院などの）予約」", "note": "→ 690" },
+        { "text": "― reservation 「（飛行機・ホテル・レストランなどの）予約」", "note": "→ 691" },
+        { "tag": "□", "text": "company 「（組織としての）会社」 ― office 「（働く場所としての）会社」\n(例) 「会社に行く」 go to the office" }
+      ]
+    },
+    {
+      "order": 1734,
+      "type": "section_header",
+      "section_id": "182",
+      "title": "「料金・お金」を表す名詞"
+    },
+    {
+      "order": 1735,
+      "id": "18-182-s-084",
+      "type": "summary_box",
+      "target_s": "182",
+      "number": "084",
+      "title": "「料金・お金」を表す名詞",
+      "content": [
+        { "tag": "□", "en": "fare", "ja": "「（交通機関の）運賃／料金」", "note": "→ 694" },
+        { "tag": "□", "en": "fee", "ja": "「（専門家に支払う）謝礼／報酬／授業料／学費」" },
+        { "tag": "□", "en": "charge", "ja": "「（サービスに対する）料金／手数料」" },
+        { "tag": "□", "en": "admission", "ja": "「入場料」 (= admission fee [charge])" },
+        { "tag": "□", "en": "rent", "ja": "「（土地・家屋の）賃貸料／使用料」" },
+        { "tag": "□", "en": "tax", "ja": "「税金」" },
+        { "tag": "□", "en": "fine", "ja": "「罰金」", "note": "→ 696" },
+        { "tag": "□", "en": "income", "ja": "「収入／所得」" },
+        { "tag": "□", "en": "pay", "ja": "「給料／賃金」" },
+        { "tag": "□", "en": "wage", "ja": "「（肉体労働に対する）賃金」" },
+        { "tag": "□", "en": "salary", "ja": "「（サラリーマンの）給料／月給」" },
+        { "tag": "□", "en": "cost", "ja": "「（何かをするための）費用／経費」", "note": "→ 695" },
+        { "tag": "□", "en": "price", "ja": "「価格／値段」" },
+        { "tag": "□", "en": "interest", "ja": "「利子／利息」" },
+        { "tag": "□", "en": "profit", "ja": "「利益／利潤」" },
+        { "tag": "□", "en": "check", "ja": "「小切手」" },
+        { "tag": "□", "en": "cash", "ja": "「現金」" },
+        { "tag": "□", "en": "change", "ja": "「おつり／小銭」" },
+        { "tag": "□", "en": "debt", "ja": "「借金／負債」" },
+        { "tag": "□", "en": "finance", "ja": "「財政／融資」" },
+        { "tag": "□", "en": "fund", "ja": "「基金／資金」" },
+        { "tag": "□", "en": "bill", "ja": "「請求書／勘定」" }
+      ]
+    },
+    {
+      "order": 1736,
+      "id": "18-182-q-694",
+      "type": "question",
+      "section_id": "182",
+      "number": "694",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "It was announced yesterday that train companies would raise their ( ) by more than 10%.",
+      "options": ["① fees", "② bills", "③ fares", "④ terms"],
+      "q_type": "multiple_choice",
+      "ja": "昨日、鉄道会社が運賃を10％以上引き上げることが発表された。",
+      "answer": "③",
+      "source_univ": "東邦大"
+    },
+    {
+      "order": 1737,
+      "id": "18-182-e-694",
+      "type": "explanation",
+      "target_q": "18-182-q-694",
+      "title": "",
+      "label": "◆fare 「（交通機関の）運賃／料金」",
+      "content": [],
+      "solution": [
+        { "text": "raise fares で「運賃を値上げする」という意味。" },
+        { "text": "a taxi [bus] fare 「タクシー［バス］料金」、 a single [double] fare 「片道［往復］料金」" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① fee 「（専門家に支払う）謝礼、報酬／授業料、学費」 doctor's [lawyer's] fees 「診察［弁護］料」, ② bill 「請求書／勘定」 split the bill 「割り勘にする」" }
+      ]
+    },
+    {
+      "order": 1738,
+      "id": "18-182-q-695",
+      "type": "question",
+      "section_id": "182",
+      "number": "695",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "As the ( ) of living is higher in Tokyo than in Nagoya, I decided to live in Nagoya.",
+      "options": ["① cost", "② expensive", "③ money", "④ charge"],
+      "q_type": "multiple_choice",
+      "ja": "名古屋よりも東京のほうが生活費が高いので、私は名古屋に住むことにした。",
+      "answer": "①",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 1739,
+      "id": "18-182-e-695",
+      "type": "explanation",
+      "target_q": "18-182-q-695",
+      "title": "",
+      "label": "◆cost 「（何かをするための）費用／経費」",
+      "content": [
+        { "text": "cost 「（何かをするための）費用／経費」と charge 「（サービスに対する）料金／手数料」の区別の問題。" }
+      ],
+      "solution": [
+        { "text": "the cost of living で「生活費」という意味。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "text": "名詞 cost は「犠牲／代償／対価」の意味でも頻出。\nat all cost(s) / at any cost 「どんな犠牲を払ってでも」\nat the cost of A 「A という犠牲を払って」" }
+      ]
+    },
+    {
+      "order": 1740,
+      "id": "18-182-q-696",
+      "type": "question",
+      "section_id": "182",
+      "number": "696",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "She drove too fast, so the police made her pay a ( ) of 150 dollars.",
+      "options": ["① punish", "② fine", "③ cost", "④ charge"],
+      "q_type": "multiple_choice",
+      "ja": "彼女はスピードを出しすぎたので、警察は150ドルの罰金を彼女に科した。",
+      "answer": "②",
+      "source_univ": "杏林大"
+    },
+    {
+      "order": 1741,
+      "id": "18-182-e-696",
+      "type": "explanation",
+      "target_q": "18-182-q-696",
+      "title": "",
+      "label": "◆fine 「罰金」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "プラス", "text": "fine には「罰金を科す」という動詞の意味もある。\nHe was fined for speeding. 「彼はスピード違反で罰金を科せられた」" },
+        { "tag": "重要", "text": "pay a fine 「罰金を支払う」" }
+      ]
+    },
+    {
+      "order": 1742,
+      "type": "section_header",
+      "section_id": "183",
+      "title": "「お客」を表す名詞"
+    },
+    {
+      "order": 1743,
+      "id": "18-183-s-085",
+      "type": "summary_box",
+      "target_s": "183",
+      "number": "085",
+      "title": "「お客」を表す名詞",
+      "content": [
+        { "tag": "□", "en": "audience", "ja": "「（映画・講演会などの）観客／聴衆」" },
+        { "tag": "□", "en": "spectator", "ja": "「（スポーツの試合などの）観客」" },
+        { "tag": "□", "en": "guest", "ja": "「（招待された）客／（ホテルなどの）泊まり客」" },
+        { "tag": "□", "en": "visitor", "ja": "「訪問客、見舞客／観光客、見学者」" },
+        { "tag": "□", "en": "customer", "ja": "「（商店の）買い物客／（企業の）顧客」", "note": "→ 697" },
+        { "tag": "□", "en": "client", "ja": "「（弁護士・会計士などへの）依頼人」" },
+        { "tag": "□", "en": "patient", "ja": "「患者」" },
+        { "tag": "□", "en": "passenger", "ja": "「（飛行機・列車などの）乗客」", "note": "→ 698" }
+      ]
+    },
+    {
+      "order": 1744,
+      "id": "18-183-q-697",
+      "type": "question",
+      "section_id": "183",
+      "number": "697",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The supermarket is crowded with ( ) every Sunday.",
+      "options": ["① customers", "② sellers", "③ guests", "④ visitors"],
+      "q_type": "multiple_choice",
+      "ja": "そのスーパーは毎週日曜日、買い物客で混雑する。",
+      "answer": "①",
+      "source_univ": "成城大"
+    },
+    {
+      "order": 1745,
+      "id": "18-183-e-697",
+      "type": "explanation",
+      "target_q": "18-183-q-697",
+      "title": "",
+      "label": "◆customer 「（商店の）買い物客／（企業の）顧客」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "be crowded with A 「A で混雑している」" }
+      ]
+    },
+    {
+      "order": 1746,
+      "id": "18-183-q-698",
+      "type": "question",
+      "section_id": "183",
+      "number": "698",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "It was a miracle that all the ( ) survived the plane crash.",
+      "options": ["① clients", "② passengers", "③ spectators", "④ guests"],
+      "q_type": "multiple_choice",
+      "ja": "その飛行機事故で乗客が全員生き延びたのは奇跡だった。",
+      "answer": "②",
+      "source_univ": "鳥羽大"
+    },
+    {
+      "order": 1747,
+      "id": "18-183-e-698",
+      "type": "explanation",
+      "target_q": "18-183-q-698",
+      "title": "",
+      "label": "◆passenger 「乗客」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1748,
+      "type": "section_header",
+      "section_id": "184",
+      "title": "「仕事・職業」を表す名詞"
+    },
+    {
+      "order": 1749,
+      "id": "18-184-q-699",
+      "type": "question",
+      "section_id": "184",
+      "number": "699",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "When she finally succeeded after hours of work, she felt that her ( ) had been worthwhile.",
+      "options": ["① labor", "② marsh", "③ moisture", "④ traffic"],
+      "q_type": "multiple_choice",
+      "ja": "何時間も働いてようやくうまくいったとき、彼女は自分の苦労は価値あるものだったと感じた。",
+      "answer": "①",
+      "source_univ": "立命館大"
+    },
+    {
+      "order": 1750,
+      "id": "18-184-e-699",
+      "type": "explanation",
+      "target_q": "18-184-q-699",
+      "title": "",
+      "label": "◆labor 「（特につらい肉体的な）仕事／骨折り、努力」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "② marsh 「沼地／湿地」, ③ moisture 「湿気／水分」" }
+      ]
+    },
+    {
+      "order": 1751,
+      "id": "18-184-q-700",
+      "type": "question",
+      "section_id": "184",
+      "number": "700",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Mary told me about her occupation.",
+      "options": ["① hobby", "② profession", "③ dream", "④ assignment"],
+      "q_type": "multiple_choice",
+      "ja": "メアリーは自分の職業について私に語った。",
+      "answer": "②",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 1752,
+      "id": "18-184-e-700",
+      "type": "explanation",
+      "target_q": "18-184-q-700",
+      "title": "",
+      "label": "◆occupation 「職業」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "② profession 「（知的な）職業／専門職」, ④ assignment 「割り当てられた仕事／宿題」" }
+      ]
+    },
+    {
+      "order": 1753,
+      "id": "18-184-s-086",
+      "type": "summary_box",
+      "target_s": "184",
+      "number": "086",
+      "title": "「仕事・職業」を表す名詞",
+      "content": [
+        { "tag": "□", "en": "work", "ja": "「仕事／労働」〈不可算名詞〉" },
+        { "tag": "□", "en": "job", "ja": "「（特に職業としての）仕事」〈可算名詞〉" },
+        { "tag": "□", "en": "task", "ja": "「（一定期間に義務としてやるべき）仕事／任務」〈可算名詞〉" },
+        { "tag": "□", "en": "assignment", "ja": "「割り当てられた仕事／宿題」" },
+        { "tag": "□", "en": "labor", "ja": "「（特につらい肉体的な）仕事／骨折り、努力」", "note": "→ 699" },
+        { "tag": "□", "en": "occupation", "ja": "「職業」", "note": "→ 700" },
+        { "tag": "□", "en": "profession", "ja": "「（知的な）職業／専門職」" },
+        { "tag": "□", "en": "employment", "ja": "「雇用／就職」", "appendix": [ { "tag": "cf.", "text": "unemployment 「失業（者）」" } ] },
+        { "tag": "□", "en": "career", "ja": "「経歴／一生の仕事」" },
+        { "tag": "□", "en": "business", "ja": "「商売／商取引」" },
+        { "tag": "□", "en": "trade", "ja": "「貿易／商売」" }
+      ]
+    },
+    {
+      "order": 1754,
+      "type": "section_header",
+      "section_id": "185",
+      "title": "分数などを用いた表現"
+    },
+    {
+      "order": 1755,
+      "id": "18-185-q-701",
+      "type": "question",
+      "section_id": "185",
+      "number": "701",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "In many of the developing countries of Asia and Africa where the urbanization process has only recently begun, about ( ) of the population lives in urban areas.",
+      "options": [
+        "① one of three",
+        "② one-third",
+        "③ every three persons",
+        "④ the third"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "都市化の進行がごく最近になって始まったばかりのアジアやアフリカの発展途上国の多くでは、人口の約3分の1が都市部に住んでいる。",
+      "answer": "②",
+      "source_univ": "成蹊大"
+    },
+    {
+      "order": 1756,
+      "id": "18-185-e-701",
+      "type": "explanation",
+      "target_q": "18-185-q-701",
+      "title": "",
+      "label": "◆one-third of A 「A の3分の1」",
+      "content": [
+        { "text": "分数は〈分子＋分母〉で表す。分子には one, two, three などの基数を、分母には third, fifth, sixth などの序数を使う。分子が2以上のときは分母を複数形にする (→ 380) 。\none fifth 「5分の1」、 two fifths 「5分の2」" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "△注意", "text": "分子と分母の間にはハイフン (-) をつける場合と、つけない場合の両方がある。" }
+      ]
+    },
+    {
+      "order": 1757,
+      "id": "18-185-q-702",
+      "type": "question",
+      "section_id": "185",
+      "number": "702",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Being terribly wounded, approximately (two-third / two-thirds) of the soldiers were lying on the ground after the fighting ended in the area.",
+      "q_type": "error_correction",
+      "ja": "その地域での戦闘が終わったあと、兵士たちのおよそ3分の2が、重傷のまま地面に横たわっていた。",
+      "answer": "two-thirds / two thirds",
+      "source_univ": "福島大"
+    },
+    {
+      "order": 1758,
+      "id": "18-185-e-702",
+      "type": "explanation",
+      "target_q": "18-185-q-702",
+      "title": "",
+      "label": "◆two-thirds of A 「A の3分の2」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "① 「とても傷ついた状態で」という意味の受動態を用いた分詞構文 (→ 199) 、 ③ 自動詞 lie の活用 (→ 612) 、 ④ 接続詞 after に導かれた節中の自動詞 end" }
+      ]
+    },
+    {
+      "order": 1759,
+      "id": "18-185-q-703",
+      "type": "question",
+      "section_id": "185",
+      "number": "703",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "It is hard to believe that (a year and half / a year and a half) have passed since the last time our whole family got together.",
+      "q_type": "error_correction",
+      "ja": "私たち家族全員が最後に集まってから、1年半が過ぎたなんて信じがたい。",
+      "answer": "a year and a half / one and a half years",
+      "source_univ": "早稲田大"
+    },
+    {
+      "order": 1760,
+      "id": "18-185-e-703",
+      "type": "explanation",
+      "target_q": "18-185-q-703",
+      "title": "",
+      "label": "◆a year and a half / one and a half years 「1年半」",
+      "content": [
+        { "text": "a year and a half は文字どおり「1年＋（1年の）半分＝1年半」という意味。同意表現の one and a half years は、 one and a half 「1＋半分」が year を修飾しているので、複数形 years になる。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "プラス", "label": "year 以外に hour / month / century などを用いた表現は以下のとおり。", "text": "a month [an hour] and a half / one and a half months [hours] 「1か月半［1時間半］」" },
+        { "tag": "選択肢", "text": "②, ③ は時間の経過の表現 (時間+ have passed since ...) → 30" }
+      ]
+    },
+    {
+      "order": 1761,
+      "id": "18-185-q-704",
+      "type": "question",
+      "section_id": "185",
+      "number": "704",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "駅までは徒歩で30分かかる。\nIt (half / to the station / walk / takes / an / to / hour).",
+      "q_type": "ordering",
+      "ja": "駅までは徒歩で30分かかる。",
+      "answer": "takes half an hour to walk to the station",
+      "source_univ": "高崎経済大"
+    },
+    {
+      "order": 1762,
+      "id": "18-185-e-704",
+      "type": "explanation",
+      "target_q": "18-185-q-704",
+      "title": "",
+      "label": "◆half an hour 「30分」",
+      "content": [
+        { "text": "〈half a[an] + 数量を表す名詞〉で「半分の…／2分の1の…」という意味。\nhalf a mile 「半マイル」、 half a million 「50万」" }
+      ],
+      "solution": [
+        { "text": "It takes (A) B to do 「（A（人）が）…するのに B（時間・労力）かかる」 (→ 595) 。本問では A の部分が省略されている。" }
+      ],
+      "appendix": []
+    }
+  ]
+}

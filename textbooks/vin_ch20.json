@@ -1,0 +1,1793 @@
+{
+  "metadata": {
+    "source": "vin4",
+    "field": "usage",
+    "chapter_id": "20",
+    "chapter_title": "形容詞の語法"
+  },
+  "items": [
+    {
+      "order": 1905,
+      "type": "section_header",
+      "section_id": "200",
+      "title": "数・量を表す形容詞の用法"
+    },
+    {
+      "order": 1906,
+      "id": "20-200-s-094",
+      "type": "summary_box",
+      "target_s": "200",
+      "number": "094",
+      "title": "数・量を表すおもな形容詞",
+      "content": [
+        { "label": "【たくさんの…】", "items": [
+          { "tag": "Aは可算名詞（の複数形）", "en": "many A", "note": "→ 768" },
+          { "tag": "Aは可算名詞（の複数形）", "en": "a great number of A", "note": "→ 773" },
+          { "tag": "Aは不可算名詞", "en": "much A", "note": "→ 767" },
+          { "tag": "Aは不可算名詞", "en": "a great deal of A", "note": "→ 772" }
+        ]},
+        { "label": "【かなりの数・量の…】", "items": [
+          { "tag": "Aは可算名詞（の複数形）", "en": "quite [not] a few A", "note": "→ 769" },
+          { "tag": "Aは不可算名詞", "en": "quite [not] a little A", "note": "→ 769" }
+        ]},
+        { "label": "【少しの…】", "items": [
+          { "tag": "Aは可算名詞（の複数形）", "en": "a few A", "note": "→ 765" },
+          { "tag": "Aは不可算名詞", "en": "a little A", "note": "→ 764" }
+        ]},
+        { "label": "【ほとんど…ない】", "items": [
+          { "tag": "Aは可算名詞（の複数形）", "en": "few A", "note": "→ 766" },
+          { "tag": "Aは不可算名詞", "en": "little A", "note": "→ 763" }
+        ]},
+        { "tag": "△注意", "text": "all / a lot of / lots of / plenty of / some (→ 770) / any / no などは可算名詞（の複数形）と不可算名詞の両方を修飾することに注意。" },
+        { "tag": "△注意", "text": "many / (a) few / much / (a) little / all / some / any などには形容詞と代名詞の使い分けがある。", "note": "→ しっかり理解 024 (p. 315)" }
+      ]
+    },
+    {
+      "order": 1907,
+      "id": "20-200-q-763",
+      "type": "question",
+      "section_id": "200",
+      "number": "763",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "Driving downtown to the stadium for the baseball game was easy. We got there quickly because there was ( ) traffic.",
+      "options": ["① few", "② a few", "③ little", "④ a little"],
+      "q_type": "multiple_choice",
+      "ja": "野球の試合のために車で繁華街を通って野球場へ行くのはたやすかった。交通量がほとんどなかったので、すぐにそこに差いた。",
+      "answer": "③",
+      "source_univ": "法政大"
+    },
+    {
+      "order": 1908,
+      "id": "20-200-e-763",
+      "type": "explanation",
+      "target_q": "20-200-q-763",
+      "title": "",
+      "label": "◆〈little ＋不可算名詞〉「ほとんど…ない」",
+      "content": [],
+      "solution": [
+        { "text": "traffic 「交通（量）」は不可算名詞 (→ Section 177 (p. 291)) 。不可算名詞を修飾するのは ③ little 「ほとんど…ない」と ④ a little 「少しの…」だが、「交通量がほとんどなかった→すぐに到着した」という文意が成立する ③ little が正解。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① few と ② a few は可算名詞を修飾するので不可。" }
+      ]
+    },
+    {
+      "order": 1909,
+      "id": "20-200-q-764",
+      "type": "question",
+      "section_id": "200",
+      "number": "764",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "I can't decide now. I need ( ) time to think about it.",
+      "options": ["① few", "② a few", "③ little", "④ a little"],
+      "q_type": "multiple_choice",
+      "ja": "今は決められません。それについて考える時間が少し必要です。",
+      "answer": "④",
+      "source_univ": "日本大"
+    },
+    {
+      "order": 1910,
+      "id": "20-200-e-764",
+      "type": "explanation",
+      "target_q": "20-200-q-764",
+      "title": "",
+      "label": "◆〈a little ＋不可算名詞〉「少しの…」",
+      "content": [],
+      "solution": [
+        { "text": "time 「時間」は不可算名詞。「決められない→少しの考える時間が必要」という文意が成立する ④ a little 「少しの…」が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1911,
+      "id": "20-200-q-765",
+      "type": "question",
+      "section_id": "200",
+      "number": "765",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "My daughter has ( ) close friends at school.",
+      "options": ["① a little", "② a little of", "③ a few", "④ a few of"],
+      "q_type": "multiple_choice",
+      "ja": "私の娘は学校に数少ない親友がいる。",
+      "answer": "③",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 1912,
+      "id": "20-200-e-765",
+      "type": "explanation",
+      "target_q": "20-200-q-765",
+      "title": "",
+      "label": "◆〈a few ＋可算名詞〉「少しの…」",
+      "content": [],
+      "solution": [
+        { "text": "friends 「友人」は可算名詞の複数形。可算名詞を修飾する ③ a few が正解。" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "② ④ の a little / a few は代名詞。 a little of A / a few of A という形で用いるが、 A には the や所有格のついた特定の名詞や代名詞が来る。\nA little of their wealth still remains. 「彼らの財産はまだ少し残っている」\nI have read a few of these books. 「私はこれらの本を少し読んだ」" }
+      ]
+    },
+    {
+      "order": 1913,
+      "id": "20-200-q-766",
+      "type": "question",
+      "section_id": "200",
+      "number": "766",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "There were ( ) people at the meeting, so the room was nearly empty.",
+      "options": ["① big", "② number", "③ few", "④ little"],
+      "q_type": "multiple_choice",
+      "ja": "会議にはほとんど人がいなかったので、部屋はからっぽに近かった。",
+      "answer": "③",
+      "source_univ": "亜細亜大"
+    },
+    {
+      "order": 1914,
+      "id": "20-200-e-766",
+      "type": "explanation",
+      "target_q": "20-200-q-766",
+      "title": "",
+      "label": "◆〈few ＋可算名詞〉「ほとんど…ない」",
+      "content": [],
+      "solution": [
+        { "text": "people 「人々」は複数扱いする名詞なので、可算名詞の複数形として考える。" },
+        { "text": "「部屋はからっぽに近かった」ので、 ③ few 「ほとんど…ない」が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1915,
+      "id": "20-200-q-767",
+      "type": "question",
+      "section_id": "200",
+      "number": "767",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "It is not good for your health to put ( ) sugar in your coffee.",
+      "options": ["① a lot", "② lots", "③ too many", "④ too much"],
+      "q_type": "multiple_choice",
+      "ja": "コーヒーに砂糖を入れすぎると、健康に良くないですよ。",
+      "answer": "④",
+      "source_univ": "学習院大"
+    },
+    {
+      "order": 1916,
+      "id": "20-200-e-767",
+      "type": "explanation",
+      "target_q": "20-200-q-767",
+      "title": "",
+      "label": "◆〈much ＋不可算名詞〉「たくさんの…」",
+      "content": [],
+      "solution": [
+        { "text": "sugar 「砂糖」は不可算名詞。不可算名詞を修飾する much を使った ④ の〈too much ＋不可算名詞〉は「たくさんすぎる…」という意味で、正解となる。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "③ many は可算名詞を修飾する。\n① a lot と ② lots は a lot of と lots of なら正解となる。 a lot of / lots of は可算名詞も不可算名詞も修飾できる。" }
+      ]
+    },
+    {
+      "order": 1917,
+      "id": "20-200-q-768",
+      "type": "question",
+      "section_id": "200",
+      "number": "768",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Have you had ( ) experiences abroad?",
+      "options": ["① little", "② lots", "③ many", "④ much"],
+      "q_type": "multiple_choice",
+      "ja": "海外経験は多いですか。",
+      "answer": "③",
+      "source_univ": "工学院大"
+    },
+    {
+      "order": 1918,
+      "id": "20-200-e-768",
+      "type": "explanation",
+      "target_q": "20-200-q-768",
+      "title": "",
+      "label": "◆〈many ＋可算名詞〉「たくさんの…」",
+      "content": [],
+      "solution": [
+        { "text": "experiences 「経験」は可算名詞の複数形。可算名詞を修飾するのは ③ の many だけ。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① little と ④ much は不可算名詞を修飾する。 ② は lots of なら正解となる。" }
+      ]
+    },
+    {
+      "order": 1919,
+      "id": "20-200-q-769",
+      "type": "question",
+      "section_id": "200",
+      "number": "769",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "There were quite a few students absent from class.",
+      "options": [
+        "① a limited number of",
+        "② an extremely small number of",
+        "③ a small number of",
+        "④ a fairly large number of"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "授業を休んだ学生がかなり大勢いた。",
+      "answer": "④",
+      "source_univ": "明海大"
+    },
+    {
+      "order": 1920,
+      "id": "20-200-e-769",
+      "type": "explanation",
+      "target_q": "20-200-q-769",
+      "title": "",
+      "label": "◆〈quite a few ＋可算名詞〉「かなりの数の…」",
+      "content": [
+        { "text": "quite a few / not a few は可算名詞（の複数形）をあとに続け、「かなりの数の…」という意味になる。同様に quite a little / not a little は不可算名詞をあとに続け、「かなりの量の…」という意味になる。\nThere was quite a little water in the pool. 「プールにはかなりの量の水があった」" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1921,
+      "id": "20-200-q-770",
+      "type": "question",
+      "section_id": "200",
+      "number": "770",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "We'll get ( ) information from the tourist office.",
+      "options": ["① some", "② any", "③ an", "④ every"],
+      "q_type": "multiple_choice",
+      "ja": "私たちは旅行案内所から情報を入手するつもりだ。",
+      "answer": "①",
+      "source_univ": "青山学院大"
+    },
+    {
+      "order": 1922,
+      "id": "20-200-e-770",
+      "type": "explanation",
+      "target_q": "20-200-q-770",
+      "title": "",
+      "label": "◆〈some ＋不可算名詞〉",
+      "content": [
+        { "text": "形容詞 some 「いくらかの」は可算名詞（の複数形）と不可算名詞の両方を修飾する。" }
+      ],
+      "solution": [
+        { "text": "information 「情報」は不可算名詞。 ① some は不可算名詞も修飾できる。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "② の any は肯定文で用いると、可算名詞の単数形をあとに続けて「どんな…でも」という意味になる (→ 724) 。 ④ every (→ 733) は可算名詞の単数形を修飾する。" }
+      ]
+    },
+    {
+      "order": 1923,
+      "id": "20-200-q-771",
+      "type": "question",
+      "section_id": "200",
+      "number": "771",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Come here and sit down by me. There is ( ) room for you.",
+      "options": ["① a", "② enough", "③ little", "④ the"],
+      "q_type": "multiple_choice",
+      "ja": "ここに来て私のそばに座りなさい。十分なスペースがあるから。",
+      "answer": "②",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 1924,
+      "id": "20-200-e-771",
+      "type": "explanation",
+      "target_q": "20-200-q-771",
+      "title": "",
+      "label": "◆〈enough ＋可算名詞／不可算名詞〉",
+      "content": [
+        { "text": "形容詞 enough 「十分な」は可算名詞（の複数形）と不可算名詞の両方を修飾する。" }
+      ],
+      "solution": [
+        { "text": "本問の room (→ 681) は不可算名詞で「空間／場所／スペース」という意味。" },
+        { "text": "② enough を選べば「十分な場所［スペース］がある」となって文意が通る。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① a を入れると room は可算名詞で「部屋」という意味。ここでは文意に合わない。 ③ little は不可算名詞を修飾するが、「ほとんどスペースがない」という意味になり文意に合わない。\nThere is S ... 「S がある」の S には不特定の名詞が来るので ④ the は不可。" }
+      ]
+    },
+    {
+      "order": 1925,
+      "id": "20-200-q-772",
+      "type": "question",
+      "section_id": "200",
+      "number": "772",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "A great ( ) of money has been spent on this building.",
+      "options": ["① deal", "② number", "③ price", "④ cost"],
+      "q_type": "multiple_choice",
+      "ja": "この建物にたくさんのお金が費やされてきた。",
+      "answer": "①",
+      "source_univ": "駒澤大"
+    },
+    {
+      "order": 1926,
+      "id": "20-200-e-772",
+      "type": "explanation",
+      "target_q": "20-200-q-772",
+      "title": "",
+      "label": "◆a great[good] deal of A 「たくさんの A（不可算名詞）」",
+      "content": [
+        { "text": "a great[good] deal of A は「たくさんの A（不可算名詞）」という意味で、量が多いことを表す。 a great[good] deal of snow 「大量の雪」" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1927,
+      "id": "20-200-q-773",
+      "type": "question",
+      "section_id": "200",
+      "number": "773",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "A great number of members opposed my proposal at the meeting.",
+      "options": ["① A few", "② Many", "③ The number of", "④ A minimum of"],
+      "q_type": "multiple_choice",
+      "ja": "会議では多くの参加者が私の提案に反対した。",
+      "answer": "②",
+      "source_univ": "明海大"
+    },
+    {
+      "order": 1928,
+      "id": "20-200-e-773",
+      "type": "explanation",
+      "target_q": "20-200-q-773",
+      "title": "",
+      "label": "◆a great[good / large] number of A 「多くの A（可算名詞の複数形）」",
+      "content": [
+        { "text": "a number of は「多くの」という意味で、数が多いことを表し、あとに可算名詞の複数形を続ける。本問のように、 number の前に great / good / large などの形容詞がつくことが多い。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1929,
+      "type": "section_header",
+      "section_id": "201",
+      "title": "分詞形容詞"
+    },
+    {
+      "order": 1930,
+      "id": "20-201-d-026",
+      "type": "deep_dive",
+      "target_s": "201",
+      "number": "026",
+      "title": "分詞形容詞の意味",
+      "content": [
+        { "text": "「分詞形容詞」とは、人の感情に関する動詞の現在分詞と過去分詞が、形容詞として使われるようになったもの。分詞形容詞は派生した元の動詞の意味に戻って考えれば理解しやすい。人の感情に関する動詞は、「人を…（の感情に）させる」という意味になるものが多い。たとえば、他動詞 surprise は「（人を）驚かせる」という意味である。そこから派生した現在分詞 surprising は「（人を）驚かせるような→驚くべき／意外な」という意味の能動的な意味の分詞形容詞になり、過去分詞 surprised は「（人が）驚かされた→（人が）驚いた／驚いている」という受動的な意味の分詞形容詞になる。" },
+        { "en": "The result surprised me.", "ja": "「その結果は私を驚かせた」" },
+        { "en": "The result was surprising.", "ja": "「その結果は驚くべきものだった」" },
+        { "en": "I was surprised at the result.", "ja": "「私はその結果に驚いた」" }
+      ]
+    },
+    {
+      "order": 1931,
+      "id": "20-201-q-774",
+      "type": "question",
+      "section_id": "201",
+      "number": "774",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "I don't mind being transferred as long as the job is ( ).",
+      "options": ["① interest", "② interested", "③ interesting", "④ interests"],
+      "q_type": "multiple_choice",
+      "ja": "仕事がおもしろいのであれば、転勤も気にしません。",
+      "answer": "③",
+      "source_univ": "神奈川歯科大"
+    },
+    {
+      "order": 1932,
+      "id": "20-201-e-774",
+      "type": "explanation",
+      "target_q": "20-201-q-774",
+      "title": "",
+      "label": "◆interesting 「（人にとって）おもしろい／興味を引き起こす←（人に）興味をもたせるような」",
+      "note": "しっかり理解 026, 整理して覚える 095",
+      "content": [
+        { "text": "他動詞 interest 「（人に）興味をもたせる」から派生した interesting は「（人に）興味をもたせるような→（人にとって）おもしろい／（人の）興味を引き起こす」という意味になり、 interested は「（人が）興味をもたされた→（人が）興味をもっている／興味がある」という意味になる。\nThe job interests me. 「その仕事は私に興味をもたせる」\nThe job is interesting. 「その仕事はおもしろい」\nI am interested in the job. 「私はその仕事に興味がある」" }
+      ],
+      "solution": [
+        { "text": "主語の the job との関係に注目する。 the job の内容を述べているので、 ③ interesting 「（人にとって）おもしろい」が正解となる。" },
+        { "text": "② の the job is interested は「仕事が興味をもっている」という不自然な意味になる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1933,
+      "id": "20-201-q-775",
+      "type": "question",
+      "section_id": "201",
+      "number": "775",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "When he was asked why he was studying so hard, he replied that he was (interesting / interested) in English culture.",
+      "q_type": "error_correction",
+      "ja": "なぜそんなに必死に勉強しているのかと聞かれて、彼は、英国文化に興味があるからと答えた。",
+      "answer": "interested",
+      "source_univ": "関西学院大"
+    },
+    {
+      "order": 1934,
+      "id": "20-201-e-775",
+      "type": "explanation",
+      "target_q": "20-201-q-775",
+      "title": "",
+      "label": "◆interested 「（人が）興味をもっている／興味がある←（人が）興味をもたされた」",
+      "content": [],
+      "solution": [
+        { "text": "④ を含んだ he was interesting は「彼はおもしろい人物だ」という意味。ここでは be interested in A 「A に興味をもっている／興味がある」を用いるのが正しい。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① は受動態 be asked 「尋ねられる」, ② は「強調」の副詞 so, ③ は reply that SV 「…と答える」" }
+      ]
+    },
+    {
+      "order": 1935,
+      "id": "20-201-q-776",
+      "type": "question",
+      "section_id": "201",
+      "number": "776",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "It was ( ) that so many people came to see our performance.",
+      "options": ["① exciting", "② excited", "③ excitement", "④ to excite"],
+      "q_type": "multiple_choice",
+      "ja": "私たちの公演をそんなにたくさんの人が見に来てくれたのは、胸躍る出来事だった。",
+      "answer": "①",
+      "source_univ": "追手門学院大"
+    },
+    {
+      "order": 1936,
+      "id": "20-201-e-776",
+      "type": "explanation",
+      "target_q": "20-201-q-776",
+      "title": "",
+      "label": "◆exciting 「（人にとって）興奮する／わくわくする←（人を）興奮させるような」",
+      "content": [
+        { "text": "他動詞 excite 「（人を）興奮させる」から派生した exciting は「（人を）興奮させるような→（人にとって）興奮する／わくわくする」という意味になり、 excited は「（人が）興奮させられた→（人が）興奮した／わくわくした」という意味になる。\nThe game excited him. 「その試合は彼を興奮させた」\nThe game was exciting. 「その試合は興奮するものだった」\nHe was excited about the game. 「彼はその試合に興奮した」" }
+      ],
+      "solution": [
+        { "text": "本問は It が形式主語で、 that 節が真主語 (→ 712) 。 that 節の内容が「（人にとって）興奮する」ものなので、 ① exciting が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1937,
+      "id": "20-201-q-777",
+      "type": "question",
+      "section_id": "201",
+      "number": "777",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "When some ( ) children got onto the train, it became very noisy.",
+      "options": ["① excite", "② excited", "③ exciting", "④ to excite"],
+      "q_type": "multiple_choice",
+      "ja": "興奮した子どもたちが電車に乗り込んできて、とても騒がしくなった。",
+      "answer": "②",
+      "source_univ": "中央大"
+    },
+    {
+      "order": 1938,
+      "id": "20-201-e-777",
+      "type": "explanation",
+      "target_q": "20-201-q-777",
+      "title": "",
+      "label": "◆excited 「（人が）興奮した／わくわくした←（人が）興奮させられた」",
+      "content": [],
+      "solution": [
+        { "text": "③ exciting children 「（人を）興奮させるような子どもたち」では文意が通らない。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1939,
+      "id": "20-201-q-778",
+      "type": "question",
+      "section_id": "201",
+      "number": "778",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "My job at the company was very ( ).",
+      "options": ["① bored", "② boredom", "③ bore", "④ boring"],
+      "q_type": "multiple_choice",
+      "ja": "その会社での私の仕事はとても退屈なものだった。",
+      "answer": "④",
+      "source_univ": "青山学院大"
+    },
+    {
+      "order": 1940,
+      "id": "20-201-e-778",
+      "type": "explanation",
+      "target_q": "20-201-q-778",
+      "title": "",
+      "label": "◆boring 「（人にとって）退屈な／つまらない←（人を）退屈させるような」",
+      "content": [
+        { "text": "他動詞 bore 「（人を）退屈させる」から派生した boring は「（人を）退屈させるような→（人にとって）退屈な／つまらない」という意味になり、 bored は「（人が）退屈させられた→（人が）退屈した／うんざりした」という意味になる。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1941,
+      "id": "20-201-q-779",
+      "type": "question",
+      "section_id": "201",
+      "number": "779",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "(Students were boring / Students were bored) because the teacher just forced them to learn grammar and vocabulary.",
+      "q_type": "error_correction",
+      "ja": "先生が文法と語いを学ぶことばかり強要するので、生徒たちはうんざりしていた。",
+      "answer": "Students were bored",
+      "source_univ": "上智大"
+    },
+    {
+      "order": 1942,
+      "id": "20-201-e-779",
+      "type": "explanation",
+      "target_q": "20-201-q-779",
+      "title": "",
+      "label": "◆bored 「（人が）退屈した／退屈している←（人が）退屈させられた」",
+      "content": [],
+      "solution": [
+        { "text": "① Students were boring 「生徒たちは退屈な連中だった」では文意が通らない。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "③, ④ は force A to do 「A に（無理やり）…させる」 (→ 570) を用いている。" }
+      ]
+    },
+    {
+      "order": 1943,
+      "id": "20-201-q-780",
+      "type": "question",
+      "section_id": "201",
+      "number": "780",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "They were ( ) with the results.",
+      "options": ["① disappoint", "② disappointed", "③ disappointing", "④ to disappoint"],
+      "q_type": "multiple_choice",
+      "ja": "彼らはその結果にがっかりした。",
+      "answer": "②",
+      "source_univ": "工学院大"
+    },
+    {
+      "order": 1944,
+      "id": "20-201-e-780",
+      "type": "explanation",
+      "target_q": "20-201-q-780",
+      "title": "",
+      "label": "◆disappointed 「（人が）失望した／がっかりした←（人が）失望させられた」",
+      "content": [
+        { "text": "他動詞 disappoint 「（人を）失望させる」から派生した disappointing は「（人を）失望させるような→（人を）失望させる／期待はずれの」という意味になり、 disappointed は「（人が）失望させられた→（人が）失望した／がっかりした」という意味になる。" }
+      ],
+      "solution": [
+        { "text": "be disappointed with A 「A に失望する」という形で覚えよう。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1945,
+      "id": "20-201-q-781",
+      "type": "question",
+      "section_id": "201",
+      "number": "781",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "\"It is (extremely disappointed / extremely disappointing) to find that so many shops or shopkeepers are still prepared to sell knives to people under 16,\" said a researcher.",
+      "q_type": "error_correction",
+      "ja": "「16歳未満の人に平気でナイフを売る店や店主が依然として非常に多いということは極めて残念である」、と調査員は述べた。",
+      "answer": "extremely disappointing",
+      "source_univ": "甲南大"
+    },
+    {
+      "order": 1946,
+      "id": "20-201-e-781",
+      "type": "explanation",
+      "target_q": "20-201-q-781",
+      "title": "",
+      "label": "◆disappointing 「（人を）失望させる／がっかりさせる←（人を）失望させるような」",
+      "content": [],
+      "solution": [
+        { "text": "It が形式主語で、 to find ... が真主語。 disappointed を disappointing に変えれば、「（that 節の内容を知ることは）失望させるようなものだ」という意味になる。 It is disappointed では「（that 節の内容を知ることは）失望している」という意味になる。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "② は be prepared to do 「進んで…する」、 ④ は発話の内容を先に述べ、そのあとに VS と続けた直接話法の形。 SV, \"...\" だけでなく、 \"...\" SV や、 \"...\" VS という形がある。" }
+      ]
+    },
+    {
+      "order": 1947,
+      "id": "20-201-q-782",
+      "type": "question",
+      "section_id": "201",
+      "number": "782",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Many students seem more ( ) now about how to write a research paper.",
+      "options": ["① confusing", "② confusion", "③ confused", "④ confuse"],
+      "q_type": "multiple_choice",
+      "ja": "研究論文をどう書けばよいのか、今では多くの生徒たちがいっそう困惑しているようだ。",
+      "answer": "③",
+      "source_univ": "甲南大"
+    },
+    {
+      "order": 1948,
+      "id": "20-201-e-782",
+      "type": "explanation",
+      "target_q": "20-201-q-782",
+      "title": "",
+      "label": "◆confused 「（人が）困惑した／混乱した←（人が）困惑させられた」",
+      "content": [
+        { "text": "分詞形容詞 confused は「（人が）困惑した／混乱した」、 confusing は「（人を）困惑させる／（人にとって）まぎらわしい／ややこしい」という意味。\nIt was a very confusing situation. 「とてもややこしい状況だった」" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1949,
+      "id": "20-201-q-783",
+      "type": "question",
+      "section_id": "201",
+      "number": "783",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "George looked ( ) when I apologized to him for my rudeness.",
+      "options": ["① satisfy", "② satisfied", "③ satisfying", "④ to satisfy"],
+      "q_type": "multiple_choice",
+      "ja": "私の無礼を謝ると、ジョージは満足したようだった。",
+      "answer": "②",
+      "source_univ": "成城大"
+    },
+    {
+      "order": 1950,
+      "id": "20-201-e-783",
+      "type": "explanation",
+      "target_q": "20-201-q-783",
+      "title": "",
+      "label": "◆satisfied 「（人が）満足した←（人が）満足させられた」",
+      "content": [
+        { "text": "分詞形容詞 satisfied は「（人が）満足した」、 satisfying は「（人にとって）満足のいく／十分な」という意味。 a very satisfying movie 「とても満足のいく映画」" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1951,
+      "id": "20-201-s-095",
+      "type": "summary_box",
+      "target_s": "201",
+      "number": "095",
+      "title": "おもな分詞形容詞",
+      "content": [
+        { "tag": "□", "text": "amazing 「（人を）驚嘆させるような」 ― amazed 「（人が）驚嘆して」" },
+        { "tag": "□", "text": "exciting 「（人を）興奮させるような」 ― excited 「（人が）興奮して」", "note": "→ 776, 777" },
+        { "tag": "□", "text": "frightening 「（人を）びっくりさせるような」 ― frightened 「（人が）びっくりして」" },
+        { "tag": "□", "text": "surprising 「（人を）驚かすような」 ― surprised 「（人が）驚いて」" },
+        { "tag": "□", "text": "depressing 「（人を）がっかりさせるような」 ― depressed 「（人が）がっかりして」" },
+        { "tag": "□", "text": "disappointing 「（人を）失望させるような」 ― disappointed 「（人が）失望して」", "note": "→ 780, 781" },
+        { "tag": "□", "text": "discouraging 「（人を）落胆させるような」 ― discouraged 「（人が）落胆して」" },
+        { "tag": "□", "text": "interesting 「（人に）興味をもたせるような」 ― interested 「（人が）興味をもって」", "note": "→ 774, 775" },
+        { "tag": "□", "text": "annoying 「（人を）いらいらさせるような」 ― annoyed 「（人が）いらいらして」" },
+        { "tag": "□", "text": "boring 「（人を）退屈させるような」 ― bored 「（人が）退屈して」", "note": "→ 778, 779" },
+        { "tag": "□", "text": "confusing 「（人を）困惑させるような」 ― confused 「（人が）困惑して」", "note": "→ 782" },
+        { "tag": "□", "text": "embarrassing 「（人を）恥ずかしがらせるような」 ― embarrassed 「（人が）恥ずかしい」" },
+        { "tag": "□", "text": "encouraging 「（人を）勇気づけるような」 ― encouraged 「（人が）勇気づけられて」" },
+        { "tag": "□", "text": "pleasing 「（人を）喜ばせるような」 ― pleased 「（人が）喜んで」" },
+        { "tag": "□", "text": "relieving 「（人を）安心させるような」 ― relieved 「（人が）安心して」" },
+        { "tag": "□", "text": "satisfying 「（人を）満足させるような」 ― satisfied 「（人が）満足して」", "note": "→ 783" }
+      ]
+    },
+    {
+      "order": 1952,
+      "type": "section_header",
+      "section_id": "202",
+      "title": "補語としてのみ用いられる形容詞"
+    },
+    {
+      "order": 1953,
+      "id": "20-202-c-047",
+      "type": "confirmation_box",
+      "target_s": "202",
+      "number": "047",
+      "title": "形容詞の用法",
+      "content": [
+        { "text": "形容詞には、補語としての用法（叙述用法）と、名詞を修飾する用法（限定用法）があり、大部分の形容詞は両方の用法で使うことができる。しかし一部の形容詞は、補語あるいは名詞修飾のどちらか一方の用法でしか使えない。補語としてのみ用いられる形容詞については、 整理して覚える 096 もチェックしておこう。" }
+      ]
+    },
+    {
+      "order": 1954,
+      "id": "20-202-q-784",
+      "type": "question",
+      "section_id": "202",
+      "number": "784",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "Despite their efforts to capture the bear ( ), they finally had to shoot it.",
+      "options": ["① lived", "② lives", "③ lively", "④ alive"],
+      "q_type": "multiple_choice",
+      "ja": "彼らはその熊を生け捕りにしようと努力したが、最終的には射殺しなければならなかった。",
+      "answer": "④",
+      "source_univ": "北里大"
+    },
+    {
+      "order": 1955,
+      "id": "20-202-e-784",
+      "type": "explanation",
+      "target_q": "20-202-q-784",
+      "title": "",
+      "label": "◆補語としてのみ用いられる形容詞 ― alive 「生きている」",
+      "content": [],
+      "solution": [
+        { "text": "alive 「生きている」は補語としてのみ用いられる形容詞。本問は capture(V) the bear(O) alive(C) 「その熊を生きていている状態で捕まえる」という構造。 capture[catch] A alive 「A を生け捕りにする」という表現で覚えよう。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "③ lively については 794 を参照。" }
+      ]
+    },
+    {
+      "order": 1956,
+      "id": "20-202-q-785",
+      "type": "question",
+      "section_id": "202",
+      "number": "785",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I was so tired that it was really hard to stay ( ) in class.",
+      "options": ["① waking", "② awake", "③ woken", "④ wake"],
+      "q_type": "multiple_choice",
+      "ja": "私は非常に疲れていたので、授業中に起きているのはとても難しかった。",
+      "answer": "②",
+      "source_univ": "西南学院大"
+    },
+    {
+      "order": 1957,
+      "id": "20-202-e-785",
+      "type": "explanation",
+      "target_q": "20-202-q-785",
+      "title": "",
+      "label": "◆補語としてのみ用いられる形容詞 ― awake 「目覚めている」",
+      "content": [],
+      "solution": [
+        { "text": "awake 「目覚めている」は補語としてのみ用いられる形容詞。本問は stay (V) awake (C) 「目が覚めたままでいる」という構造。 stay [keep] awake 「（寝ないで）起きている」という表現で覚えよう。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1958,
+      "id": "20-202-s-096",
+      "type": "summary_box",
+      "target_s": "202",
+      "number": "096",
+      "title": "名詞を修飾する用法はなく、補語としてのみ用いられる形容詞",
+      "content": [
+        { "tag": "□", "en": "afraid", "ja": "「恐れる」" },
+        { "tag": "□", "en": "alike", "ja": "「よく似た」", "note": "→ 793" },
+        { "tag": "□", "en": "alive", "ja": "「生きている」", "note": "→ 784" },
+        { "tag": "□", "en": "alone", "ja": "「ただひとりの／孤独な」" },
+        { "tag": "□", "en": "asleep", "ja": "「眠っている」" },
+        { "tag": "□", "en": "ashamed", "ja": "「恥じている」" },
+        { "tag": "□", "en": "aware", "ja": "「気づいている」" },
+        { "tag": "□", "en": "awake", "ja": "「目覚めている」", "note": "→ 785" },
+        { "tag": "□", "en": "content", "ja": "「満足して」" }
+      ]
+    },
+    {
+      "order": 1959,
+      "type": "section_header",
+      "section_id": "203",
+      "title": "補語になる場合と名詞を修飾する場合とで意味が異なる形容詞"
+    },
+    {
+      "order": 1960,
+      "id": "20-203-q-786",
+      "type": "question",
+      "section_id": "203",
+      "number": "786",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "空所に共通する1語を書きなさい。\n(a) We do not have any more information at the ( ) time.\n(b) There were 200 people ( ) at the meeting.",
+      "q_type": "completion",
+      "ja": "(a) 現在のところ、私たちはこれ以上の情報はない。(b) その会議には200人が出席した。",
+      "answer": "present",
+      "source_univ": "東京理科大"
+    },
+    {
+      "order": 1961,
+      "id": "20-203-e-786",
+      "type": "explanation",
+      "target_q": "20-203-q-786",
+      "title": "",
+      "label": "◆present 「出席している」「現在の」",
+      "content": [
+        { "text": "形容詞 present は、補語になる場合は「出席している」、名詞を修飾する場合は「現在の」という異なる意味になる。" }
+      ],
+      "solution": [
+        { "text": "(a) の present は名詞 time を修飾している。(b) は 200 people (S) were (V) present (C) at the meeting. という英文を、 There is S ... 「S が存在する」という形を用いて表現しているので、この present は補語に相当すると考えてよい。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1962,
+      "id": "20-203-s-097",
+      "type": "summary_box",
+      "target_s": "203",
+      "number": "097",
+      "title": "補語になる場合（①）と、名詞を修飾する場合（②）とで意味が異なる形容詞",
+      "content": [
+        { "tag": "□", "label": "able", "text": "① 「(be able to do の形で) …することができる」、 ② 「有能な」" },
+        { "tag": "□", "label": "certain", "text": "① 「確信している」、 ② 「ある…」" },
+        { "tag": "□", "label": "late", "text": "① 「遅れた、遅い」 (→ 799)、 ② 「後期の、故…」", "note": "→ 830 副詞「遅く／遅れて」" },
+        { "tag": "□", "label": "present", "text": "① 「出席している」、 ② 「現在の」", "note": "→ 786" }
+      ]
+    },
+    {
+      "order": 1963,
+      "type": "section_header",
+      "section_id": "204",
+      "title": "人を主語に用いない形容詞"
+    },
+    {
+      "order": 1964,
+      "id": "20-204-s-098",
+      "type": "summary_box",
+      "target_s": "204",
+      "number": "098",
+      "title": "人を主語に用いない形容詞",
+      "content": [
+        { "tag": "□", "en": "convenient", "ja": "「便利な／都合の良い」", "note": "→ 787" },
+        { "tag": "□", "en": "inconvenient", "ja": "「不便な」" },
+        { "tag": "□", "en": "necessary", "ja": "「必要な」" },
+        { "tag": "□", "en": "unnecessary", "ja": "「不要な」" },
+        { "tag": "□", "en": "possible", "ja": "「可能な」", "note": "→ 788" },
+        { "tag": "□", "en": "impossible", "ja": "「不可能な」", "note": "→ 788" }
+      ]
+    },
+    {
+      "order": 1965,
+      "id": "20-204-q-787",
+      "type": "question",
+      "section_id": "204",
+      "number": "787",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I would like to see you tomorrow. What time ( )?",
+      "options": [
+        "① are you convenient",
+        "② is convenient for you",
+        "③ is convenience",
+        "④ convenient are you"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "明日あなたにお目にかかりたいと思います。何時が都合がよろしいですか。",
+      "answer": "②",
+      "source_univ": "青山学院大"
+    },
+    {
+      "order": 1966,
+      "id": "20-204-e-787",
+      "type": "explanation",
+      "target_q": "20-204-q-787",
+      "title": "",
+      "label": "◆convenient の用法",
+      "content": [
+        { "text": "〈A is convenient for ＋人〉で「A は人に都合が良い／便利だ」という意味になる。主語 A には「人」ではなく、「もの・こと」が来ることに注意。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "convenient は人を主語に用いないので、 you を主語にした ①④は不可。" }
+      ]
+    },
+    {
+      "order": 1967,
+      "id": "20-204-q-788",
+      "type": "question",
+      "section_id": "204",
+      "number": "788",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "It seemed ( ) for us to finish the task by the next day.",
+      "options": ["① unable", "② incapable", "③ impossible", "④ terrible"],
+      "q_type": "multiple_choice",
+      "ja": "私たちが次の日までにその仕事を終えるのは不可能なようだった。",
+      "answer": "③",
+      "source_univ": "和洋女子大"
+    },
+    {
+      "order": 1968,
+      "id": "20-204-e-788",
+      "type": "explanation",
+      "target_q": "20-204-q-788",
+      "title": "",
+      "label": "◆impossible の用法",
+      "content": [
+        { "text": "impossible 「不可能な」と possible 「可能な」は、 It is possible [impossible] (for A) to do 「（A が）…するのは可能だ［不可能だ］」という形で用いる。 possible と impossible は人を主語に用いないことに注意。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "① unable と ② incapable に関しては左頁の 整理して覚える 099 を参照。" }
+      ]
+    },
+    {
+      "order": 1969,
+      "type": "section_header",
+      "section_id": "205",
+      "title": "「できる／できない」を表す形容詞"
+    },
+    {
+      "order": 1970,
+      "id": "20-205-q-789",
+      "type": "question",
+      "section_id": "205",
+      "number": "789",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "John is not ( ) to come to the class.",
+      "options": ["① able", "② capable", "③ possible", "④ probably"],
+      "q_type": "multiple_choice",
+      "ja": "ジョンは授業には出られません。",
+      "answer": "①",
+      "source_univ": "宮城学院女子大"
+    },
+    {
+      "order": 1971,
+      "id": "20-205-e-789",
+      "type": "explanation",
+      "target_q": "20-205-q-789",
+      "title": "",
+      "label": "◆S is able to do 「S（人）は…することができる」",
+      "note": "整理して覚える 099",
+      "content": [],
+      "solution": [
+        { "text": "① able, ② capable, ③ possible はいずれも「できる」という意味を表す形容詞だが、人を主語にとることができるのは ① able と ② capable だけ。さらに後ろに不定詞を続けることができるのは ① able のみ。よって ① が正解。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "② capable を用いれば John is not capable of coming to the class. となる (→ 790) 。 ③ possible を用いれば It is not possible for John to come to the class. となる (→ 788) 。" }
+      ]
+    },
+    {
+      "order": 1972,
+      "id": "20-205-q-790",
+      "type": "question",
+      "section_id": "205",
+      "number": "790",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "She is ( ) of great patience when she deals with children.",
+      "options": ["① possible", "② capable", "③ careful", "④ able"],
+      "q_type": "multiple_choice",
+      "ja": "子どもを扱うにあたって、彼女は多大な忍耐力を発揮できる。",
+      "answer": "②",
+      "source_univ": "駒澤大"
+    },
+    {
+      "order": 1973,
+      "id": "20-205-e-790",
+      "type": "explanation",
+      "target_q": "20-205-q-790",
+      "title": "",
+      "label": "◆S is capable of doing / A (名詞) 「S は…する［A の］能力がある」",
+      "content": [],
+      "solution": [
+        { "text": "空所のあとの of に注目する。後ろに of が続き、文意が通るのは ② capable だけ。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1974,
+      "id": "20-205-s-099",
+      "type": "summary_box",
+      "target_s": "205",
+      "number": "099",
+      "title": "「できる／できない」を表す形容詞",
+      "content": [
+        { "label": "【できる】", "items": [
+          { "tag": "□", "en": "S is able to do", "note": "→ 789" },
+          { "tag": "□", "en": "S is capable of doing / A (名詞)", "note": "→ 790" },
+          { "tag": "□", "en": "It is possible for A to do", "note": "→ 788" }
+        ]},
+        { "label": "【できない】", "items": [
+          { "tag": "□", "en": "S is unable to do" },
+          { "tag": "□", "en": "S is incapable of doing / A (名詞)" },
+          { "tag": "□", "en": "It is impossible for A to do", "note": "→ 788" }
+        ]}
+      ]
+    },
+    {
+      "order": 1975,
+      "type": "section_header",
+      "section_id": "206",
+      "title": "「高い／安い」「多い／少ない」を表す形容詞"
+    },
+    {
+      "order": 1976,
+      "id": "20-206-q-791",
+      "type": "question",
+      "section_id": "206",
+      "number": "791",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "The price of fresh vegetables is getting too ( ) to afford them.",
+      "options": ["① expensive", "② reasonable", "③ cheap", "④ high"],
+      "q_type": "multiple_choice",
+      "ja": "新鮮な野菜の値段が上がりすぎていて、買うことができない。",
+      "answer": "④",
+      "source_univ": "九州産業大"
+    },
+    {
+      "order": 1977,
+      "id": "20-206-e-791",
+      "type": "explanation",
+      "target_q": "20-206-q-791",
+      "title": "",
+      "label": "◆high / low と expensive / cheap の区別",
+      "content": [
+        { "text": "high [low] には「（値段・給料などが）高い［安い］」という意味がある。値段や給料は数字で表し、温度計のように高低でその程度を測るからと考えればよい。 high [low] で修飾できる名詞は price 「値段」、 salary 「給料」、 wage 「賃金」、 pay 「報酬」、 income 「収入」、 cost 「費用」、 tax 「税金」など。\na high [low] salary 「高い［安い］給料」、 high [low] taxes 「高い［安い］税金」" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "① の expensive や ③ の cheap は、 This vegetable is expensive [cheap]. や expensive [cheap] vegetable のように使う。「商品が高い」は expensive で、「商品が安い」は cheap / inexpensive で表す。 ② reasonable は「値段が高すぎない／値段が手ごろな」という意味。ここでは文意に合わない。" },
+        { "tag": "△注意", "text": "price 「値段」は商品ではないので、 (×) The price is expensive [cheap]. や、 (×) expensive [cheap] price は不可。" }
+      ]
+    },
+    {
+      "order": 1978,
+      "id": "20-206-q-792",
+      "type": "question",
+      "section_id": "206",
+      "number": "792",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The soccer game was shown on a big screen in front of ( ) audience.",
+      "options": ["① a large", "② a lot of", "③ many", "④ much"],
+      "q_type": "multiple_choice",
+      "ja": "そのサッカーの試合は、大観衆の前の巨大スクリーンに映し出された。",
+      "answer": "①",
+      "source_univ": "センター試験"
+    },
+    {
+      "order": 1979,
+      "id": "20-206-e-792",
+      "type": "explanation",
+      "target_q": "20-206-q-792",
+      "title": "",
+      "label": "◆large / small の用法",
+      "content": [
+        { "text": "large [small] には「（数・量が）多い［少ない］／（規模・サイズが）大きい［小さい］」という意味がある。 large [small] で修飾できる名詞には number 「数」、 amount [quantity] 「量」、 sum 「金額」、 audience 「観客」、 population 「人口」、 crowd 「群衆」などがある。\na large [small] population 「人口が多い［少ない］」" }
+      ],
+      "solution": [
+        { "text": "a large audience 「大観衆」というフレーズで覚えてしまおう。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "audience は ② a lot of, ③ many, ④ much では修飾できないので不可。" }
+      ]
+    },
+    {
+      "order": 1980,
+      "type": "section_header",
+      "section_id": "207",
+      "title": "形と意味の区別が紛らわしい形容詞①"
+    },
+    {
+      "order": 1981,
+      "id": "20-207-s-100",
+      "type": "summary_box",
+      "target_s": "207",
+      "number": "100",
+      "title": "形と意味の区別が紛らわしい形容詞①",
+      "content": [
+        { "tag": "□", "en": "alike", "ja": "「似ている」", "note": "→ 793" },
+        { "tag": "□", "en": "likely", "ja": "「ありそうな」" },
+        { "tag": "□", "en": "alive", "ja": "「生きている」", "note": "→ 784" },
+        { "tag": "□", "en": "living", "ja": "「生きている／現在使われている」", "note": "→ 795" },
+        { "tag": "□", "en": "lively", "ja": "「元気な／活発な」", "note": "→ 794" },
+        { "tag": "□", "en": "sleepy", "ja": "「眠い／眠そうな」" },
+        { "tag": "□", "en": "asleep", "ja": "「眠っている」" },
+        { "tag": "□", "en": "historic", "ja": "「歴史上有名な／歴史に残る」" },
+        { "tag": "□", "en": "historical", "ja": "「歴史の／史実に基づく」" },
+        { "tag": "□", "en": "economic", "ja": "「経済（学）の」" },
+        { "tag": "□", "en": "economical", "ja": "「（物・事が）経済的な／（人が）節約する」", "note": "→ 796" },
+        { "tag": "□", "en": "industrial", "ja": "「産業の／工業の」", "note": "→ 797" },
+        { "tag": "□", "en": "industrious", "ja": "「（人が）勤勉な／熱心な」" },
+        { "tag": "□", "en": "regrettable", "ja": "「（事が）残念な／遺憾な」" },
+        { "tag": "□", "en": "regretful", "ja": "「（人が）後悔している／残念に思っている」" },
+        { "tag": "□", "en": "social", "ja": "「社会の／社交の」" },
+        { "tag": "□", "en": "sociable", "ja": "「社交的な／愛想の良い」" }
+      ]
+    },
+    {
+      "order": 1982,
+      "id": "20-207-q-793",
+      "type": "question",
+      "section_id": "207",
+      "number": "793",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "David and James are ( ) in many ways.",
+      "options": ["① like", "② likely", "③ dislike", "④ alike"],
+      "q_type": "multiple_choice",
+      "ja": "デイビッドとジェームズは多くの点で似ている。",
+      "answer": "④",
+      "source_univ": "杏林大"
+    },
+    {
+      "order": 1983,
+      "id": "20-207-e-793",
+      "type": "explanation",
+      "target_q": "20-207-q-793",
+      "title": "",
+      "label": "◆alike 「似ている」、likely 「ありそうな」",
+      "note": "整理して覚える 100",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "② likely 「ありそうな」は It is likely that SV 「…しそうである」 (→ 整理して覚える 087 (p. 306)) / S is likely to do 「S は…しそうである」という形で用いることが多い。" },
+        { "tag": "プラス", "text": "alike ⇔ unlike 「似ていない」、 likely ⇔ unlikely 「ありそうもない」" }
+      ]
+    },
+    {
+      "order": 1984,
+      "id": "20-207-q-794",
+      "type": "question",
+      "section_id": "207",
+      "number": "794",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "John's family always enjoyed having ( ) discussions over dinner.",
+      "options": ["① lively", "② alive", "③ lived", "④ living"],
+      "q_type": "multiple_choice",
+      "ja": "ジョンの家族はいつも、夕食をとりながらの活発な議論を楽しんだ。",
+      "answer": "①",
+      "source_univ": "桃山学院大"
+    },
+    {
+      "order": 1985,
+      "id": "20-207-e-794",
+      "type": "explanation",
+      "target_q": "20-207-q-794",
+      "title": "",
+      "label": "◆alive 「生きている」、living 「生きている／現在使われている」、lively 「元気な／活発な」",
+      "content": [
+        { "text": "alive 「生きている」は補語としてのみ用いる。 → 784\nliving 「生きている／現在使われている」は原則として名詞を修飾する。 → 795\nlively 「元気な／活発な」は、補語としても用いるし、名詞も修飾する。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "② alive は名詞を修飾する用法はないので不可。" }
+      ]
+    },
+    {
+      "order": 1986,
+      "id": "20-207-q-795",
+      "type": "question",
+      "section_id": "207",
+      "number": "795",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "There seems to be no ( ) thing on this deserted island.",
+      "options": ["① alive", "② life", "③ lived", "④ living"],
+      "q_type": "multiple_choice",
+      "ja": "この無人島にはまったく生き物がいないようだ。",
+      "answer": "④",
+      "source_univ": "育英館大"
+    },
+    {
+      "order": 1987,
+      "id": "20-207-e-795",
+      "type": "explanation",
+      "target_q": "20-207-q-795",
+      "title": "",
+      "label": "◆alive 「生きている」、living 「生きている／現在使われている」",
+      "content": [],
+      "solution": [
+        { "text": "living は「生きている／現在使われている」という意味。 living thing 「生き物」で覚えてしまおう。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① alive には名詞を修飾する用法はない (→ 784) ので不可。" }
+      ]
+    },
+    {
+      "order": 1988,
+      "id": "20-207-q-796",
+      "type": "question",
+      "section_id": "207",
+      "number": "796",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I've come to think that buying in bulk is more (economic / economical) than shopping for small quantities.",
+      "q_type": "error_correction",
+      "ja": "少量での買い出しよりも、大量購入のほうがより経済的だと私は考えるようになった。",
+      "answer": "economical",
+      "source_univ": "青山学院大"
+    },
+    {
+      "order": 1989,
+      "id": "20-207-e-796",
+      "type": "explanation",
+      "target_q": "20-207-q-796",
+      "title": "",
+      "label": "◆economic 「経済（学）の」、economical 「（物・事が）経済的な／（人が）節約する」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "buy in bulk 「大量購入する／一括購入する」" }
+      ]
+    },
+    {
+      "order": 1990,
+      "id": "20-207-q-797",
+      "type": "question",
+      "section_id": "207",
+      "number": "797",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The twentieth century saw the rapid, (industrious / industrial) and agricultural development of the U.S.",
+      "q_type": "error_correction",
+      "ja": "20世紀、アメリカでは産業と農業の急速な発達が見られた。",
+      "answer": "industrial",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 1991,
+      "id": "20-207-e-797",
+      "type": "explanation",
+      "target_q": "20-207-q-797",
+      "title": "",
+      "label": "◆industrial 「産業の／工業の」、industrious 「（人が）勤勉な／熱心な」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "② の see は「（ある時代に）…が起こる／存在する」（←（ある時代が）…を見る）という意味。\nThis year has seen a big decrease in car accidents. 「今年は自動車事故が大幅に減った」" }
+      ]
+    },
+    {
+      "order": 1992,
+      "type": "section_header",
+      "section_id": "208",
+      "title": "形と意味の区別が紛らわしい形容詞②"
+    },
+    {
+      "order": 1993,
+      "id": "20-208-q-798",
+      "type": "question",
+      "section_id": "208",
+      "number": "798",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "We would be glad to send ( ) information if you agree to the terms of the contract.",
+      "options": ["① rich", "② further", "③ large", "④ farther"],
+      "q_type": "multiple_choice",
+      "ja": "契約条件に同意していただければ、より詳しい情報をお送りいたします。",
+      "answer": "②",
+      "source_univ": "亜細亜大"
+    },
+    {
+      "order": 1994,
+      "id": "20-208-e-798",
+      "type": "explanation",
+      "target_q": "20-208-q-798",
+      "title": "",
+      "label": "◆further 「もっと遠い／さらに進んだ」、farther 「もっと遠い」",
+      "content": [
+        { "text": "形容詞 further と farther はともに「もっと遠い」という意味があるが、 further には「さらに進んだ／さらに加えた (= additional)」という意味もある。\nfurther development 「さらなる進歩」、 further crimes 「余罪」" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1995,
+      "id": "20-208-q-799",
+      "type": "question",
+      "section_id": "208",
+      "number": "799",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "We are now in the ( ) half of our training camp.",
+      "options": ["① late", "② latter", "③ later", "④ last"],
+      "q_type": "multiple_choice",
+      "ja": "今はトレーニング合宿の後半だ。",
+      "answer": "②",
+      "source_univ": "國學院大"
+    },
+    {
+      "order": 1996,
+      "id": "20-208-e-799",
+      "type": "explanation",
+      "target_q": "20-208-q-799",
+      "title": "",
+      "label": "◆late 「遅れた」、later 「もっと遅い」、latest 「最新の」、latter 「後半の」、last 「最後の」",
+      "content": [],
+      "solution": [
+        { "text": "形容詞 latter は「（ある期間・時代の）後半の／終わりに近い」という意味。 the latter half of A は「A の後半」という意味になる。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1997,
+      "id": "20-208-q-800",
+      "type": "question",
+      "section_id": "208",
+      "number": "800",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Have you seen his ( ) movie?",
+      "options": ["① late", "② latest", "③ today", "④ recently"],
+      "q_type": "multiple_choice",
+      "ja": "あなたは彼が監督した映画の最新作を見ましたか。",
+      "answer": "②",
+      "source_univ": "名古屋学院大"
+    },
+    {
+      "order": 1998,
+      "id": "20-208-e-800",
+      "type": "explanation",
+      "target_q": "20-208-q-800",
+      "title": "",
+      "label": "◆latest 「最新の／最近の」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1999,
+      "id": "20-208-s-101",
+      "type": "summary_box",
+      "target_s": "208",
+      "number": "101",
+      "title": "形と意味の区別が紛らわしい形容詞②",
+      "content": [
+        { "tag": "□", "en": "further", "ja": "「さらに遠い (= farther) ／さらに進んだ」", "note": "→ 798" },
+        { "tag": "□", "en": "farther", "ja": "「もっと遠い」" },
+        { "tag": "□", "en": "late", "ja": "「（補語に用いて）遅れた／遅い」 (→ 799) 「（名詞を修飾して）後期の／故…」", "note": "→ 830 副詞「遅く／遅れて」" },
+        { "tag": "□", "en": "later", "ja": "「もっと遅い／晩年の」" },
+        { "tag": "□", "en": "latest", "ja": "「最新の」", "note": "→ 800" },
+        { "tag": "□", "en": "latter", "ja": "「後者の／後半の」", "note": "→ 799" },
+        { "tag": "□", "en": "last", "ja": "「最後の／この前の」" },
+        { "tag": "□", "en": "considerable", "ja": "「（数量・程度などが）かなりの／相当な」", "note": "→ 801" },
+        { "tag": "□", "en": "considerate", "ja": "「（人が）思いやりがある」", "text": "cf. inconsiderate 「思いやりがない」" },
+        { "tag": "□", "en": "favorite", "ja": "「（最も）お気に入りの」" },
+        { "tag": "□", "en": "favorable", "ja": "「（意見・反応などが）好意的な／好都合な」", "note": "→ 802", "text": "cf. unfavorable 「否定的な／不都合な」" },
+        { "tag": "□", "en": "successful", "ja": "「成功した／好結果の」", "note": "→ 803" },
+        { "tag": "□", "en": "successive", "ja": "「連続する」" },
+        { "tag": "□", "en": "succeeding", "ja": "「次の／あとに続いて起こる」" }
+      ]
+    },
+    {
+      "order": 2000,
+      "id": "20-208-q-801",
+      "type": "question",
+      "section_id": "208",
+      "number": "801",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Every morning he spends considerable time reading all the pages of three newspapers.",
+      "options": [
+        "① a lot of",
+        "② concentrated",
+        "③ excessive",
+        "④ important"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "毎朝彼は、新聞3紙のすべてのページを読むことにかなりの時間を費やす。",
+      "answer": "①",
+      "source_univ": "中央大"
+    },
+    {
+      "order": 2001,
+      "id": "20-208-e-801",
+      "type": "explanation",
+      "target_q": "20-208-q-801",
+      "title": "",
+      "label": "◆considerable 「（数量・程度などが）かなりの／相当な」、considerate 「（人が）思いやりがある」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 2002,
+      "id": "20-208-q-802",
+      "type": "question",
+      "section_id": "208",
+      "number": "802",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Because of ( ) weather conditions, Shizuoka Prefecture has an advantage in the production of fruits and vegetables.",
+      "options": ["① favorite", "② favor", "③ favorable", "④ favorably"],
+      "q_type": "multiple_choice",
+      "ja": "天候条件が良いため、静岡県は果物や野菜の生産において有利である。",
+      "answer": "③",
+      "source_univ": "早稲田大"
+    },
+    {
+      "order": 2003,
+      "id": "20-208-e-802",
+      "type": "explanation",
+      "target_q": "20-208-q-802",
+      "title": "",
+      "label": "◆favorite 「（最も）お気に入りの」、favorable 「（意見・反応などが）好意的な／好都合な」",
+      "content": [],
+      "solution": [
+        { "text": "favorable weather conditions で「好都合な天候条件」という意味になる。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "text": "favorable ⇔ unfavorable 「否定的な／不都合な」" }
+      ]
+    },
+    {
+      "order": 2004,
+      "id": "20-208-q-803",
+      "type": "question",
+      "section_id": "208",
+      "number": "803",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Our charity project was ( ) because John gave us generous support.",
+      "options": [
+        "① successful",
+        "② successive",
+        "③ succession",
+        "④ succeeding"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "ジョンの惜しみない支援のおかげで、私たちの慈善事業は成功を収めた。",
+      "answer": "①",
+      "source_univ": "福岡大"
+    },
+    {
+      "order": 2005,
+      "id": "20-208-e-803",
+      "type": "explanation",
+      "target_q": "20-208-q-803",
+      "title": "",
+      "label": "◆successful 「成功した／好結果の」、successive 「連続する」、succeeding 「次の／あとに続いて起こる」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 2006,
+      "type": "section_header",
+      "section_id": "209",
+      "title": "形と意味の区別が紛らわしい形容詞③"
+    },
+    {
+      "order": 2007,
+      "id": "20-209-s-102",
+      "type": "summary_box",
+      "target_s": "209",
+      "number": "102",
+      "title": "形と意味の区別が紛らわしい形容詞③",
+      "content": [
+        { "tag": "□", "en": "imaginary", "ja": "「想像上の／架空の」", "note": "→ 804" },
+        { "tag": "□", "en": "imaginative", "ja": "「想像力豊かな」", "note": "→ 805" },
+        { "tag": "□", "en": "imaginable", "ja": "「（最上級の形容詞, every, all を修飾して）考えられる限りの」" },
+        { "tag": "□", "en": "intelligent", "ja": "「（人・動物が）知能の高い／理解力のある」" },
+        { "tag": "□", "en": "intellectual", "ja": "「知性の／知性に関する」" },
+        { "tag": "□", "en": "intelligible", "ja": "「（話・文章が）容易に理解できる」", "text": "cf. unintelligible 「理解できない」" },
+        { "tag": "□", "en": "respectable", "ja": "「（社会的に）立派な」" },
+        { "tag": "□", "en": "respectful", "ja": "「丁寧な／敬意を表す」", "note": "→ 806" },
+        { "tag": "□", "en": "respective", "ja": "「それぞれの」" },
+        { "tag": "□", "en": "sensitive", "ja": "「敏感な／神経過敏の」", "note": "→ 807", "text": "cf. insensitive 「無神経な／鈍感な」" },
+        { "tag": "□", "en": "sensible", "ja": "「分別のある／賢明な」" },
+        { "tag": "□", "en": "sensory", "ja": "「感覚の／知覚の」" },
+        { "tag": "□", "en": "sensual", "ja": "「官能的な」" },
+        { "tag": "□", "en": "literal", "ja": "「（意味などが）文字通りの／（説明・報告などが）事実に忠実な」" },
+        { "tag": "□", "en": "literary", "ja": "「文学の」" },
+        { "tag": "□", "en": "literate", "ja": "「（人が）読み書きができる」", "text": "cf. illiterate 「読み書きができない／無学の／教養がない」" },
+        { "tag": "□", "en": "valueless", "ja": "「価値のない」" },
+        { "tag": "□", "en": "invaluable", "ja": "「（値段がつけられないほど）非常に貴重な」", "note": "→ 808" }
+      ]
+    },
+    {
+      "order": 2008,
+      "id": "20-209-q-804",
+      "type": "question",
+      "section_id": "209",
+      "number": "804",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "King Arthur of England was an ( ) person.",
+      "options": ["① image", "② imaginable", "③ imagination", "④ imaginary"],
+      "q_type": "multiple_choice",
+      "ja": "イギリスのアーサー王は架空の人物だった。",
+      "answer": "④",
+      "source_univ": "甲南大"
+    },
+    {
+      "order": 2009,
+      "id": "20-209-e-804",
+      "type": "explanation",
+      "target_q": "20-209-q-804",
+      "title": "",
+      "label": "◆imaginary 「想像上の／架空の」、imaginative 「想像力豊かな」、imaginable 「（最上級の形容詞, every, all を修飾して）考えられる限りの」",
+      "note": "整理して覚える 102",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 2010,
+      "id": "20-209-q-805",
+      "type": "question",
+      "section_id": "209",
+      "number": "805",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "I sometimes feel I have become less ( ) as I grow older.",
+      "options": ["① imaginary", "② imaginative", "③ image", "④ imaginable"],
+      "q_type": "multiple_choice",
+      "ja": "私は年を取るにつれて想像力豊かでなくなってきたと、ときどき感じることがある。",
+      "answer": "②",
+      "source_univ": "立正大"
+    },
+    {
+      "order": 2011,
+      "id": "20-209-e-805",
+      "type": "explanation",
+      "target_q": "20-209-q-805",
+      "title": "",
+      "label": "◆imaginary 「想像上の／架空の」、imaginative 「想像力豊かな」、imaginable 「（最上級の形容詞, every, all を修飾して）考えられる限りの」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 2012,
+      "id": "20-209-q-806",
+      "type": "question",
+      "section_id": "209",
+      "number": "806",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "We always try to be ( ) of each other's opinions, no matter how much we disagree.",
+      "options": ["① respective", "② respectful", "③ respecting", "④ respectable"],
+      "q_type": "multiple_choice",
+      "ja": "たとえどんなに意見が食い違っても、私たちは互いの意見を尊重するよういつも努めている。",
+      "answer": "②",
+      "source_univ": "学習院大"
+    },
+    {
+      "order": 2013,
+      "id": "20-209-e-806",
+      "type": "explanation",
+      "target_q": "20-209-q-806",
+      "title": "",
+      "label": "◆respectable 「（社会的に）立派な」、respectful 「丁寧な／敬意を表す」、respective 「それぞれの」",
+      "content": [],
+      "solution": [
+        { "text": "be respectful of [to] A は「A に敬意を表す／A を尊重する」という意味。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 2014,
+      "id": "20-209-q-807",
+      "type": "question",
+      "section_id": "209",
+      "number": "807",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "You should be more ( ) to her feelings.",
+      "options": ["① sensible", "② sensitive", "③ sensual", "④ sensory"],
+      "q_type": "multiple_choice",
+      "ja": "君は彼女の気持ちにもう少し敏感になるべきだ。",
+      "answer": "②",
+      "source_univ": "名古屋工業大"
+    },
+    {
+      "order": 2015,
+      "id": "20-209-e-807",
+      "type": "explanation",
+      "target_q": "20-209-q-807",
+      "title": "",
+      "label": "◆sensitive 「敏感な」、sensible 「分別のある／賢明な」、sensory 「感覚の／知覚の」、sensual 「官能的な」",
+      "content": [],
+      "solution": [
+        { "text": "be sensitive to A は「A に対して敏感である」という意味。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 2016,
+      "id": "20-209-q-808",
+      "type": "question",
+      "section_id": "209",
+      "number": "808",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "The Egyptian vessel is ( ) of art, so it is displayed behind a thick pane of glass in the museum.",
+      "options": [
+        "① a worthless work",
+        "② an invaluable work",
+        "③ a penniless work",
+        "④ a valueless work"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "そのエジプトのつぼはきわめて貴重な芸術作品なので、博物館内の分厚いガラス板の向こう側に展示されている。",
+      "answer": "②",
+      "source_univ": "亜細亜大"
+    },
+    {
+      "order": 2017,
+      "id": "20-209-e-808",
+      "type": "explanation",
+      "target_q": "20-209-q-808",
+      "title": "",
+      "label": "◆valueless [worthless] 「価値のない」、invaluable [priceless] 「（値段がつけられないほど）非常に貴重な」",
+      "content": [
+        { "text": "valuable 「価値のある」の反意語は valueless 「価値のない」 (= worthless) 。 valuable の強調語は invaluable 「非常に貴重な」 (= priceless ← 値段がつけられない)" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "③ penniless 「まったくお金がない／ひどく貧乏な」" }
+      ]
+    },
+    {
+      "order": 2018,
+      "type": "section_header",
+      "section_id": "210",
+      "title": "意味と用法に注意すべき形容詞"
+    },
+    {
+      "order": 2019,
+      "id": "20-210-q-809",
+      "type": "question",
+      "section_id": "210",
+      "number": "809",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "I like my job, but I'd like to do ( ).",
+      "options": [
+        "① something more creative",
+        "② more something creative",
+        "③ creative more something",
+        "④ creative something more"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "私は自分の仕事が気に入っているが、もっと創造的なことをやってみたい。",
+      "answer": "①",
+      "source_univ": "福岡大"
+    },
+    {
+      "order": 2020,
+      "id": "20-210-e-809",
+      "type": "explanation",
+      "target_q": "20-210-q-809",
+      "title": "",
+      "label": "◆〈something ＋形容詞〉の語順",
+      "content": [
+        { "text": "something を形容詞で修飾する場合は、〈something ＋形容詞〉という語順になる。 anything / nothing / everything の場合も同じ語順になる。\n(例) Nothing good happened. 「何もいいことが起きなかった」" }
+      ],
+      "solution": [
+        { "text": "「もっと創造的なこと」という文意を想定すると、形容詞 creative の比較級 more creative が something を修飾するので、 ① something more creative の語順が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 2021,
+      "id": "20-210-q-810",
+      "type": "question",
+      "section_id": "210",
+      "number": "810",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "I am frightfully busy because I have just gotten back from a (two weeks vacation / two-week vacation).",
+      "q_type": "error_correction",
+      "ja": "2週間の休暇から戻ったばかりなので、私は死ぬほど忙しい。",
+      "answer": "two-week",
+      "source_univ": "学習院大"
+    },
+    {
+      "order": 2022,
+      "id": "20-210-e-810",
+      "type": "explanation",
+      "target_q": "20-210-q-810",
+      "title": "",
+      "label": "◆a two-week vacation 「2週間の休暇」",
+      "content": [
+        { "text": "一般的に、ハイフンでつながれた〈数字-名詞〉は形容詞の働きをする。数字のあとの名詞は単数形になることに注意。 a fifty-dollar bill 「50ドル札」、 a two-day and one-night trip 「一泊二日の旅行」、 a five-day week system 「週5日労働制／週休2日制」" }
+      ],
+      "solution": [
+        { "text": "「2週間の」という形容詞は (×) two-weeks ではなく two-week となることに注意。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "label": "一般的にハイフンを使って単語をつなぐと1語の形容詞になる。", "text": "a part-time job 「アルバイト」、 an internationally-minded student 「国際感覚のある学生」" }
+      ]
+    },
+    {
+      "order": 2023,
+      "id": "20-210-q-811",
+      "type": "question",
+      "section_id": "210",
+      "number": "811",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "The prize-winner was a ( ) boy.",
+      "options": [
+        "① six-years",
+        "② six-year-old",
+        "③ six-years-old",
+        "④ at-age-six"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "受賞者は6歳の少年だった。",
+      "answer": "②",
+      "source_univ": "杏林大"
+    },
+    {
+      "order": 2024,
+      "id": "20-210-e-811",
+      "type": "explanation",
+      "target_q": "20-210-q-811",
+      "title": "",
+      "label": "◆a six-year-old boy 「6歳の少年」",
+      "content": [
+        { "text": "ハイフンでつながれた〈数字-year-old〉は、「…歳の」という意味の形容詞。この表現では (×) six-years-old のように複数形の years は用いない。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "△注意", "text": "ハイフンを使わずに、 〈S is ＋数字＋ years old.〉 「S は…歳である」と表すこともできる。この場合は years となることに注意。\nHe was six years old. 「彼は6歳だった」" }
+      ]
+    },
+    {
+      "order": 2025,
+      "id": "20-210-q-812",
+      "type": "question",
+      "section_id": "210",
+      "number": "812",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "The suspect is a (six-feet-tall / six-foot-tall) male, wearing a black sweater with a white logo.",
+      "q_type": "error_correction",
+      "ja": "その容疑者は身長6フィートの男性で、白いロゴ入りの黒いセーターを着ている。",
+      "answer": "six-foot-tall",
+      "source_univ": "中京大"
+    },
+    {
+      "order": 2026,
+      "id": "20-210-e-812",
+      "type": "explanation",
+      "target_q": "20-210-q-812",
+      "title": "",
+      "label": "◆a six-foot-tall male 「身長6フィートの男性」",
+      "content": [],
+      "solution": [
+        { "text": "「6フィートの」という形容詞は (×) six-feet-tall ではなく six-foot-tall となることに注意 (→ 810) 。複数形の feet ではなく、単数形の foot としなければならない。" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "1フィートは約30cm。" }
+      ]
+    }
+  ]
+}

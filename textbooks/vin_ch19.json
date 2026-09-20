@@ -1,0 +1,2086 @@
+{
+  "metadata": {
+    "source": "vin4",
+    "field": "usage",
+    "chapter_id": "19",
+    "chapter_title": "代名詞の語法"
+  },
+  "items": [
+    {
+      "order": 1763,
+      "type": "section_header",
+      "section_id": "186",
+      "title": "one / it の用法"
+    },
+    {
+      "order": 1764,
+      "id": "19-186-q-705",
+      "type": "question",
+      "section_id": "186",
+      "number": "705",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "My mobile phone is broken. I must buy ( ) today.",
+      "options": ["① it", "② that", "③ this", "④ one"],
+      "q_type": "multiple_choice",
+      "ja": "私の携帯電話は壊れている。今日1台買わなくては。",
+      "answer": "④",
+      "source_univ": "福岡国際大"
+    },
+    {
+      "order": 1765,
+      "id": "19-186-e-705",
+      "type": "explanation",
+      "target_q": "19-186-q-705",
+      "title": "今日買うのは、今使っている携帯電話か、別のものか",
+      "label": "◆one と it の区別",
+      "content": [
+        { "text": "代名詞は名詞の繰り返しを避けるために用いるが、原則として不特定の〈a ＋単数名詞〉の代わりには one を用い、特定の〈the ＋単数名詞〉の代わりには it を用いる。" }
+      ],
+      "solution": [
+        { "text": "「（その壊れた携帯電話ではない別の）携帯電話を1台買う」という状況なので、 I must buy a mobile phone today. という英文がふさわしく、 a mobile phone の代わりに one を用いるのが正しい。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① it では、 I must buy the mobile phone today. 「その（私が今使っている壊れた）携帯電話を買う」という意味になってしまう。たとえば My mobile phone is broken. I must repair it today. 「その壊れた携帯電話を修理しなければならない」という状況なら、 it を用いるのが正しい。" }
+      ]
+    },
+    {
+      "order": 1766,
+      "id": "19-186-q-706",
+      "type": "question",
+      "section_id": "186",
+      "number": "706",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "She gave me a lovely watch, but I lost ( ).",
+      "options": ["① one", "② it", "③ some", "④ any"],
+      "q_type": "multiple_choice",
+      "ja": "彼女は私にすてきな時計をくれたが、私はそれをなくしてしまった。",
+      "answer": "②",
+      "source_univ": "東北福祉大"
+    },
+    {
+      "order": 1767,
+      "id": "19-186-e-706",
+      "type": "explanation",
+      "target_q": "19-186-q-706",
+      "title": "なくしたものは何か",
+      "label": "◆it の用法",
+      "content": [],
+      "solution": [
+        { "text": "「私はその（彼女がくれた）（特定の）時計をなくした」という状況なので、 I lost the watch. という英文がふさわしく、 the watch の代わりに it を用いるのが正しい。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① one を入れると、 I lost a watch. 「私は（彼女がくれた時計とは別の）時計をなくした」という意味になる。" }
+      ]
+    },
+    {
+      "order": 1768,
+      "id": "19-186-q-707",
+      "type": "question",
+      "section_id": "186",
+      "number": "707",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "\"Which do you like?\"\n\"I like the big ( ).\"",
+      "options": ["① it", "② one", "③ that", "④ them"],
+      "q_type": "multiple_choice",
+      "ja": "「どっちが好きですか」「大きいほうが好きです」",
+      "answer": "②",
+      "source_univ": "武庫川女子大"
+    },
+    {
+      "order": 1769,
+      "id": "19-186-e-707",
+      "type": "explanation",
+      "target_q": "19-186-q-707",
+      "title": "冠詞 the と形容詞 big に注目",
+      "label": "◆〈a [the] ＋形容詞＋one〉",
+      "content": [
+        { "text": "代名詞 one の前には形容詞を置くことができる。その場合は〈a [the / one's] ＋形容詞＋ one〉という形になる。 one は代名詞だが、冠詞や所有格をつけることに注意。\n(○) My mobile phone is broken. I need a new one. 「新しい携帯電話が必要だ」\n(×) My mobile phone is broken. I need new one." }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "① it, ③ that, ④ them の前には形容詞をつけることはできない。" }
+      ]
+    },
+    {
+      "order": 1770,
+      "id": "19-186-q-708",
+      "type": "question",
+      "section_id": "186",
+      "number": "708",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "同封している写真は、先月シンガポールへ家族旅行に行ったときのものです。\nThe photo enclosed (was / while / is / taken / one / I / the) on a trip to Singapore with my family last month.",
+      "q_type": "ordering",
+      "ja": "同封している写真は、先月シンガポールへ家族旅行に行ったときのものです。",
+      "answer": "is the one taken while I was",
+      "source_univ": "摂南大"
+    },
+    {
+      "order": 1771,
+      "id": "19-186-e-708",
+      "type": "explanation",
+      "target_q": "19-186-q-708",
+      "title": "one の後ろには形容詞句［節］をつけることができる",
+      "label": "◆〈the one ＋形容詞句［節］〉",
+      "content": [
+        { "text": "代名詞 one の後ろには形容詞句［節］を続けることができる。その場合は〈the one ＋形容詞句［節］〉という形になる。形容詞句［節］で限定されているので、冠詞 the を用いることに注意。" }
+      ],
+      "solution": [
+        { "text": "「先月シンガポールへ家族旅行に行ったときの（＝写真）」は、 the one taken while I was on a trip to ... で表現する。 the one は the photo を表し、過去分詞句 taken while ... last month をあとに続ける。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1772,
+      "id": "19-186-q-709",
+      "type": "question",
+      "section_id": "186",
+      "number": "709",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "Can you tell the difference between rice grown in Japan and ( )?",
+      "options": [
+        "① American one",
+        "② American rice",
+        "③ one of America",
+        "④ rice of America"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "日本産のお米とアメリカのお米の違いがわかりますか。",
+      "answer": "②",
+      "source_univ": "センター試験"
+    },
+    {
+      "order": 1773,
+      "id": "19-186-e-709",
+      "type": "explanation",
+      "target_q": "19-186-q-709",
+      "title": "one は不可算名詞を受けることはできない",
+      "label": "◆one の用法",
+      "content": [
+        { "text": "代名詞 one は〈a ＋単数名詞〉の代わりに用いるので、不可算名詞を受けることはできない。" }
+      ],
+      "solution": [
+        { "text": "tell the difference between A and B は「A と B の違いがわかる」という意味。本問では A に rice grown in Japan 「日本で栽培されるお米→日本のお米（＝ Japanese rice）」を用いているので、 B には「アメリカのお米」に相当する表現 ② American rice を用いるのが適切。選択肢に rice grown in America 「アメリカで栽培されるお米」があれば、それも正解になる。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "rice は不可算名詞なので、代名詞 one で受けることはできない。よって、 American rice の代わりに ① American one や ③ one of America とは言えない。また、 ③ one of America と ④ rice of America の of は、「ある国の中で生産された」ということなので、前置詞は of ではなく in を用いるのが正しい。(例) cars made in Japan 「日本製の車」" }
+      ]
+    },
+    {
+      "order": 1774,
+      "id": "19-186-q-710",
+      "type": "question",
+      "section_id": "186",
+      "number": "710",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I have a great number of English books and keep ( ) in a box.",
+      "options": [
+        "① some expensive",
+        "② the expensive ones",
+        "③ them to be expensive",
+        "④ those which expensive"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "私はたくさんの英語の本を持っていて、高価なものは箱にしまってある。",
+      "answer": "②",
+      "source_univ": "名古屋工業大"
+    },
+    {
+      "order": 1775,
+      "id": "19-186-e-710",
+      "type": "explanation",
+      "target_q": "19-186-q-710",
+      "title": "何を受けているのか",
+      "label": "◆〈(the) ＋形容詞＋ones〉",
+      "content": [
+        { "text": "代名詞 one の複数形は ones になる。 ones は単独で用いることはなく、必ず形容詞をともない、〈(the) ＋形容詞＋ ones〉や〈the ones ＋形容詞句［節］〉 (→ 711) という形で用いる。後者は形容詞句［節］で限定されているので、冠詞 the を用いることに注意。" }
+      ],
+      "solution": [
+        { "text": "文意と選択肢から、 a great number of English books の一部である the expensive English books が空所に入る語句である。よって、 English books を受ける ones を用いた ② the expensive ones が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1776,
+      "id": "19-186-q-711",
+      "type": "question",
+      "section_id": "186",
+      "number": "711",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I found these keys. Are they ( ) that you lost yesterday?",
+      "options": ["① one", "② ones", "③ the one", "④ the ones"],
+      "q_type": "multiple_choice",
+      "ja": "これらの鍵を見つけました。昨日あなたがなくしたのものですか。",
+      "answer": "④",
+      "source_univ": "日本大"
+    },
+    {
+      "order": 1777,
+      "id": "19-186-e-711",
+      "type": "explanation",
+      "target_q": "19-186-q-711",
+      "title": "that 節で限定することができるのは？",
+      "label": "◆〈the ones ＋形容詞句［節］〉",
+      "content": [],
+      "solution": [
+        { "text": "④ the ones は the keys を表し、形容詞節 that you lost yesterday があとに続いている。形容詞節で限定されているので the が必要となる。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "空所には複数名詞 the keys を受ける代名詞が入るので、 ①, ③ の one は使えない。 ② は the がない ones なので不可。" }
+      ]
+    },
+    {
+      "order": 1778,
+      "type": "section_header",
+      "section_id": "187",
+      "title": "it の用法 ― 形式主語／形式目的語"
+    },
+    {
+      "order": 1779,
+      "id": "19-187-c-046",
+      "type": "confirmation_box",
+      "target_s": "187",
+      "number": "046",
+      "title": "it の用法 ― 形式主語／形式目的語",
+      "content": [
+        { "text": "代名詞 it は、本来主語となる that 節や不定詞句・動名詞句の代わりに、主語として用いられる。この it は形式主語と呼ばれ、本来の主語である that 節や不定詞句・動名詞句を真主語という。同様に、 it を目的語の位置で形式目的語として使い、真目的語（本来の目的語）を後ろに置く用法もある。" },
+        { "tag": "(例1)", "en": "It was easy to use that computer.", "ja": "「そのコンピューターを使うのは簡単だった」", "text": "→ It が形式主語、 to use that computer が真主語。" },
+        { "tag": "(例2)", "en": "I found it easy to use that computer.", "ja": "「そのコンピューターを使うのは簡単だと思った」", "text": "→ it が形式目的語、 to use that computer が真目的語。" },
+        { "tag": "(例3)", "en": "It was clear that she was lying.", "ja": "「彼女が嘘をついているのは明らかだった」", "text": "→ It が形式主語、 that she was lying が真主語。" },
+        { "tag": "(例4)", "en": "I found it clear that she was lying.", "ja": "「彼女が嘘をついているのは明らかだと思った」", "text": "→ it が形式目的語、 that she was lying が真目的語。" }
+      ]
+    },
+    {
+      "order": 1780,
+      "id": "19-187-q-712",
+      "type": "question",
+      "section_id": "187",
+      "number": "712",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "赤ん坊が泣き止まなくて困った。\n(that / didn't / me / crying / baby / it / stop / bothered / the).",
+      "q_type": "ordering",
+      "ja": "赤ん坊が泣き止まなくて困った。",
+      "answer": "It bothered me that the baby didn't stop crying",
+      "source_univ": "昭和大"
+    },
+    {
+      "order": 1781,
+      "id": "19-187-e-712",
+      "type": "explanation",
+      "target_q": "19-187-q-712",
+      "title": "It ... that 〜 で文の骨格を作る",
+      "label": "◆形式主語の it",
+      "note": "まずは確認 046, 整理して覚える 087 (p. 306)",
+      "content": [],
+      "solution": [
+        { "text": "「赤ん坊が泣き止まなかったことが、私を困らせた」と読みかえて、形式主語の it を使った It bothered me that ... を想定する。 that 節（真主語）には the baby didn't stop crying 「赤ん坊が泣き止まなかった」を入れれば英文が完成する。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1782,
+      "id": "19-187-q-713",
+      "type": "question",
+      "section_id": "187",
+      "number": "713",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "\"Do you think we should write a letter of thanks to her?\"\n\"Yes. I consider ( ) necessary that we should write to her.\"",
+      "options": ["① her", "② us", "③ them", "④ it"],
+      "q_type": "multiple_choice",
+      "ja": "「私たちは彼女に感謝状を書くべきだと思いますか」「はい。私たちが彼女に手紙を書くことは必要だと思います」",
+      "answer": "④",
+      "source_univ": "北海学園大"
+    },
+    {
+      "order": 1783,
+      "id": "19-187-e-713",
+      "type": "explanation",
+      "target_q": "19-187-q-713",
+      "title": "空所のあとの形容詞と that 節に注目",
+      "label": "◆形式目的語の it",
+      "content": [],
+      "solution": [
+        { "text": "〈consider O C〉 (→ 654) は「O は C であると思う」という意味。ここでは形容詞 necessary と直後の that 節に注目。 ④ it を形式目的語で用いれば、 that 節が真目的語になり、 consider it necessary that ... 「…することは必要だと思う」という文構造と文意が成立する。" },
+        { "text": "形式目的語の it は 〈S V it ＋形容詞＋ that 節〉という形以外にも、 〈S V it ＋形容詞＋ (for A) to do〉 (→ 132) という形で頻出。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1784,
+      "id": "19-187-q-714",
+      "type": "question",
+      "section_id": "187",
+      "number": "714",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "ジョンが日本語を話せるのは興味深いことだと思います。\n(I / John / that / think / interesting / Japanese / can / it / speak).",
+      "q_type": "ordering",
+      "ja": "ジョンが日本語を話せるのは興味深いことだと思います。",
+      "answer": "I think it interesting that John can speak Japanese",
+      "source_univ": "昭和大"
+    },
+    {
+      "order": 1785,
+      "id": "19-187-e-714",
+      "type": "explanation",
+      "target_q": "19-187-q-714",
+      "title": "〈S think it ＋形容詞＋ that 節〉の形",
+      "label": "◆形式目的語の it",
+      "content": [],
+      "solution": [
+        { "text": "「ジョンが日本語を話せる」は John can speak Japanese と表す。「(私は)…を興味深いことだと思います」は、 it を形式目的語、名詞節 that John can speak Japanese を真目的語として用いて、 I think it interesting that ... と表す。", "note": "→ まずは確認 046 (p. 304)" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1786,
+      "id": "19-187-s-087",
+      "type": "summary_box",
+      "target_s": "187",
+      "number": "087",
+      "title": "形式主語の it と that 節を用いた覚えておきたい重要表現",
+      "content": [
+        { "tag": "□", "en": "It is likely that 節", "ja": "「…しそうである／…する可能性が高い」" },
+        { "tag": "□", "en": "It is unlikely that 節", "ja": "「…しそうにない／…する可能性が低い」" },
+        { "tag": "□", "en": "It is no accident [coincidence] that 節", "ja": "「…は偶然ではない」" },
+        { "tag": "□", "en": "It is no wonder that 節", "ja": "「…は不思議ではない／…は当然だ」" },
+        { "tag": "□", "en": "It is a pity [a shame] that 節", "ja": "「…は残念だ」" },
+        { "tag": "□", "en": "It occurs to A that 節", "ja": "「…が A（人）の心に浮かぶ」" }
+      ]
+    },
+    {
+      "order": 1787,
+      "type": "section_header",
+      "section_id": "188",
+      "title": "that / those の用法"
+    },
+    {
+      "order": 1788,
+      "id": "19-188-q-715",
+      "type": "question",
+      "section_id": "188",
+      "number": "715",
+      "level": "basic",
+      "is_frequent": true,
+      "en": "The climate of Hawaii is milder than ( ) of Alaska.",
+      "options": ["① it", "② one", "③ that", "④ which"],
+      "q_type": "multiple_choice",
+      "ja": "ハワイの気候はアラスカの気候よりも穏やかだ。",
+      "answer": "③",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 1789,
+      "id": "19-188-e-715",
+      "type": "explanation",
+      "target_q": "19-188-q-715",
+      "title": "空所のあとの of Alaska に注目",
+      "label": "◆that of A",
+      "content": [
+        { "text": "〈the ＋単数名詞＋ of A〉の代わりに that of A を用いる。" }
+      ],
+      "solution": [
+        { "text": "本問は「ハワイの気候」と「アラスカの気候」を比較しているので、 ... milder than the climate of Alaska となり、 the climate of Alaska の代わりに that of Alaska を用いる。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① it は不可。 it は特定の〈the ＋単数名詞〉の代わりに用いられる (→ 705) が、常に単独で用いられ、修飾語句を伴うことはない。 ② one は不可。 one of A は「A の1つ［1人］」という意味で、 A には複数名詞が来る。\n(例) one of the purposes [reasons] 「目的［理由］の1つ」" }
+      ]
+    },
+    {
+      "order": 1790,
+      "id": "19-188-q-716",
+      "type": "question",
+      "section_id": "188",
+      "number": "716",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The cars we drive now are very different from ( ) we used to drive 40 years ago.",
+      "options": ["① it", "② that", "③ those", "④ which"],
+      "q_type": "multiple_choice",
+      "ja": "私たちが現在運転している車は、40年前に運転していたものとは大きく異なっている。",
+      "answer": "③",
+      "source_univ": "青山学院大"
+    },
+    {
+      "order": 1791,
+      "id": "19-188-e-716",
+      "type": "explanation",
+      "target_q": "19-188-q-716",
+      "title": "the cars の代わりに用いる表現は？",
+      "label": "◆those の用法",
+      "content": [
+        { "text": "代名詞 that の複数形 those は〈the ＋複数名詞〉の代わりに用いる。後ろに形容詞句［節］を続けることが多い。\nThe aluminum parts are lighter than those made from steel.\n「アルミ製の部品はスチール製の部品よりも軽い」\n→ those は the parts の代わりで、形容詞句 made from steel が後ろに続いている。" }
+      ],
+      "solution": [
+        { "text": "「40年前に運転していた車」は the cars (which) we used to drive 40 years ago となり、 the cars の代わりに those を用いるのが正しい。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1792,
+      "id": "19-188-q-717",
+      "type": "question",
+      "section_id": "188",
+      "number": "717",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Trademarks make it possible for a company to distinguish its products from (these of / those of) another company.",
+      "q_type": "error_correction",
+      "ja": "商標によって、企業は自社製品と他社製品を区別することが可能になる。",
+      "answer": "those",
+      "source_univ": "甲南大"
+    },
+    {
+      "order": 1793,
+      "id": "19-188-e-717",
+      "type": "explanation",
+      "target_q": "19-188-q-717",
+      "title": "its products と比較するのは the products of another company",
+      "label": "◆those of A",
+      "content": [],
+      "solution": [
+        { "text": "distinguish A from B は「A と B を区別する」という意味 (→ 1024) 。ここでは A に its products 「自社の製品」が用いられているので、 B には「他社の製品」に相当する表現を用いることになる。「他社の製品」は the products of another company となり、 the products の代わりに these ではなく those を用いるのが正しい。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① は 〈S V it ＋形容詞＋ for A to do〉 (→ 132) を用いた表現。" }
+      ]
+    },
+    {
+      "order": 1794,
+      "id": "19-188-q-718",
+      "type": "question",
+      "section_id": "188",
+      "number": "718",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) present at the meeting supported the plan.",
+      "options": ["① They", "② Those", "③ Who", "④ That"],
+      "q_type": "multiple_choice",
+      "ja": "会議の出席者はその計画を支持した。",
+      "answer": "②",
+      "source_univ": "岩手医科大"
+    },
+    {
+      "order": 1795,
+      "id": "19-188-e-718",
+      "type": "explanation",
+      "target_q": "19-188-q-718",
+      "title": "",
+      "label": "◆those present 「出席者」",
+      "content": [
+        { "text": "those が「人々」の意味で使われ、あとに形容詞［句］が続き、慣用表現になることがある。 those concerned [involved] 「関係者」、 those around you 「周りの人々」" }
+      ],
+      "solution": [
+        { "text": "those present 「出席者」も慣用表現として、そのまま覚えておこう。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1796,
+      "id": "19-188-q-719",
+      "type": "question",
+      "section_id": "188",
+      "number": "719",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "先生によると、プリントに挙げられている本は大学で会計学を学ぶ学生の必読書だということだった。\nThe teacher said the books listed on the handout (accounting / essential / for / study / those / were / who) at college.",
+      "q_type": "ordering",
+      "ja": "先生によると、プリントに挙げられている本は大学で会計学を学ぶ学生の必読書だということだった。",
+      "answer": "were essential for those who study accounting",
+      "source_univ": "立命館大"
+    },
+    {
+      "order": 1797,
+      "id": "19-188-e-719",
+      "type": "explanation",
+      "target_q": "19-188-q-719",
+      "title": "",
+      "label": "◆those who ... 「…する人々」",
+      "content": [
+        { "text": "those 「人々」のあとに関係代名詞節を続けた those who ... 「…する人々」という表現がある。 those who ... 以外に those whose ... という表現もある。\nthose whose mother tongue is not Japanese 「母語が日本語ではない人々」" }
+      ],
+      "solution": [
+        { "text": "those who ... 「…する人々」を用いて、「大学で会計学を学ぶ学生」を those who study accounting at college と表現する。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "be essential for[to] A 「A にとって極めて重要である／必要不可欠である」" }
+      ]
+    },
+    {
+      "order": 1798,
+      "type": "section_header",
+      "section_id": "189",
+      "title": "所有代名詞の用法"
+    },
+    {
+      "order": 1799,
+      "id": "19-189-q-720",
+      "type": "question",
+      "section_id": "189",
+      "number": "720",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "Akiko's essay got higher marks than ( ).",
+      "options": ["① me", "② myself", "③ mine", "④ I"],
+      "q_type": "multiple_choice",
+      "ja": "アキコのレポートは私のよりも高得点をとった。",
+      "answer": "③",
+      "source_univ": "和洋女子大"
+    },
+    {
+      "order": 1800,
+      "id": "19-189-e-720",
+      "type": "explanation",
+      "target_q": "19-189-q-720",
+      "title": "比較しているのは Akiko's essay と my essay",
+      "label": "◆所有代名詞",
+      "content": [
+        { "text": "〈所有格＋名詞〉の代わりに、所有代名詞 (mine, yours, his, hers, ours, theirs) を用いる。" }
+      ],
+      "solution": [
+        { "text": "「アキコのレポート」と「私のレポート」を比較しているので、 ... than my essay となり、 my essay の代わりに所有代名詞 mine を用いるのが正しい。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1801,
+      "id": "19-189-q-721",
+      "type": "question",
+      "section_id": "189",
+      "number": "721",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Please take (these his letters / these letters of his) with you and tell me what you think of them tomorrow.",
+      "q_type": "error_correction",
+      "ja": "これらの彼の手紙を持ち帰って、明日感想を聞かせてください。",
+      "answer": "these letters of his",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 1802,
+      "id": "19-189-e-721",
+      "type": "explanation",
+      "target_q": "19-189-q-721",
+      "title": "冠詞と所有格を並べることはできない",
+      "label": "◆〈冠詞類＋名詞＋ of ＋所有代名詞〉",
+      "content": [
+        { "text": "冠詞類 (a, the, this, these, that, those, some, any, no など) と所有格を一緒に並べることはできない。その場合は〈冠詞類＋名詞＋ of ＋所有代名詞〉という形を用いる。\n(○) this old bag of mine 「私のこの古いバッグ」, (×) this my old bag / this my old bag" }
+      ],
+      "solution": [
+        { "text": "「これらの彼の手紙」は、 ② (×) these his letters や ④ (×) his these letters とは表現できない。〈冠詞類＋名詞＋ of ＋所有代名詞〉の形を用いて ① these letters of his とするのが正しい。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1803,
+      "type": "section_header",
+      "section_id": "190",
+      "title": "some と any の用法"
+    },
+    {
+      "order": 1804,
+      "id": "19-190-q-722",
+      "type": "question",
+      "section_id": "190",
+      "number": "722",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) of the jobs Susan performs include ordering office supplies, filing, and cleaning the office.",
+      "options": ["① A little", "② Little", "③ Much", "④ Some"],
+      "q_type": "multiple_choice",
+      "ja": "スーザンの行う業務の一部は、事務用品の発注、書類の整理、社内の清掃を含んでいる。",
+      "answer": "④",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 1805,
+      "id": "19-190-e-722",
+      "type": "explanation",
+      "target_q": "19-190-q-722",
+      "title": "",
+      "label": "◆some of A 「A の一部［何人か／いくつか］」",
+      "content": [
+        { "text": "some of A は「A の一部［何人か／いくつか］」という意味。 A には可算名詞の複数形か、不可算名詞が来る。 some of his colleagues 「彼の同僚の何人か」、 some of this ice 「この氷の一部」 colleague は可算名詞、 ice は不可算名詞。" }
+      ],
+      "solution": [
+        { "text": "④ Some だけが文意を成立させる。 the jobs と名詞が複数形になっていることと、スーザンが行う特定の業務なので the がついていることを確認すること。" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "この表現の A には〈the / this / that / these / those / 所有格などがついた特定の名詞〉や〈us / you / them / it などの代名詞〉が来ることに注意。" },
+        { "tag": "選択肢", "text": "(a) little と much は不可算名詞 (→ Section 200 (p. 327)) について用いるので、 (a) little [much] of A の A には不可算名詞が来る。よって ①, ②, ③ は不可。" }
+      ]
+    },
+    {
+      "order": 1806,
+      "id": "19-190-q-723",
+      "type": "question",
+      "section_id": "190",
+      "number": "723",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I saw several boys in the backyard. Some of ( ) were fighting.",
+      "options": ["① boys", "② they", "③ the boys", "④ their boys"],
+      "q_type": "multiple_choice",
+      "ja": "裏庭で何人かの少年を見かけた。その少年のうちの何人かは、けんかをしていた。",
+      "answer": "③",
+      "source_univ": "富山大"
+    },
+    {
+      "order": 1807,
+      "id": "19-190-e-723",
+      "type": "explanation",
+      "target_q": "19-190-q-723",
+      "title": "some of A の A に来るものは？",
+      "label": "◆some of A",
+      "content": [],
+      "solution": [
+        { "text": "some of A の A には特定の代名詞か代名詞が来る (→ 722) 。 ③ the boys を選ぶと、 Some of the boys 「その（私が見かけた特定の）少年たちの何人か」となり文意が通る。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "some of A の A には特定されない名詞は来ないので ① boys は不可。前置詞 of のあとには目的格の代名詞が来るので ② they は不可。 Some of them なら正しい。 ④ を用いた Some of their boys という形は文法的には正しいが、「彼らの少年たちの何人か」という意味になり、ここでは文意が通らない。" }
+      ]
+    },
+    {
+      "order": 1808,
+      "id": "19-190-q-724",
+      "type": "question",
+      "section_id": "190",
+      "number": "724",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) boy who breaks a window while playing baseball should apologize to his teacher.",
+      "options": ["① All", "② Some", "③ Any", "④ A lot of"],
+      "q_type": "multiple_choice",
+      "ja": "野球をしていて窓を割った男の子はだれでも、先生に謝ったほうがよい。",
+      "answer": "③",
+      "source_univ": "東洋大"
+    },
+    {
+      "order": 1809,
+      "id": "19-190-e-724",
+      "type": "explanation",
+      "target_q": "19-190-q-724",
+      "title": "空所のあとの boy は単数形",
+      "label": "◆肯定文で用いる〈any ＋単数名詞〉",
+      "content": [
+        { "text": "肯定文で用いる〈any ＋単数名詞〉は「どんな…でも」という意味。" }
+      ],
+      "solution": [
+        { "text": "単数形の boy に注目。単数形を続けられるのは ③ Any だけ。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① All, ② Some, ④ A lot of を用いると複数形の boys にしなければならない。" },
+        { "tag": "プラス", "text": "肯定文で用いる any of A は「A のだれでも／A のどれでも」という意味。 A には可算名詞の複数形が来る。 any of his colleagues 「彼の同僚のだれでも」、 any of these books 「これらの本のどれでも」" }
+      ]
+    },
+    {
+      "order": 1810,
+      "type": "section_header",
+      "section_id": "191",
+      "title": "both / either / neither の用法"
+    },
+    {
+      "order": 1811,
+      "id": "19-191-s-088",
+      "type": "summary_box",
+      "target_s": "191",
+      "number": "088",
+      "title": "both / either / neither の用法",
+      "content": [
+        { "tag": "□", "en": "both (of A)", "ja": "「（Aの）両方」", "note": "→ 725" },
+        { "tag": "□", "en": "either (of A)", "ja": "「（Aの）どちらか一方」" },
+        { "tag": "□", "en": "neither (of A)", "ja": "「（Aの）どちらも…ない」", "note": "→ 726" },
+        { "tag": "△注意", "text": "A には2つ［2人］の要素を表す名詞や代名詞が来る。" }
+      ]
+    },
+    {
+      "order": 1812,
+      "id": "19-191-q-725",
+      "type": "question",
+      "section_id": "191",
+      "number": "725",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "My sister and I are afraid of heights, so ( ) of us hate to fly in airplanes.",
+      "options": ["① either", "② all", "③ both", "④ neither"],
+      "q_type": "multiple_choice",
+      "ja": "妹［姉］と私は高所恐怖症なので、2人とも飛行機に乗るのがいやだ。",
+      "answer": "③",
+      "source_univ": "芝浦工業大"
+    },
+    {
+      "order": 1813,
+      "id": "19-191-e-725",
+      "type": "explanation",
+      "target_q": "19-191-q-725",
+      "title": "空所の部分を主語にする動詞の形は hate",
+      "label": "◆both (of A) 「（Aの）両方」",
+      "note": "整理して覚える 088",
+      "content": [
+        { "text": "代名詞の both は複数扱い、代名詞の either と neither は原則、三人称単数扱いになる。" }
+      ],
+      "solution": [
+        { "text": "③ both なら文意も通り、複数扱いの主語 both に対する述語動詞 hate の形も正しい。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① either と ④ neither は三人称単数扱いなので、述語動詞は hates という形が正しい。 ② all (of A) 「（Aの）全部／全員」の A には3つ［3人］以上の要素を表す名詞や代名詞が来る。本問の us は「妹［姉］と私」の2人なので、 ② all は不可。" }
+      ]
+    },
+    {
+      "order": 1814,
+      "id": "19-191-q-726",
+      "type": "question",
+      "section_id": "191",
+      "number": "726",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Yoko and I didn't know the time because ( ) of us had a watch.",
+      "options": ["① both", "② either", "③ neither", "④ not"],
+      "q_type": "multiple_choice",
+      "ja": "2人とも時計を持っていなかったので、ヨウコも私も時間がわからなかった。",
+      "answer": "③",
+      "source_univ": "湘南工科大"
+    },
+    {
+      "order": 1815,
+      "id": "19-191-e-726",
+      "type": "explanation",
+      "target_q": "19-191-q-726",
+      "title": "",
+      "label": "◆neither (of A) 「（Aの）どちらも…ない」",
+      "content": [],
+      "solution": [
+        { "text": "文意が成立するには、「私たち2人（＝ヨウコと私）のどちらも時計を持っていなかった」という否定の意味の英文にする必要がある。よって、 ③ neither が正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1816,
+      "id": "19-191-q-727",
+      "type": "question",
+      "section_id": "191",
+      "number": "727",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Kenji has two brothers, but he is not on speaking terms with them. In other words, he doesn't talk to ( ) of them.",
+      "options": ["① which", "② both", "③ either", "④ neither"],
+      "q_type": "multiple_choice",
+      "ja": "ケンジには2人の兄弟がいるが、彼らとは口をきく間柄ではない。つまり彼は2人のどちらとも話をしない。",
+      "answer": "③",
+      "source_univ": "名古屋工業大"
+    },
+    {
+      "order": 1817,
+      "id": "19-191-e-727",
+      "type": "explanation",
+      "target_q": "19-191-q-727",
+      "title": "",
+      "label": "◆not ... either (of A) 「（Aの）どちらも…ない」",
+      "content": [
+        { "text": "not ... either (of A) は「（Aの）どちらも…ない」という意味で、 neither (of A) と同意。" }
+      ],
+      "solution": [
+        { "text": "文意が成立するには、「2人のどちらとも話をしない」という否定の意味の英文にする必要がある。否定語 doesn't があるので ③ either が正解。 ④ neither (→ 726) は he talks to neither of them とすれば同じ意味になる。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "② both を用いた not ... both は部分否定 (→ 478) の意味になり、文意が成立しない。" }
+      ]
+    },
+    {
+      "order": 1818,
+      "id": "19-191-q-728",
+      "type": "question",
+      "section_id": "191",
+      "number": "728",
+      "level": "advanced",
+      "is_frequent": true,
+      "en": "There are tall buildings on ( ) side of the street.",
+      "options": ["① both", "② opposite", "③ either", "④ all"],
+      "q_type": "multiple_choice",
+      "ja": "通りの両側に高いビルが立っている。",
+      "answer": "③",
+      "source_univ": "愛知県立大"
+    },
+    {
+      "order": 1819,
+      "id": "19-191-e-728",
+      "type": "explanation",
+      "target_q": "19-191-q-728",
+      "title": "",
+      "label": "◆〈either ＋単数名詞〉「どちらか一方の」／「両方の」",
+      "content": [
+        { "text": "either を〈either ＋単数名詞〉という形で用いると、「どちらか一方の」と「両方の」という2つの意味を表す。「両方の」という意味では side, end, hand などの名詞を修飾することが多い。\neither end of the table 「テーブルの両端」 (= both ends of the table)" }
+      ],
+      "solution": [
+        { "text": "either side of the street は「通りの両側」という意味。 ① both は〈both ＋複数名詞〉の形で用いるので、 both sides of the street なら正解。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1820,
+      "type": "section_header",
+      "section_id": "192",
+      "title": "none の用法"
+    },
+    {
+      "order": 1821,
+      "id": "19-192-q-729",
+      "type": "question",
+      "section_id": "192",
+      "number": "729",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Fortunately, ( ) of the three school children were hurt yesterday.",
+      "options": ["① either", "② neither", "③ nobody", "④ none"],
+      "q_type": "multiple_choice",
+      "ja": "幸運にも、昨日その3人の生徒はだれもけがをしなかった。",
+      "answer": "④",
+      "source_univ": "立命館大"
+    },
+    {
+      "order": 1822,
+      "id": "19-192-e-729",
+      "type": "explanation",
+      "target_q": "19-192-q-729",
+      "title": "",
+      "label": "◆none of A 「A の何1つ…ない／A のだれ1人…ない」",
+      "content": [
+        { "text": "none of A は「A の何1つ…ない／A のだれ1人…ない」という意味。 A には3つ［3人］以上の要素を表す名詞や代名詞が来る。" }
+      ],
+      "solution": [
+        { "text": "the three school children 「その3人の生徒」という3人以上の要素に対して使えるのは、 ④ none だけ。" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "neither (of A) (→ 726) は「（A の中で）どちらも…ない」という意味。 A には2つ［2人］の要素を表す名詞や代名詞が来る。" }
+      ]
+    },
+    {
+      "order": 1823,
+      "id": "19-192-q-730",
+      "type": "question",
+      "section_id": "192",
+      "number": "730",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I wanted to drink beer but there was ( ) in the refrigerator.",
+      "options": ["① nor", "② not", "③ no", "④ none"],
+      "q_type": "multiple_choice",
+      "ja": "私はビールを飲みたかったのだが、冷蔵庫には1本もなかった。",
+      "answer": "④",
+      "source_univ": "大阪産業大"
+    },
+    {
+      "order": 1824,
+      "id": "19-192-e-730",
+      "type": "explanation",
+      "target_q": "19-192-q-730",
+      "title": "",
+      "label": "◆none の用法",
+      "content": [
+        { "text": "〈no ＋名詞〉の代わりに none を用いることができる。 none は可算名詞と不可算名詞の両方の代わりに使える。\nShe waited for a reply, but none came. 「彼女は返事を待ったが来なかった」\n← none は no reply（可算名詞）の代わり。" }
+      ],
+      "solution": [
+        { "text": "「ビールはなかった」は there was no beer となり、 no beer（不可算名詞）の代わりに none を用いるのが正しい。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1825,
+      "type": "section_header",
+      "section_id": "193",
+      "title": "each / every の用法"
+    },
+    {
+      "order": 1826,
+      "id": "19-193-q-731",
+      "type": "question",
+      "section_id": "193",
+      "number": "731",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) of the three boys got a prize.",
+      "options": ["① Both", "② Each", "③ A few", "④ Every"],
+      "q_type": "multiple_choice",
+      "ja": "3人の少年それぞれが入賞した。",
+      "answer": "②",
+      "source_univ": "東海大"
+    },
+    {
+      "order": 1827,
+      "id": "19-193-e-731",
+      "type": "explanation",
+      "target_q": "19-193-q-731",
+      "title": "the three boys は複数名詞",
+      "label": "◆each of A 「A のそれぞれ」",
+      "content": [
+        { "text": "each of A は「A（複数名詞）のそれぞれ」という意味。 each of A それ自体は、単数扱いになることに注意。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "① の both は2つ［2人］の要素に用いるので不可 (→ 725) 。 ④ の every は形容詞で〈every ＋単数名詞〉という形で用いる (→ 733) 。 (×) every of A という形はない。" },
+        { "tag": "△注意", "text": "形容詞の each は可算名詞の単数形を修飾し、代名詞の each は可算名詞の複数形とともに使う。 each boy 「それぞれの少年」, each of the boys 「その少年たちのそれぞれ」" }
+      ]
+    },
+    {
+      "order": 1828,
+      "id": "19-193-q-732",
+      "type": "question",
+      "section_id": "193",
+      "number": "732",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The two brothers had no parents, so they helped ( ).",
+      "options": ["① each another", "② one other", "③ each other", "④ each them"],
+      "q_type": "multiple_choice",
+      "ja": "その兄弟2人には両親がいなかったので、彼らは互いに助け合った。",
+      "answer": "③",
+      "source_univ": "北陸大"
+    },
+    {
+      "order": 1829,
+      "id": "19-193-e-732",
+      "type": "explanation",
+      "target_q": "19-193-q-732",
+      "title": "",
+      "label": "◆each other 「お互い」 (= one another)",
+      "content": [
+        { "text": "each other は「お互い」という意味の代名詞。代名詞であって、副詞句ではないことに注意。\nThey are different from each other. 「彼らはお互い異なっている」\n→ each other は前置詞 from の目的語。" }
+      ],
+      "solution": [
+        { "text": "③ each other は他動詞 help (本問では helped) の目的語。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1830,
+      "id": "19-193-q-733",
+      "type": "question",
+      "section_id": "193",
+      "number": "733",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "( ) student in the class passed the examination.",
+      "options": ["① All", "② Every", "③ Some", "④ A lot of"],
+      "q_type": "multiple_choice",
+      "ja": "クラスのどの生徒も試験に受かった。",
+      "answer": "②",
+      "source_univ": "工学院大"
+    },
+    {
+      "order": 1831,
+      "id": "19-193-e-733",
+      "type": "explanation",
+      "target_q": "19-193-q-733",
+      "title": "",
+      "label": "◆〈every ＋単数名詞〉「どの〈名詞〉…」",
+      "content": [
+        { "text": "every には形容詞の用法しかなく、〈every ＋可算名詞（の単数形）〉という使い方をする。 (×) 〈every of the ＋名詞〉という表現はない。〈every ＋単数名詞〉は単数扱いとなることに注意。" }
+      ],
+      "solution": [
+        { "text": "空所のあとが単数名詞 student であることに注目する。後ろに単数名詞を続けることができるのは、 ② Every だけ。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① All, ③ Some, ④ A lot of が可算名詞を修飾する場合は、名詞を複数形にしなければならないので不可。(→ Section 200 (p. 327))" }
+      ]
+    },
+    {
+      "order": 1832,
+      "id": "19-193-q-734",
+      "type": "question",
+      "section_id": "193",
+      "number": "734",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "The parade is held once ( ) two years.",
+      "options": ["① at", "② on", "③ for", "④ every"],
+      "q_type": "multiple_choice",
+      "ja": "パレードは2年に一度行われる。",
+      "answer": "④",
+      "source_univ": "南山大"
+    },
+    {
+      "order": 1833,
+      "id": "19-193-e-734",
+      "type": "explanation",
+      "target_q": "19-193-q-734",
+      "title": "",
+      "label": "◆〈every ＋基数＋複数名詞〉「…ごとに（1度）」",
+      "content": [
+        { "text": "〈every ＋基数＋複数名詞〉は「…ごとに（1度）」という意味になる。この場合は every が例外的に複数名詞を修飾することに注意。\nevery four years 「4年ごとに／4年に1回」、 every ten minutes 「10分間隔で」\n同じ内容を〈every ＋序数＋単数名詞〉で表すこともできる。 every fourth year 「4年ごとに」、 every tenth minute 「10分間隔で」。序数を使い、単数名詞を続けることに注意。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1834,
+      "id": "19-193-q-735",
+      "type": "question",
+      "section_id": "193",
+      "number": "735",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "私は1日おきに息子に皿洗いをさせている。\nI have my son (other / dishes / the / day / do / every).",
+      "q_type": "ordering",
+      "ja": "私は1日おきに息子に皿洗いをさせている。",
+      "answer": "do the dishes every other day",
+      "source_univ": "東京海洋大"
+    },
+    {
+      "order": 1835,
+      "id": "19-193-e-735",
+      "type": "explanation",
+      "target_q": "19-193-q-735",
+      "title": "",
+      "label": "◆〈every other ＋単数名詞〉「1つおきの〈名詞〉…で」",
+      "content": [
+        { "text": "〈every other ＋単数名詞〉は「1つおきの〈名詞〉…で」という意味。\nevery other week 「1週間おきに／隔週で」、 every other line 「1行おきに」" }
+      ],
+      "solution": [
+        { "text": "「1日おきに」を every other day で表す。" },
+        { "text": "「息子に皿洗いをさせている」は have A do (→ 557) を用いて表現する。" }
+      ],
+      "appendix": [
+        { "tag": "重要", "text": "do the dishes 「皿洗いをする」" }
+      ]
+    },
+    {
+      "order": 1836,
+      "type": "section_header",
+      "section_id": "194",
+      "title": "most / almost の区別"
+    },
+    {
+      "order": 1837,
+      "id": "19-194-q-736",
+      "type": "question",
+      "section_id": "194",
+      "number": "736",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "The teacher was disappointed when ( ) her students did badly on the test.",
+      "options": ["① almost", "② most", "③ most of", "④ the most"],
+      "q_type": "multiple_choice",
+      "ja": "自分の生徒のほとんどがテストで悪い点をとったとき、その教師はがっかりした。",
+      "answer": "③",
+      "source_univ": "津田塾大"
+    },
+    {
+      "order": 1838,
+      "id": "19-194-e-736",
+      "type": "explanation",
+      "target_q": "19-194-q-736",
+      "title": "空所のあとは〈所有格＋複数名詞〉",
+      "label": "◆most of A 「A のほとんど／A の大部分」",
+      "note": "整理して覚える 089 (p. 316)",
+      "content": [
+        { "text": "most of A は「A のほとんど／A の大部分」という意味。 A には「the や所有格などで特定された名詞（複数名詞か不可算名詞）」や、代名詞が来る。 most of the [my] books 「その［私の］本の大部分」、 most of them 「それらの大部分」" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "① almost は副詞なので (×) 〈almost ＋名詞〉のように、直接、名詞を修飾することはできない。この形は誤りの選択肢として頻出。\n② most が形容詞のときの〈most ＋名詞〉 (→ 737) という形では、〈名詞〉には the や所有格がつかない。(○) most books 「大部分の本」, (×) most the [my] books。よって ② は不可。" }
+      ]
+    },
+    {
+      "order": 1839,
+      "id": "19-194-r-013",
+      "type": "for_reading_and_writing",
+      "target_s": "194",
+      "number": "013",
+      "title": "〈部分＋of＋全体〉という発想",
+      "content": [
+        { "text": "most of A 「A のほとんど」という表現は、 A が「全体」を表し、 most が「部分（の割合）」を表すと考えればずいぶん理解しやすくなります。" },
+        { "text": "736 の most of her students は、「彼女が受け持っている全生徒（例えば30人）の中で、ほとんど（例えば27人／9割）の生徒」という状況を表しています。" },
+        { "text": "この表現は、 some of her students だと「生徒の一部（例えば10名）」、 one of her students だと「生徒の1人」というように、〈部分＋of＋全体〉の表現の「部分」に用いる「数量を表す代名詞」を入れ替えて使うことができます。" },
+        { "text": "主な「数量を表す代名詞」には、 all / each / any（すべて／それぞれ／どれでも）、 most（ほとんど）、 many / much（多数／多量）、 some（一部）、 a few / a little（少数／少量）、 few / little（ほんのわずか）、 none（だれも・何も…ない）、 both（両方）、 either（一方）、 neither（どちらも…ない）、 one（1人・1つ）などがあります。" },
+        { "tag": "(例)", "text": "many of those programs 「それらのプログラムの多く」" },
+        { "tag": "(例)", "text": "much of this information 「この情報の多く」" },
+        { "tag": "(例)", "text": "one of the reasons 「理由の1つ」" }
+      ]
+    },
+    {
+      "order": 1840,
+      "id": "19-194-d-024",
+      "type": "deep_dive",
+      "target_s": "194",
+      "number": "024",
+      "title": "形容詞と代名詞で使う all / most / some / both / either / neither / each など",
+      "content": [
+        { "text": "all / most / some / both / either / neither / each などは形容詞と代名詞の両方で使える。" },
+        { "text": "形容詞で使う場合は〈形容詞＋名詞〉の形になり、代名詞の場合は〈代名詞＋ of A〉となり、 A には「the や所有格で特定された名詞」が来る。" },
+        { "text": "all children 「すべての子どもたち」, all (of) the children 「その子どもたちの全員」" },
+        { "text": "some students 「何人かの生徒」, some of the students 「その生徒たちの何人か」", "note": "→ 722, 723" },
+        { "text": "either color 「どちらかの色」, either of the colors 「その色のどちらか」" },
+        { "text": "each boy 「それぞれの少年」, each of the boys 「その少年たちのそれぞれ」", "note": "→ 731" },
+        { "text": "most students 「ほとんどの学生」, most of the students 「その学生たちのほとんど」", "note": "→ 736, 737" }
+      ]
+    },
+    {
+      "order": 1841,
+      "id": "19-194-q-737",
+      "type": "question",
+      "section_id": "194",
+      "number": "737",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) students attended the science class every week.",
+      "options": ["① Almost", "② Most", "③ Most of", "④ About"],
+      "q_type": "multiple_choice",
+      "ja": "ほとんどの学生は毎週、科学の授業に出席した。",
+      "answer": "②",
+      "source_univ": "東洋大"
+    },
+    {
+      "order": 1842,
+      "id": "19-194-e-737",
+      "type": "explanation",
+      "target_q": "19-194-q-737",
+      "title": "空所のあとの複数名詞 students に注目",
+      "label": "◆〈most ＋名詞〉「ほとんどの…／大部分の…」",
+      "content": [],
+      "solution": [
+        { "text": "後ろに複数名詞 students を続けることができるのは ② の most だけ。 most には可算名詞と不可算名詞の両方が続くが、可算名詞のときは複数形になることに注意。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① の almost は副詞で、直接、名詞を修飾することはできない。 ③ の most of A は、 A に「the や所有格などで特定された名詞」 (→ 736) や代名詞が来る (→ 736) ので不可。" }
+      ]
+    },
+    {
+      "order": 1843,
+      "id": "19-194-q-738",
+      "type": "question",
+      "section_id": "194",
+      "number": "738",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) students in the classroom looked older than me.",
+      "options": [
+        "① Almost all the",
+        "② Almost every",
+        "③ Most of",
+        "④ Most the"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "その教室にいる生徒のほとんどが私よりも年上に見えた。",
+      "answer": "①",
+      "source_univ": "学習院大"
+    },
+    {
+      "order": 1844,
+      "id": "19-194-e-738",
+      "type": "explanation",
+      "target_q": "19-194-q-738",
+      "title": "",
+      "label": "◆almost all (of) A 「A のほとんど／A の大部分」 (= most of A)",
+      "content": [
+        { "text": "almost all ... 「ほとんどすべての…」 = most ... 「ほとんどの…」であることから、 almost all of A = most of A 「A のほとんど」となる。\nalmost all (of) A の A には「the や所有格などで特定された名詞」や代名詞が来る。〈almost all of the [one's] ＋名詞〉の表現では of が省略されて、〈almost all the [one's] ＋名詞〉という形になることが多い。(例) almost all my books 「私の本の大部分」。" }
+      ],
+      "solution": [
+        { "text": "① の Almost all the students 「生徒のほとんど」は Almost all of the students の of が省略された形。" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "almost all of them のような〈almost all of ＋代名詞〉の場合は of を省略できない。" },
+        { "tag": "選択肢", "text": "② の形容詞 every は単数名詞を修飾する (→ 733) ので、 Almost every student なら正解。 ③, ④ は Most of the students なら正解になる。", "note": "→ 736" }
+      ]
+    },
+    {
+      "order": 1845,
+      "id": "19-194-q-739",
+      "type": "question",
+      "section_id": "194",
+      "number": "739",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "( ) computer languages use letters and numbers.",
+      "options": ["① Almost", "② Almost all", "③ Most every", "④ Nearly"],
+      "q_type": "multiple_choice",
+      "ja": "ほとんどのコンピューター言語が文字と数字を用いる。",
+      "answer": "②",
+      "source_univ": "金城大"
+    },
+    {
+      "order": 1846,
+      "id": "19-194-e-739",
+      "type": "explanation",
+      "target_q": "19-194-q-739",
+      "title": "",
+      "label": "◆〈almost all ＋名詞〉「ほとんどの…／大部分の…」 (= 〈most ＋名詞〉)",
+      "content": [],
+      "solution": [
+        { "text": "② を選ぶと Almost all computer languages 「ほとんどのコンピューター言語」 (= most computer languages) となり、文意も通る。" }
+      ],
+      "appendix": [
+        { "tag": "△注意", "text": "almost all of A の of が省略された、 almost all A と見た目の形が同じになることに注意。ただし、 almost all (of) A の A には特定の名詞が来るのに対し、〈almost all ＋名詞〉の名詞には特定されない名詞が来る。左頁の 整理して覚える 089 も参照すること。" },
+        { "tag": "選択肢", "text": "副詞の ① Almost は、直接、名詞を修飾することはできないので不可。" }
+      ]
+    },
+    {
+      "order": 1847,
+      "id": "19-194-s-089",
+      "type": "summary_box",
+      "target_s": "194",
+      "number": "089",
+      "title": "most と almost の用法",
+      "content": [
+        { "label": "【形式1】 most A = almost all A 「ほとんどの（特定されない）A」", "items": [
+          { "tag": "(○)", "text": "most books" },
+          { "tag": "(○)", "text": "almost all books" },
+          { "tag": "(×)", "text": "most book ※単数は不可" }
+        ]},
+        { "label": "【形式2】 most of A = almost all (of) A 「ほとんどの（特定の）A」", "items": [
+          { "tag": "(○)", "text": "most of the books" },
+          { "tag": "(○)", "text": "almost all (of) the books" },
+          { "tag": "(×)", "text": "most of books ※the が必要" }
+        ]}
+      ]
+    },
+    {
+      "order": 1848,
+      "type": "section_header",
+      "section_id": "195",
+      "title": "another / the other / others / the others の区別"
+    },
+    {
+      "order": 1849,
+      "id": "19-195-q-740",
+      "type": "question",
+      "section_id": "195",
+      "number": "740",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "The two dogs are so alike that no one can tell one from ( ).",
+      "options": ["① another", "② other", "③ others", "④ the other"],
+      "q_type": "multiple_choice",
+      "ja": "その2匹の犬はとても似ているので、だれにも見分けがつかない。",
+      "answer": "④",
+      "source_univ": "東北学院大"
+    },
+    {
+      "order": 1850,
+      "id": "19-195-e-740",
+      "type": "explanation",
+      "target_q": "19-195-q-740",
+      "title": "2匹の犬を one と ( ) で受ける",
+      "label": "◆the other 「他方／もう一方」",
+      "note": "整理して覚える 090",
+      "content": [
+        { "text": "2つの要素があるとき、「一方」を one で指し、「他方／もう一方」を the other で指す。2つの要素の中で、どちらかの特定の1つを選ぶと、残りの1つは特定のもののになるので other に the をつける。この場合、残りの方は、1つなので複数にならない。" }
+      ],
+      "solution": [
+        { "text": "one dog 「一方の犬」は〈形容詞＋名詞〉の形。名詞 dog の繰り返しを避けるために、 one dog を代名詞の one で代用したと理解してもよい。同様に〈形容詞＋名詞〉の the other dog 「もう一方の犬」も代名詞の the other で代用したと理解してもよい。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① another (→ 741) は同じ種類の「別のもの／別の人」という意味で、原則として2つの要素の中の特定の要素に対して用いることはできない。\n② other は形容詞で〈(the) other ＋名詞〉という使い方をする。形容詞 other を単独で使うことはない。(例) the other hand 「もう一方の手」, other countries 「他の国々」" }
+      ]
+    },
+    {
+      "order": 1851,
+      "id": "19-195-s-090",
+      "type": "summary_box",
+      "target_s": "195",
+      "number": "090",
+      "title": "another / the other / others / the others の区別",
+      "content": [
+        { "label": "【2つの要素の場合】", "items": [
+          { "tag": "● 1つ目", "en": "one", "ja": "「一方」" },
+          { "tag": "● 残りの1つ", "en": "the other", "ja": "「他方／もう一方」" }
+        ]},
+        { "label": "【3つ以上の要素の場合】", "items": [
+          { "tag": "● 1つ目", "en": "one", "ja": "「1つ」" },
+          { "tag": "● 2つ目（不特定の別の1つ）", "en": "another", "ja": "「もう1つ／別の1つ」" },
+          { "tag": "● 残りのすべて（複数の場合）", "en": "the others", "ja": "「残りのすべて」" }
+        ]},
+        { "label": "【多数の要素から一部を取り出す場合】", "items": [
+          { "tag": "● 一部（不特定の複数）", "en": "some", "ja": "「いくつかのもの／何人かの人」" },
+          { "tag": "● 別の不特定の複数", "en": "others [some]", "ja": "「ほかのもの／ほかの人」" },
+          { "tag": "● 残りのすべて", "en": "the others", "ja": "「残りのすべてのもの／残りのすべての人」" }
+        ]}
+      ]
+    },
+    {
+      "order": 1852,
+      "id": "19-195-q-741",
+      "type": "question",
+      "section_id": "195",
+      "number": "741",
+      "level": "basic",
+      "is_frequent": false,
+      "en": "I don't like this bag. Would you please show me ( )?",
+      "options": ["① one", "② other", "③ another", "④ something"],
+      "q_type": "multiple_choice",
+      "ja": "このバッグは好みではありません。別のものを見せてもらえますか。",
+      "answer": "③",
+      "source_univ": "神戸山手大"
+    },
+    {
+      "order": 1853,
+      "id": "19-195-e-741",
+      "type": "explanation",
+      "target_q": "19-195-q-741",
+      "title": "this bag ではない別のもの",
+      "label": "◆another 「別のもの／別の人」",
+      "content": [
+        { "text": "another は同じ種類の「別のもの／別の人」という意味。" }
+      ],
+      "solution": [
+        { "text": "「バッグという同じ種類だが、これとは別のバッグ」という意味で another を使う。" },
+        { "text": "〈形容詞＋名詞〉の another bag 「別のバッグ」を代名詞の another で代用したと理解してもよい。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1854,
+      "id": "19-195-q-742",
+      "type": "question",
+      "section_id": "195",
+      "number": "742",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "I have five boxes here. One is full of books and ( ) are all empty.",
+      "options": ["① other", "② the ones", "③ the other", "④ the others"],
+      "q_type": "multiple_choice",
+      "ja": "ここに箱が5つあります。1つは本でいっぱいで、残りはすべて空です。",
+      "answer": "④",
+      "source_univ": "関西学院大"
+    },
+    {
+      "order": 1855,
+      "id": "19-195-e-742",
+      "type": "explanation",
+      "target_q": "19-195-q-742",
+      "title": "1つ以外のものすべて",
+      "label": "◆the others 「残り全部」",
+      "content": [
+        { "text": "あるグループの中からいくつかを取って、その「（複数個の）残り全部」を the others で表す。残りが1つ［1人］の場合は the other を用いる。", "note": "→ 740" }
+      ],
+      "solution": [
+        { "text": "本問の「残り」は4つすべての箱なので、 ④ the others を用いるのが正しい。" },
+        { "text": "〈形容詞＋名詞〉の the other books 「残り全部の本」を代名詞の the others で代用したと理解してもよい。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1856,
+      "id": "19-195-q-743",
+      "type": "question",
+      "section_id": "195",
+      "number": "743",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "There're many kinds of flowers in this garden. Some are red, and ( ) are yellow.",
+      "options": ["① the other", "② other", "③ another", "④ others"],
+      "q_type": "multiple_choice",
+      "ja": "この庭園にはたくさんの種類の花がある。赤いものもあれば、黄色いものもある。",
+      "answer": "④",
+      "source_univ": "神奈川工科大"
+    },
+    {
+      "order": 1857,
+      "id": "19-195-e-743",
+      "type": "explanation",
+      "target_q": "19-195-q-743",
+      "title": "",
+      "label": "◆others 「他のもの／他の人」",
+      "content": [
+        { "text": "others は同じ種類の「他のもの／他の人」という意味。 others は another (→ 741) の複数形だと理解すればよい。" }
+      ],
+      "solution": [
+        { "text": "本問のように some ..., (and) others 〜 「…のものもあれば、〜のものもある／…の人もいれば、〜の人もいる」という形で用いる場合が多い。\nSome like coffee, and others like tea. 「コーヒーを好む人もいれば、紅茶を好む人もいる」" },
+        { "text": "〈形容詞＋名詞〉の other flowers 「他の花々」を代名詞の others で代用したと理解してもよい。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "text": "others は「他人 (= other people)」という意味もある。\nYou should be kind to others. 「他人には親切にすべきだ」" },
+        { "tag": "プラス", "text": "〈形容詞の other ＋名詞〉＝ 代名詞の other の代用は以下のように公式化できる。\n(1) 〈another ＋単数名詞〉 = another 〈不特定・単数〉\n(2) 〈the other ＋単数名詞〉 = the other 〈特定・単数〉\n(3) 〈other ＋複数名詞〉 = others 〈不特定・複数〉\n(4) 〈the other ＋複数名詞〉 = the others 〈特定・複数〉" }
+      ]
+    },
+    {
+      "order": 1858,
+      "id": "19-195-q-744",
+      "type": "question",
+      "section_id": "195",
+      "number": "744",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "To say is one thing, and to do is quite ( ).",
+      "options": ["① other", "② another", "③ the other", "④ others"],
+      "q_type": "multiple_choice",
+      "ja": "言うことと、することはまったく別だ。",
+      "answer": "②",
+      "source_univ": "つくば国際大"
+    },
+    {
+      "order": 1859,
+      "id": "19-195-e-744",
+      "type": "explanation",
+      "target_q": "19-195-q-744",
+      "title": "",
+      "label": "◆A is one thing and B is another. 「A と B とは別のものだ」",
+      "content": [],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1860,
+      "id": "19-195-q-745",
+      "type": "question",
+      "section_id": "195",
+      "number": "745",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "The physician will examine all of you ( ).",
+      "options": [
+        "① one after others",
+        "② the one after the other",
+        "③ one after another",
+        "④ one after the another"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "その内科医が皆さん全員をひとりひとり順に診察します。",
+      "answer": "③",
+      "source_univ": "桜美林大"
+    },
+    {
+      "order": 1861,
+      "id": "19-195-e-745",
+      "type": "explanation",
+      "target_q": "19-195-q-745",
+      "title": "",
+      "label": "◆one after another 「次々に」",
+      "content": [],
+      "solution": [
+        { "text": "one after another 「次々に」は副詞句であることを確認しよう。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "label": "「次々に」という意味で〈one ＋単数名詞＋ after another〉という表現もある。", "text": "One building after another is being built. 「次から次にビルが建設されている」" }
+      ]
+    },
+    {
+      "order": 1862,
+      "id": "19-195-q-746",
+      "type": "question",
+      "section_id": "195",
+      "number": "746",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "We had to wait ( ) two hours for the train to come.",
+      "options": ["① other", "② another", "③ more", "④ any"],
+      "q_type": "multiple_choice",
+      "ja": "電車が来るまで、私たちはさらに2時間待たなければならなかった。",
+      "answer": "②",
+      "source_univ": "東京経済大"
+    },
+    {
+      "order": 1863,
+      "id": "19-195-e-746",
+      "type": "explanation",
+      "target_q": "19-195-q-746",
+      "title": "",
+      "label": "◆〈another ＋数詞＋ A〉「あと…の A ／さらに…の A」",
+      "content": [
+        { "text": "この表現は「距離、時間、お金」などを追加する場合に用いる。〈数詞＋ A〉を1つのセットと見なし、それを、さらに1つ加えるというイメージで理解すればよい。\ndrive another five miles 「あと5マイル車で行く」、 pay another 10 dollars 「さらに10ドル支払う」" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "wait for A to do 「A が…するのを待つ」" }
+      ]
+    },
+    {
+      "order": 1864,
+      "type": "section_header",
+      "section_id": "196",
+      "title": "such の用法"
+    },
+    {
+      "order": 1865,
+      "id": "19-196-q-747",
+      "type": "question",
+      "section_id": "196",
+      "number": "747",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "Sexual harassment is a serious issue and should be treated as ( ).",
+      "options": ["① if", "② much", "③ such", "④ yet"],
+      "q_type": "multiple_choice",
+      "ja": "セクシャル ハラスメントは深刻な問題であり、そういうものとして扱われるべきである。",
+      "answer": "③",
+      "source_univ": "近畿大"
+    },
+    {
+      "order": 1866,
+      "id": "19-196-e-747",
+      "type": "explanation",
+      "target_q": "19-196-q-747",
+      "title": "",
+      "label": "◆as such 「そういうものとして／それなりに」",
+      "content": [
+        { "text": "代名詞 such が前文の名詞を受けて、 as such という形で「そういうものとして／それなりに」という意味を表すことがある。 be treated [recognized / accepted] as such 「そういうものとして扱われる［認められる／受けとめられる］」などの表現で用いられる。" }
+      ],
+      "solution": [
+        { "text": "本問の代名詞 such は a serious issue を受けている。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1867,
+      "id": "19-196-q-748",
+      "type": "question",
+      "section_id": "196",
+      "number": "748",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "空所に共通する1語を書きなさい。\n(a) Wealth, as ( ), does not matter much.\n(b) She told her story in ( ) a way that we all laughed.",
+      "q_type": "completion",
+      "ja": "(a) 富はそれ自体は大して重要ではない。(b) 私たち全員が笑うように彼女は自分の話をした。",
+      "answer": "such",
+      "source_univ": "慶應義塾大"
+    },
+    {
+      "order": 1868,
+      "id": "19-196-e-748",
+      "type": "explanation",
+      "target_q": "19-196-q-748",
+      "title": "",
+      "label": "◆as such 「そのこと自体（は）／それだけで（は）」",
+      "content": [
+        { "text": "as such には「そのこと自体（は）／それだけで（は）」という意味もある。" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "重要", "text": "in such a way that SV ... 「…するように／…するようなやり方で」" }
+      ]
+    },
+    {
+      "order": 1869,
+      "type": "section_header",
+      "section_id": "197",
+      "title": "that 節の代わりに用いる so と not"
+    },
+    {
+      "order": 1870,
+      "id": "19-197-q-749",
+      "type": "question",
+      "section_id": "197",
+      "number": "749",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "\"Do you think the teacher will really fail us?\"\n\"From the low scores on our final test, ( ).\"",
+      "options": [
+        "① I hope so",
+        "② I'm afraid not",
+        "③ I cannot hope so",
+        "④ I'm afraid so"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "「先生が本当に私たちを落第させると思う？」「期末テストの悪い成績からすれば、残念だけどそうなるね」",
+      "answer": "④",
+      "source_univ": "明治大"
+    },
+    {
+      "order": 1871,
+      "id": "19-197-e-749",
+      "type": "explanation",
+      "target_q": "19-197-q-749",
+      "title": "be afraid / hope と so / not の最適な組み合わせは？",
+      "label": "◆that 節の代わりに用いる so",
+      "content": [],
+      "solution": [
+        { "text": "対話が成立するためには、 I'm afraid that the teacher will really fail us. 「残念だが先生は本当に私たちを落第させると思う」という英文にする必要がある。よって、肯定の内容の that 節の代わりに so を用いた ④ I'm afraid so が正解。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "① I hope so だと「先生が私たちを落第させることを願う」という文意となり不自然。" },
+        { "tag": "重要", "text": "fail 「（人）を落第させる」" }
+      ]
+    },
+    {
+      "order": 1872,
+      "id": "19-197-q-750",
+      "type": "question",
+      "section_id": "197",
+      "number": "750",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "\"Is Betty coming to my birthday party tonight?\"\n\"( ). She is busy with her homework.\"",
+      "options": [
+        "① I don't suppose it",
+        "② I suppose it",
+        "③ I suppose not",
+        "④ I suppose so"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "「ベティーは今夜の僕の誕生日パーティーに来るかな？」「来ないだろうな。彼女は宿題で忙しいよ」",
+      "answer": "③",
+      "source_univ": "杏林大"
+    },
+    {
+      "order": 1873,
+      "id": "19-197-e-750",
+      "type": "explanation",
+      "target_q": "19-197-q-750",
+      "title": "",
+      "label": "◆that 節の代わりに用いる not",
+      "content": [],
+      "solution": [
+        { "text": "対話が成立するためには、 I suppose that Betty is not coming to your birthday party tonight. 「ベティーは今夜の君の誕生日パーティーには来ないと思う」という英文にする必要がある。よって、否定の内容の that 節の代わりに not を用いた ③ I suppose not が正解。" }
+      ],
+      "appendix": [
+        { "tag": "選択肢", "text": "that 節の代わりに it を用いることはできないので ①, ② は不可。 ④ I suppose so は「彼女はパーティーに来ると思う」という意味になり、対話が成立しないので不可。" }
+      ]
+    },
+    {
+      "order": 1874,
+      "id": "19-197-d-025",
+      "type": "deep_dive",
+      "target_s": "197",
+      "number": "025",
+      "title": "that 節の代わりに用いる so と not",
+      "content": [
+        { "text": "hope / be afraid / think / believe / suppose / guess などに続く that 節の代わりに、 so あるいは not を用いる場合がある。 that 節が肯定の内容の場合は so を、否定の内容の場合は not を用いる。" },
+        { "label": "(1) hope 「…ということを願う」の場合", "items": [
+          { "tag": "①", "en": "\"Will it be fine tomorrow?\" \"I hope so.\"", "ja": "「明日は晴れるかな」「晴れたらいいなあ」", "text": "→ I hope that it will be fine tomorrow. （肯定の内容の that 節の代わりの so）" },
+          { "tag": "②", "en": "\"Will it rain tomorrow?\" \"I hope not.\"", "ja": "「明日は雨が降るかな」「雨が降らなければいいなあ」", "text": "→ I hope that it will not rain tomorrow. （否定の内容の that 節の代わりの not）" }
+        ]},
+        { "label": "(2) be afraid 「残念だが…だと思う」の場合", "items": [
+          { "tag": "①", "en": "\"Will it rain tomorrow?\" \"I'm afraid so.\"", "ja": "「明日は雨が降るかな」「残念だが雨が降りそうだ」", "text": "→ I'm afraid that it will rain tomorrow. （肯定の内容の that 節の代わりの so）" },
+          { "tag": "②", "en": "\"Will it be fine tomorrow?\" \"I'm afraid not.\"", "ja": "「明日は晴れるかな」「残念だが晴れそうにない」", "text": "→ I'm afraid that it will not be fine tomorrow. （否定の内容の that 節の代わりの not）" }
+        ]}
+      ]
+    },
+    {
+      "order": 1875,
+      "type": "section_header",
+      "section_id": "198",
+      "title": "something / nothing などを用いた慣用表現"
+    },
+    {
+      "order": 1876,
+      "id": "19-198-q-751",
+      "type": "question",
+      "section_id": "198",
+      "number": "751",
+      "level": "standard",
+      "is_frequent": true,
+      "en": "(a) The matter doesn't concern me in the least.\n(b) I have ( ) to do with the matter.",
+      "q_type": "completion",
+      "ja": "(a) その件は私にはまったく関係がない。(b) 私はその件とは何の関係もない。",
+      "answer": "nothing",
+      "source_univ": "福島大"
+    },
+    {
+      "order": 1877,
+      "id": "19-198-e-751",
+      "type": "explanation",
+      "target_q": "19-198-q-751",
+      "title": "",
+      "label": "◆have nothing to do with A 「A と無関係である」",
+      "content": [
+        { "text": "have ... to do with A は「A と…の関係がある」という意味。「…」には、関係の程度の大小に応じて、 much / a lot / something / nothing / a little / little などが来る。\nI have a lot [something / a little / little] to do with the matter. 「私はその件とは大いに関係がある［何らかの関係がある／少し関係がある／ほとんど関係がない］」" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1878,
+      "id": "19-198-q-752",
+      "type": "question",
+      "section_id": "198",
+      "number": "752",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "われわれのチームの勝利は、監督の攻撃的な戦術と大いに関係があった。\nOur team's (to / had / our / victory / with / much / do) coach's aggressive strategies.",
+      "q_type": "ordering",
+      "ja": "われわれのチームの勝利は、監督の攻撃的な戦術と大いに関係があった。",
+      "answer": "victory had much to do with our",
+      "source_univ": "拓殖大"
+    },
+    {
+      "order": 1879,
+      "id": "19-198-e-752",
+      "type": "explanation",
+      "target_q": "19-198-q-752",
+      "title": "",
+      "label": "◆have much to do with A 「A と大いに関係がある」",
+      "content": [],
+      "solution": [
+        { "text": "have much to do with A 「A と大いに関係がある」は much を a lot にしても同意。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1880,
+      "id": "19-198-q-753",
+      "type": "question",
+      "section_id": "198",
+      "number": "753",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "There is something noble ( ) her.",
+      "options": ["① about", "② around", "③ on", "④ along"],
+      "q_type": "multiple_choice",
+      "ja": "彼女にはどこか高貴なところがある。",
+      "answer": "①",
+      "source_univ": "西南学院大"
+    },
+    {
+      "order": 1881,
+      "id": "19-198-e-753",
+      "type": "explanation",
+      "target_q": "19-198-q-753",
+      "title": "",
+      "label": "◆There is something ＋形容詞＋ about A. 「A にはどこか…なところがある」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "プラス", "label": "〈There is nothing ＋形容詞＋ about A.〉", "text": "「A には…なところはない」という意味。" }
+      ]
+    },
+    {
+      "order": 1882,
+      "id": "19-198-q-754",
+      "type": "question",
+      "section_id": "198",
+      "number": "754",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "There seems to be ( ) with this wall clock; it doesn't work at all.",
+      "options": [
+        "① something the matter",
+        "② something matter",
+        "③ anything matter",
+        "④ nothing the matter"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "この掛け時計はどこか調子が悪いようだ。まったく動かない。",
+      "answer": "①",
+      "source_univ": "東京電機大"
+    },
+    {
+      "order": 1883,
+      "id": "19-198-e-754",
+      "type": "explanation",
+      "target_q": "19-198-q-754",
+      "title": "",
+      "label": "◆There is something the matter with A. 「A にはどこか悪いところがある」",
+      "content": [],
+      "solution": [
+        { "text": "the matter の代わりに wrong を使った There is something wrong with A. も同じ意味。本問は述語動詞の is が seems to be に変形された形 (→ しっかり理解 007 (p. 074)) 。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1884,
+      "id": "19-198-s-091",
+      "type": "summary_box",
+      "target_s": "198",
+      "number": "091",
+      "title": "There is something the matter [wrong] with A. の関連表現",
+      "content": [
+        { "tag": "□", "en": "There is something the matter [wrong] with A.", "ja": "「A はどこか悪いところがある」", "note": "→ 754" },
+        { "tag": "□", "en": "There is nothing the matter [wrong] with A.", "ja": "「A にはどこも悪いところはない」", "text": "＊ something の代わりに nothing を用いた表現。" },
+        { "tag": "□", "en": "Something is the matter [wrong] with A.", "ja": "「A はどこか悪いところがある」" },
+        { "tag": "□", "en": "Nothing is the matter [wrong] with A.", "ja": "「A にはどこも悪いところはない」", "text": "＊ There を用いない表現。" },
+        { "tag": "□", "en": "What's the matter [wrong] with A?", "ja": "「（心配して）A はどうしたの／A はどこか悪いの」", "note": "→ 1408", "text": "＊主語の Something / Nothing を疑問詞 What にした表現。" },
+        { "text": "\"What's the matter [wrong] with you? You look pale.\" \"Nothing is the matter [wrong]. I'm fine.\"\n「どうしたの？ 顔色が悪いよ」「どこも悪くありません。元気ですよ」" }
+      ]
+    },
+    {
+      "order": 1885,
+      "id": "19-198-r-014",
+      "type": "for_reading_and_writing",
+      "target_s": "198",
+      "number": "014",
+      "title": "形容詞 → 形容詞節（=関係詞節）への変形",
+      "content": [
+        { "text": "753 There is something ＋形容詞＋ about A. 「A にはどこか…なところがある」は、 A の特徴を形容詞で説明する際に便利な表現です。" },
+        { "text": "問題文は「高貴な」という特徴を形容詞の noble で表しており、 noble を mysterious に変えれば、「謎めいた」、 strange なら「奇妙な」となります。" },
+        { "text": "このように、形容詞を入れ替えることでさまざまな特徴を表せますが、形容詞という単語だけでは、表せる情報に限界がありますね。" },
+        { "text": "それでは、「A の特徴についてもっと詳しく説明したい」という場合はどうすればよいでしょうか。答えは「形容詞の代わりに関係詞節（=関係詞節）を用いる」です。" },
+        { "text": "つまり、 There is something ＋形容詞＋ about A. → There is something ＋ about A ＋関係詞節、と変形するわけです。文末に移動した関係詞節が、先行詞の something と分離することに注目。" },
+        { "tag": "(例)", "en": "There is something about work that is good for you.", "ja": "「仕事には良い点もある」" },
+        { "text": "☞ 関係詞節の that is good for you は、 work ではなく、 something を修飾します。ここは英文解釈で差がつきやすいポイントですし、詳しい特徴を説明できるので英作文でも活躍します。是非使いこなしてください。" }
+      ]
+    },
+    {
+      "order": 1886,
+      "id": "19-198-q-755",
+      "type": "question",
+      "section_id": "198",
+      "number": "755",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "She is ( ) of a musician and composes her own music.",
+      "options": ["① something", "② somebody", "③ anything", "④ everything"],
+      "q_type": "multiple_choice",
+      "ja": "彼女はちょっとした音楽家で、自分で作曲もする。",
+      "answer": "①",
+      "source_univ": "松山大"
+    },
+    {
+      "order": 1887,
+      "id": "19-198-e-755",
+      "type": "explanation",
+      "target_q": "19-198-q-755",
+      "title": "",
+      "label": "◆〈something of a ＋名詞〉「ちょっとした〈名詞〉／かなりの〈名詞〉」",
+      "content": [],
+      "solution": [
+        { "text": "慣用表現として正確に覚えておこう。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1888,
+      "id": "19-198-q-756",
+      "type": "question",
+      "section_id": "198",
+      "number": "756",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "もし心配するという行為が無害ならば、たいした問題にはならないだろう。\nIf worrying were harmless, it would (a problem / be / much / not / of) .",
+      "q_type": "ordering",
+      "ja": "もし心配するという行為が無害ならば、たいした問題にはならないだろう。",
+      "answer": "not be much of a problem",
+      "source_univ": "岩手医科大"
+    },
+    {
+      "order": 1889,
+      "id": "19-198-e-756",
+      "type": "explanation",
+      "target_q": "19-198-q-756",
+      "title": "",
+      "label": "◆〈not much of a ＋名詞〉「たいした〈名詞〉ではない」",
+      "content": [],
+      "solution": [
+        { "text": "not の位置に注意。 not は助動詞 would のあとにつける。本問は仮定法過去 (→ Section 030 (p. 055)) を用いている。" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1890,
+      "type": "section_header",
+      "section_id": "199",
+      "title": "再帰代名詞の用法と慣用表現"
+    },
+    {
+      "order": 1891,
+      "id": "19-199-s-092",
+      "type": "summary_box",
+      "target_s": "199",
+      "number": "092",
+      "title": "再帰代名詞の種類",
+      "content": [
+        { "label": "【単数】", "items": [
+          { "tag": "一人称", "en": "myself" },
+          { "tag": "二人称", "en": "yourself" },
+          { "tag": "三人称", "en": "himself / herself / itself" }
+        ]},
+        { "label": "【複数】", "items": [
+          { "tag": "一人称", "en": "ourselves" },
+          { "tag": "二人称", "en": "yourselves" },
+          { "tag": "三人称", "en": "themselves" }
+        ]}
+      ]
+    },
+    {
+      "order": 1892,
+      "id": "19-199-q-757",
+      "type": "question",
+      "section_id": "199",
+      "number": "757",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "We enjoyed ( ) at the party last week.",
+      "options": ["① our", "② ourselves", "③ really", "④ us"],
+      "q_type": "multiple_choice",
+      "ja": "私たちは先週のパーティーで楽しんだ。",
+      "answer": "②",
+      "source_univ": "宮城学院女子大"
+    },
+    {
+      "order": 1893,
+      "id": "19-199-e-757",
+      "type": "explanation",
+      "target_q": "19-199-q-757",
+      "title": "",
+      "label": "◆enjoy oneself 「楽しむ」",
+      "content": [
+        { "text": "We enjoyed ourselves. のように、主語と同一の人［もの］を表す再帰代名詞を他動詞の目的語に用いる用法がある。" }
+      ],
+      "solution": [
+        { "text": "enjoy には再帰代名詞を目的語にとって、「楽しむ」という意味になる用法がある。本問は主語の we と同一の目的語なので、 ② ourselves が正解。" }
+      ],
+      "appendix": [
+        { "tag": "プラス", "label": "他動詞の目的語に再帰代名詞を用いて、自動詞的な意味になる動詞には次のようなものがある。", "text": "enjoy oneself 「楽しむ」（←自分を楽しませる）、 hide oneself 「隠れる」（←自分を隠す）、 dress oneself 「服を着る」（←自分に服を着せる）、 seat oneself 「座る」（←自分を座らせる）" }
+      ]
+    },
+    {
+      "order": 1894,
+      "id": "19-199-q-758",
+      "type": "question",
+      "section_id": "199",
+      "number": "758",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "Why don't you ( ) some ice cream?",
+      "options": [
+        "① keep up with",
+        "② help yourself to",
+        "③ make much of",
+        "④ get out of"
+      ],
+      "q_type": "multiple_choice",
+      "ja": "アイスクリームを自由に召し上がってください。",
+      "answer": "②",
+      "source_univ": "産業能率大"
+    },
+    {
+      "order": 1895,
+      "id": "19-199-e-758",
+      "type": "explanation",
+      "target_q": "19-199-q-758",
+      "title": "",
+      "label": "◆Help yourself to A. 「A（飲食物）を自由に食べて［飲んで］ください」",
+      "content": [],
+      "solution": [],
+      "appendix": [
+        { "tag": "選択肢", "text": "① keep up with A 「A に遅れずについていく」 (→ 1000) 、 ③ make much of A 「A を重視する」 (→ 1021) 、 ④ get out of A 「A から外に出る」" }
+      ]
+    },
+    {
+      "order": 1896,
+      "id": "19-199-q-759",
+      "type": "question",
+      "section_id": "199",
+      "number": "759",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "お疲れのようですね。どうぞ入っておくつろぎください。\nYou look tired. Do (make / home / come in / at / yourself / and).",
+      "q_type": "ordering",
+      "ja": "お疲れのようですね。どうぞ入っておくつろぎください。",
+      "answer": "come in and make yourself at home",
+      "source_univ": "甲南女子大"
+    },
+    {
+      "order": 1897,
+      "id": "19-199-e-759",
+      "type": "explanation",
+      "target_q": "19-199-q-759",
+      "title": "",
+      "label": "◆Make yourself at home. 「くつろいでください」 (= Feel relaxed.)",
+      "content": [
+        { "text": "at home は「くつろいで」という意味。 Make yourself at home. は「あなた自身をくつろぐようにしなさい」が直訳。", "note": "→ 1217" }
+      ],
+      "solution": [],
+      "appendix": [
+        { "tag": "△注意", "text": "文頭の Do は命令文を強調して、「どうぞ／ぜひ…してください」という意味を表す。" }
+      ]
+    },
+    {
+      "order": 1898,
+      "id": "19-199-q-760",
+      "type": "question",
+      "section_id": "199",
+      "number": "760",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "\"Who did you go to the movie with?\" \"No one. I went ( ).\"",
+      "options": ["① by myself", "② with him", "③ with anyone", "④ by nobody"],
+      "q_type": "multiple_choice",
+      "ja": "「だれと映画を見に行ったの？」「だれとも。ひとりで行ったんだ」",
+      "answer": "①",
+      "source_univ": "駒澤大"
+    },
+    {
+      "order": 1899,
+      "id": "19-199-e-760",
+      "type": "explanation",
+      "target_q": "19-199-q-760",
+      "title": "",
+      "label": "◆(all) by oneself 「ひとりで」",
+      "content": [
+        { "text": "(all) by oneself は「ひとりで (= alone)」と「独力で」という2つの意味がある。「独力で」という意味では for oneself も同じ意味になる。", "note": "→ 1226" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1900,
+      "id": "19-199-q-761",
+      "type": "question",
+      "section_id": "199",
+      "number": "761",
+      "level": "standard",
+      "is_frequent": false,
+      "en": "He was ( ) himself with worry about his sick mother.",
+      "options": ["① by", "② for", "③ beside", "④ beyond"],
+      "q_type": "multiple_choice",
+      "ja": "彼は病気の母のことが心配で、我を忘れていた。",
+      "answer": "③",
+      "source_univ": "西南学院大"
+    },
+    {
+      "order": 1901,
+      "id": "19-199-e-761",
+      "type": "explanation",
+      "target_q": "19-199-q-761",
+      "title": "",
+      "label": "◆be beside oneself (with A) 「（A で）我を忘れる／取り乱す」",
+      "content": [],
+      "solution": [
+        { "text": "beside A は「A をはずれて」という意味。 beside the point 「要点からはずれて」" }
+      ],
+      "appendix": []
+    },
+    {
+      "order": 1902,
+      "id": "19-199-q-762",
+      "type": "question",
+      "section_id": "199",
+      "number": "762",
+      "level": "advanced",
+      "is_frequent": false,
+      "en": "Most of the work that most people have to do is not in ( ) interesting.",
+      "options": ["① itself", "② little", "③ that", "④ them"],
+      "q_type": "multiple_choice",
+      "ja": "ほとんどの人々がしなければならない仕事の大半は、それ自体は、おもしろいものではない。",
+      "answer": "①",
+      "source_univ": "広島修道大"
+    },
+    {
+      "order": 1903,
+      "id": "19-199-e-762",
+      "type": "explanation",
+      "target_q": "19-199-q-762",
+      "title": "",
+      "label": "◆in itself 「それ自体／本質的に」",
+      "content": [
+        { "text": "この表現は「もの・事」に対して in itself / in themselves という形で用いるのが原則。" }
+      ],
+      "solution": [],
+      "appendix": []
+    },
+    {
+      "order": 1904,
+      "id": "19-199-s-093",
+      "type": "summary_box",
+      "target_s": "199",
+      "number": "093",
+      "title": "〈前置詞（句）＋ oneself〉の表現",
+      "content": [
+        { "tag": "□", "en": "(all) by oneself", "ja": "「ひとりで／独力で」", "note": "→ 760" },
+        { "tag": "□", "en": "for oneself", "ja": "「独力で」" },
+        { "tag": "□", "en": "(all) to oneself", "ja": "「自分だけに」" },
+        { "tag": "□", "en": "between ourselves", "ja": "「ここだけの話だが」" },
+        { "tag": "□", "en": "be beside oneself (with A)", "ja": "「（A で）我を忘れる／取り乱す」", "note": "→ 761" },
+        { "tag": "□", "en": "in itself / in themselves", "ja": "「それ自体／本質的に」", "note": "→ 762" },
+        { "tag": "□", "en": "in spite of oneself", "ja": "「思わず」" }
+      ]
+    }
+  ]
+}
